@@ -1456,5 +1456,43 @@
       "path": "http://www.football-data.co.uk/",
       "title": "www.football-data.co.uk/"
     }
+  ],
+  "related": [
+    {
+      "title": "English Premier League",
+      "path": "/sports-data/english-premier-league",
+      "publisher": "sports-data",
+      "formats": [
+        "CSV",
+        "JSON"
+      ]
+    },
+    {
+      "title": "Spanish La Liga",
+      "path": "/sports-data/spanish-la-liga",
+      "publisher": "sports-data",
+      "formats": [
+        "CSV",
+        "JSON"
+      ]
+    },
+    {
+      "title": "German Bundesliga",
+      "path": "/sports-data/german-bundesliga",
+      "publisher": "sports-data",
+      "formats": [
+        "CSV",
+        "JSON"
+      ]
+    },
+    {
+      "title": "French Ligue 1",
+      "path": "/sports-data/french-ligue-1",
+      "publisher": "sports-data",
+      "formats": [
+        "CSV",
+        "JSON"
+      ]
+    }
   ]
 }
