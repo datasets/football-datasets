@@ -1,0 +1,139 @@
+{
+  "fields": [
+    {
+      "name": "Date",
+      "type": "date",
+      "format": "%d/%m/%y",
+      "description": "Match Date (dd/mm/yy)"
+    },
+    {
+      "name": "HomeTeam",
+      "type": "string",
+      "format": "default",
+      "description": "Home Team"
+    },
+    {
+      "name": "AwayTeam",
+      "type": "string",
+      "format": "default",
+      "description": "Away Team"
+    },
+    {
+      "name": "FTHG",
+      "type": "integer",
+      "format": "default",
+      "description": "Full Time Home Team Goals"
+    },
+    {
+      "name": "FTAG",
+      "type": "integer",
+      "format": "default",
+      "description": "Full Time Away Team Goals"
+    },
+    {
+      "name": "FTR",
+      "type": "string",
+      "format": "default",
+      "description": "Full Time Result (H=Home Win, D=Draw, A=Away Win)"
+    },
+    {
+      "name": "HTHG",
+      "type": "integer",
+      "format": "default",
+      "description": "Half Time Home Team Goals"
+    },
+    {
+      "name": "HTAG",
+      "type": "integer",
+      "format": "default",
+      "description": "Half Time Away Team Goals"
+    },
+    {
+      "name": "HTR",
+      "type": "string",
+      "format": "default",
+      "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+    },
+    {
+      "name": "Referee",
+      "type": "string",
+      "format": "default",
+      "description": "Match Referee"
+    },
+    {
+      "name": "HS",
+      "type": "integer",
+      "format": "default",
+      "description": "Home Team Shots"
+    },
+    {
+      "name": "AS",
+      "type": "integer",
+      "format": "default",
+      "description": "Away Team Shots"
+    },
+    {
+      "name": "HST",
+      "type": "integer",
+      "format": "default",
+      "description": "Home Team Shots on Target"
+    },
+    {
+      "name": "AST",
+      "type": "integer",
+      "format": "default",
+      "description": "Away Team Shots on Target"
+    },
+    {
+      "name": "HF",
+      "type": "integer",
+      "format": "default",
+      "description": "Home Team Fouls Committed"
+    },
+    {
+      "name": "AF",
+      "type": "integer",
+      "format": "default",
+      "description": "Away Team Fouls Committed"
+    },
+    {
+      "name": "HC",
+      "type": "integer",
+      "format": "default",
+      "description": "Home Team Corners"
+    },
+    {
+      "name": "AC",
+      "type": "integer",
+      "format": "default",
+      "description": "Away Team Corners"
+    },
+    {
+      "name": "HY",
+      "type": "integer",
+      "format": "default",
+      "description": "Home Team Yellow Cards"
+    },
+    {
+      "name": "AY",
+      "type": "integer",
+      "format": "default",
+      "description": "Away Team Yellow Cards"
+    },
+    {
+      "name": "HR",
+      "type": "integer",
+      "format": "default",
+      "description": "Home Team Red Cards"
+    },
+    {
+      "name": "AR",
+      "type": "integer",
+      "format": "default",
+      "description": "Away Team Red Cards"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}

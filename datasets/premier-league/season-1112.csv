@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+13/08/11,Blackburn,Wolves,1,2,A,1,1,D,K Friend,16,13,8,4,14,10,12,6,4,2,0,0
+13/08/11,Fulham,Aston Villa,0,0,D,0,0,D,L Mason,13,7,9,1,10,18,2,3,2,4,0,0
+13/08/11,Liverpool,Sunderland,1,1,D,1,0,H,P Dowd,11,15,4,6,17,12,6,3,4,4,0,0
+13/08/11,Newcastle,Arsenal,0,0,D,0,0,D,P Walton,6,9,1,4,9,11,2,5,3,5,0,1
+13/08/11,QPR,Bolton,0,4,A,0,1,A,M Atkinson,13,13,7,7,9,16,3,2,1,2,1,0
+13/08/11,Wigan,Norwich,1,1,D,1,1,D,S Attwell,18,13,11,3,11,8,7,3,2,2,0,0
+14/08/11,Stoke,Chelsea,0,0,D,0,0,D,M Halsey,6,20,3,11,12,12,4,6,2,2,0,0
+14/08/11,West Brom,Man United,1,2,A,1,1,D,M Jones,14,11,8,5,16,9,6,5,3,2,0,0
+15/08/11,Man City,Swansea,4,0,H,0,0,D,M Dean,26,8,19,5,9,2,7,4,0,0,0,0
+20/08/11,Arsenal,Liverpool,0,2,A,0,0,D,M Atkinson,10,13,6,8,11,6,9,5,2,2,1,0
+20/08/11,Aston Villa,Blackburn,3,1,H,2,0,H,S Attwell,9,10,6,6,9,13,5,4,3,0,0,0
+20/08/11,Chelsea,West Brom,2,1,H,0,1,A,L Mason,22,6,12,4,12,8,7,4,2,4,0,0
+20/08/11,Everton,QPR,0,1,A,0,1,A,K Friend,14,4,7,3,12,9,2,1,1,1,0,0
+20/08/11,Sunderland,Newcastle,0,1,A,0,0,D,H Webb,15,12,5,10,17,7,7,6,3,3,1,0
+20/08/11,Swansea,Wigan,0,0,D,0,0,D,P Dowd,12,10,6,4,8,18,7,7,0,3,0,0
+21/08/11,Bolton,Man City,2,3,A,1,2,A,M Jones,6,17,4,9,19,14,7,8,2,0,0,0
+21/08/11,Norwich,Stoke,1,1,D,1,0,H,N Swarbrick,9,15,7,5,13,12,3,6,0,2,1,0
+21/08/11,Wolves,Fulham,2,0,H,2,0,H,M Dean,17,8,7,4,7,10,7,8,2,2,0,0
+22/08/11,Man United,Tottenham,3,0,H,0,0,D,L Probert,27,20,21,12,12,9,11,3,1,2,0,0
+27/08/11,Aston Villa,Wolves,0,0,D,0,0,D,M Atkinson,15,3,5,2,10,9,11,8,1,3,0,0
+27/08/11,Blackburn,Everton,0,1,A,0,0,D,L Mason,14,9,6,4,17,13,5,4,5,2,0,0
+27/08/11,Chelsea,Norwich,3,1,H,1,0,H,M Jones,16,9,8,6,17,14,8,6,2,2,0,1
+27/08/11,Liverpool,Bolton,3,1,H,1,0,H,L Probert,17,7,9,4,5,7,12,6,0,2,0,0
+27/08/11,Swansea,Sunderland,0,0,D,0,0,D,M Halsey,15,12,6,8,7,10,7,4,1,1,0,0
+27/08/11,Wigan,QPR,2,0,H,1,0,H,M Oliver,13,19,10,9,13,8,8,7,2,0,0,0
+28/08/11,Man United,Arsenal,8,2,H,3,1,H,H Webb,25,19,15,13,9,7,3,5,2,3,0,1
+28/08/11,Newcastle,Fulham,2,1,H,0,0,D,K Friend,13,16,9,9,19,8,6,6,2,1,0,0
+28/08/11,Tottenham,Man City,1,5,A,0,2,A,P Dowd,15,22,10,12,11,9,10,5,2,4,0,0
+28/08/11,West Brom,Stoke,0,1,A,0,0,D,M Dean,16,7,7,1,9,12,5,1,0,0,0,0
+10/09/11,Arsenal,Swansea,1,0,H,1,0,H,S Attwell,18,10,8,5,10,7,4,5,3,2,0,0
+10/09/11,Bolton,Man United,0,5,A,0,3,A,A Marriner,20,13,13,9,14,1,5,7,2,0,0,0
+10/09/11,Everton,Aston Villa,2,2,D,1,0,H,M Oliver,17,7,10,3,13,11,8,0,1,1,0,0
+10/09/11,Man City,Wigan,3,0,H,1,0,H,M Atkinson,23,9,10,5,6,9,8,3,0,0,0,0
+10/09/11,Stoke,Liverpool,1,0,H,1,0,H,M Clattenburg,3,20,1,11,12,13,2,12,0,1,0,0
+10/09/11,Sunderland,Chelsea,1,2,A,0,1,A,L Probert,14,16,7,8,7,3,4,7,1,1,0,0
+10/09/11,Wolves,Tottenham,0,2,A,0,0,D,P Walton,10,17,6,11,5,12,4,10,3,2,0,0
+11/09/11,Fulham,Blackburn,1,1,D,1,1,D,H Webb,13,10,8,5,7,12,11,2,3,1,0,0
+11/09/11,Norwich,West Brom,0,1,A,0,1,A,M Halsey,17,14,5,9,10,11,1,3,1,2,0,0
+12/09/11,QPR,Newcastle,0,0,D,0,0,D,P Dowd,14,8,5,3,10,15,6,4,1,3,0,0
+17/09/11,Aston Villa,Newcastle,1,1,D,1,0,H,N Swarbrick,10,21,2,13,13,10,4,9,1,1,0,0
+17/09/11,Blackburn,Arsenal,4,3,H,1,2,A,A Marriner,10,24,5,16,14,9,2,13,2,1,0,0
+17/09/11,Bolton,Norwich,1,2,A,0,2,A,H Webb,7,11,7,5,8,8,6,9,3,1,1,0
+17/09/11,Everton,Wigan,3,1,H,1,1,D,P Walton,17,9,10,4,14,8,4,9,2,1,0,0
+17/09/11,Swansea,West Brom,3,0,H,2,0,H,M Atkinson,7,13,5,8,4,9,2,8,1,2,0,0
+17/09/11,Wolves,QPR,0,3,A,0,2,A,A Taylor,13,17,6,12,15,13,4,8,2,3,0,0
+18/09/11,Fulham,Man City,2,2,D,0,1,A,M Clattenburg,14,18,11,11,10,9,6,9,1,1,0,0
+18/09/11,Man United,Chelsea,3,1,H,3,0,H,P Dowd,12,20,7,9,11,12,4,10,2,3,0,0
+18/09/11,Sunderland,Stoke,4,0,H,3,0,H,K Friend,8,9,7,5,15,12,6,5,1,2,0,0
+18/09/11,Tottenham,Liverpool,4,0,H,1,0,H,M Jones,24,5,16,2,10,9,4,1,1,4,0,2
+24/09/11,Arsenal,Bolton,3,0,H,0,0,D,M Clattenburg,23,3,14,3,7,9,9,2,0,1,0,1
+24/09/11,Chelsea,Swansea,4,1,H,2,0,H,M Dean,15,5,7,4,15,11,1,6,3,3,1,0
+24/09/11,Liverpool,Wolves,2,1,H,2,0,H,K Friend,14,11,6,6,15,6,7,2,3,4,0,0
+24/09/11,Man City,Everton,2,0,H,0,0,D,H Webb,18,7,8,3,9,13,7,5,1,5,0,0
+24/09/11,Newcastle,Blackburn,3,1,H,2,1,H,M Atkinson,19,4,8,1,6,16,4,2,0,4,0,1
+24/09/11,Stoke,Man United,1,1,D,0,1,A,P Walton,14,13,8,9,10,3,8,8,1,0,0,0
+24/09/11,West Brom,Fulham,0,0,D,0,0,D,S Attwell,8,18,5,9,6,14,1,1,0,3,0,0
+24/09/11,Wigan,Tottenham,1,2,A,0,2,A,J Moss,5,14,4,7,13,6,1,9,3,1,1,0
+25/09/11,QPR,Aston Villa,1,1,D,0,0,D,M Oliver,17,8,9,4,14,19,11,8,1,6,1,0
+26/09/11,Norwich,Sunderland,2,1,H,1,0,H,C Foy,11,12,8,6,3,7,7,4,2,1,0,0
+01/10/11,Aston Villa,Wigan,2,0,H,1,0,H,M Clattenburg,16,14,10,9,12,6,5,10,0,1,0,0
+01/10/11,Blackburn,Man City,0,4,A,0,0,D,P Dowd,5,19,4,12,9,14,4,5,1,1,0,0
+01/10/11,Everton,Liverpool,0,2,A,0,0,D,M Atkinson,12,15,4,9,15,9,5,9,1,1,1,0
+01/10/11,Man United,Norwich,2,0,H,0,0,D,S Attwell,17,13,9,6,9,6,10,3,1,0,0,0
+01/10/11,Sunderland,West Brom,2,2,D,2,2,D,L Mason,12,7,7,3,9,13,7,4,2,0,0,0
+01/10/11,Wolves,Newcastle,1,2,A,0,2,A,M Halsey,25,10,12,6,7,10,10,5,1,2,0,0
+02/10/11,Bolton,Chelsea,1,5,A,0,4,A,P Walton,14,21,10,14,10,11,4,5,1,2,0,0
+02/10/11,Fulham,QPR,6,0,H,3,0,H,A Marriner,19,17,13,10,10,7,4,4,2,3,0,0
+02/10/11,Swansea,Stoke,2,0,H,1,0,H,M Jones,9,11,5,6,14,18,6,5,3,5,0,0
+02/10/11,Tottenham,Arsenal,2,1,H,1,0,H,M Dean,16,13,8,7,11,8,9,7,2,1,0,0
+15/10/11,Chelsea,Everton,3,1,H,2,0,H,M Jones,7,9,5,5,13,11,2,2,2,2,0,0
+15/10/11,Liverpool,Man United,1,1,D,0,0,D,A Marriner,14,10,8,3,8,11,8,3,1,3,0,0
+15/10/11,Man City,Aston Villa,4,1,H,1,0,H,A Taylor,15,8,10,6,10,6,5,1,1,1,0,0
+15/10/11,Norwich,Swansea,3,1,H,2,1,H,J Moss,15,12,8,4,6,5,4,4,0,1,0,0
+15/10/11,QPR,Blackburn,1,1,D,1,1,D,M Clattenburg,12,10,6,9,10,13,5,7,3,2,0,0
+15/10/11,Stoke,Fulham,2,0,H,0,0,D,M Atkinson,14,4,6,1,14,15,5,2,4,4,0,0
+15/10/11,Wigan,Bolton,1,3,A,1,2,A,M Dean,13,14,9,11,16,14,5,4,4,4,0,0
+16/10/11,Arsenal,Sunderland,2,1,H,1,1,D,H Webb,20,8,11,4,9,19,9,2,3,3,0,0
+16/10/11,Newcastle,Tottenham,2,2,D,0,1,A,L Probert,12,11,7,8,11,15,5,2,1,2,0,0
+16/10/11,West Brom,Wolves,2,0,H,1,0,H,C Foy,17,13,11,10,14,12,2,11,0,1,0,0
+22/10/11,Aston Villa,West Brom,1,2,A,1,1,D,P Dowd,3,8,0,5,11,8,3,8,2,3,1,0
+22/10/11,Bolton,Sunderland,0,2,A,0,0,D,M Jones,15,18,8,10,15,14,2,11,0,3,0,0
+22/10/11,Liverpool,Norwich,1,1,D,1,0,H,P Walton,25,12,15,10,6,8,10,3,0,1,0,0
+22/10/11,Newcastle,Wigan,1,0,H,0,0,D,N Swarbrick,13,12,10,5,7,22,7,3,3,2,0,0
+22/10/11,Wolves,Swansea,2,2,D,0,2,A,M Oliver,20,16,13,14,14,11,8,13,2,0,0,0
+23/10/11,Arsenal,Stoke,3,1,H,1,1,D,L Mason,9,5,5,2,9,13,10,1,0,2,0,0
+23/10/11,Blackburn,Tottenham,1,2,A,1,1,D,S Attwell,19,9,8,7,19,7,8,5,4,1,0,0
+23/10/11,Fulham,Everton,1,3,A,0,1,A,L Probert,15,11,8,7,12,8,5,1,3,1,0,0
+23/10/11,Man United,Man City,1,6,A,0,1,A,M Clattenburg,12,19,8,12,15,11,7,4,4,4,1,0
+23/10/11,QPR,Chelsea,1,0,H,1,0,H,C Foy,8,14,3,7,17,17,0,6,2,7,0,2
+29/10/11,Chelsea,Arsenal,3,5,A,2,1,H,A Marriner,12,13,10,8,7,18,3,2,2,3,0,0
+29/10/11,Everton,Man United,0,1,A,0,1,A,M Halsey,18,7,11,6,12,8,4,1,3,0,0,0
+29/10/11,Man City,Wolves,3,1,H,0,0,D,S Attwell,18,9,9,2,17,5,5,4,2,1,1,0
+29/10/11,Norwich,Blackburn,3,3,D,0,1,A,A Taylor,13,12,6,7,9,10,6,2,2,1,0,0
+29/10/11,Sunderland,Aston Villa,2,2,D,1,1,D,C Foy,13,10,8,5,7,13,5,6,1,3,0,0
+29/10/11,Swansea,Bolton,3,1,H,0,0,D,M Clattenburg,20,8,12,3,9,14,10,2,3,4,0,1
+29/10/11,West Brom,Liverpool,0,2,A,0,2,A,L Mason,10,17,6,7,12,9,3,10,1,0,0,0
+29/10/11,Wigan,Fulham,0,2,A,0,1,A,M Jones,18,7,9,5,17,14,9,0,2,5,0,0
+30/10/11,Tottenham,QPR,3,1,H,2,0,H,H Webb,22,12,13,8,12,14,4,8,0,0,0,0
+31/10/11,Stoke,Newcastle,1,3,A,0,2,A,M Dean,10,6,4,2,8,14,8,2,0,1,0,0
+05/11/11,Arsenal,West Brom,3,0,H,2,0,H,M Oliver,12,9,7,4,12,12,4,1,0,0,0,0
+05/11/11,Aston Villa,Norwich,3,2,H,1,1,D,K Friend,12,9,6,7,11,9,6,6,1,5,0,0
+05/11/11,Blackburn,Chelsea,0,1,A,0,0,D,M Dean,13,12,8,8,12,10,5,8,4,2,0,0
+05/11/11,Liverpool,Swansea,0,0,D,0,0,D,P Dowd,18,9,10,3,13,5,11,4,2,1,0,0
+05/11/11,Man United,Sunderland,1,0,H,1,0,H,L Mason,15,9,9,3,6,14,6,2,0,2,0,0
+05/11/11,Newcastle,Everton,2,1,H,2,1,H,A Marriner,10,14,6,6,12,15,5,3,2,3,0,0
+05/11/11,QPR,Man City,2,3,A,1,1,D,M Atkinson,18,16,9,8,5,14,3,1,1,1,0,0
+06/11/11,Bolton,Stoke,5,0,H,2,0,H,H Webb,20,9,16,6,10,9,12,4,0,1,0,0
+06/11/11,Fulham,Tottenham,1,3,A,0,2,A,P Walton,26,8,20,8,5,9,11,1,0,1,0,0
+06/11/11,Wolves,Wigan,3,1,H,1,1,D,L Probert,13,13,12,7,11,13,5,6,2,1,0,0
+19/11/11,Everton,Wolves,2,1,H,1,1,D,J Moss,13,4,9,1,14,13,9,1,1,2,0,0
+19/11/11,Man City,Newcastle,3,1,H,2,0,H,C Foy,12,10,9,7,10,7,4,5,0,0,0,0
+19/11/11,Norwich,Arsenal,1,2,A,1,1,D,P Dowd,7,20,4,14,11,9,1,6,3,0,0,0
+19/11/11,Stoke,QPR,2,3,A,1,2,A,M Jones,17,9,7,8,17,10,9,5,4,2,0,0
+19/11/11,Sunderland,Fulham,0,0,D,0,0,D,A Taylor,13,13,8,9,8,12,6,7,1,1,0,0
+19/11/11,Swansea,Man United,0,1,A,0,1,A,M Dean,9,13,6,7,6,9,6,2,0,1,0,0
+19/11/11,West Brom,Bolton,2,1,H,1,1,D,N Swarbrick,16,8,9,6,12,12,7,5,1,0,0,0
+19/11/11,Wigan,Blackburn,3,3,D,2,1,H,A Marriner,21,6,11,2,14,13,7,3,2,3,0,1
+20/11/11,Chelsea,Liverpool,1,2,A,0,1,A,L Probert,18,9,5,3,13,11,6,5,3,2,0,0
+21/11/11,Tottenham,Aston Villa,2,0,H,2,0,H,M Halsey,20,5,9,1,4,5,11,3,0,2,0,0
+26/11/11,Arsenal,Fulham,1,1,D,0,0,D,M Dean,20,10,12,6,9,7,13,4,1,3,0,0
+26/11/11,Bolton,Everton,0,2,A,0,0,D,M Oliver,8,17,7,14,9,10,2,4,1,1,1,0
+26/11/11,Chelsea,Wolves,3,0,H,3,0,H,L Mason,17,7,11,2,10,10,9,2,1,2,0,0
+26/11/11,Man United,Newcastle,1,1,D,0,0,D,M Jones,23,8,13,6,12,15,11,3,1,4,0,1
+26/11/11,Norwich,QPR,2,1,H,1,0,H,M Clattenburg,15,13,8,4,15,7,6,4,1,0,0,0
+26/11/11,Stoke,Blackburn,3,1,H,1,0,H,M Halsey,8,16,5,12,10,5,2,6,0,0,0,0
+26/11/11,Sunderland,Wigan,1,2,A,1,1,D,K Friend,17,7,11,4,12,13,3,2,3,1,0,0
+26/11/11,West Brom,Tottenham,1,3,A,1,1,D,L Probert,9,23,5,14,11,13,1,10,2,1,0,0
+27/11/11,Liverpool,Man City,1,1,D,1,1,D,M Atkinson,17,7,9,3,11,13,8,5,1,4,0,1
+27/11/11,Swansea,Aston Villa,0,0,D,0,0,D,N Swarbrick,6,9,2,4,9,17,4,6,3,4,0,0
+03/12/11,Aston Villa,Man United,0,1,A,0,1,A,L Probert,7,11,3,5,4,11,5,5,0,0,0,0
+03/12/11,Blackburn,Swansea,4,2,H,2,1,H,C Foy,14,10,9,5,12,13,3,4,1,1,0,1
+03/12/11,Man City,Norwich,5,1,H,1,0,H,H Webb,21,5,16,2,8,7,12,4,0,1,0,0
+03/12/11,Newcastle,Chelsea,0,3,A,0,1,A,M Dean,16,21,9,13,7,6,6,5,2,3,0,0
+03/12/11,QPR,West Brom,1,1,D,1,0,H,M Atkinson,14,15,4,10,7,9,3,5,0,3,0,0
+03/12/11,Tottenham,Bolton,3,0,H,1,0,H,S Attwell,25,13,16,9,10,5,7,6,0,2,0,1
+03/12/11,Wigan,Arsenal,0,4,A,0,2,A,M Clattenburg,7,16,4,10,8,12,4,5,3,2,0,0
+04/12/11,Everton,Stoke,0,1,A,0,1,A,L Mason,11,7,4,4,14,13,10,6,0,1,0,0
+04/12/11,Wolves,Sunderland,2,1,H,0,0,D,P Dowd,15,18,10,12,10,12,8,3,2,3,0,0
+05/12/11,Fulham,Liverpool,1,0,H,0,0,D,K Friend,19,17,13,9,12,9,2,10,3,1,0,1
+10/12/11,Arsenal,Everton,1,0,H,0,0,D,H Webb,12,7,7,1,7,14,7,4,2,2,0,0
+10/12/11,Bolton,Aston Villa,1,2,A,0,2,A,P Dowd,17,17,12,11,10,7,6,10,1,2,0,0
+10/12/11,Liverpool,QPR,1,0,H,0,0,D,L Mason,21,6,15,2,12,5,17,5,2,0,0,0
+10/12/11,Man United,Wolves,4,1,H,2,0,H,M Oliver,22,11,18,8,7,8,8,2,1,0,0,0
+10/12/11,Norwich,Newcastle,4,2,H,1,1,D,M Atkinson,13,11,11,8,9,8,7,2,3,2,0,1
+10/12/11,Swansea,Fulham,2,0,H,0,0,D,J Moss,16,12,8,7,8,7,6,5,1,1,0,0
+10/12/11,West Brom,Wigan,1,2,A,1,1,D,M Dean,13,7,8,4,9,7,13,2,1,1,0,0
+11/12/11,Stoke,Tottenham,2,1,H,2,0,H,C Foy,10,15,7,12,8,7,7,12,2,2,0,1
+11/12/11,Sunderland,Blackburn,2,1,H,0,1,A,P Walton,22,3,12,2,11,7,9,0,2,2,0,0
+12/12/11,Chelsea,Man City,2,1,H,1,1,D,M Clattenburg,13,7,7,4,11,18,5,1,4,2,0,1
+17/12/11,Blackburn,West Brom,1,2,A,0,0,D,M Clattenburg,17,13,14,6,7,10,3,7,1,1,0,0
+17/12/11,Everton,Norwich,1,1,D,0,1,A,L Probert,28,7,15,1,9,12,13,0,1,1,0,0
+17/12/11,Fulham,Bolton,2,0,H,2,0,H,C Foy,16,14,9,6,6,11,8,4,1,3,0,0
+17/12/11,Newcastle,Swansea,0,0,D,0,0,D,L Mason,17,3,6,0,11,11,9,1,1,1,0,0
+17/12/11,Wigan,Chelsea,1,1,D,0,0,D,M Atkinson,15,10,7,5,8,6,7,5,0,0,0,0
+17/12/11,Wolves,Stoke,1,2,A,1,0,H,A Taylor,10,8,5,4,8,11,7,5,2,4,0,0
+18/12/11,Aston Villa,Liverpool,0,2,A,0,2,A,P Walton,16,19,8,12,5,14,4,10,1,2,0,0
+18/12/11,Man City,Arsenal,1,0,H,0,0,D,P Dowd,15,12,9,8,13,10,4,6,2,3,0,0
+18/12/11,QPR,Man United,0,2,A,0,1,A,H Webb,11,19,3,12,5,7,5,10,1,2,0,0
+18/12/11,Tottenham,Sunderland,1,0,H,0,0,D,M Dean,16,8,12,4,6,8,6,0,1,2,0,0
+20/12/11,Blackburn,Bolton,1,2,A,0,2,A,M Atkinson,17,8,7,5,10,7,5,9,3,0,0,0
+20/12/11,Wolves,Norwich,2,2,D,1,1,D,C Foy,18,18,9,14,5,11,4,6,2,2,0,0
+21/12/11,Aston Villa,Arsenal,1,2,A,0,1,A,J Moss,10,8,4,6,10,8,7,15,2,3,1,0
+21/12/11,Everton,Swansea,1,0,H,0,0,D,K Friend,13,4,6,4,8,13,9,2,1,2,0,0
+21/12/11,Fulham,Man United,0,5,A,0,3,A,M Halsey,13,14,8,12,7,8,3,10,1,0,0,0
+21/12/11,Man City,Stoke,3,0,H,2,0,H,M Dean,20,2,16,0,7,5,5,2,2,1,0,0
+21/12/11,Newcastle,West Brom,2,3,A,1,2,A,A Taylor,21,14,11,8,9,10,10,1,1,0,0,0
+21/12/11,QPR,Sunderland,2,3,A,0,1,A,A Marriner,17,17,9,13,10,11,8,11,2,2,0,0
+21/12/11,Wigan,Liverpool,0,0,D,0,0,D,M Oliver,15,18,10,10,16,12,7,14,1,2,0,0
+22/12/11,Tottenham,Chelsea,1,1,D,1,1,D,H Webb,16,20,10,10,14,8,7,4,2,2,0,0
+26/12/11,Bolton,Newcastle,0,2,A,0,0,D,P Walton,4,12,3,7,9,11,4,4,1,1,0,0
+26/12/11,Chelsea,Fulham,1,1,D,0,0,D,K Friend,24,9,15,6,10,12,9,3,1,1,0,0
+26/12/11,Liverpool,Blackburn,1,1,D,0,1,A,M Jones,28,5,13,2,5,15,9,2,1,0,0,0
+26/12/11,Man United,Wigan,5,0,H,2,0,H,P Dowd,17,9,9,5,12,10,10,2,2,1,0,1
+26/12/11,Stoke,Aston Villa,0,0,D,0,0,D,M Clattenburg,7,10,2,4,13,10,7,7,3,0,0,0
+26/12/11,Sunderland,Everton,1,1,D,1,0,H,H Webb,12,9,8,3,6,14,5,6,0,1,0,0
+26/12/11,West Brom,Man City,0,0,D,0,0,D,L Mason,7,18,3,9,8,8,5,9,0,1,0,0
+27/12/11,Arsenal,Wolves,1,1,D,1,1,D,S Attwell,23,6,17,4,3,12,13,3,2,3,0,1
+27/12/11,Norwich,Tottenham,0,2,A,0,0,D,M Oliver,8,19,4,8,7,6,3,10,1,1,0,0
+27/12/11,Swansea,QPR,1,1,D,1,0,H,L Probert,7,12,4,7,9,12,5,11,1,3,0,0
+30/12/11,Liverpool,Newcastle,3,1,H,1,1,D,L Probert,15,5,7,2,7,11,7,0,0,2,0,0
+31/12/11,Arsenal,QPR,1,0,H,0,0,D,M Atkinson,16,6,7,3,11,13,12,4,2,2,0,0
+31/12/11,Bolton,Wolves,1,1,D,1,0,H,M Clattenburg,13,8,9,5,11,8,3,6,0,0,0,0
+31/12/11,Chelsea,Aston Villa,1,3,A,1,1,D,M Halsey,16,12,5,9,7,13,9,2,1,1,0,0
+31/12/11,Man United,Blackburn,2,3,A,0,1,A,M Dean,26,10,13,5,8,10,17,3,2,2,0,0
+31/12/11,Norwich,Fulham,1,1,D,0,1,A,H Webb,18,11,9,6,9,6,4,3,0,0,0,0
+31/12/11,Stoke,Wigan,2,2,D,0,1,A,M Oliver,12,10,3,6,14,5,8,5,2,3,0,1
+31/12/11,Swansea,Tottenham,1,1,D,0,1,A,P Dowd,14,12,8,7,8,4,10,5,1,2,0,0
+01/01/12,Sunderland,Man City,1,0,H,0,0,D,K Friend,8,25,5,11,7,6,1,10,1,1,0,0
+01/01/12,West Brom,Everton,0,1,A,0,0,D,S Attwell,10,13,2,8,10,8,2,7,0,2,0,0
+02/01/12,Aston Villa,Swansea,0,2,A,0,1,A,A Taylor,10,8,2,4,11,6,14,0,2,4,0,0
+02/01/12,Blackburn,Stoke,1,2,A,0,2,A,L Mason,14,8,7,3,8,7,8,3,2,1,0,0
+02/01/12,Fulham,Arsenal,2,1,H,0,1,A,L Probert,21,17,8,10,6,12,4,3,0,1,0,1
+02/01/12,QPR,Norwich,1,2,A,1,1,D,N Swarbrick,9,13,6,6,12,12,2,5,2,1,1,0
+02/01/12,Wolves,Chelsea,1,2,A,0,0,D,P Walton,9,15,5,10,9,10,0,5,3,2,0,0
+03/01/12,Man City,Liverpool,3,0,H,2,0,H,M Jones,10,18,8,10,13,7,5,6,1,2,1,0
+03/01/12,Tottenham,West Brom,1,0,H,0,0,D,M Halsey,20,8,14,2,3,14,14,7,0,5,0,0
+03/01/12,Wigan,Sunderland,1,4,A,0,1,A,M Dean,20,10,10,9,9,6,9,6,1,0,0,0
+04/01/12,Everton,Bolton,1,2,A,0,0,D,P Dowd,10,12,4,7,7,11,5,10,1,3,0,0
+04/01/12,Newcastle,Man United,3,0,H,1,0,H,H Webb,10,6,6,6,16,15,4,4,1,2,0,0
+11/01/12,Tottenham,Everton,2,0,H,1,0,H,M Atkinson,14,11,7,4,5,15,6,4,1,3,0,0
+14/01/12,Aston Villa,Everton,1,1,D,0,0,D,M Clattenburg,17,7,11,4,12,11,9,3,1,1,0,0
+14/01/12,Blackburn,Fulham,3,1,H,1,0,H,A Taylor,15,17,11,7,14,11,0,9,1,1,1,0
+14/01/12,Chelsea,Sunderland,1,0,H,1,0,H,P Dowd,21,9,10,4,9,9,8,2,3,1,0,0
+14/01/12,Liverpool,Stoke,0,0,D,0,0,D,H Webb,13,3,5,1,6,11,11,1,0,3,0,0
+14/01/12,Man United,Bolton,3,0,H,1,0,H,P Walton,19,11,9,5,7,7,11,3,0,1,0,0
+14/01/12,Tottenham,Wolves,1,1,D,0,1,A,M Jones,22,5,10,3,6,12,8,1,1,3,0,0
+14/01/12,West Brom,Norwich,1,2,A,0,1,A,M Dean,16,7,8,4,6,14,10,5,0,1,0,0
+15/01/12,Newcastle,QPR,1,0,H,1,0,H,C Foy,9,15,4,9,5,9,3,2,0,4,0,0
+15/01/12,Swansea,Arsenal,3,2,H,1,1,D,M Oliver,9,14,5,9,9,9,9,2,0,0,0,0
+16/01/12,Wigan,Man City,0,1,A,0,1,A,M Atkinson,7,12,4,8,16,15,4,5,3,3,0,0
+21/01/12,Bolton,Liverpool,3,1,H,2,1,H,K Friend,15,11,8,8,10,13,5,5,0,2,0,0
+21/01/12,Everton,Blackburn,1,1,D,1,0,H,M Halsey,15,14,8,8,15,13,5,8,2,2,0,0
+21/01/12,Fulham,Newcastle,5,2,H,0,1,A,L Mason,10,15,7,9,8,12,2,6,0,4,0,0
+21/01/12,Norwich,Chelsea,0,0,D,0,0,D,M Clattenburg,5,19,3,9,5,4,1,11,0,0,0,0
+21/01/12,QPR,Wigan,3,1,H,2,0,H,J Moss,16,9,8,4,10,15,7,1,2,2,0,0
+21/01/12,Stoke,West Brom,1,2,A,0,1,A,A Taylor,10,15,3,6,10,10,5,1,0,0,0,0
+21/01/12,Sunderland,Swansea,2,0,H,1,0,H,C Foy,7,11,2,4,9,6,2,4,0,0,0,0
+21/01/12,Wolves,Aston Villa,2,3,A,2,1,H,M Oliver,13,11,9,5,11,8,12,3,1,0,1,0
+22/01/12,Arsenal,Man United,1,2,A,0,1,A,M Dean,12,9,6,5,15,6,0,5,5,2,0,0
+22/01/12,Man City,Tottenham,3,2,H,0,0,D,H Webb,13,12,7,7,7,10,9,4,2,1,0,0
+31/01/12,Everton,Man City,1,0,H,0,0,D,P Walton,9,17,4,11,12,9,3,9,1,2,0,0
+31/01/12,Man United,Stoke,2,0,H,1,0,H,M Jones,11,8,7,3,9,14,9,2,1,3,0,0
+31/01/12,Swansea,Chelsea,1,1,D,1,0,H,A Marriner,7,20,5,10,10,19,1,11,2,3,0,1
+31/01/12,Tottenham,Wigan,3,1,H,2,0,H,L Probert,20,10,13,6,7,7,5,0,0,1,0,0
+31/01/12,Wolves,Liverpool,0,3,A,0,0,D,A Taylor,5,23,1,14,6,8,5,4,1,3,0,0
+01/02/12,Aston Villa,QPR,2,2,D,1,2,A,N Swarbrick,23,3,15,3,3,12,9,3,0,1,0,0
+01/02/12,Blackburn,Newcastle,0,2,A,0,1,A,P Dowd,23,9,12,5,9,17,14,2,1,2,0,0
+01/02/12,Bolton,Arsenal,0,0,D,0,0,D,C Foy,14,16,8,7,8,10,6,6,1,1,0,0
+01/02/12,Fulham,West Brom,1,1,D,0,0,D,M Halsey,13,15,6,11,6,7,8,7,1,0,0,0
+01/02/12,Sunderland,Norwich,3,0,H,2,0,H,L Mason,10,12,6,4,6,14,3,6,1,1,0,0
+04/02/12,Arsenal,Blackburn,7,1,H,3,1,H,A Marriner,20,3,11,3,9,14,11,1,2,3,0,1
+04/02/12,Man City,Fulham,3,0,H,2,0,H,M Dean,16,11,10,8,8,7,4,6,1,3,0,0
+04/02/12,Norwich,Bolton,2,0,H,0,0,D,L Probert,22,10,9,6,6,6,4,7,0,0,0,0
+04/02/12,QPR,Wolves,1,2,A,1,0,H,M Clattenburg,13,14,8,6,7,14,7,3,0,3,1,0
+04/02/12,Stoke,Sunderland,0,1,A,0,0,D,M Atkinson,9,4,6,2,12,6,5,5,0,1,1,0
+04/02/12,West Brom,Swansea,1,2,A,0,0,D,J Moss,18,15,11,8,11,6,8,7,2,1,0,0
+04/02/12,Wigan,Everton,1,1,D,0,0,D,A Taylor,2,8,1,4,12,8,4,3,2,0,0,0
+05/02/12,Chelsea,Man United,3,3,D,1,0,H,H Webb,19,14,10,10,14,13,6,6,2,1,0,0
+05/02/12,Newcastle,Aston Villa,2,1,H,1,1,D,M Halsey,16,13,8,8,6,11,4,4,1,2,0,0
+06/02/12,Liverpool,Tottenham,0,0,D,0,0,D,M Oliver,15,9,10,6,6,11,7,4,2,2,0,0
+11/02/12,Blackburn,QPR,3,2,H,3,0,H,M Dean,7,25,5,13,11,10,5,6,1,1,0,0
+11/02/12,Bolton,Wigan,1,2,A,0,1,A,H Webb,13,10,8,6,19,10,7,7,3,2,0,0
+11/02/12,Everton,Chelsea,2,0,H,1,0,H,M Jones,10,8,7,7,13,12,2,4,0,3,0,0
+11/02/12,Fulham,Stoke,2,1,H,2,0,H,C Foy,11,12,4,4,12,6,5,4,1,2,0,0
+11/02/12,Man United,Liverpool,2,1,H,0,0,D,P Dowd,11,9,6,6,10,11,4,3,1,1,0,0
+11/02/12,Sunderland,Arsenal,1,2,A,0,0,D,N Swarbrick,8,10,5,8,7,7,7,3,2,1,0,0
+11/02/12,Swansea,Norwich,2,3,A,1,0,H,M Atkinson,16,18,9,11,6,12,6,8,0,2,0,0
+11/02/12,Tottenham,Newcastle,5,0,H,4,0,H,A Marriner,18,7,9,3,7,9,4,3,2,1,0,0
+12/02/12,Aston Villa,Man City,0,1,A,0,0,D,M Oliver,9,17,5,10,15,5,5,8,3,0,0,0
+12/02/12,Wolves,West Brom,1,5,A,1,1,D,L Mason,10,26,8,16,6,11,12,8,1,0,0,0
+25/02/12,Chelsea,Bolton,3,0,H,0,0,D,M Oliver,25,8,16,1,7,13,14,7,0,1,0,0
+25/02/12,Man City,Blackburn,3,0,H,1,0,H,M Jones,20,2,13,2,6,10,10,3,0,2,0,0
+25/02/12,Newcastle,Wolves,2,2,D,2,0,H,P Walton,13,7,8,6,8,8,3,3,1,1,0,0
+25/02/12,QPR,Fulham,0,1,A,0,1,A,P Dowd,17,7,8,3,17,12,6,5,1,4,1,0
+25/02/12,West Brom,Sunderland,4,0,H,2,0,H,C Foy,18,10,13,4,6,8,7,0,1,1,0,0
+25/02/12,Wigan,Aston Villa,0,0,D,0,0,D,K Friend,14,10,6,3,8,8,14,7,0,4,0,0
+26/02/12,Arsenal,Tottenham,5,2,H,2,2,D,M Dean,21,8,13,4,15,12,7,5,3,3,0,1
+26/02/12,Norwich,Man United,1,2,A,0,1,A,A Marriner,16,11,7,9,9,10,4,4,1,2,0,0
+26/02/12,Stoke,Swansea,2,0,H,2,0,H,H Webb,9,11,6,6,13,7,8,4,1,0,0,0
+03/03/12,Blackburn,Aston Villa,1,1,D,0,1,A,H Webb,15,17,9,12,9,5,4,8,1,0,0,0
+03/03/12,Liverpool,Arsenal,1,2,A,1,1,D,M Halsey,12,10,4,7,11,9,12,0,0,1,0,0
+03/03/12,Man City,Bolton,2,0,H,1,0,H,M Clattenburg,23,8,10,5,13,8,7,4,0,0,0,0
+03/03/12,QPR,Everton,1,1,D,1,1,D,K Friend,22,8,10,5,16,15,7,7,1,2,0,0
+03/03/12,Stoke,Norwich,1,0,H,0,0,D,M Oliver,11,7,7,5,10,16,8,2,0,2,0,0
+03/03/12,West Brom,Chelsea,1,0,H,0,0,D,P Dowd,19,13,11,6,9,10,14,5,3,1,0,0
+03/03/12,Wigan,Swansea,0,2,A,0,1,A,A Marriner,14,12,8,8,15,7,8,4,2,2,0,1
+04/03/12,Fulham,Wolves,5,0,H,2,0,H,M Jones,25,8,19,3,7,9,7,7,1,2,0,0
+04/03/12,Newcastle,Sunderland,1,1,D,0,1,A,M Dean,24,7,12,6,14,14,19,4,5,3,0,1
+04/03/12,Tottenham,Man United,1,3,A,0,1,A,M Atkinson,18,6,9,5,8,10,7,3,1,2,0,0
+10/03/12,Aston Villa,Fulham,1,0,H,0,0,D,J Moss,19,5,8,1,9,11,10,4,2,0,0,0
+10/03/12,Bolton,QPR,2,1,H,1,0,H,M Atkinson,11,17,7,11,13,13,10,6,2,2,0,0
+10/03/12,Chelsea,Stoke,1,0,H,0,0,D,A Marriner,21,8,11,3,12,15,14,1,1,2,0,1
+10/03/12,Everton,Tottenham,1,0,H,1,0,H,M Halsey,9,21,5,9,13,11,0,8,2,2,0,0
+10/03/12,Sunderland,Liverpool,1,0,H,0,0,D,A Taylor,6,9,1,5,13,15,3,2,1,1,0,0
+10/03/12,Wolves,Blackburn,0,2,A,0,1,A,C Foy,14,12,7,8,10,10,3,4,1,2,0,0
+11/03/12,Man United,West Brom,2,0,H,1,0,H,L Probert,20,6,9,3,5,13,8,5,0,1,0,1
+11/03/12,Norwich,Wigan,1,1,D,1,0,H,K Friend,13,18,6,9,12,7,3,5,4,4,0,0
+11/03/12,Swansea,Man City,1,0,H,0,0,D,L Mason,8,18,5,13,9,14,7,9,0,2,0,0
+12/03/12,Arsenal,Newcastle,2,1,H,1,1,D,H Webb,21,5,13,3,11,12,6,3,2,3,0,0
+13/03/12,Liverpool,Everton,3,0,H,1,0,H,P Dowd,15,5,10,3,6,7,4,4,1,4,0,0
+17/03/12,Fulham,Swansea,0,3,A,0,1,A,M Halsey,14,10,7,7,8,7,6,2,0,0,0,0
+17/03/12,Wigan,West Brom,1,1,D,0,0,D,M Oliver,20,8,6,2,8,10,13,5,2,4,0,0
+18/03/12,Newcastle,Norwich,1,0,H,1,0,H,P Dowd,15,12,10,5,8,15,4,5,0,3,0,0
+18/03/12,Wolves,Man United,0,5,A,0,3,A,A Taylor,7,22,3,18,6,11,4,7,1,1,1,0
+20/03/12,Blackburn,Sunderland,2,0,H,0,0,D,M Atkinson,16,2,9,0,13,10,7,8,0,1,0,0
+21/03/12,Everton,Arsenal,0,1,A,0,1,A,L Mason,7,12,2,8,11,11,4,6,2,1,0,0
+21/03/12,Man City,Chelsea,2,1,H,0,0,D,M Dean,20,6,10,5,8,7,11,4,1,2,0,0
+21/03/12,QPR,Liverpool,3,2,H,0,0,D,H Webb,10,18,5,11,8,6,7,17,0,0,0,0
+21/03/12,Tottenham,Stoke,1,1,D,0,0,D,M Jones,24,8,18,2,10,10,13,1,1,1,0,0
+24/03/12,Arsenal,Aston Villa,3,0,H,2,0,H,P Dowd,20,3,12,2,6,13,15,5,0,5,0,0
+24/03/12,Bolton,Blackburn,2,1,H,2,0,H,A Marriner,12,10,6,4,8,3,11,4,0,2,0,0
+24/03/12,Chelsea,Tottenham,0,0,D,0,0,D,M Atkinson,10,19,5,7,9,11,6,5,1,2,0,0
+24/03/12,Liverpool,Wigan,1,2,A,0,1,A,L Mason,12,6,9,5,14,10,6,0,1,2,0,0
+24/03/12,Norwich,Wolves,2,1,H,2,1,H,M Clattenburg,15,10,11,6,13,7,5,5,2,2,1,0
+24/03/12,Stoke,Man City,1,1,D,0,0,D,H Webb,10,16,3,11,15,12,5,7,1,2,0,0
+24/03/12,Sunderland,QPR,3,1,H,1,0,H,M Jones,15,10,8,6,11,9,5,2,2,3,0,1
+24/03/12,Swansea,Everton,0,2,A,0,0,D,N Swarbrick,10,15,3,8,10,10,3,3,1,2,0,0
+25/03/12,West Brom,Newcastle,1,3,A,0,3,A,C Foy,14,10,6,7,10,4,10,4,0,1,0,0
+26/03/12,Man United,Fulham,1,0,H,1,0,H,M Oliver,19,5,16,4,17,6,7,1,1,0,0,0
+31/03/12,Aston Villa,Chelsea,2,4,A,0,1,A,L Mason,9,12,5,9,13,5,6,4,1,0,0,0
+31/03/12,Everton,West Brom,2,0,H,1,0,H,P Walton,16,9,9,5,8,12,5,2,2,1,0,0
+31/03/12,Fulham,Norwich,2,1,H,2,0,H,A Taylor,14,16,9,8,11,9,6,7,1,2,0,0
+31/03/12,Man City,Sunderland,3,3,D,1,2,A,P Dowd,19,8,10,4,11,13,17,5,1,1,0,0
+31/03/12,QPR,Arsenal,2,1,H,1,1,D,M Dean,10,13,8,7,13,9,4,6,5,2,0,0
+31/03/12,Wigan,Stoke,2,0,H,0,0,D,M Clattenburg,13,6,11,2,14,13,8,1,2,4,0,0
+31/03/12,Wolves,Bolton,2,3,A,0,0,D,J Moss,14,19,8,11,11,11,13,4,1,1,0,0
+01/04/12,Newcastle,Liverpool,2,0,H,1,0,H,M Atkinson,11,9,7,6,10,11,3,6,3,3,0,1
+01/04/12,Tottenham,Swansea,3,1,H,1,0,H,A Marriner,15,11,10,7,11,12,7,7,0,0,0,0
+02/04/12,Blackburn,Man United,0,2,A,0,0,D,H Webb,11,14,6,6,8,5,2,10,1,1,0,0
+06/04/12,Swansea,Newcastle,0,2,A,0,1,A,H Webb,19,5,13,4,10,7,7,0,1,1,0,0
+07/04/12,Bolton,Fulham,0,3,A,0,2,A,M Dean,13,11,7,8,11,9,5,3,1,0,0,0
+07/04/12,Chelsea,Wigan,2,1,H,0,0,D,M Jones,19,13,10,7,14,11,5,3,2,2,0,0
+07/04/12,Liverpool,Aston Villa,1,1,D,0,1,A,M Oliver,21,5,5,3,4,9,11,3,1,1,0,0
+07/04/12,Norwich,Everton,2,2,D,1,1,D,A Marriner,14,9,11,5,7,17,2,4,0,3,0,0
+07/04/12,Stoke,Wolves,2,1,H,1,1,D,M Halsey,14,9,6,5,7,11,3,8,1,1,0,0
+07/04/12,Sunderland,Tottenham,0,0,D,0,0,D,C Foy,12,15,9,8,12,10,11,4,2,2,0,0
+07/04/12,West Brom,Blackburn,3,0,H,1,0,H,L Probert,9,16,6,10,5,7,8,4,1,1,0,1
+08/04/12,Arsenal,Man City,1,0,H,0,0,D,M Atkinson,12,7,7,2,13,14,7,6,2,4,0,1
+08/04/12,Man United,QPR,2,0,H,1,0,H,L Mason,24,9,14,7,13,10,11,5,1,0,0,1
+09/04/12,Aston Villa,Stoke,1,1,D,1,0,H,M Dean,7,7,3,3,9,9,5,4,3,0,0,0
+09/04/12,Everton,Sunderland,4,0,H,0,0,D,K Friend,22,3,12,0,7,12,5,2,0,2,0,0
+09/04/12,Fulham,Chelsea,1,1,D,0,1,A,M Clattenburg,11,12,9,4,5,16,7,11,1,3,0,0
+09/04/12,Newcastle,Bolton,2,0,H,0,0,D,M Jones,8,9,4,6,7,18,6,5,1,1,0,0
+09/04/12,Tottenham,Norwich,1,2,A,1,1,D,M Oliver,13,12,9,6,12,12,10,3,1,2,0,0
+10/04/12,Blackburn,Liverpool,2,3,A,1,2,A,A Taylor,10,16,4,12,16,12,4,4,4,5,0,1
+11/04/12,Man City,West Brom,4,0,H,1,0,H,K Friend,17,4,12,1,7,9,6,2,0,0,0,0
+11/04/12,QPR,Swansea,3,0,H,1,0,H,L Probert,16,9,8,6,9,10,6,9,2,0,0,0
+11/04/12,Wigan,Man United,1,0,H,0,0,D,P Dowd,11,8,8,3,8,14,7,3,1,2,0,0
+11/04/12,Wolves,Arsenal,0,3,A,0,2,A,N Swarbrick,9,10,6,7,9,4,6,4,3,0,1,0
+14/04/12,Norwich,Man City,1,6,A,0,2,A,C Foy,16,22,8,17,10,5,3,5,1,2,0,0
+14/04/12,Sunderland,Wolves,0,0,D,0,0,D,M Jones,15,12,6,8,4,11,8,4,0,1,0,0
+14/04/12,Swansea,Blackburn,3,0,H,2,0,H,M Clattenburg,16,7,8,2,8,12,7,3,0,2,0,0
+14/04/12,West Brom,QPR,1,0,H,1,0,H,J Moss,15,16,10,6,13,11,6,8,3,1,0,0
+15/04/12,Man United,Aston Villa,4,0,H,2,0,H,M Halsey,24,10,16,4,9,7,11,4,3,3,0,0
+16/04/12,Arsenal,Wigan,1,2,A,1,2,A,A Marriner,18,12,8,7,15,13,9,3,2,3,0,0
+21/04/12,Arsenal,Chelsea,0,0,D,0,0,D,M Dean,13,13,8,7,11,11,7,7,3,4,0,0
+21/04/12,Aston Villa,Sunderland,0,0,D,0,0,D,A Taylor,12,10,7,5,11,8,8,5,0,2,0,1
+21/04/12,Blackburn,Norwich,2,0,H,1,0,H,K Friend,9,12,6,5,8,13,9,7,1,1,0,0
+21/04/12,Bolton,Swansea,1,1,D,1,1,D,P Dowd,7,20,5,12,19,7,8,10,2,1,0,0
+21/04/12,Fulham,Wigan,2,1,H,0,0,D,L Mason,15,9,9,5,11,16,4,0,1,2,0,0
+21/04/12,Newcastle,Stoke,3,0,H,2,0,H,A Marriner,16,7,11,2,8,10,4,5,0,2,0,0
+21/04/12,QPR,Tottenham,1,0,H,1,0,H,M Clattenburg,12,17,5,8,13,10,4,13,4,0,1,0
+22/04/12,Liverpool,West Brom,0,1,A,0,0,D,N Swarbrick,28,9,12,4,10,8,15,3,2,0,0,0
+22/04/12,Man United,Everton,4,4,D,1,1,D,M Jones,20,17,11,10,8,11,5,2,1,2,0,0
+22/04/12,Wolves,Man City,0,2,A,0,1,A,L Probert,7,17,4,9,6,10,7,4,0,1,0,0
+24/04/12,Aston Villa,Bolton,1,2,A,0,0,D,C Foy,17,12,6,11,9,16,9,6,1,2,0,0
+28/04/12,Everton,Fulham,4,0,H,3,0,H,P Dowd,11,6,7,5,13,8,3,5,1,1,0,0
+28/04/12,Norwich,Liverpool,0,3,A,0,2,A,M Halsey,8,15,3,9,9,4,5,7,4,0,0,0
+28/04/12,Stoke,Arsenal,1,1,D,1,1,D,C Foy,6,17,4,10,8,10,2,6,1,2,0,0
+28/04/12,Sunderland,Bolton,2,2,D,1,1,D,L Probert,12,16,6,9,8,16,7,5,1,0,0,0
+28/04/12,Swansea,Wolves,4,4,D,4,2,H,J Moss,10,15,8,9,8,8,2,6,2,1,0,0
+28/04/12,West Brom,Aston Villa,0,0,D,0,0,D,M Clattenburg,13,8,7,5,14,16,10,3,0,4,0,0
+28/04/12,Wigan,Newcastle,4,0,H,4,0,H,M Dean,10,11,8,3,14,12,4,1,2,1,0,0
+29/04/12,Chelsea,QPR,6,1,H,4,0,H,H Webb,25,11,18,7,9,8,8,5,0,1,0,0
+29/04/12,Tottenham,Blackburn,2,0,H,1,0,H,M Jones,19,0,8,0,5,14,6,1,0,0,0,0
+30/04/12,Man City,Man United,1,0,H,1,0,H,A Marriner,12,4,5,2,11,14,8,8,3,2,0,0
+01/05/12,Liverpool,Fulham,0,1,A,0,1,A,L Probert,18,7,5,4,11,7,5,4,0,0,0,0
+01/05/12,Stoke,Everton,1,1,D,0,1,A,A Taylor,10,11,5,4,6,14,4,6,2,1,0,0
+02/05/12,Bolton,Tottenham,1,4,A,0,1,A,M Dean,14,13,8,10,6,9,4,7,2,1,0,0
+02/05/12,Chelsea,Newcastle,0,2,A,0,1,A,M Halsey,17,12,6,6,9,5,4,4,0,3,0,0
+05/05/12,Arsenal,Norwich,3,3,D,1,2,A,A Taylor,20,12,13,6,8,15,6,1,2,3,0,0
+06/05/12,Aston Villa,Tottenham,1,1,D,1,0,H,L Probert,4,21,2,10,10,8,4,19,1,2,0,1
+06/05/12,Bolton,West Brom,2,2,D,1,0,H,K Friend,11,17,6,13,14,8,4,4,1,4,0,0
+06/05/12,Fulham,Sunderland,2,1,H,2,1,H,M Atkinson,20,12,15,7,9,13,8,2,0,0,0,0
+06/05/12,Man United,Swansea,2,0,H,2,0,H,C Foy,26,13,18,9,12,6,16,3,1,0,0,0
+06/05/12,Newcastle,Man City,0,2,A,0,0,D,H Webb,14,19,9,12,12,7,2,6,4,3,0,0
+06/05/12,QPR,Stoke,1,0,H,0,0,D,A Marriner,21,8,12,1,11,14,7,3,0,0,0,0
+06/05/12,Wolves,Everton,0,0,D,0,0,D,L Mason,7,18,1,10,7,10,3,7,0,0,0,0
+07/05/12,Blackburn,Wigan,0,1,A,0,0,D,M Clattenburg,12,19,7,9,14,12,5,6,2,1,0,0
+08/05/12,Liverpool,Chelsea,4,1,H,3,0,H,K Friend,23,9,13,5,15,13,7,4,2,4,0,0
+13/05/12,Chelsea,Blackburn,2,1,H,2,0,H,L Mason,18,8,6,5,13,4,8,2,1,0,0,0
+13/05/12,Everton,Newcastle,3,1,H,2,0,H,A Marriner,17,11,11,5,15,16,4,3,2,1,0,0
+13/05/12,Man City,QPR,3,2,H,1,0,H,M Dean,35,3,24,3,4,6,19,0,1,1,0,1
+13/05/12,Norwich,Aston Villa,2,0,H,2,0,H,M Atkinson,21,9,12,5,6,10,9,6,1,2,0,0
+13/05/12,Stoke,Bolton,2,2,D,1,2,A,C Foy,12,20,8,8,10,5,5,9,1,1,0,0
+13/05/12,Sunderland,Man United,0,1,A,0,1,A,H Webb,6,17,5,9,14,11,1,9,3,3,0,0
+13/05/12,Swansea,Liverpool,1,0,H,0,0,D,M Halsey,13,14,8,9,5,5,6,5,1,1,0,0
+13/05/12,Tottenham,Fulham,2,0,H,1,0,H,P Dowd,15,10,9,7,8,12,9,3,0,2,0,0
+13/05/12,West Brom,Arsenal,2,3,A,2,2,D,M Jones,12,12,8,8,12,10,9,5,0,1,0,0
+13/05/12,Wigan,Wolves,3,2,H,2,1,H,M Oliver,14,10,10,7,15,9,9,2,1,2,0,0
