@@ -34,4 +34,5 @@ for league in leagues:
                             quotechar='"', quoting=csv.QUOTE_MINIMAL)
                 reader = csv.reader(data.splitlines())
                 for row in reader:
-                    writer.writerow(row[1:int(league['range'])])
+                    if row[1] != '':
+                        writer.writerow(row[1:int(league['range'])])
