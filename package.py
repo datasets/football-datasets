@@ -106,7 +106,7 @@ for league_dir in league_dirs:
             descriptor['path'] = resource
             descriptor['name'] = resource.replace('.csv', '')
             descriptor['schema'] = copy.deepcopy(schema)
-            if league_name == 'ligue-1' and resource == 'season-1819.csv':
+            if (league_name == 'ligue-1' or league_name == 'bundesliga' or league_name == 'la-liga' or league_name == 'serie-a') and (resource == 'season-1819.csv'):
                 for field in descriptor['schema']['fields']:
                     if field['name'] == 'HF':
                         field['name'] = 'HFKC'
