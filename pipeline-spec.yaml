@@ -1,0 +1,85 @@
+premier-league-flow:
+  pipeline:
+    -
+      flow: football_data_flow
+      parameters:
+        name: premier-league
+        path: englandm.php
+        key: E0
+        links: []
+        dataset-name: english-premier-league
+        dataset-title: English Premier League (football)
+    -
+      run: datahub.dump.to_datahub
+      parameters:
+        config: ~/.config/datahub/config.json.sports-data
+  schedule:
+    crontab: 0 0 * * 0
+la-liga-flow:
+  pipeline:
+    -
+      flow: football_data_flow
+      parameters:
+        name: la-liga
+        path: spainm.php
+        key: SP1
+        links: []
+        dataset-name: spanish-la-liga
+        dataset-title: Spanish La Liga (football)
+    -
+      run: datahub.dump.to_datahub
+      parameters:
+        config: ~/.config/datahub/config.json.sports-data
+  schedule:
+    crontab: 0 0 * * 0
+bundesliga-flow:
+  pipeline:
+    -
+      flow: football_data_flow
+      parameters:
+        name: bundesliga
+        path: germanym.php
+        key: D1
+        links: []
+        dataset-name: german-bundesliga
+        dataset-title: German Bundesliga (football)
+    -
+      run: datahub.dump.to_datahub
+      parameters:
+        config: ~/.config/datahub/config.json.sports-data
+  schedule:
+    crontab: 0 0 * * 0
+serie-a-flow:
+  pipeline:
+    -
+      flow: football_data_flow
+      parameters:
+        name: serie-a
+        path: italym.php
+        key: I1
+        links: []
+        dataset-name: italian-serie-a
+        dataset-title: Italian Serie A (football)
+    -
+      run: datahub.dump.to_datahub
+      parameters:
+        config: ~/.config/datahub/config.json.sports-data
+  schedule:
+    crontab: 0 0 * * 0
+ligue-1-flow:
+  pipeline:
+    -
+      flow: football_data_flow
+      parameters:
+        name: ligue-1
+        path: francem.php
+        key: F1
+        links: []
+        dataset-name: french-ligue-1
+        dataset-title: French Ligue 1 (football)
+    -
+      run: datahub.dump.to_datahub
+      parameters:
+        config: ~/.config/datahub/config.json.sports-data
+  schedule:
+    crontab: 0 0 * * 0
