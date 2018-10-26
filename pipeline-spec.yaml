@@ -14,7 +14,7 @@ premier-league-flow:
       parameters:
         config: ~/.config/datahub/config.json.sports-data
   schedule:
-    crontab: 0 0 * * 0
+    crontab: 0 0 * * 6
 la-liga-flow:
   pipeline:
     -
@@ -31,7 +31,7 @@ la-liga-flow:
       parameters:
         config: ~/.config/datahub/config.json.sports-data
   schedule:
-    crontab: 0 0 * * 0
+    crontab: 0 0 * * 6
 bundesliga-flow:
   pipeline:
     -
@@ -48,7 +48,7 @@ bundesliga-flow:
       parameters:
         config: ~/.config/datahub/config.json.sports-data
   schedule:
-    crontab: 0 0 * * 0
+    crontab: 0 0 * * 6
 serie-a-flow:
   pipeline:
     -
@@ -65,7 +65,7 @@ serie-a-flow:
       parameters:
         config: ~/.config/datahub/config.json.sports-data
   schedule:
-    crontab: 0 0 * * 0
+    crontab: 0 0 * * 6
 ligue-1-flow:
   pipeline:
     -
@@ -82,4 +82,4 @@ ligue-1-flow:
       parameters:
         config: ~/.config/datahub/config.json.sports-data
   schedule:
-    crontab: 0 0 * * 0
+    crontab: 0 0 * * 6
