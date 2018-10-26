@@ -9,7 +9,10 @@ premier-league-flow:
         links: []
         dataset-name: english-premier-league
         dataset-title: English Premier League (football)
-    - run: datahub.dump.to_datahub
+    -
+      run: datahub.dump.to_datahub
+      parameters:
+        config: ~/.config/datahub/config.json.sports-data
   schedule:
     crontab: 0 0 * * 0
 la-liga-flow:
@@ -23,7 +26,10 @@ la-liga-flow:
         links: []
         dataset-name: spanish-la-liga
         dataset-title: Spanish La Liga (football)
-    - run: datahub.dump.to_datahub
+    -
+      run: datahub.dump.to_datahub
+      parameters:
+        config: ~/.config/datahub/config.json.sports-data
   schedule:
     crontab: 0 0 * * 0
 bundesliga-flow:
@@ -37,7 +43,10 @@ bundesliga-flow:
         links: []
         dataset-name: german-bundesliga
         dataset-title: German Bundesliga (football)
-    - run: datahub.dump.to_datahub
+    -
+      run: datahub.dump.to_datahub
+      parameters:
+        config: ~/.config/datahub/config.json.sports-data
   schedule:
     crontab: 0 0 * * 0
 serie-a-flow:
@@ -51,7 +60,10 @@ serie-a-flow:
         links: []
         dataset-name: italian-serie-a
         dataset-title: Italian Serie A (football)
-    - run: datahub.dump.to_datahub
+    -
+      run: datahub.dump.to_datahub
+      parameters:
+        config: ~/.config/datahub/config.json.sports-data
   schedule:
     crontab: 0 0 * * 0
 ligue-1-flow:
@@ -65,6 +77,9 @@ ligue-1-flow:
         links: []
         dataset-name: french-ligue-1
         dataset-title: French Ligue 1 (football)
-    - run: datahub.dump.to_datahub
+    -
+      run: datahub.dump.to_datahub
+      parameters:
+        config: ~/.config/datahub/config.json.sports-data
   schedule:
     crontab: 0 0 * * 0
