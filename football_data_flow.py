@@ -52,14 +52,14 @@ licenses = [
       "title": "Open Data Commons Public Domain Dedication and License v1.0",
       'name': "open_data_commons_public_domain_dedication_and_license_v1.0"
     }
-],
+]
 sources = [
     {
         "name": "www.football-data.co.uk/",
         "path": "http://www.football-data.co.uk/",
         "title": "www.football-data.co.uk/"
     }
-],
+]
 
 def get_league_meta(league):
     headers = {'User-Agent': generate_user_agent(device_type="desktop", os=('mac', 'linux'))}
