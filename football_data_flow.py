@@ -47,9 +47,10 @@ related_datasets = [
 
 licenses = [
     {
-        "name": "ODC-PDDL",
-        "path": "http://opendatacommons.org/licenses/pddl/",
-        "title": "Open Data Commons Public Domain Dedication and License"
+      "id": "odc-pddl",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0",
+      'name': "open_data_commons_public_domain_dedication_and_license_v1.0"
     }
 ],
 sources = [
