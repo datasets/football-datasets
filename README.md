@@ -15,8 +15,20 @@ Each league has data for the latest 10 seasons. The data is updated on weekly ba
 You need to have Python version >=3.5:
 
 - Install requirements using `pip install -r requirements.txt`
-- Run the script `python script.py`
+- Run the script `python process.py`
 
 ## Packaging datasets
 
 Each directory in `datasets/` directory is a data package. It has a common `schema.json` for all its resources. You need to run `python package.py` from root directory to generate `datapackage.json` for each data package.
+
+## Dataflows
+
+Alternatively you can use dataflows to package the data. Dataflows will do both process the data and prepare datapackage.jsons
+
+```
+# Install dataflows
+pip install dataflows
+
+# Run flows
+python football_data_flow.py
+```
