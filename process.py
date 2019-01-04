@@ -17,7 +17,7 @@ for league in leagues:
     with urllib.request.urlopen(req) as response:
         html = response.read().decode()
         soup = BeautifulSoup(html, 'html.parser')
-        file_links = soup.select('a[href*=mmz4281/]')
+        file_links = soup.select('a[href*=mmz4281]')
         for link in file_links:
             if league['key'] + '.csv' in link['href']:
                 league['links'].append(link['href'])
