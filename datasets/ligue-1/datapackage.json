@@ -93,16 +93,16 @@
             "description": "Away Team Shots on Target"
           },
           {
-            "name": "HFKC",
+            "name": "HF",
             "type": "integer",
             "format": "default",
-            "description": "Home Team Free Kicks Conceded"
+            "description": "Home Team Fouls Committed"
           },
           {
-            "name": "AFKC",
+            "name": "AF",
             "type": "integer",
             "format": "default",
-            "description": "Away Team Free Kicks Conceded"
+            "description": "Away Team Fouls Committed"
           },
           {
             "name": "HC",
