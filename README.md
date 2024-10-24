@@ -1,3 +1,5 @@
+<a href="https://datahub.io/core/football-datasets"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)" alt="badge" /></a>
+
 # Football datasets
 
 This repository includes 5 major Europe leagues:
