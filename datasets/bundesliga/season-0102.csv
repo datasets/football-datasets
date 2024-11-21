@@ -1,0 +1,307 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+28/07/01,Cottbus,Hamburg,1,0,H,0,0,D,Franz-Xaver Wack ,11,6,2,1,24,23,6,3,2,2,0,0
+28/07/01,Dortmund,Nurnberg,2,0,H,1,0,H,Michael Weiner ,16,4,10,1,15,17,5,4,2,2,0,0
+28/07/01,Freiburg,Werder Bremen,3,0,H,0,0,D,Hartmut Strampe ,11,13,5,3,11,12,9,5,1,4,0,1
+28/07/01,Leverkusen,Wolfsburg,2,1,H,1,0,H,Hermann Albrecht ,13,4,7,2,6,15,11,0,2,1,0,0
+28/07/01,M'gladbach,Bayern Munich,1,0,H,1,0,H,Edgar Steinborn ,15,10,4,3,19,25,5,7,0,4,0,0
+28/07/01,Munich 1860,Kaiserslautern,0,4,A,0,0,D,Hellmut Krug ,8,7,2,5,17,20,7,4,2,3,0,0
+28/07/01,Stuttgart,FC Koln,0,0,D,0,0,D,Markus Merk ,16,9,6,2,19,22,4,0,1,1,0,0
+29/07/01,St Pauli,Hertha,0,0,D,0,0,D,Jürgen Aust ,9,12,4,4,20,24,1,1,1,2,0,0
+04/08/01,Bayern Munich,Schalke 04,3,0,H,3,0,H,Herbert Fandel ,15,6,9,3,13,17,4,6,2,4,0,0
+04/08/01,FC Koln,Munich 1860,2,0,H,0,0,D,Alfons Berg ,12,4,7,2,10,8,5,3,1,1,0,0
+04/08/01,Hamburg,Stuttgart,2,0,H,1,0,H,Lutz Wagner ,17,13,6,4,21,17,5,4,1,0,0,0
+04/08/01,Hansa Rostock,Leverkusen,0,3,A,0,1,A,Florian Meyer ,14,9,5,3,12,14,5,7,3,4,0,0
+04/08/01,Hertha,Dortmund,0,2,A,0,0,D,Helmut Fleischer ,16,11,3,7,14,20,10,4,2,1,0,0
+04/08/01,Werder Bremen,Cottbus,3,2,H,1,2,A,Jörg Kessler ,23,10,5,3,9,21,9,3,2,5,0,0
+04/08/01,Wolfsburg,St Pauli,1,1,D,0,1,A,Wolfgang Stark ,31,12,18,6,18,15,13,1,2,2,0,0
+05/08/01,Kaiserslautern,M'gladbach,3,2,H,0,0,D,Peter Sippel ,18,8,8,4,16,18,7,0,1,2,0,0
+05/08/01,Nurnberg,Freiburg,2,0,H,1,0,H,Jürgen Jansen ,21,5,7,3,20,25,9,5,1,2,0,0
+11/08/01,Cottbus,Nurnberg,1,0,H,1,0,H,Peter Gagelmann ,7,10,2,4,25,17,4,7,3,3,0,0
+11/08/01,Dortmund,Wolfsburg,4,0,H,3,0,H,Franz-Xaver Wack ,12,7,3,5,10,19,6,1,1,1,0,0
+11/08/01,Freiburg,Hertha,1,3,A,0,2,A,Herbert Fandel ,18,14,4,10,13,24,3,1,1,3,0,1
+11/08/01,Kaiserslautern,FC Koln,2,1,H,2,0,H,Uwe Kemmling ,18,9,6,4,23,18,8,3,1,3,0,0
+11/08/01,Leverkusen,Bayern Munich,1,1,D,0,0,D,Hellmut Krug ,10,6,5,3,28,27,6,2,3,5,0,0
+11/08/01,Munich 1860,Hamburg,1,1,D,0,1,A,Edgar Steinborn ,15,13,5,6,20,19,5,10,0,1,0,0
+11/08/01,Stuttgart,Werder Bremen,0,0,D,0,0,D,Torsten Koop ,10,10,5,4,20,15,5,5,1,2,0,0
+12/08/01,M'gladbach,Schalke 04,0,0,D,0,0,D,Lutz Michael Fröhlich ,21,6,5,2,17,19,9,5,2,1,0,0
+12/08/01,St Pauli,Hansa Rostock,0,1,A,0,1,A,Michael Weiner ,17,13,5,6,24,24,6,6,3,3,0,0
+18/08/01,Bayern Munich,St Pauli,2,0,H,2,0,H,Jürgen Jansen ,18,6,9,4,12,21,8,8,1,2,0,0
+18/08/01,Hamburg,Kaiserslautern,2,3,A,0,3,A,Helmut Fleischer,21,10,9,5,16,16,2,2,2,1,0,0
+18/08/01,Hansa Rostock,Dortmund,0,2,A,0,2,A,Hermann Albrecht,6,11,3,7,14,18,4,6,2,2,0,0
+18/08/01,Nurnberg,Stuttgart,2,4,A,1,1,D,Florian Meyer,9,15,3,10,19,17,6,4,4,2,0,0
+18/08/01,Schalke 04,Leverkusen,3,3,D,2,0,H,Alfons Berg,9,11,6,7,15,30,8,7,3,2,0,0
+18/08/01,Werder Bremen,Munich 1860,1,3,A,1,2,A,Jürgen Aust ,15,11,5,8,20,16,11,1,5,2,0,1
+18/08/01,Wolfsburg,Freiburg,1,1,D,0,1,A,Edgar Steinborn,17,10,10,4,29,25,5,4,3,0,0,0
+19/08/01,FC Koln,M'gladbach,0,2,A,0,0,D,Lutz Wagner,12,13,4,5,22,34,4,6,2,4,0,0
+19/08/01,Hertha,Cottbus,2,3,A,1,0,H,Wolfgang Stark,15,11,5,3,10,23,5,5,1,3,0,0
+21/08/01,Schalke 04,Hansa Rostock,3,1,H,1,1,D,Uwe Kemmling ,16,9,6,4,12,18,4,4,2,4,1,1
+08/09/01,Cottbus,Wolfsburg,3,3,D,2,2,D,Peter Sippel,11,8,3,2,13,14,7,10,2,3,0,0
+08/09/01,Dortmund,Bayern Munich,0,2,A,0,1,A,Lutz-Michael Froehlich,12,5,4,4,25,22,5,4,1,2,0,0
+08/09/01,Freiburg,Hansa Rostock,1,1,D,0,0,D,Hellmut Krug,18,13,10,5,8,16,5,3,1,1,0,0
+08/09/01,M'gladbach,Leverkusen,0,1,A,0,1,A,Hartmut Strampe,28,7,17,5,14,19,13,2,1,3,0,0
+08/09/01,Munich 1860,Nurnberg,1,0,H,0,0,D,Knut Kircher,11,9,5,3,15,17,5,3,1,1,0,0
+08/09/01,St Pauli,Schalke 04,0,2,A,0,1,A,Jörg Kessler ,9,6,4,3,11,12,6,2,0,2,0,0
+08/09/01,Stuttgart,Hertha,0,0,D,0,0,D,Peter Gagelmann,4,7,2,1,13,24,0,4,4,4,1,0
+09/09/01,FC Koln,Hamburg,2,1,H,0,1,A,Herbert Fandel,23,11,5,4,14,22,8,3,1,1,0,0
+09/09/01,Kaiserslautern,Werder Bremen,2,1,H,0,1,A,Hermann Albrecht,17,10,10,4,15,19,8,6,1,5,0,0
+15/09/01,Bayern Munich,Freiburg,1,0,H,0,0,D,Michael Weiner,26,5,11,1,21,12,10,4,1,1,0,0
+15/09/01,Hamburg,M'gladbach,3,3,D,2,1,H,Hellmut Krug,9,12,5,7,15,19,8,6,3,1,0,0
+15/09/01,Leverkusen,St Pauli,3,1,H,1,0,H,Uwe Kemmling,17,4,6,2,16,20,8,1,5,4,1,0
+15/09/01,Nurnberg,Kaiserslautern,0,2,A,0,0,D,Torsten Koop,10,5,4,3,11,23,10,5,3,1,0,0
+15/09/01,Schalke 04,Dortmund,1,0,H,1,0,H,Herbert Fandel,12,9,6,3,27,26,3,6,1,4,0,0
+15/09/01,Werder Bremen,FC Koln,1,1,D,0,1,A,Florian Meyer,16,7,9,5,18,13,6,2,3,2,0,0
+15/09/01,Wolfsburg,Stuttgart,0,2,A,0,1,A,Jürgen Aust,9,5,3,5,19,14,1,1,3,1,0,0
+16/09/01,Hansa Rostock,Cottbus,0,0,D,0,0,D,Helmut Fleischer,13,7,7,3,10,15,10,4,1,3,0,1
+16/09/01,Hertha,Munich 1860,2,1,H,0,1,A,Lutz Wagner ,15,6,7,3,20,23,9,3,1,4,1,2
+22/09/01,Cottbus,Bayern Munich,0,3,A,0,2,A,Jürgen Aust,10,13,4,8,12,22,8,8,1,3,0,0
+22/09/01,Dortmund,Leverkusen,1,1,D,1,0,H,Jürgen Jansen ,7,8,3,5,24,28,4,4,3,3,0,0
+22/09/01,FC Koln,Nurnberg,1,2,A,1,2,A,Edgar Steinborn,16,12,5,4,19,15,6,1,2,0,0,0
+22/09/01,Freiburg,Schalke 04,2,0,H,0,0,D,Peter Gagelmann,12,15,6,6,7,16,3,5,0,2,0,0
+22/09/01,Hamburg,Werder Bremen,0,4,A,0,2,A,Lutz Michael Fröhlich ,16,12,5,7,15,22,15,6,3,1,0,0
+22/09/01,Kaiserslautern,Hertha,4,1,H,1,0,H,Hartmut Strampe,12,11,8,4,20,19,10,8,2,2,0,0
+22/09/01,Stuttgart,Hansa Rostock,2,1,H,0,1,A,Jörg Kessler ,18,4,7,1,24,26,5,0,5,3,1,1
+23/09/01,M'gladbach,St Pauli,2,2,D,0,0,D,Franz-Xaver Wack,23,3,12,3,29,24,10,5,2,3,0,0
+23/09/01,Munich 1860,Wolfsburg,2,1,H,1,0,H,Thorsten Kinhöfer ,13,16,4,3,20,29,8,6,3,2,0,2
+29/09/01,Hansa Rostock,Munich 1860,2,2,D,1,1,D,Herbert Fandel,18,12,7,3,14,15,9,10,2,0,0,0
+29/09/01,Hertha,FC Koln,3,0,H,1,0,H,Hellmut Krug,9,10,4,1,27,17,4,13,2,0,0,0
+29/09/01,Nurnberg,Hamburg,0,0,D,0,0,D,Uwe Kemmling,11,7,3,4,12,21,3,1,2,3,0,0
+29/09/01,Schalke 04,Cottbus,2,0,H,2,0,H,Hermann Albrecht,15,10,4,5,20,21,15,5,2,3,0,0
+29/09/01,St Pauli,Dortmund,1,2,A,0,2,A,Peter Sippel,6,16,2,8,12,23,6,14,2,4,0,0
+29/09/01,Werder Bremen,M'gladbach,1,0,H,0,0,D,Michael Weiner,13,5,7,4,14,20,8,2,4,1,0,0
+29/09/01,Wolfsburg,Kaiserslautern,2,0,H,1,0,H,Alfons Berg,27,19,12,9,28,21,7,15,1,2,0,0
+30/09/01,Bayern Munich,Stuttgart,4,0,H,2,0,H,Florian Meyer,13,7,8,1,22,15,5,7,0,2,0,1
+30/09/01,Leverkusen,Freiburg,4,1,H,3,1,H,Helmut Fleischer,17,5,8,4,14,21,6,4,1,1,0,0
+13/10/01,Cottbus,Leverkusen,2,3,A,1,2,A,Herbert Fandel,23,11,10,4,24,22,13,0,4,3,0,1
+13/10/01,Freiburg,St Pauli,2,2,D,1,1,D,Lutz Michael Fröhlich ,9,6,4,6,19,22,6,5,0,3,0,0
+13/10/01,Hamburg,Hertha,4,0,H,2,0,H,Edgar Steinborn,15,9,10,5,14,13,5,10,1,1,0,0
+13/10/01,Kaiserslautern,Hansa Rostock,3,1,H,0,1,A,Wolfgang Stark,16,11,6,4,13,20,9,6,0,3,0,0
+13/10/01,M'gladbach,Dortmund,1,2,A,0,2,A,Jürgen Aust,15,11,7,6,23,19,14,4,3,2,0,1
+13/10/01,Munich 1860,Bayern Munich,1,5,A,1,2,A,Hellmut Krug,13,16,5,9,13,11,3,7,4,0,0,0
+13/10/01,Stuttgart,Schalke 04,3,0,H,1,0,H,Michael Weiner,12,10,3,3,13,14,6,7,1,4,0,0
+14/10/01,FC Koln,Wolfsburg,0,4,A,0,2,A,Hermann Albrecht,9,17,4,7,16,22,7,4,2,1,0,0
+14/10/01,Werder Bremen,Nurnberg,3,0,H,1,0,H,Lutz Wagner,16,6,10,1,15,12,4,2,1,1,0,0
+20/10/01,Bayern Munich,Kaiserslautern,4,1,H,3,0,H,Jürgen Jansen,9,4,6,2,12,15,5,4,0,1,0,0
+20/10/01,Hansa Rostock,FC Koln,3,0,H,0,0,D,Hartmut Strampe,23,10,9,3,16,11,10,4,1,1,0,0
+20/10/01,Hertha,Werder Bremen,3,1,H,2,1,H,Markus Merk,13,8,6,5,14,26,2,2,3,4,0,1
+20/10/01,Leverkusen,Stuttgart,4,1,H,1,1,D,Peter Sippel,16,4,7,3,24,24,6,1,2,1,0,0
+20/10/01,Nurnberg,M'gladbach,1,2,A,0,1,A,Jörg Kessler,12,7,4,4,16,10,14,4,3,3,0,0
+20/10/01,Schalke 04,Munich 1860,1,0,H,1,0,H,Peter Gagelmann,12,15,3,7,11,10,3,5,3,2,0,0
+20/10/01,St Pauli,Cottbus,4,0,H,1,0,H,Torsten Koop,17,12,7,3,18,17,10,4,1,3,0,1
+21/10/01,Dortmund,Freiburg,0,2,A,0,1,A,Alfons Berg,12,7,6,4,15,13,7,0,1,1,0,0
+21/10/01,Wolfsburg,Hamburg,0,1,A,0,0,D,Franz-Xaver Wack,15,14,6,7,25,31,6,6,3,3,0,0
+27/10/01,Cottbus,Dortmund,0,2,A,0,0,D,Uwe Kemmling,8,10,5,5,28,15,1,5,4,5,0,0
+27/10/01,FC Koln,Bayern Munich,0,2,A,0,1,A,Lutz-Michael Fröhlich,10,12,4,5,15,13,1,6,2,1,0,0
+27/10/01,Kaiserslautern,Schalke 04,0,0,D,0,0,D,Helmut Fleischer,12,10,6,5,19,15,5,9,1,3,0,0
+27/10/01,M'gladbach,Freiburg,2,2,D,1,1,D,Markus Merk,17,8,7,7,13,19,6,4,1,3,0,0
+27/10/01,Munich 1860,Leverkusen,1,4,A,1,1,D,Hartmut Strampe,11,9,6,5,16,13,0,8,2,3,0,1
+27/10/01,Stuttgart,St Pauli,2,0,H,1,0,H,Herbert Fandel,16,8,7,3,18,11,2,5,1,2,0,1
+27/10/01,Werder Bremen,Wolfsburg,1,0,H,0,0,D,Edgar Steinborn,16,6,8,3,19,24,5,6,2,2,0,0
+28/10/01,Hamburg,Hansa Rostock,0,1,A,0,1,A,Hermann Albrecht,12,11,7,9,15,25,6,8,4,1,0,0
+28/10/01,Nurnberg,Hertha,1,3,A,0,1,A,Peter Gagelmann,9,10,6,6,15,14,4,4,3,3,0,0
+03/11/01,Bayern Munich,Hamburg,3,0,H,0,0,D,Alfons Berg,20,8,10,2,15,23,8,8,1,1,0,0
+03/11/01,Dortmund,Stuttgart,1,0,H,0,0,D,Wolfgang Stark,5,6,4,3,22,16,4,2,2,1,0,0
+03/11/01,Hansa Rostock,Werder Bremen,0,1,A,0,0,D,Jürgen Aust ,14,13,4,7,8,9,6,7,2,2,0,0
+03/11/01,Leverkusen,Kaiserslautern,2,1,H,1,1,D,Florian Meyer,10,8,7,2,17,24,12,3,3,3,0,0
+03/11/01,Schalke 04,FC Koln,3,1,H,1,1,D,Lutz Wagner,22,6,10,3,18,20,10,2,1,2,0,1
+03/11/01,St Pauli,Munich 1860,0,3,A,0,1,A,Michael Weiner,20,8,8,4,20,29,10,5,3,5,0,0
+03/11/01,Wolfsburg,Nurnberg,5,0,H,2,0,H,Torsten Koop,17,7,10,4,11,15,3,6,2,1,0,0
+04/11/01,Freiburg,Cottbus,3,1,H,1,1,D,Jörg Kessler ,11,16,5,7,17,18,5,3,1,3,1,0
+04/11/01,Hertha,M'gladbach,3,0,H,2,0,H,Hellmut Krug,10,15,4,2,23,19,5,2,1,2,0,0
+17/11/01,FC Koln,Leverkusen,1,2,A,0,0,D,Uwe Kemmling,12,17,5,7,11,12,3,8,4,3,1,0
+17/11/01,Hamburg,Schalke 04,0,0,D,0,0,D,Lutz Michael Fröhlich,11,11,4,6,5,8,2,10,1,3,0,0
+17/11/01,Hertha,Wolfsburg,2,0,H,1,0,H,Wolfgang Stark,12,7,7,3,13,14,2,1,2,1,1,1
+17/11/01,Kaiserslautern,St Pauli,5,1,H,2,1,H,Hartmut Strampe,13,9,6,4,9,10,13,2,3,1,0,0
+17/11/01,Munich 1860,Dortmund,1,3,A,0,0,D,Torsten Koop,9,13,3,5,15,17,8,8,2,3,0,0
+17/11/01,Stuttgart,Freiburg,3,0,H,1,0,H,Edgar Steinborn,14,3,8,2,14,11,11,2,0,1,0,0
+17/11/01,Werder Bremen,Bayern Munich,1,0,H,1,0,H,Herbert Fandel,10,11,3,3,18,18,2,3,3,3,0,0
+18/11/01,M'gladbach,Cottbus,0,0,D,0,0,D,Peter Sippel,24,7,7,1,15,27,7,4,3,2,1,0
+18/11/01,Nurnberg,Hansa Rostock,2,0,H,0,0,D,Jürgen Jansen,8,6,3,4,12,16,5,4,2,2,0,1
+24/11/01,Bayern Munich,Nurnberg,0,0,D,0,0,D,Michael Weiner,13,11,5,3,28,18,5,4,2,2,0,0
+24/11/01,Cottbus,Stuttgart,0,0,D,0,0,D,Hellmut Krug,4,11,2,5,27,14,3,4,4,3,1,0
+24/11/01,Hansa Rostock,Hertha,1,1,D,0,0,D,Florian Meyer,13,15,4,3,20,17,6,7,1,4,0,0
+24/11/01,Leverkusen,Hamburg,4,1,H,2,1,H,Herbert Fandel,17,12,8,3,16,21,7,3,0,3,0,0
+24/11/01,Schalke 04,Werder Bremen,1,4,A,0,2,A,Franz-Xaver Wack,21,16,6,6,24,22,4,3,4,1,0,0
+24/11/01,St Pauli,FC Koln,1,2,A,0,2,A,Markus Merk,15,13,3,5,23,25,6,5,3,4,1,0
+24/11/01,Wolfsburg,M'gladbach,3,1,H,2,0,H,Helmut Fleischer,9,14,4,5,26,14,3,12,1,3,0,0
+25/11/01,Dortmund,Kaiserslautern,3,0,H,0,0,D,Lutz Wagner,12,8,8,3,15,18,6,2,1,3,0,0
+25/11/01,Freiburg,Munich 1860,1,3,A,1,2,A,Jürgen Jansen ,20,18,14,6,11,15,16,5,0,1,0,0
+01/12/01,FC Koln,Dortmund,0,2,A,0,2,A,Herbert Fandel,18,10,7,3,13,16,9,3,2,4,0,0
+01/12/01,Hansa Rostock,Wolfsburg,1,2,A,0,1,A,Peter Gagelmann,10,9,2,4,20,20,3,5,0,2,0,0
+01/12/01,Kaiserslautern,Freiburg,3,0,H,1,0,H,Wolfgang Stark,18,4,7,2,11,9,7,2,1,1,0,0
+01/12/01,Munich 1860,Cottbus,1,0,H,0,0,D,Markus Merk,13,4,7,2,10,11,8,2,0,0,0,1
+01/12/01,Nurnberg,Schalke 04,0,3,A,0,0,D,Hartmut Strampe,4,4,1,3,16,11,1,5,3,2,2,0
+01/12/01,Stuttgart,M'gladbach,1,1,D,0,0,D,Alfons Berg,8,8,3,4,22,18,9,1,3,2,0,0
+01/12/01,Werder Bremen,Leverkusen,2,1,H,1,1,D,Jörg Kessler,10,9,6,1,13,20,6,3,3,7,0,1
+02/12/01,Hamburg,St Pauli,4,3,H,3,0,H,Hellmut Krug,22,14,7,7,27,28,5,6,5,3,0,0
+02/12/01,Hertha,Bayern Munich,2,1,H,0,0,D,Jürgen Aust,13,13,9,4,20,18,3,3,3,2,0,0
+08/12/01,Bayern Munich,Wolfsburg,3,3,D,2,1,H,Torsten Koop,23,19,9,8,18,25,4,5,2,4,0,0
+08/12/01,Cottbus,Kaiserslautern,0,2,A,0,1,A,Lutz Michael Fröhlich,16,8,6,3,24,22,12,3,3,4,0,0
+08/12/01,Dortmund,Hamburg,1,0,H,0,0,D,Helmut Fleischer,18,13,5,4,7,22,7,7,1,3,0,0
+08/12/01,Leverkusen,Nurnberg,4,2,H,1,1,D,Lutz Wagner,19,7,10,3,10,15,8,1,2,2,0,0
+08/12/01,M'gladbach,Hansa Rostock,0,2,A,0,1,A,Markus Merk,17,8,9,3,16,17,7,3,2,0,1,0
+08/12/01,St Pauli,Werder Bremen,0,3,A,0,1,A,Hermann Albrecht,7,14,2,6,15,12,3,5,3,3,0,0
+08/12/01,Stuttgart,Munich 1860,0,1,A,0,0,D,Uwe Kemmling,16,4,8,2,8,14,8,2,0,6,0,0
+09/12/01,Freiburg,FC Koln,0,0,D,0,0,D,Franz-Xaver Wack,7,17,2,2,25,26,8,4,2,4,0,0
+09/12/01,Schalke 04,Hertha,0,0,D,0,0,D,Edgar Steinborn,14,12,6,3,23,23,8,2,1,4,0,0
+15/12/01,FC Koln,Cottbus,0,0,D,0,0,D,Hellmut Krug,7,2,6,1,7,18,3,1,1,3,0,0
+15/12/01,Hamburg,Freiburg,1,1,D,1,0,H,Markus Merk,12,9,3,1,14,17,7,5,2,1,0,0
+15/12/01,Hansa Rostock,Bayern Munich,1,0,H,0,0,D,Edgar Steinborn,5,8,5,2,10,16,7,3,2,5,0,0
+15/12/01,Hertha,Leverkusen,2,1,H,1,1,D,Franz-Xaver Wack,11,14,5,5,31,25,4,4,3,3,0,0
+15/12/01,Munich 1860,M'gladbach,2,2,D,2,2,D,Herbert Fandel,10,12,4,6,18,26,7,7,0,2,0,0
+15/12/01,Nurnberg,St Pauli,0,0,D,0,0,D,Lutz Michael Fröhlich,16,7,5,4,19,21,9,1,1,3,0,0
+15/12/01,Werder Bremen,Dortmund,1,1,D,1,0,H,Alfons Berg,18,6,5,3,13,15,6,1,1,1,0,0
+16/12/01,Kaiserslautern,Stuttgart,2,2,D,1,1,D,Jürgen Jansen,20,19,9,9,17,14,5,6,2,2,0,0
+16/12/01,Wolfsburg,Schalke 04,3,1,H,0,0,D,Lutz Wagner,12,11,7,3,33,17,3,3,4,4,0,0
+18/12/01,Bayern Munich,M'gladbach,0,0,D,0,0,D,Knut Kircher,10,4,5,1,14,24,4,4,1,1,0,0
+18/12/01,Hamburg,Cottbus,5,2,H,0,1,A,Jürgen Aust,21,8,10,3,6,11,5,5,3,3,0,0
+18/12/01,Hertha,St Pauli,2,2,D,0,0,D,Markus Merk,13,5,6,3,21,12,7,3,3,2,0,0
+18/12/01,Nurnberg,Dortmund,2,2,D,0,0,D,Florian Meyer,25,19,11,8,18,18,9,4,3,3,0,0
+18/12/01,Werder Bremen,Freiburg,3,2,H,1,1,D,Peter Sippel,24,5,13,3,12,11,8,4,1,0,0,0
+19/12/01,FC Koln,Stuttgart,0,0,D,0,0,D,Helmut Fleischer ,8,4,4,2,20,21,4,3,2,2,0,0
+19/12/01,Hansa Rostock,Schalke 04,1,3,A,0,2,A,Wolfgang Stark,15,10,6,4,15,19,9,2,1,3,0,0
+19/12/01,Kaiserslautern,Munich 1860,1,3,A,0,0,D,Lutz Wagner,19,13,2,5,24,25,8,2,2,3,0,1
+19/12/01,Wolfsburg,Leverkusen,3,1,H,1,0,H,Hellmut Krug ,19,4,8,2,21,23,5,0,1,3,0,0
+26/01/02,Freiburg,Nurnberg,2,0,H,1,0,H,"Kinhöfer, T",15,9,9,2,20,18,10,10,3,2,0,0
+26/01/02,Leverkusen,Hansa Rostock,2,0,H,0,0,D,"Fleischer, H",20,7,5,2,21,21,10,2,3,0,0,0
+26/01/02,M'gladbach,Kaiserslautern,0,2,A,0,0,D,"Wack, F.-X.",14,9,5,4,20,19,7,6,2,4,0,0
+26/01/02,Munich 1860,FC Koln,3,0,H,0,0,D,"Strampe, H",8,10,6,3,16,8,5,6,1,2,0,0
+26/01/02,Schalke 04,Bayern Munich,5,1,H,2,0,H,"Fröhlich, L.-M.",10,5,6,2,13,16,2,3,1,0,0,1
+26/01/02,St Pauli,Wolfsburg,3,1,H,0,1,A,"Fandel, H",19,11,6,4,11,13,7,13,1,3,0,1
+26/01/02,Stuttgart,Hamburg,3,0,H,2,0,H,"Krug, H.",11,8,5,4,17,22,4,9,1,3,0,0
+27/01/02,Cottbus,Werder Bremen,2,1,H,1,1,D,"Merk, M",12,15,4,9,22,14,2,8,5,1,0,0
+27/01/02,Dortmund,Hertha,3,1,H,1,0,H,"Aust, J",18,16,8,9,15,21,4,6,1,5,0,0
+02/02/02,FC Koln,Kaiserslautern,0,1,A,0,0,D,"Gagelmann, P",22,10,8,5,12,22,4,1,4,6,0,0
+02/02/02,Hamburg,Munich 1860,2,1,H,0,0,D,"Jansen, J",17,15,8,7,14,13,5,6,1,1,0,0
+02/02/02,Hertha,Freiburg,1,1,D,0,1,A,"Kemmling, U",17,3,12,1,22,15,5,2,1,1,0,0
+02/02/02,Nurnberg,Cottbus,2,0,H,0,0,D,"Steinborn, E.",16,6,11,3,16,24,4,5,3,3,0,0
+02/02/02,Schalke 04,M'gladbach,2,0,H,1,0,H,"Albrecht, H",6,13,2,5,18,16,4,5,2,2,0,0
+02/02/02,Werder Bremen,Stuttgart,1,2,A,1,0,H,"Stark, W",16,7,8,3,16,13,5,4,2,1,0,0
+02/02/02,Wolfsburg,Dortmund,1,1,D,1,1,D,"Merk, M",25,4,8,2,23,25,9,1,3,3,0,0
+03/02/02,Bayern Munich,Leverkusen,2,0,H,0,0,D,"Fandel, H",16,7,9,2,28,25,3,0,3,2,0,0
+03/02/02,Hansa Rostock,St Pauli,1,0,H,0,0,D,"Sippel, P",16,9,4,3,19,18,9,7,0,3,0,0
+05/02/02,Cottbus,Hertha,1,0,H,0,0,D,"Jansen, J",18,13,6,7,23,33,1,7,1,2,0,0
+05/02/02,Freiburg,Wolfsburg,0,0,D,0,0,D,"Kessler, J",8,14,4,8,8,15,7,5,1,1,0,0
+05/02/02,M'gladbach,FC Koln,4,0,H,0,0,D,"Fröhlich, L.-M.",19,11,11,3,19,17,6,2,2,4,0,0
+05/02/02,Munich 1860,Werder Bremen,3,1,H,1,1,D,"Meyer, F",16,15,5,4,20,17,5,3,3,3,0,0
+05/02/02,Stuttgart,Nurnberg,2,3,A,1,2,A,"Koop, T",9,12,4,6,18,15,12,4,1,2,0,1
+06/02/02,Dortmund,Hansa Rostock,2,0,H,0,0,D,"Weiner, M",18,7,8,2,16,16,6,0,1,3,0,0
+06/02/02,Kaiserslautern,Hamburg,2,2,D,1,1,D,"Kircher, K",22,9,9,3,16,24,10,2,1,2,0,0
+06/02/02,Leverkusen,Schalke 04,0,1,A,0,0,D,"Berg, A",26,5,5,2,12,27,8,0,2,5,0,0
+06/02/02,St Pauli,Bayern Munich,2,1,H,2,0,H,"Krug, H",17,12,6,1,24,17,8,11,3,2,0,0
+09/02/02,Bayern Munich,Dortmund,1,1,D,0,0,D,"Steinborn, E.",20,17,5,7,20,17,2,5,4,2,0,0
+09/02/02,Hansa Rostock,Freiburg,4,0,H,2,0,H,"Strampe, H",16,5,9,0,15,20,6,5,2,1,0,0
+09/02/02,Hertha,Stuttgart,2,0,H,2,0,H,"Sippel, P",9,11,4,0,24,20,4,0,1,3,0,1
+09/02/02,Leverkusen,M'gladbach,5,0,H,3,0,H,"Stark, W",14,9,8,2,14,14,11,4,4,2,0,1
+09/02/02,Schalke 04,St Pauli,4,0,H,2,0,H,"Fleischer, H",26,4,10,3,19,18,7,3,3,3,0,1
+09/02/02,Werder Bremen,Kaiserslautern,1,0,H,0,0,D,"Fröhlich, L.-M.",16,5,5,1,16,15,11,1,2,4,0,0
+09/02/02,Wolfsburg,Cottbus,2,1,H,2,0,H,"Gagelmann, P",18,11,6,4,29,27,5,4,3,3,0,0
+10/02/02,Hamburg,FC Koln,4,0,H,1,0,H,"Meyer, F",19,6,5,2,18,16,6,3,3,3,0,1
+10/02/02,Nurnberg,Munich 1860,2,1,H,1,0,H,"Kemmling, U",17,8,7,4,14,18,12,4,2,3,0,0
+16/02/02,Dortmund,Schalke 04,1,1,D,0,1,A,"Wack, F.-X.",27,8,9,3,16,30,6,0,2,3,0,0
+16/02/02,Freiburg,Bayern Munich,0,2,A,0,2,A,"Dr. Merk, M",13,25,4,7,9,12,7,4,0,0,0,0
+16/02/02,Kaiserslautern,Nurnberg,2,1,H,1,0,H,"Krug, H",11,11,5,2,20,17,3,6,2,2,0,0
+16/02/02,M'gladbach,Hamburg,2,1,H,2,1,H,"Wagner, L",19,13,5,5,15,16,4,8,1,2,0,1
+16/02/02,Munich 1860,Hertha,0,3,A,0,1,A,"Berg, A",16,21,9,12,19,31,6,7,1,1,0,0
+16/02/02,St Pauli,Leverkusen,2,2,D,1,1,D,"Jansen, J",8,14,3,8,15,17,3,6,3,4,0,0
+16/02/02,Stuttgart,Wolfsburg,2,1,H,1,0,H,"Albrecht, H",12,11,5,4,13,25,5,5,0,2,0,0
+17/02/02,Cottbus,Hansa Rostock,3,0,H,2,0,H,"Fandel, H",16,14,8,4,31,22,4,7,6,2,0,0
+17/02/02,FC Koln,Werder Bremen,0,0,D,0,0,D,"Koop, T",17,10,7,5,12,17,12,2,2,1,0,1
+23/02/02,Bayern Munich,Cottbus,6,0,H,3,0,H,"Meyer, F",16,5,8,0,9,20,7,2,1,1,0,1
+23/02/02,Hansa Rostock,Stuttgart,1,1,D,1,0,H,"Krug, H",11,9,4,4,18,19,6,3,3,1,0,1
+23/02/02,Hertha,Kaiserslautern,5,1,H,3,1,H,"Kessler, J",20,13,15,8,19,18,8,5,2,2,0,0
+23/02/02,Nurnberg,FC Koln,2,0,H,1,0,H,"Berg, A",16,9,9,4,9,17,7,5,2,3,0,0
+23/02/02,Schalke 04,Freiburg,3,0,H,3,0,H,"Aust, J",13,5,5,1,19,17,8,3,3,5,0,0
+23/02/02,St Pauli,M'gladbach,1,1,D,1,1,D,"Strampe, H",8,7,5,5,16,20,10,5,3,1,0,0
+23/02/02,Wolfsburg,Munich 1860,1,3,A,0,0,D,"Fröhlich, L.-M.",17,21,5,6,21,22,6,5,2,1,1,0
+24/02/02,Leverkusen,Dortmund,4,0,H,1,0,H,"Fleischer, H",16,9,9,4,18,20,4,4,3,3,0,1
+24/02/02,Werder Bremen,Hamburg,0,1,A,0,0,D,"Weiner, M",20,7,7,2,18,19,11,2,3,2,0,0
+02/03/02,Cottbus,Schalke 04,2,0,H,1,0,H,"Koop, T",10,15,6,7,14,21,3,9,3,1,0,0
+02/03/02,FC Koln,Hertha,1,1,D,0,1,A,"Albrecht, H",9,11,2,1,22,15,3,9,1,1,0,0
+02/03/02,Freiburg,Leverkusen,2,2,D,1,0,H,"Steinborn, E.",7,17,5,5,17,21,4,9,4,3,0,0
+02/03/02,Hamburg,Nurnberg,3,1,H,2,1,H,"Merk, M",9,10,4,4,17,14,3,5,3,2,0,0
+02/03/02,M'gladbach,Werder Bremen,1,0,H,1,0,H,"Krug, H",18,15,7,6,15,11,7,8,1,2,0,0
+02/03/02,Munich 1860,Hansa Rostock,2,0,H,1,0,H,"Kircher, K",16,13,7,9,18,12,3,8,2,2,0,0
+02/03/02,Stuttgart,Bayern Munich,0,2,A,0,2,A,"Aust, J",11,11,3,6,21,22,5,1,2,3,0,0
+03/03/02,Dortmund,St Pauli,1,1,D,0,1,A,"Fröhlich, L.-M.",13,9,7,3,24,22,12,5,2,5,0,1
+03/03/02,Kaiserslautern,Wolfsburg,3,2,H,0,0,D,"Wack, F.-X.",17,12,8,4,18,20,5,3,3,1,0,0
+09/03/02,Bayern Munich,Munich 1860,2,1,H,0,0,D,"Berg, A",23,14,11,4,13,18,5,8,1,3,0,0
+09/03/02,Dortmund,M'gladbach,3,1,H,1,0,H,"Gagelmann, P",12,8,6,1,22,19,6,3,2,3,0,0
+09/03/02,Hansa Rostock,Kaiserslautern,2,1,H,1,0,H,"Weiner, M",17,13,6,6,21,23,4,7,2,4,0,1
+09/03/02,Leverkusen,Cottbus,2,0,H,1,0,H,"Krug, H",17,6,8,0,13,27,12,1,1,4,0,0
+09/03/02,Nurnberg,Werder Bremen,0,4,A,0,3,A,"Keßler, J",7,9,4,5,13,13,2,4,1,1,0,0
+09/03/02,St Pauli,Freiburg,1,0,H,0,0,D,"Merk, M",14,5,7,0,9,17,12,5,2,3,0,1
+09/03/02,Wolfsburg,FC Koln,5,1,H,3,1,H,"Sippel, P",11,4,8,2,12,14,7,0,0,1,0,0
+10/03/02,Hertha,Hamburg,6,0,H,2,0,H,"Strampe, H",24,7,13,4,17,11,11,2,1,3,0,1
+10/03/02,Schalke 04,Stuttgart,2,1,H,0,0,D,"Kemmling, U",16,10,5,6,20,15,6,2,1,3,0,0
+16/03/02,Cottbus,St Pauli,4,0,H,3,0,H,"Fleischer, H",16,7,7,3,17,14,6,7,3,2,0,0
+16/03/02,FC Koln,Hansa Rostock,4,2,H,0,2,A,"Krug, H",18,11,10,5,13,13,6,3,1,1,0,1
+16/03/02,Hamburg,Wolfsburg,1,1,D,0,1,A,"Stark, W",18,7,9,5,15,14,4,7,2,1,0,1
+16/03/02,Kaiserslautern,Bayern Munich,0,0,D,0,0,D,"Koop, T",11,12,5,5,18,18,7,3,3,3,1,0
+16/03/02,M'gladbach,Nurnberg,1,0,H,1,0,H,"Berg, A",20,10,8,7,13,21,9,5,3,3,0,0
+16/03/02,Stuttgart,Leverkusen,0,2,A,0,2,A,"Albrecht, H",4,7,0,2,18,25,0,2,1,4,1,0
+16/03/02,Werder Bremen,Hertha,0,3,A,0,0,D,"Wack, F.-X.",27,12,16,8,23,21,12,6,1,0,0,0
+17/03/02,Freiburg,Dortmund,1,5,A,1,1,D,"Fandel, H",10,18,6,10,11,25,6,1,2,2,0,0
+17/03/02,Munich 1860,Schalke 04,1,2,A,0,1,A,"Steinborn, E.",21,9,8,4,20,20,5,7,1,2,0,0
+23/03/02,Bayern Munich,FC Koln,3,0,H,0,0,D,"Gagelmann, P",10,7,3,3,10,13,14,4,0,2,0,0
+23/03/02,Freiburg,M'gladbach,0,1,A,0,0,D,"Fröhlich, L.-M.",10,18,4,4,13,20,6,6,0,0,0,0
+23/03/02,Hansa Rostock,Hamburg,1,1,D,0,0,D,"Jansen, J",17,14,6,7,17,24,1,4,0,1,0,0
+23/03/02,Hertha,Nurnberg,2,0,H,2,0,H,"Weiner, M",11,16,8,7,22,15,4,6,1,4,0,0
+23/03/02,Leverkusen,Munich 1860,4,0,H,1,0,H,"Kemmling, U",15,5,10,2,19,29,4,0,5,3,0,0
+23/03/02,Schalke 04,Kaiserslautern,3,0,H,1,0,H,"Aust, J",18,10,6,4,15,25,7,4,0,4,0,0
+23/03/02,St Pauli,Stuttgart,1,2,A,0,0,D,"Krug, H",9,7,2,3,10,27,12,1,1,2,0,0
+24/03/02,Dortmund,Cottbus,3,0,H,2,0,H,"Wagner, L",26,14,13,7,14,14,6,4,1,3,0,1
+24/03/02,Wolfsburg,Werder Bremen,2,0,H,0,0,D,"Fleischer, H",8,13,4,9,11,13,5,5,3,1,0,0
+30/03/02,Cottbus,Freiburg,2,0,H,1,0,H,"Berg, A",12,5,4,1,19,21,6,4,1,3,0,0
+30/03/02,Hamburg,Bayern Munich,0,0,D,0,0,D,"Fandel, H",11,8,3,4,22,20,5,3,4,4,0,0
+30/03/02,Kaiserslautern,Leverkusen,2,4,A,1,2,A,"Krug, H",10,6,6,3,22,18,6,3,4,2,0,0
+30/03/02,M'gladbach,Hertha,3,1,H,1,1,D,"Stark, W",11,4,7,2,10,15,5,6,1,2,0,0
+30/03/02,Munich 1860,St Pauli,4,2,H,1,1,D,"Meyer, F",22,17,9,7,16,15,10,3,3,1,1,0
+30/03/02,Nurnberg,Wolfsburg,3,0,H,1,0,H,"Steinborn, E.",18,23,8,9,20,14,5,5,3,2,0,0
+30/03/02,Stuttgart,Dortmund,3,2,H,2,0,H,"Dr. Merk, M",13,17,7,6,22,20,2,5,1,2,0,0
+31/03/02,FC Koln,Schalke 04,1,1,D,0,1,A,"Strampe, H",13,8,7,3,18,21,8,2,1,2,0,0
+31/03/02,Werder Bremen,Hansa Rostock,4,3,H,1,2,A,"Sippel, P",17,10,12,5,15,20,7,1,3,3,0,0
+06/04/02,Bayern Munich,Werder Bremen,2,2,D,1,1,D,"Aust, J",16,9,5,4,11,12,6,2,1,2,0,0
+06/04/02,Cottbus,M'gladbach,3,3,D,2,1,H,"Wack, F.-X.",10,13,7,7,17,17,8,6,3,3,0,0
+06/04/02,Hansa Rostock,Nurnberg,1,0,H,1,0,H,"Fröhlich, L.-M.",9,5,5,1,15,16,11,4,3,1,0,0
+06/04/02,Leverkusen,FC Koln,2,0,H,2,0,H,"Fandel, H",13,9,7,5,18,19,5,2,2,4,0,0
+06/04/02,Schalke 04,Hamburg,2,0,H,2,0,H,"Keßler, J",16,14,7,4,14,17,6,1,0,1,0,0
+06/04/02,St Pauli,Kaiserslautern,1,1,D,0,0,D,"Kemmling, U",9,12,4,5,24,25,7,1,3,8,1,1
+06/04/02,Wolfsburg,Hertha,1,3,A,1,2,A,"Merk, M",9,10,5,5,10,13,10,3,3,3,0,0
+07/04/02,Dortmund,Munich 1860,2,1,H,2,1,H,"Weiner, M",21,9,7,3,20,19,7,1,3,4,0,0
+07/04/02,Freiburg,Stuttgart,0,2,A,0,0,D,"Dr. Fleischer, H",12,9,5,5,21,9,7,4,4,1,0,0
+13/04/02,FC Koln,St Pauli,2,1,H,1,0,H,"Stark, W",23,14,12,8,22,16,8,1,3,2,0,0
+13/04/02,Hamburg,Leverkusen,1,1,D,1,1,D,"Strampe, H",14,14,6,5,24,23,7,5,3,5,0,0
+13/04/02,Hertha,Hansa Rostock,1,0,H,1,0,H,"Meyer, F",12,10,7,6,16,9,3,2,2,0,0,0
+13/04/02,M'gladbach,Wolfsburg,0,2,A,0,0,D,"Koop, T",15,12,4,5,16,17,6,5,1,0,0,0
+13/04/02,Munich 1860,Freiburg,5,2,H,3,1,H,"Gagelmann, P",26,10,12,7,12,11,9,2,2,0,0,0
+13/04/02,Nurnberg,Bayern Munich,1,2,A,0,2,A,"Krug, H",19,15,7,4,13,11,10,3,2,3,1,0
+13/04/02,Werder Bremen,Schalke 04,3,0,H,1,0,H,"Wagner, L",11,10,9,7,17,17,5,4,1,3,0,0
+14/04/02,Kaiserslautern,Dortmund,1,0,H,0,0,D,"Albrecht, H",20,10,8,4,22,16,7,3,3,1,0,0
+14/04/02,Stuttgart,Cottbus,0,0,D,0,0,D,"Jansen, J",16,10,6,4,17,29,10,5,0,3,0,0
+19/04/02,St Pauli,Hamburg,0,4,A,0,2,A,"Dr. Merk, M",14,19,5,10,24,21,6,3,4,3,0,0
+20/04/02,Bayern Munich,Hertha,3,0,H,0,0,D,"Kemmling, U",13,4,9,1,16,20,4,1,2,3,0,1
+20/04/02,Cottbus,Munich 1860,1,1,D,0,0,D,"Krug, H",25,11,4,1,12,18,8,5,1,2,0,0
+20/04/02,Dortmund,FC Koln,2,1,H,1,0,H,"Fleischer, H",23,7,6,3,16,18,4,4,3,5,0,0
+20/04/02,Leverkusen,Werder Bremen,1,2,A,1,1,D,"Berg, A",17,9,10,7,17,17,15,2,2,2,0,0
+20/04/02,Schalke 04,Nurnberg,2,1,H,0,0,D,"Fandel, H",13,16,5,8,7,18,8,5,2,1,0,0
+20/04/02,Wolfsburg,Hansa Rostock,4,0,H,4,0,H,"Keßler, J",16,8,8,4,18,13,8,6,0,0,0,0
+21/04/02,Freiburg,Kaiserslautern,3,1,H,0,0,D,"Wack, F.-X.",19,25,11,15,18,20,8,6,1,4,0,0
+21/04/02,M'gladbach,Stuttgart,2,2,D,0,0,D,"Aust, J",13,10,6,3,9,12,12,6,1,3,0,0
+27/04/02,FC Koln,Freiburg,2,0,H,1,0,H,"Krug, H",9,12,8,2,25,11,9,7,2,2,0,0
+27/04/02,Hamburg,Dortmund,3,4,A,1,2,A,"Fandel, H",12,13,6,7,24,12,8,4,3,3,1,1
+27/04/02,Hansa Rostock,M'gladbach,1,1,D,1,1,D,"Albrecht, H",19,15,7,7,12,18,16,3,1,1,0,0
+27/04/02,Hertha,Schalke 04,2,0,H,0,0,D,"Steinborn, E.",15,4,6,2,8,13,3,3,2,3,0,0
+27/04/02,Kaiserslautern,Cottbus,4,0,H,2,0,H,"Stark, W",19,5,10,1,12,17,10,2,0,3,0,0
+27/04/02,Munich 1860,Stuttgart,3,3,D,0,2,A,"Fröhlich, L.-M.",13,11,6,5,16,12,6,2,3,3,1,0
+27/04/02,Nurnberg,Leverkusen,1,0,H,1,0,H,"Merk, M",10,16,5,6,21,16,1,9,1,5,0,0
+27/04/02,Werder Bremen,St Pauli,3,2,H,0,2,A,"Strampe, H",23,6,8,3,19,15,7,2,3,2,1,0
+27/04/02,Wolfsburg,Bayern Munich,0,1,A,0,1,A,"Berg, A",14,7,6,3,12,15,6,0,1,3,0,0
+04/05/02,Bayern Munich,Hansa Rostock,3,2,H,1,0,H,"Jansen, J",21,9,8,5,20,21,7,6,0,2,0,0
+04/05/02,Cottbus,FC Koln,2,3,A,0,1,A,"Albrecht, H",14,9,9,5,19,15,11,1,3,2,0,0
+04/05/02,Dortmund,Werder Bremen,2,1,H,1,1,D,"Steinborn, E.",12,8,5,4,15,25,8,1,1,3,0,1
+04/05/02,Freiburg,Hamburg,4,3,H,2,2,D,"Fröhlich, L.-M.",11,15,7,6,14,15,5,5,2,1,0,0
+04/05/02,Leverkusen,Hertha,2,1,H,1,0,H,"Fandel, H",8,5,6,3,15,15,10,2,0,0,0,0
+04/05/02,M'gladbach,Munich 1860,2,4,A,1,1,D,"Berg, A",22,13,13,8,7,16,9,5,0,0,0,0
+04/05/02,Schalke 04,Wolfsburg,1,2,A,0,1,A,"Sippel, P",17,14,5,6,9,14,4,1,2,1,0,0
+04/05/02,St Pauli,Nurnberg,2,3,A,1,2,A,"Aust, J",8,11,4,7,12,16,11,5,0,3,0,0
+04/05/02,Stuttgart,Kaiserslautern,4,3,H,1,1,D,"Krug, H",11,10,7,7,17,14,5,2,2,3,0,0

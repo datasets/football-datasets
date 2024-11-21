@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+16/08/08,Arsenal,West Brom,1,0,H,1,0,H,H Webb,24,5,14,4,11,8,7,5,0,0,0,0
+16/08/08,Bolton,Stoke,3,1,H,3,0,H,C Foy,14,8,8,2,13,12,4,3,1,2,0,0
+16/08/08,Everton,Blackburn,2,3,A,1,1,D,A Marriner,10,15,5,11,11,9,3,5,2,2,0,0
+16/08/08,Hull,Fulham,2,1,H,1,1,D,P Walton,11,12,6,6,10,9,5,6,3,0,0,0
+16/08/08,Middlesbrough,Tottenham,2,1,H,0,0,D,M Atkinson,14,8,10,5,11,12,7,9,1,2,0,0
+16/08/08,Sunderland,Liverpool,0,1,A,0,0,D,A Wiley,6,14,3,8,13,12,1,8,0,2,0,0
+16/08/08,West Ham,Wigan,2,1,H,2,0,H,S Bennett,15,22,8,9,14,11,6,10,2,1,0,0
+17/08/08,Aston Villa,Man City,4,2,H,0,0,D,P Dowd,14,13,10,8,8,11,7,8,0,1,0,0
+17/08/08,Chelsea,Portsmouth,4,0,H,3,0,H,M Dean,18,12,11,8,10,6,8,3,0,1,0,0
+17/08/08,Man United,Newcastle,1,1,D,1,1,D,M Riley,18,11,12,4,15,11,6,6,3,0,0,0
+23/08/08,Blackburn,Hull,1,1,D,1,1,D,S Attwell,12,7,5,4,11,15,6,3,0,1,0,0
+23/08/08,Fulham,Arsenal,1,0,H,1,0,H,M Atkinson,5,15,2,6,14,6,1,5,2,0,0,0
+23/08/08,Liverpool,Middlesbrough,2,1,H,0,0,D,M Riley,16,9,8,4,10,12,14,3,2,1,0,0
+23/08/08,Newcastle,Bolton,1,0,H,0,0,D,S Bennett,10,9,8,4,8,13,4,6,1,2,0,0
+23/08/08,Stoke,Aston Villa,3,2,H,1,0,H,M Halsey,8,5,2,2,15,5,2,8,1,0,0,0
+23/08/08,Tottenham,Sunderland,1,2,A,0,0,D,M Dean,18,12,11,7,12,12,12,6,1,2,0,0
+23/08/08,West Brom,Everton,1,2,A,0,0,D,R Styles,14,9,4,7,11,14,11,5,3,1,0,0
+24/08/08,Man City,West Ham,3,0,H,0,0,D,H Webb,14,3,9,0,12,16,6,3,0,2,0,1
+24/08/08,Wigan,Chelsea,0,1,A,0,1,A,A Wiley,10,7,6,3,13,17,7,7,1,2,0,0
+25/08/08,Portsmouth,Man United,0,1,A,0,1,A,C Foy,13,12,6,7,11,11,4,3,2,2,0,0
+30/08/08,Arsenal,Newcastle,3,0,H,2,0,H,R Styles,20,4,14,2,12,11,12,1,2,2,0,0
+30/08/08,Bolton,West Brom,0,0,D,0,0,D,K Stroud,18,12,9,7,18,16,7,5,2,2,0,0
+30/08/08,Everton,Portsmouth,0,3,A,0,2,A,M Halsey,16,6,7,5,5,11,4,3,1,0,0,0
+30/08/08,Hull,Wigan,0,5,A,0,2,A,M Jones,10,8,5,5,18,12,7,3,1,0,0,0
+30/08/08,Middlesbrough,Stoke,2,1,H,1,0,H,M Dean,21,7,12,2,14,18,4,5,2,4,0,1
+30/08/08,West Ham,Blackburn,4,1,H,2,1,H,M Riley,11,12,6,7,14,21,10,4,1,5,0,0
+31/08/08,Aston Villa,Liverpool,0,0,D,0,0,D,M Atkinson,5,8,2,3,9,13,5,8,0,2,0,0
+31/08/08,Chelsea,Tottenham,1,1,D,1,1,D,H Webb,12,6,3,6,10,13,5,8,3,0,0,0
+31/08/08,Sunderland,Man City,0,3,A,0,1,A,C Foy,10,9,4,8,20,11,3,3,4,2,0,0
+13/09/08,Blackburn,Arsenal,0,4,A,0,2,A,M Dean,10,17,3,10,8,8,5,5,1,1,0,0
+13/09/08,Fulham,Bolton,2,1,H,2,0,H,S Tanner,20,8,13,7,15,11,12,6,1,1,0,0
+13/09/08,Liverpool,Man United,2,1,H,1,1,D,H Webb,16,7,11,3,10,18,5,4,0,3,0,1
+13/09/08,Man City,Chelsea,1,3,A,1,1,D,M Halsey,13,18,7,8,14,10,8,5,0,1,0,1
+13/09/08,Newcastle,Hull,1,2,A,0,1,A,A Marriner,13,8,4,4,13,17,5,3,0,2,1,0
+13/09/08,Portsmouth,Middlesbrough,2,1,H,0,1,A,S Attwell,21,7,12,3,8,6,3,2,2,1,0,0
+13/09/08,West Brom,West Ham,3,2,H,2,2,D,L Probert,13,21,8,13,9,18,8,8,1,1,0,0
+13/09/08,Wigan,Sunderland,1,1,D,0,1,A,R Styles,12,6,8,5,10,9,8,6,1,1,1,0
+14/09/08,Stoke,Everton,2,3,A,0,1,A,A Wiley,12,8,7,5,10,19,7,8,2,1,0,0
+15/09/08,Tottenham,Aston Villa,1,2,A,0,1,A,S Bennett,17,17,10,13,15,12,12,8,1,4,0,0
+20/09/08,Blackburn,Fulham,1,0,H,0,0,D,L Probert,11,11,4,5,13,11,4,3,2,0,0,0
+20/09/08,Bolton,Arsenal,1,3,A,1,2,A,S Bennett,12,20,8,9,12,10,7,17,2,2,0,0
+20/09/08,Liverpool,Stoke,0,0,D,0,0,D,A Marriner,27,3,11,2,8,10,20,3,1,1,0,0
+20/09/08,Sunderland,Middlesbrough,2,0,H,0,0,D,H Webb,17,14,11,11,9,16,8,7,2,3,0,0
+20/09/08,West Ham,Newcastle,3,1,H,2,0,H,P Dowd,12,11,6,8,8,21,2,6,1,2,0,0
+21/09/08,Chelsea,Man United,1,1,D,0,1,A,M Riley,20,13,13,8,15,18,7,4,1,7,0,0
+21/09/08,Hull,Everton,2,2,D,1,0,H,L Mason,9,17,5,8,11,12,4,6,0,1,0,0
+21/09/08,Man City,Portsmouth,6,0,H,2,0,H,A Wiley,14,10,10,4,13,14,8,5,0,1,0,0
+21/09/08,Tottenham,Wigan,0,0,D,0,0,D,S Tanner,11,14,4,6,13,12,3,4,2,2,0,0
+21/09/08,West Brom,Aston Villa,1,2,A,1,2,A,M Dean,10,10,6,5,22,16,5,6,3,3,0,0
+27/09/08,Arsenal,Hull,1,2,A,0,0,D,A Wiley,18,7,9,5,8,7,15,4,2,1,0,0
+27/09/08,Aston Villa,Sunderland,2,1,H,2,1,H,P Walton,12,9,8,3,8,9,5,5,1,1,0,0
+27/09/08,Everton,Liverpool,0,2,A,0,0,D,M Riley,4,11,2,6,17,20,7,4,3,3,1,0
+27/09/08,Fulham,West Ham,1,2,A,0,2,A,A Marriner,18,16,6,10,15,13,2,4,4,1,1,0
+27/09/08,Man United,Bolton,2,0,H,0,0,D,R Styles,31,10,24,5,8,10,16,4,0,3,0,0
+27/09/08,Middlesbrough,West Brom,0,1,A,0,0,D,C Foy,22,14,13,9,14,13,11,8,2,4,0,0
+27/09/08,Newcastle,Blackburn,1,2,A,0,2,A,S Tanner,4,9,2,8,6,19,5,5,0,4,0,0
+27/09/08,Stoke,Chelsea,0,2,A,0,1,A,M Atkinson,5,14,2,9,9,6,5,5,2,1,0,0
+28/09/08,Portsmouth,Tottenham,2,0,H,1,0,H,M Dean,8,15,6,8,18,13,3,6,4,3,1,0
+28/09/08,Wigan,Man City,2,1,H,2,1,H,S Bennett,9,11,4,6,12,21,5,3,3,4,0,0
+04/10/08,Blackburn,Man United,0,2,A,0,1,A,S Bennett,6,18,3,9,11,8,3,4,2,1,0,0
+04/10/08,Sunderland,Arsenal,1,1,D,0,0,D,L Mason,8,13,5,7,10,11,1,7,3,5,0,0
+04/10/08,West Brom,Fulham,1,0,H,0,0,D,P Dowd,13,14,8,5,10,13,8,6,2,1,0,0
+04/10/08,Wigan,Middlesbrough,0,1,A,0,0,D,M Atkinson,21,6,9,2,10,13,8,2,3,0,0,0
+05/10/08,Chelsea,Aston Villa,2,0,H,2,0,H,C Foy,27,8,15,3,11,13,7,1,0,3,0,0
+05/10/08,Everton,Newcastle,2,2,D,2,1,H,H Webb,13,11,5,9,18,15,3,5,1,3,0,0
+05/10/08,Man City,Liverpool,2,3,A,2,0,H,P Walton,7,14,5,7,11,12,1,7,1,1,1,0
+05/10/08,Portsmouth,Stoke,2,1,H,1,0,H,A Marriner,17,8,11,5,7,15,2,5,0,3,0,0
+05/10/08,Tottenham,Hull,0,1,A,0,1,A,R Styles,27,10,16,6,15,15,12,0,4,2,0,0
+05/10/08,West Ham,Bolton,1,3,A,0,2,A,M Dean,13,12,5,6,15,8,7,7,4,3,0,0
+18/10/08,Arsenal,Everton,3,1,H,0,1,A,P Walton,22,7,14,3,8,13,7,4,2,4,0,0
+18/10/08,Aston Villa,Portsmouth,0,0,D,0,0,D,M Riley,10,8,3,3,18,19,11,2,1,3,0,1
+18/10/08,Bolton,Blackburn,0,0,D,0,0,D,H Webb,10,8,4,1,16,12,11,8,1,3,0,0
+18/10/08,Fulham,Sunderland,0,0,D,0,0,D,K Stroud,13,14,9,7,12,8,8,5,1,1,0,0
+18/10/08,Liverpool,Wigan,3,2,H,1,2,A,A Wiley,17,7,7,4,10,13,5,2,1,1,0,1
+18/10/08,Man United,West Brom,4,0,H,0,0,D,M Halsey,18,6,14,2,11,14,15,1,0,1,0,0
+18/10/08,Middlesbrough,Chelsea,0,5,A,0,1,A,P Dowd,7,21,4,14,13,9,5,7,2,0,0,0
+19/10/08,Hull,West Ham,1,0,H,0,0,D,C Foy,12,14,4,5,11,11,3,5,2,1,0,0
+19/10/08,Stoke,Tottenham,2,1,H,1,1,D,L Mason,7,11,3,6,12,12,6,1,1,2,0,2
+20/10/08,Newcastle,Man City,2,2,D,1,1,D,R Styles,6,20,2,8,15,15,5,10,0,2,1,0
+25/10/08,Blackburn,Middlesbrough,1,1,D,0,0,D,M Dean,13,5,5,2,17,11,9,2,3,1,0,0
+25/10/08,Everton,Man United,1,1,D,0,1,A,A Wiley,13,18,9,14,17,11,5,9,3,3,0,0
+25/10/08,Sunderland,Newcastle,2,1,H,1,1,D,M Riley,14,10,3,5,11,11,2,4,1,2,0,0
+25/10/08,West Brom,Hull,0,3,A,0,0,D,L Probert,24,16,16,10,12,13,14,5,1,2,0,0
+26/10/08,Chelsea,Liverpool,0,1,A,0,1,A,H Webb,14,8,5,3,17,13,4,2,3,3,0,0
+26/10/08,Man City,Stoke,3,0,H,1,0,H,S Tanner,18,9,12,6,12,16,6,8,1,0,0,0
+26/10/08,Portsmouth,Fulham,1,1,D,0,0,D,M Halsey,21,9,12,5,7,7,8,6,0,0,0,0
+26/10/08,Tottenham,Bolton,2,0,H,1,0,H,A Marriner,19,10,9,3,9,16,3,4,0,3,0,1
+26/10/08,West Ham,Arsenal,0,2,A,0,0,D,P Dowd,7,20,3,10,13,9,4,9,2,3,1,0
+26/10/08,Wigan,Aston Villa,0,4,A,0,1,A,M Jones,17,9,5,7,14,8,9,4,1,2,0,0
+28/10/08,Newcastle,West Brom,2,1,H,2,0,H,M Dean,10,14,5,4,13,11,7,8,0,4,0,0
+29/10/08,Arsenal,Tottenham,4,4,D,1,1,D,M Atkinson,20,9,12,6,8,17,9,1,1,4,0,0
+29/10/08,Aston Villa,Blackburn,3,2,H,1,1,D,K Stroud,8,11,4,5,5,17,4,5,0,1,0,0
+29/10/08,Bolton,Everton,0,1,A,0,0,D,P Dowd,18,11,12,7,17,12,5,3,1,2,0,0
+29/10/08,Fulham,Wigan,2,0,H,1,0,H,H Webb,7,5,2,2,9,14,2,2,0,2,0,0
+29/10/08,Hull,Chelsea,0,3,A,0,1,A,A Marriner,10,27,5,11,11,13,5,5,0,2,0,0
+29/10/08,Liverpool,Portsmouth,1,0,H,0,0,D,S Tanner,21,4,10,1,13,12,7,1,0,3,0,0
+29/10/08,Man United,West Ham,2,0,H,2,0,H,P Walton,21,4,12,1,10,9,3,1,1,2,0,0
+29/10/08,Middlesbrough,Man City,2,0,H,0,0,D,L Mason,5,13,3,8,10,15,3,3,1,3,0,0
+29/10/08,Stoke,Sunderland,1,0,H,0,0,D,C Foy,9,9,6,4,10,8,4,4,2,1,0,0
+01/11/08,Chelsea,Sunderland,5,0,H,3,0,H,M Atkinson,17,1,11,0,5,11,4,0,0,1,0,0
+01/11/08,Everton,Fulham,1,0,H,0,0,D,L Mason,9,15,4,5,11,15,6,5,0,0,0,0
+01/11/08,Man United,Hull,4,3,H,3,1,H,M Dean,20,11,11,7,12,13,9,1,2,2,0,0
+01/11/08,Middlesbrough,West Ham,1,1,D,0,1,A,A Marriner,11,13,7,8,10,14,5,4,3,4,0,0
+01/11/08,Portsmouth,Wigan,1,2,A,0,1,A,P Walton,16,12,8,8,9,11,9,6,0,3,0,0
+01/11/08,Stoke,Arsenal,2,1,H,1,0,H,R Styles,7,13,5,6,11,7,3,5,4,2,0,1
+01/11/08,Tottenham,Liverpool,2,1,H,0,1,A,P Dowd,8,14,4,6,18,13,4,4,1,2,0,0
+01/11/08,West Brom,Blackburn,2,2,D,0,1,A,M Jones,15,9,8,5,13,18,2,3,3,2,0,1
+02/11/08,Bolton,Man City,2,0,H,0,0,D,M Riley,20,11,12,6,15,20,6,1,1,1,0,0
+03/11/08,Newcastle,Aston Villa,2,0,H,0,0,D,S Bennett,11,6,7,1,13,21,2,6,4,3,0,0
+08/11/08,Arsenal,Man United,2,1,H,1,0,H,H Webb,11,17,7,9,16,7,5,6,3,2,0,0
+08/11/08,Hull,Bolton,0,1,A,0,0,D,A Wiley,16,10,11,6,15,10,6,7,1,2,0,0
+08/11/08,Liverpool,West Brom,3,0,H,2,0,H,P Walton,11,4,10,2,10,8,3,7,2,1,0,0
+08/11/08,Sunderland,Portsmouth,1,2,A,1,0,H,S Bennett,9,10,6,5,8,10,8,3,2,1,0,0
+08/11/08,West Ham,Everton,1,3,A,0,0,D,M Halsey,15,12,13,7,9,10,9,4,1,1,0,0
+08/11/08,Wigan,Stoke,0,0,D,0,0,D,M Riley,22,2,14,1,10,12,6,3,1,3,0,0
+09/11/08,Aston Villa,Middlesbrough,1,2,A,1,1,D,R Styles,14,15,9,8,13,5,7,4,2,2,0,0
+09/11/08,Blackburn,Chelsea,0,2,A,0,1,A,C Foy,8,18,3,13,14,11,5,9,2,1,0,0
+09/11/08,Fulham,Newcastle,2,1,H,1,0,H,M Atkinson,11,13,6,7,13,11,6,1,2,2,0,0
+09/11/08,Man City,Tottenham,1,2,A,1,1,D,M Dean,9,14,7,9,12,13,4,5,1,2,2,1
+15/11/08,Arsenal,Aston Villa,0,2,A,0,0,D,M Riley,11,9,8,6,9,22,8,5,2,4,0,0
+15/11/08,Blackburn,Sunderland,1,2,A,1,0,H,S Tanner,16,10,8,6,9,9,11,9,3,4,0,0
+15/11/08,Bolton,Liverpool,0,2,A,0,1,A,R Styles,15,15,9,6,7,7,7,3,1,1,0,0
+15/11/08,Fulham,Tottenham,2,1,H,1,0,H,A Wiley,16,7,14,3,2,10,10,3,1,0,0,0
+15/11/08,Man United,Stoke,5,0,H,2,0,H,P Walton,21,3,15,1,5,15,3,0,1,2,0,0
+15/11/08,Newcastle,Wigan,2,2,D,0,1,A,A Marriner,17,12,9,7,9,12,4,10,1,3,0,1
+15/11/08,West Brom,Chelsea,0,3,A,0,3,A,S Bennett,13,15,3,9,7,10,3,10,0,3,0,0
+15/11/08,West Ham,Portsmouth,0,0,D,0,0,D,M Atkinson,11,11,5,7,6,11,8,7,0,1,0,0
+16/11/08,Everton,Middlesbrough,1,1,D,0,1,A,H Webb,15,11,7,3,11,13,11,1,0,2,0,0
+16/11/08,Hull,Man City,2,2,D,1,2,A,P Dowd,11,12,6,8,15,16,3,6,2,3,0,0
+22/11/08,Aston Villa,Man United,0,0,D,0,0,D,C Foy,10,12,7,7,12,15,3,6,1,0,0,0
+22/11/08,Chelsea,Newcastle,0,0,D,0,0,D,P Dowd,25,2,14,0,12,13,8,1,0,2,0,0
+22/11/08,Liverpool,Fulham,0,0,D,0,0,D,M Halsey,18,6,7,6,7,6,9,3,0,0,0,0
+22/11/08,Man City,Arsenal,3,0,H,1,0,H,A Wiley,12,11,8,5,16,9,3,3,0,1,0,0
+22/11/08,Middlesbrough,Bolton,1,3,A,0,2,A,M Atkinson,18,11,5,5,10,15,8,0,2,5,0,0
+22/11/08,Portsmouth,Hull,2,2,D,1,0,H,S Attwell,14,13,7,6,13,13,7,7,2,1,0,0
+22/11/08,Stoke,West Brom,1,0,H,0,0,D,L Mason,9,8,7,2,9,7,4,1,1,0,0,0
+23/11/08,Sunderland,West Ham,0,1,A,0,1,A,M Dean,17,10,6,5,13,16,4,2,2,1,0,0
+23/11/08,Tottenham,Blackburn,1,0,H,1,0,H,H Webb,16,9,7,6,15,15,6,6,2,3,0,1
+24/11/08,Wigan,Everton,1,0,H,0,0,D,R Styles,12,7,6,2,8,7,3,3,0,0,0,0
+29/11/08,Aston Villa,Fulham,0,0,D,0,0,D,M Jones,12,5,4,2,9,16,11,4,0,2,0,0
+29/11/08,Middlesbrough,Newcastle,0,0,D,0,0,D,A Wiley,14,10,7,5,9,7,7,2,1,1,0,0
+29/11/08,Stoke,Hull,1,1,D,0,1,A,K Stroud,10,6,5,5,17,20,5,3,2,3,0,0
+29/11/08,Sunderland,Bolton,1,4,A,1,3,A,C Foy,14,11,9,6,9,6,5,6,4,0,0,0
+29/11/08,Wigan,West Brom,2,1,H,0,0,D,P Dowd,17,17,9,9,10,7,6,8,0,2,0,0
+30/11/08,Chelsea,Arsenal,1,2,A,1,0,H,M Dean,12,9,5,6,18,16,3,2,2,0,0,0
+30/11/08,Man City,Man United,0,1,A,0,1,A,H Webb,10,12,1,8,17,15,3,8,2,5,0,1
+30/11/08,Portsmouth,Blackburn,3,2,H,0,0,D,M Halsey,9,10,6,2,5,12,8,10,0,1,0,0
+30/11/08,Tottenham,Everton,0,1,A,0,0,D,S Bennett,14,8,6,6,9,16,5,1,1,3,0,0
+01/12/08,Liverpool,West Ham,0,0,D,0,0,D,P Walton,21,7,8,3,5,7,17,5,1,1,0,0
+06/12/08,Arsenal,Wigan,1,0,H,1,0,H,S Bennett,11,10,4,4,13,13,8,3,1,2,0,0
+06/12/08,Blackburn,Liverpool,1,3,A,0,0,D,A Marriner,7,10,3,6,11,9,5,6,2,2,0,0
+06/12/08,Bolton,Chelsea,0,2,A,0,2,A,H Webb,21,11,11,7,14,16,10,2,2,1,0,0
+06/12/08,Fulham,Man City,1,1,D,1,1,D,R Styles,12,15,8,7,6,5,9,7,2,1,0,0
+06/12/08,Hull,Middlesbrough,2,1,H,0,0,D,S Tanner,17,9,7,7,10,8,8,6,1,1,0,1
+06/12/08,Man United,Sunderland,1,0,H,0,0,D,M Halsey,27,2,15,2,8,8,10,1,1,0,0,0
+06/12/08,Newcastle,Stoke,2,2,D,2,0,H,M Riley,9,12,6,4,10,17,6,3,0,1,0,0
+07/12/08,Everton,Aston Villa,2,3,A,1,1,D,M Atkinson,12,5,7,5,18,16,10,6,2,1,0,0
+07/12/08,West Brom,Portsmouth,1,1,D,1,0,H,M Dean,14,6,8,3,11,12,3,5,1,2,0,0
+08/12/08,West Ham,Tottenham,0,2,A,0,0,D,C Foy,11,17,4,12,13,16,7,5,2,0,0,0
+13/12/08,Aston Villa,Bolton,4,2,H,2,1,H,L Probert,16,9,7,5,7,16,10,3,0,1,0,0
+13/12/08,Liverpool,Hull,2,2,D,2,2,D,A Wiley,22,9,10,3,12,8,8,4,3,3,0,0
+13/12/08,Man City,Everton,0,1,A,0,0,D,M Halsey,7,11,4,4,10,7,5,7,0,1,0,0
+13/12/08,Middlesbrough,Arsenal,1,1,D,1,1,D,P Walton,8,17,3,11,8,11,5,10,0,1,0,0
+13/12/08,Stoke,Fulham,0,0,D,0,0,D,S Attwell,6,9,2,6,16,2,5,6,1,1,0,0
+13/12/08,Sunderland,West Brom,4,0,H,3,0,H,L Mason,16,14,10,6,8,14,1,11,1,2,0,0
+13/12/08,Tottenham,Man United,0,0,D,0,0,D,M Dean,11,15,6,12,10,9,4,14,1,1,0,0
+13/12/08,Wigan,Blackburn,3,0,H,2,0,H,H Webb,10,11,5,4,9,14,6,9,1,1,0,0
+14/12/08,Chelsea,West Ham,1,1,D,0,1,A,M Riley,19,4,12,2,13,20,9,4,3,2,0,0
+14/12/08,Portsmouth,Newcastle,0,3,A,0,0,D,C Foy,18,10,6,5,15,5,8,5,4,1,0,0
+20/12/08,Blackburn,Stoke,3,0,H,3,0,H,P Walton,10,14,9,4,13,11,3,7,0,2,0,0
+20/12/08,Bolton,Portsmouth,2,1,H,2,1,H,M Atkinson,19,8,10,5,14,16,6,3,1,1,0,0
+20/12/08,Fulham,Middlesbrough,3,0,H,1,0,H,K Stroud,19,12,13,5,12,7,6,4,0,2,0,0
+20/12/08,Hull,Sunderland,1,4,A,1,1,D,M Riley,14,15,8,6,20,10,6,6,3,1,1,0
+20/12/08,West Ham,Aston Villa,0,1,A,0,0,D,M Halsey,17,10,13,4,7,10,7,6,2,1,0,0
+21/12/08,Arsenal,Liverpool,1,1,D,1,1,D,H Webb,6,10,3,6,14,17,2,1,3,3,1,0
+21/12/08,Newcastle,Tottenham,2,1,H,1,1,D,A Marriner,7,11,4,6,9,7,4,7,3,2,0,0
+21/12/08,West Brom,Man City,2,1,H,0,0,D,C Foy,12,11,7,7,10,9,5,7,2,1,0,0
+22/12/08,Everton,Chelsea,0,0,D,0,0,D,P Dowd,10,6,8,2,16,12,6,5,0,3,0,1
+26/12/08,Aston Villa,Arsenal,2,2,D,0,1,A,L Mason,13,8,9,6,10,10,7,6,4,4,0,0
+26/12/08,Chelsea,West Brom,2,0,H,2,0,H,R Styles,23,6,15,2,7,7,7,5,1,0,0,0
+26/12/08,Liverpool,Bolton,3,0,H,1,0,H,A Wiley,18,4,8,2,7,12,16,3,1,3,0,0
+26/12/08,Man City,Hull,5,1,H,4,0,H,A Marriner,23,15,16,11,15,14,8,10,0,4,0,0
+26/12/08,Middlesbrough,Everton,0,1,A,0,0,D,M Riley,7,11,5,6,28,14,5,8,5,1,0,0
+26/12/08,Portsmouth,West Ham,1,4,A,1,1,D,S Bennett,21,16,14,9,14,9,9,5,1,3,0,0
+26/12/08,Stoke,Man United,0,1,A,0,0,D,C Foy,6,17,3,10,13,7,6,9,4,2,1,0
+26/12/08,Sunderland,Blackburn,0,0,D,0,0,D,M Atkinson,13,7,8,3,5,11,5,2,0,3,0,0
+26/12/08,Tottenham,Fulham,0,0,D,0,0,D,P Walton,14,10,7,7,7,11,4,2,0,1,0,0
+26/12/08,Wigan,Newcastle,2,1,H,1,0,H,M Dean,11,5,5,3,14,11,7,4,2,3,0,1
+28/12/08,Arsenal,Portsmouth,1,0,H,0,0,D,A Wiley,11,4,7,3,9,9,11,2,0,1,0,0
+28/12/08,Blackburn,Man City,2,2,D,1,0,H,H Webb,11,13,6,3,14,9,4,3,2,1,0,0
+28/12/08,Bolton,Wigan,0,1,A,0,1,A,P Dowd,14,10,8,7,14,13,8,7,2,3,0,0
+28/12/08,Everton,Sunderland,3,0,H,2,0,H,R Styles,10,8,6,5,6,10,8,2,1,4,0,0
+28/12/08,Fulham,Chelsea,2,2,D,1,0,H,A Marriner,5,19,2,14,9,8,1,7,1,2,0,0
+28/12/08,Newcastle,Liverpool,1,5,A,1,2,A,M Halsey,10,17,7,12,7,11,4,9,2,1,0,0
+28/12/08,West Brom,Tottenham,2,0,H,0,0,D,S Tanner,17,4,11,3,13,12,8,4,3,2,0,1
+28/12/08,West Ham,Stoke,2,1,H,0,1,A,M Jones,15,8,7,5,10,13,8,4,3,3,0,1
+29/12/08,Man United,Middlesbrough,1,0,H,0,0,D,M Atkinson,28,7,13,2,10,17,8,4,2,0,0,0
+30/12/08,Hull,Aston Villa,0,1,A,0,0,D,S Bennett,8,7,3,3,11,8,9,5,1,2,0,0
+10/01/09,Arsenal,Bolton,1,0,H,0,0,D,C Foy,14,2,9,2,13,16,5,0,2,2,0,0
+10/01/09,Aston Villa,West Brom,2,1,H,2,0,H,S Bennett,21,9,13,6,12,17,10,7,1,1,0,0
+10/01/09,Everton,Hull,2,0,H,2,0,H,M Atkinson,8,5,5,0,14,26,5,3,2,5,0,0
+10/01/09,Middlesbrough,Sunderland,1,1,D,1,0,H,P Dowd,9,10,3,5,11,13,2,7,0,4,0,0
+10/01/09,Newcastle,West Ham,2,2,D,1,1,D,A Wiley,21,12,12,11,10,18,8,3,1,0,0,0
+10/01/09,Stoke,Liverpool,0,0,D,0,0,D,L Mason,5,7,0,3,10,10,4,5,2,2,0,0
+11/01/09,Man United,Chelsea,3,0,H,1,0,H,H Webb,14,10,11,6,14,14,6,3,3,5,0,0
+11/01/09,Wigan,Tottenham,1,0,H,0,0,D,A Marriner,13,6,5,3,13,13,8,3,3,3,0,0
+14/01/09,Man United,Wigan,1,0,H,1,0,H,S Bennett,9,13,6,3,9,9,4,6,0,3,0,0
+17/01/09,Blackburn,Newcastle,3,0,H,0,0,D,R Styles,9,10,4,3,13,10,2,5,2,3,0,1
+17/01/09,Bolton,Man United,0,1,A,0,0,D,A Marriner,7,16,2,13,8,5,1,8,1,1,0,0
+17/01/09,Chelsea,Stoke,2,1,H,0,0,D,P Walton,37,4,22,1,6,16,10,4,0,3,0,0
+17/01/09,Hull,Arsenal,1,3,A,0,1,A,A Wiley,4,13,3,9,11,19,4,4,1,1,0,0
+17/01/09,Man City,Wigan,1,0,H,0,0,D,L Mason,10,15,3,6,12,16,2,11,1,4,1,0
+17/01/09,Sunderland,Aston Villa,1,2,A,1,0,H,M Dean,9,4,6,3,14,17,8,6,4,2,0,1
+17/01/09,West Brom,Middlesbrough,3,0,H,1,0,H,M Halsey,12,9,8,3,13,4,5,3,0,2,0,1
+18/01/09,Tottenham,Portsmouth,1,1,D,0,0,D,S Bennett,26,11,15,4,6,10,8,4,0,2,0,0
+18/01/09,West Ham,Fulham,3,1,H,1,1,D,P Dowd,11,9,7,5,13,17,3,3,1,3,0,0
+19/01/09,Liverpool,Everton,1,1,D,0,0,D,H Webb,9,7,5,6,19,15,4,4,0,2,0,0
+27/01/09,Portsmouth,Aston Villa,0,1,A,0,1,A,P Walton,17,9,8,2,9,10,17,5,2,2,1,0
+27/01/09,Sunderland,Fulham,1,0,H,0,0,D,M Halsey,16,15,11,8,2,10,3,1,0,0,0,0
+27/01/09,Tottenham,Stoke,3,1,H,3,0,H,M Riley,22,6,14,3,19,21,7,4,2,3,0,0
+27/01/09,West Brom,Man United,0,5,A,0,2,A,R Styles,10,17,4,10,11,7,5,4,5,2,1,0
+28/01/09,Blackburn,Bolton,2,2,D,0,2,A,M Dean,15,9,12,5,12,14,6,4,3,4,0,0
+28/01/09,Chelsea,Middlesbrough,2,0,H,0,0,D,L Probert,23,7,12,5,6,20,8,3,0,2,0,0
+28/01/09,Everton,Arsenal,1,1,D,0,0,D,A Marriner,7,7,3,4,9,11,7,6,2,2,0,0
+28/01/09,Man City,Newcastle,2,1,H,1,0,H,M Jones,14,2,7,1,8,11,7,0,1,2,0,0
+28/01/09,West Ham,Hull,2,0,H,1,0,H,H Webb,25,15,13,12,11,15,11,5,0,1,0,0
+28/01/09,Wigan,Liverpool,1,1,D,0,1,A,P Dowd,3,10,1,5,12,17,2,2,1,0,0,0
+31/01/09,Arsenal,West Ham,0,0,D,0,0,D,S Bennett,15,2,8,2,12,12,13,3,2,2,0,0
+31/01/09,Aston Villa,Wigan,0,0,D,0,0,D,R Styles,16,9,11,4,13,10,6,2,1,1,0,0
+31/01/09,Bolton,Tottenham,3,2,H,1,0,H,P Dowd,13,13,7,10,11,14,2,8,0,1,0,0
+31/01/09,Fulham,Portsmouth,3,1,H,1,0,H,A Wiley,6,12,6,6,9,8,5,8,0,1,0,0
+31/01/09,Hull,West Brom,2,2,D,1,0,H,P Walton,16,13,12,7,13,12,8,6,2,4,0,0
+31/01/09,Man United,Everton,1,0,H,1,0,H,M Halsey,17,7,10,4,11,14,6,2,0,0,0,0
+31/01/09,Middlesbrough,Blackburn,0,0,D,0,0,D,C Foy,7,15,4,10,9,16,3,9,0,4,0,0
+31/01/09,Stoke,Man City,1,0,H,1,0,H,M Atkinson,7,17,4,7,9,9,7,6,1,1,1,0
+01/02/09,Liverpool,Chelsea,2,0,H,0,0,D,M Riley,21,4,15,1,20,15,12,1,4,3,0,1
+01/02/09,Newcastle,Sunderland,1,1,D,0,1,A,H Webb,15,16,10,9,13,19,4,3,2,4,0,0
+07/02/09,Blackburn,Aston Villa,0,2,A,0,1,A,S Bennett,17,15,8,8,11,9,4,13,2,0,0,0
+07/02/09,Chelsea,Hull,0,0,D,0,0,D,L Mason,13,12,6,4,11,16,13,3,1,2,0,0
+07/02/09,Everton,Bolton,3,0,H,1,0,H,P Walton,20,7,11,4,7,17,8,4,1,1,0,0
+07/02/09,Man City,Middlesbrough,1,0,H,0,0,D,A Marriner,20,7,12,4,6,10,13,3,0,1,0,0
+07/02/09,Portsmouth,Liverpool,2,3,A,0,0,D,H Webb,9,14,7,9,10,9,2,4,1,0,0,0
+07/02/09,Sunderland,Stoke,2,0,H,0,0,D,R Styles,12,5,6,1,7,9,3,3,2,1,0,1
+07/02/09,West Brom,Newcastle,2,3,A,1,3,A,C Foy,13,10,7,7,7,11,3,4,2,2,0,0
+07/02/09,Wigan,Fulham,0,0,D,0,0,D,L Probert,10,8,3,2,9,12,4,8,1,2,0,0
+08/02/09,Tottenham,Arsenal,0,0,D,0,0,D,M Dean,16,4,6,1,14,14,6,4,1,2,0,1
+08/02/09,West Ham,Man United,0,1,A,0,0,D,P Dowd,9,11,5,6,14,8,5,11,1,1,0,0
+14/02/09,Portsmouth,Man City,2,0,H,0,0,D,L Probert,15,10,9,7,12,8,8,2,1,3,0,0
+18/02/09,Man United,Fulham,3,0,H,2,0,H,A Marriner,17,5,9,0,7,13,11,2,1,1,0,0
+21/02/09,Arsenal,Sunderland,0,0,D,0,0,D,A Wiley,16,3,9,2,6,12,8,3,2,2,0,0
+21/02/09,Aston Villa,Chelsea,0,1,A,0,1,A,M Halsey,12,18,5,12,9,12,6,11,1,3,0,0
+21/02/09,Bolton,West Ham,2,1,H,2,0,H,S Tanner,12,17,8,12,18,14,4,13,0,2,0,0
+21/02/09,Man United,Blackburn,2,1,H,1,1,D,H Webb,15,12,7,7,7,19,4,7,2,2,0,0
+21/02/09,Middlesbrough,Wigan,0,0,D,0,0,D,M Dean,6,12,3,6,6,15,5,1,2,4,0,0
+21/02/09,Stoke,Portsmouth,2,2,D,0,0,D,M Jones,6,6,2,2,6,10,2,3,1,3,0,0
+22/02/09,Fulham,West Brom,2,0,H,0,0,D,M Atkinson,19,8,9,5,11,10,12,4,0,1,0,0
+22/02/09,Liverpool,Man City,1,1,D,0,0,D,P Dowd,18,10,5,4,10,13,6,4,1,2,0,0
+22/02/09,Newcastle,Everton,0,0,D,0,0,D,L Mason,4,15,0,5,15,15,0,6,0,1,1,0
+23/02/09,Hull,Tottenham,1,2,A,1,1,D,L Probert,12,9,4,6,11,7,11,13,2,1,0,0
+28/02/09,Arsenal,Fulham,0,0,D,0,0,D,P Walton,16,12,8,3,6,14,11,6,0,0,0,0
+28/02/09,Chelsea,Wigan,2,1,H,1,0,H,L Probert,17,13,13,7,14,11,12,8,3,2,0,0
+28/02/09,Everton,West Brom,2,0,H,1,0,H,S Bennett,11,17,6,9,9,14,3,6,1,1,0,0
+28/02/09,Middlesbrough,Liverpool,2,0,H,1,0,H,R Styles,5,16,3,7,2,6,2,9,2,0,0,0
+01/03/09,Aston Villa,Stoke,2,2,D,1,0,H,H Webb,11,7,7,3,7,12,6,6,1,1,0,0
+01/03/09,Bolton,Newcastle,1,0,H,0,0,D,A Wiley,10,19,6,11,14,9,1,10,2,3,0,0
+01/03/09,Hull,Blackburn,1,2,A,0,2,A,M Atkinson,9,8,5,6,14,19,6,4,2,3,1,1
+01/03/09,West Ham,Man City,1,0,H,0,0,D,M Dean,13,9,9,2,14,18,4,7,2,2,0,0
+03/03/09,Liverpool,Sunderland,2,0,H,0,0,D,M Halsey,22,5,12,2,9,6,6,2,1,1,0,0
+03/03/09,Portsmouth,Chelsea,0,1,A,0,0,D,P Dowd,13,20,9,11,7,15,6,5,0,0,0,0
+03/03/09,West Brom,Arsenal,1,3,A,1,3,A,S Tanner,8,16,4,8,19,14,3,4,4,0,0,0
+04/03/09,Blackburn,Everton,0,0,D,0,0,D,A Wiley,8,9,3,5,11,14,2,4,1,0,0,0
+04/03/09,Fulham,Hull,0,1,A,0,0,D,M Jones,17,10,9,3,11,14,13,5,3,1,0,0
+04/03/09,Man City,Aston Villa,2,0,H,1,0,H,C Foy,15,7,7,5,7,11,6,5,1,2,0,0
+04/03/09,Newcastle,Man United,1,2,A,1,1,D,S Bennett,9,11,6,9,10,10,3,10,2,2,0,0
+04/03/09,Stoke,Bolton,2,0,H,1,0,H,M Dean,11,12,6,9,16,14,7,6,2,1,0,0
+04/03/09,Tottenham,Middlesbrough,4,0,H,3,0,H,H Webb,12,15,7,6,7,6,4,8,0,1,0,0
+04/03/09,Wigan,West Ham,0,1,A,0,1,A,S Attwell,20,8,8,4,9,11,8,1,2,5,1,1
+07/03/09,Sunderland,Tottenham,1,1,D,1,0,H,P Dowd,8,13,3,8,17,9,4,1,3,2,0,0
+11/03/09,Fulham,Blackburn,1,2,A,1,0,H,R Styles,10,16,8,9,14,8,9,9,1,1,0,0
+14/03/09,Arsenal,Blackburn,4,0,H,1,0,H,P Dowd,18,7,12,3,8,14,7,4,0,4,0,0
+14/03/09,Bolton,Fulham,1,3,A,1,1,D,C Foy,14,14,9,8,10,7,4,5,0,0,0,0
+14/03/09,Everton,Stoke,3,1,H,2,0,H,A Marriner,17,10,13,5,7,12,4,9,0,1,0,0
+14/03/09,Hull,Newcastle,1,1,D,1,1,D,H Webb,9,9,2,3,18,13,3,3,3,3,0,0
+14/03/09,Man United,Liverpool,1,4,A,1,2,A,A Wiley,14,9,9,6,14,15,10,3,2,3,1,0
+14/03/09,Middlesbrough,Portsmouth,1,1,D,0,1,A,M Atkinson,16,8,11,4,9,11,12,4,1,3,1,0
+14/03/09,Sunderland,Wigan,1,2,A,1,2,A,M Dean,7,9,3,5,8,11,6,2,0,1,0,0
+15/03/09,Aston Villa,Tottenham,1,2,A,0,1,A,S Bennett,11,10,5,9,12,9,9,5,1,3,0,0
+15/03/09,Chelsea,Man City,1,0,H,1,0,H,M Riley,18,6,6,3,7,8,4,3,0,2,0,0
+16/03/09,West Ham,West Brom,0,0,D,0,0,D,M Halsey,9,8,4,4,10,10,3,4,1,1,0,0
+21/03/09,Blackburn,West Ham,1,1,D,0,1,A,C Foy,15,6,11,2,14,9,6,1,2,1,0,0
+21/03/09,Fulham,Man United,2,0,H,1,0,H,P Dowd,15,13,6,8,14,10,3,4,2,4,0,2
+21/03/09,Newcastle,Arsenal,1,3,A,0,0,D,M Halsey,11,15,8,10,12,12,8,4,0,1,0,0
+21/03/09,Portsmouth,Everton,2,1,H,1,1,D,P Walton,16,5,11,2,19,8,7,4,2,1,0,0
+21/03/09,Stoke,Middlesbrough,1,0,H,0,0,D,L Mason,10,17,4,8,18,13,5,4,4,1,0,0
+21/03/09,Tottenham,Chelsea,1,0,H,0,0,D,M Dean,8,15,4,9,14,8,8,7,2,2,0,0
+21/03/09,West Brom,Bolton,1,1,D,0,0,D,H Webb,11,14,4,11,10,12,8,4,2,1,0,0
+22/03/09,Liverpool,Aston Villa,5,0,H,3,0,H,M Atkinson,14,6,7,4,10,13,4,6,1,3,0,1
+22/03/09,Man City,Sunderland,1,0,H,0,0,D,S Tanner,18,6,10,5,16,12,7,7,3,6,0,1
+22/03/09,Wigan,Hull,1,0,H,0,0,D,A Marriner,16,8,6,2,14,13,5,4,1,3,0,0
+04/04/09,Arsenal,Man City,2,0,H,1,0,H,A Marriner,17,9,9,4,11,9,7,2,1,3,0,0
+04/04/09,Blackburn,Tottenham,2,1,H,0,1,A,P Walton,11,9,6,3,13,9,4,7,1,1,0,1
+04/04/09,Bolton,Middlesbrough,4,1,H,2,1,H,A Wiley,16,19,9,4,20,14,7,5,2,1,0,0
+04/04/09,Fulham,Liverpool,0,1,A,0,0,D,S Bennett,3,19,1,10,8,10,3,6,2,2,0,0
+04/04/09,Hull,Portsmouth,0,0,D,0,0,D,C Foy,9,7,1,2,13,14,1,4,0,2,0,1
+04/04/09,Newcastle,Chelsea,0,2,A,0,0,D,R Styles,6,16,4,10,7,17,4,6,0,2,0,0
+04/04/09,West Brom,Stoke,0,2,A,0,1,A,M Atkinson,12,9,9,6,10,10,6,3,2,1,0,0
+04/04/09,West Ham,Sunderland,2,0,H,1,0,H,M Jones,16,14,11,9,10,7,11,8,1,1,0,0
+05/04/09,Everton,Wigan,4,0,H,1,0,H,P Dowd,14,14,10,8,17,11,1,4,0,3,0,0
+05/04/09,Man United,Aston Villa,3,2,H,1,1,D,M Riley,14,8,9,8,11,15,8,4,1,2,0,0
+11/04/09,Chelsea,Bolton,4,3,H,1,0,H,P Walton,20,14,9,6,11,17,8,4,0,0,0,0
+11/04/09,Liverpool,Blackburn,4,0,H,2,0,H,M Riley,22,7,12,5,6,13,7,2,2,1,0,0
+11/04/09,Middlesbrough,Hull,3,1,H,2,1,H,P Dowd,15,12,9,6,15,16,3,3,3,3,0,0
+11/04/09,Portsmouth,West Brom,2,2,D,1,0,H,M Dean,14,12,4,7,16,10,4,2,3,1,0,0
+11/04/09,Stoke,Newcastle,1,1,D,1,0,H,C Foy,17,8,6,2,14,11,8,4,4,2,0,0
+11/04/09,Sunderland,Man United,1,2,A,0,1,A,R Styles,12,18,7,8,6,3,5,4,1,2,0,0
+11/04/09,Tottenham,West Ham,1,0,H,0,0,D,M Atkinson,14,8,9,6,9,12,10,1,1,4,0,0
+11/04/09,Wigan,Arsenal,1,4,A,1,0,H,A Wiley,11,15,5,8,15,16,6,5,3,3,0,0
+12/04/09,Aston Villa,Everton,3,3,D,1,2,A,H Webb,15,10,8,6,9,15,11,7,0,2,0,0
+12/04/09,Man City,Fulham,1,3,A,1,0,H,M Halsey,13,15,5,11,9,8,8,3,0,1,0,0
+18/04/09,Aston Villa,West Ham,1,1,D,1,0,H,R Styles,17,18,7,9,9,10,12,11,2,3,0,0
+18/04/09,Middlesbrough,Fulham,0,0,D,0,0,D,P Walton,18,11,14,6,10,14,9,1,3,1,0,0
+18/04/09,Portsmouth,Bolton,1,0,H,0,0,D,P Dowd,20,5,10,1,11,14,6,5,2,4,0,0
+18/04/09,Stoke,Blackburn,1,0,H,0,0,D,H Webb,6,3,2,1,11,4,4,6,3,1,0,0
+18/04/09,Sunderland,Hull,1,0,H,1,0,H,M Dean,8,13,4,3,11,23,6,6,2,3,0,0
+19/04/09,Man City,West Brom,4,2,H,2,1,H,M Jones,18,26,11,17,18,14,3,9,1,2,0,0
+19/04/09,Tottenham,Newcastle,1,0,H,1,0,H,M Halsey,22,8,18,3,13,15,4,7,1,2,0,0
+21/04/09,Liverpool,Arsenal,4,4,D,0,1,A,H Webb,22,8,15,4,10,12,12,0,0,1,0,0
+22/04/09,Chelsea,Everton,0,0,D,0,0,D,M Halsey,18,14,6,5,9,10,4,6,0,1,0,0
+22/04/09,Man United,Portsmouth,2,0,H,1,0,H,P Walton,20,5,14,1,10,8,6,2,1,0,0,0
+25/04/09,Bolton,Aston Villa,1,1,D,0,1,A,L Probert,9,14,6,6,12,9,4,5,0,1,0,0
+25/04/09,Everton,Man City,1,2,A,0,1,A,A Wiley,12,16,4,10,12,14,5,3,1,3,0,0
+25/04/09,Fulham,Stoke,1,0,H,1,0,H,L Mason,10,9,7,2,8,11,5,7,1,2,0,0
+25/04/09,Hull,Liverpool,1,3,A,0,1,A,M Atkinson,7,21,5,8,15,14,3,8,3,1,1,0
+25/04/09,Man United,Tottenham,5,2,H,0,2,A,H Webb,21,6,14,4,14,10,6,2,3,3,0,0
+25/04/09,West Brom,Sunderland,3,0,H,1,0,H,M Halsey,15,9,9,5,9,14,6,3,0,1,0,0
+25/04/09,West Ham,Chelsea,0,1,A,0,0,D,M Dean,8,20,6,8,9,11,3,5,1,0,0,0
+26/04/09,Arsenal,Middlesbrough,2,0,H,1,0,H,C Foy,15,5,11,4,8,13,8,1,0,0,0,0
+26/04/09,Blackburn,Wigan,2,0,H,1,0,H,P Walton,14,17,8,8,11,11,3,9,0,0,0,0
+27/04/09,Newcastle,Portsmouth,0,0,D,0,0,D,M Riley,13,15,8,7,13,8,7,10,2,2,0,0
+02/05/09,Chelsea,Fulham,3,1,H,2,1,H,A Wiley,13,8,5,3,6,7,5,4,0,1,0,0
+02/05/09,Man City,Blackburn,3,1,H,3,0,H,M Dean,9,16,7,9,10,14,7,6,2,3,0,0
+02/05/09,Middlesbrough,Man United,0,2,A,0,1,A,M Halsey,11,13,5,4,7,7,3,3,1,1,0,0
+02/05/09,Portsmouth,Arsenal,0,3,A,0,2,A,L Mason,12,15,4,9,9,10,5,11,3,1,1,0
+02/05/09,Stoke,West Ham,0,1,A,0,1,A,P Walton,13,7,7,3,8,9,7,0,3,2,0,0
+02/05/09,Tottenham,West Brom,1,0,H,1,0,H,R Styles,16,10,9,7,6,7,9,7,1,1,0,0
+02/05/09,Wigan,Bolton,0,0,D,0,0,D,M Jones,16,10,7,2,14,10,9,6,2,3,0,0
+03/05/09,Liverpool,Newcastle,3,0,H,2,0,H,P Dowd,25,3,11,3,6,8,7,1,0,2,0,1
+03/05/09,Sunderland,Everton,0,2,A,0,0,D,M Atkinson,8,10,3,8,15,12,9,3,3,4,0,0
+04/05/09,Aston Villa,Hull,1,0,H,1,0,H,M Dean,12,9,8,5,13,10,13,7,0,2,0,0
+09/05/09,Blackburn,Portsmouth,2,0,H,1,0,H,M Riley,8,7,6,4,20,12,4,3,2,1,0,0
+09/05/09,Bolton,Sunderland,0,0,D,0,0,D,R Styles,8,15,4,4,12,3,10,3,2,0,0,0
+09/05/09,Everton,Tottenham,0,0,D,0,0,D,L Mason,13,4,5,2,16,10,4,5,2,3,0,0
+09/05/09,Fulham,Aston Villa,3,1,H,1,1,D,M Halsey,15,7,11,2,10,9,7,5,1,0,0,0
+09/05/09,Hull,Stoke,1,2,A,0,1,A,H Webb,14,10,5,2,12,15,5,3,0,1,0,0
+09/05/09,West Brom,Wigan,3,1,H,1,1,D,P Walton,12,11,10,4,12,8,5,3,2,0,0,0
+09/05/09,West Ham,Liverpool,0,3,A,0,2,A,A Wiley,8,16,3,9,10,17,2,4,3,2,0,0
+10/05/09,Arsenal,Chelsea,1,4,A,0,2,A,P Dowd,15,16,7,8,19,12,6,2,1,0,0,0
+10/05/09,Man United,Man City,2,0,H,2,0,H,C Foy,15,11,7,5,11,12,8,7,1,1,0,0
+11/05/09,Newcastle,Middlesbrough,3,1,H,1,1,D,M Dean,19,11,9,5,7,15,11,1,3,1,0,0
+13/05/09,Wigan,Man United,1,2,A,1,0,H,R Styles,13,18,5,9,11,2,5,4,0,0,0,0
+16/05/09,Bolton,Hull,1,1,D,1,0,H,P Walton,16,20,9,12,11,9,5,7,1,2,0,0
+16/05/09,Everton,West Ham,3,1,H,1,1,D,P Dowd,18,8,9,3,15,14,6,3,1,2,0,1
+16/05/09,Man United,Arsenal,0,0,D,0,0,D,M Dean,11,14,5,11,13,14,2,6,0,5,0,0
+16/05/09,Middlesbrough,Aston Villa,1,1,D,1,0,H,M Riley,10,8,6,6,11,16,6,8,0,2,0,0
+16/05/09,Newcastle,Fulham,0,1,A,0,1,A,H Webb,12,12,6,5,7,17,6,2,0,3,1,0
+16/05/09,Stoke,Wigan,2,0,H,0,0,D,L Probert,13,8,8,3,8,11,6,3,0,0,0,0
+16/05/09,Tottenham,Man City,2,1,H,1,0,H,M Halsey,11,9,4,3,5,7,4,7,0,1,0,0
+17/05/09,Chelsea,Blackburn,2,0,H,1,0,H,R Styles,21,8,12,5,6,6,1,4,1,2,0,0
+17/05/09,West Brom,Liverpool,0,2,A,0,1,A,M Atkinson,12,16,7,10,13,4,11,5,2,0,0,0
+18/05/09,Portsmouth,Sunderland,3,1,H,0,0,D,A Wiley,9,20,4,9,11,6,5,6,1,0,0,0
+24/05/09,Arsenal,Stoke,4,1,H,4,1,H,M Atkinson,24,3,11,1,9,11,6,0,1,0,0,0
+24/05/09,Aston Villa,Newcastle,1,0,H,1,0,H,C Foy,15,8,5,3,8,10,5,3,0,2,0,1
+24/05/09,Blackburn,West Brom,0,0,D,0,0,D,M Jones,10,13,5,5,14,11,4,9,0,1,1,0
+24/05/09,Fulham,Everton,0,2,A,0,1,A,M Riley,10,13,4,10,15,10,2,2,0,0,0,0
+24/05/09,Hull,Man United,0,1,A,0,1,A,A Wiley,12,12,8,5,17,11,8,3,2,1,0,0
+24/05/09,Liverpool,Tottenham,3,1,H,1,0,H,P Walton,20,8,9,4,14,4,9,2,0,1,0,0
+24/05/09,Man City,Bolton,1,0,H,1,0,H,M Clattenburg,20,8,12,4,8,10,15,9,0,0,0,0
+24/05/09,Sunderland,Chelsea,2,3,A,0,0,D,M Halsey,8,14,7,9,8,7,6,7,1,1,0,0
+24/05/09,West Ham,Middlesbrough,2,1,H,1,0,H,H Webb,14,17,8,6,14,10,4,5,0,1,0,0
+24/05/09,Wigan,Portsmouth,1,0,H,1,0,H,P Dowd,19,9,10,3,8,21,8,2,0,4,0,0

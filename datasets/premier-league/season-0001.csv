@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+19/08/00,Charlton,Man City,4,0,H,2,0,H,Rob Harris,17,8,14,4,13,12,6,6,1,2,0,0
+19/08/00,Chelsea,West Ham,4,2,H,1,0,H,Graham Barber,17,12,10,5,19,14,7,7,1,2,0,0
+19/08/00,Coventry,Middlesbrough,1,3,A,1,1,D,Barry Knight,6,16,3,9,15,21,8,4,5,3,1,0
+19/08/00,Derby,Southampton,2,2,D,1,2,A,Andy D'Urso,6,13,4,6,11,13,5,8,1,1,0,0
+19/08/00,Leeds,Everton,2,0,H,2,0,H,Dermot Gallagher,17,12,8,6,21,20,6,4,1,3,0,0
+19/08/00,Leicester,Aston Villa,0,0,D,0,0,D,Mike Riley,5,5,4,3,12,12,5,4,2,3,0,0
+19/08/00,Liverpool,Bradford,1,0,H,0,0,D,Paul Durkin,16,3,10,2,8,8,6,1,1,1,0,0
+19/08/00,Sunderland,Arsenal,1,0,H,0,0,D,Steve Dunn,8,14,2,7,10,21,2,9,3,1,0,1
+19/08/00,Tottenham,Ipswich,3,1,H,2,1,H,Alan Wiley,20,15,6,5,14,13,3,4,0,0,0,0
+20/08/00,Man United,Newcastle,2,0,H,1,0,H,Steve Lodge,19,9,9,6,7,13,7,1,0,1,0,0
+21/08/00,Arsenal,Liverpool,2,0,H,1,0,H,Graham Poll,17,7,12,4,25,20,10,11,2,4,1,2
+22/08/00,Bradford,Chelsea,2,0,H,1,0,H,Mark Halsey,12,14,3,6,14,16,6,4,0,1,0,0
+22/08/00,Ipswich,Man United,1,1,D,1,1,D,Jeff Winter,13,15,8,6,10,7,4,6,1,4,0,0
+22/08/00,Middlesbrough,Tottenham,1,1,D,0,1,A,Peter Jones,12,11,6,4,9,18,5,5,2,1,0,0
+23/08/00,Everton,Charlton,3,0,H,0,0,D,Andy Hall,13,8,8,4,17,15,3,5,2,1,0,1
+23/08/00,Man City,Sunderland,4,2,H,2,0,H,David Ellaray,15,9,10,4,24,14,7,3,3,3,0,0
+23/08/00,Newcastle,Derby,3,2,H,1,1,D,Dermot Gallagher,9,10,4,5,23,11,9,6,0,3,1,0
+23/08/00,Southampton,Coventry,1,2,A,0,1,A,F Taylor,12,7,4,5,18,20,6,5,5,3,0,0
+23/08/00,West Ham,Leicester,0,1,A,0,0,D,Rob Styles,17,4,12,2,16,14,11,5,3,3,1,0
+26/08/00,Arsenal,Charlton,5,3,H,1,2,A,Steve Lodge,18,7,9,4,12,15,8,3,0,1,0,0
+26/08/00,Bradford,Leicester,0,0,D,0,0,D,Steve Bennett,8,13,4,8,11,12,6,8,1,2,0,0
+26/08/00,Everton,Derby,2,2,D,2,0,H,Mike Riley,12,7,9,4,11,9,11,2,2,3,0,0
+26/08/00,Ipswich,Sunderland,1,0,H,0,0,D,Graham Poll,14,9,5,3,10,12,7,6,1,1,0,0
+26/08/00,Man City,Coventry,1,2,A,0,2,A,Andy D'Urso,14,9,5,8,7,12,5,5,2,3,0,0
+26/08/00,Middlesbrough,Leeds,1,2,A,0,2,A,Graham Barber,15,16,8,11,12,20,4,8,2,0,0,0
+26/08/00,Newcastle,Tottenham,2,0,H,1,0,H,David Ellaray,15,10,6,2,13,10,4,2,0,0,0,0
+26/08/00,Southampton,Liverpool,3,3,D,0,1,A,Jeff Winter,14,9,7,4,7,6,7,1,0,0,0,0
+26/08/00,West Ham,Man United,2,2,D,0,1,A,Dermot Gallagher,17,8,8,5,12,9,7,5,1,0,0,0
+27/08/00,Aston Villa,Chelsea,1,1,D,1,1,D,Paul Durkin,12,11,9,7,13,12,7,10,0,1,0,0
+05/09/00,Leeds,Man City,1,2,A,0,2,A,Graham Poll,6,8,1,3,18,24,9,4,2,2,0,0
+05/09/00,Man United,Bradford,6,0,H,2,0,H,Ian Harris,21,6,12,4,12,10,5,1,0,1,0,0
+05/09/00,Sunderland,West Ham,1,1,D,1,1,D,Peter Jones,17,16,7,9,19,14,4,11,2,3,0,0
+05/09/00,Tottenham,Everton,3,2,H,1,2,A,Barry Knight,11,11,7,6,11,10,7,5,1,2,0,0
+06/09/00,Charlton,Southampton,1,1,D,0,0,D,Mark Halsey,8,11,6,3,14,16,10,14,3,3,1,0
+06/09/00,Chelsea,Arsenal,2,2,D,1,0,H,Mike Riley,12,13,5,5,16,22,7,6,3,1,0,0
+06/09/00,Coventry,Newcastle,0,2,A,0,1,A,Alan Wiley,13,13,3,6,11,18,6,8,1,1,0,0
+06/09/00,Derby,Middlesbrough,3,3,D,0,1,A,Rob Styles,9,5,5,4,8,10,11,5,3,2,0,0
+06/09/00,Leicester,Ipswich,2,1,H,0,0,D,Paul Taylor,12,7,6,3,12,13,6,2,1,1,0,0
+06/09/00,Liverpool,Aston Villa,3,1,H,3,0,H,Neale Barry,11,9,7,4,13,7,8,7,0,2,0,0
+09/09/00,Bradford,Arsenal,1,1,D,1,0,H,Alan Wiley,9,18,5,11,17,13,4,10,0,2,0,0
+09/09/00,Coventry,Leeds,0,0,D,0,0,D,Paul Durkin,9,11,1,5,15,14,6,6,2,2,0,0
+09/09/00,Ipswich,Aston Villa,1,2,A,0,1,A,Andy D'Urso,15,5,5,2,9,13,5,3,1,3,0,0
+09/09/00,Leicester,Southampton,1,0,H,0,0,D,Mike Dean,17,9,6,5,6,9,10,6,0,0,0,0
+09/09/00,Liverpool,Man City,3,2,H,1,0,H,Graham Barber,14,9,8,7,17,17,9,4,3,4,0,0
+09/09/00,Man United,Sunderland,3,0,H,1,0,H,Neale Barry,15,5,7,1,18,14,4,4,1,3,0,0
+09/09/00,Middlesbrough,Everton,1,2,A,1,0,H,Steve Bennett,9,12,5,9,16,5,7,7,3,0,0,0
+09/09/00,Newcastle,Chelsea,0,0,D,0,0,D,Graham Poll,10,10,4,3,17,21,5,6,0,3,0,0
+10/09/00,Derby,Charlton,2,2,D,2,0,H,Peter Jones,12,10,6,6,17,12,4,11,3,1,0,0
+11/09/00,Tottenham,West Ham,1,0,H,0,0,D,Steve Dunn,15,11,7,5,14,13,11,3,1,2,0,0
+16/09/00,Arsenal,Coventry,2,1,H,1,0,H,Mike Dean,18,6,13,2,5,13,8,4,1,2,0,0
+16/09/00,Aston Villa,Bradford,2,0,H,1,0,H,Rob Styles,12,8,7,4,8,12,5,6,0,2,0,0
+16/09/00,Charlton,Tottenham,1,0,H,1,0,H,Jeff Winter,9,10,5,5,8,10,7,5,0,0,0,0
+16/09/00,Everton,Man United,1,3,A,0,3,A,Dermot Gallagher,6,17,4,9,10,11,6,5,4,1,0,0
+16/09/00,Leeds,Ipswich,1,2,A,1,1,D,Mark Halsey,11,12,6,7,12,19,6,3,1,3,0,0
+16/09/00,Southampton,Newcastle,2,0,H,0,0,D,Barry Knight,13,10,9,7,14,14,4,8,0,0,0,0
+16/09/00,Sunderland,Derby,2,1,H,1,0,H,Paul Taylor,15,10,8,5,16,28,4,5,2,3,0,0
+17/09/00,Chelsea,Leicester,0,2,A,0,1,A,Graham Barber,16,7,10,5,16,17,15,3,3,1,0,0
+17/09/00,Man City,Middlesbrough,1,1,D,0,0,D,Steve Lodge,11,4,4,2,15,11,9,3,2,5,0,0
+17/09/00,West Ham,Liverpool,1,1,D,0,1,A,David Ellaray,15,7,4,2,5,13,9,0,0,2,0,0
+23/09/00,Bradford,Southampton,0,1,A,0,1,A,Steve Dunn,14,6,6,4,14,18,7,5,3,1,0,0
+23/09/00,Coventry,West Ham,0,3,A,0,2,A,Neale Barry,9,12,2,10,12,11,5,6,0,1,0,0
+23/09/00,Derby,Leeds,1,1,D,0,1,A,Barry Knight,13,16,7,6,17,15,7,4,2,2,1,0
+23/09/00,Ipswich,Arsenal,1,1,D,0,0,D,Paul Durkin,17,10,6,4,8,13,4,7,1,2,0,0
+23/09/00,Liverpool,Sunderland,1,1,D,1,1,D,Mike Riley,11,8,6,3,14,18,12,3,2,2,0,0
+23/09/00,Man United,Chelsea,3,3,D,3,2,H,Peter Jones,11,13,5,5,15,19,8,4,3,2,0,0
+23/09/00,Middlesbrough,Aston Villa,1,1,D,0,0,D,Mark Halsey,12,15,5,7,7,14,5,5,3,0,0,0
+23/09/00,Newcastle,Charlton,0,1,A,0,1,A,Andy D'Urso,12,4,5,2,14,10,4,7,1,2,0,0
+23/09/00,Tottenham,Man City,0,0,D,0,0,D,Steve Bennett,18,7,5,2,10,14,5,4,0,2,0,0
+24/09/00,Leicester,Everton,1,1,D,1,0,H,Alan Wiley,10,9,4,3,14,13,9,3,3,1,0,0
+30/09/00,Aston Villa,Derby,4,1,H,2,0,H,David Ellaray,12,11,7,6,0,1,6,6,1,1,0,0
+30/09/00,Charlton,Coventry,2,2,D,0,1,A,Rob Styles,12,10,8,6,8,16,6,6,1,2,0,0
+30/09/00,Everton,Ipswich,0,3,A,0,1,A,Jeff Winter,7,9,3,7,6,5,4,1,1,0,0,0
+30/09/00,Leeds,Tottenham,4,3,H,0,1,A,Neale Barry,14,10,7,5,11,20,6,4,0,2,0,0
+30/09/00,Man City,Newcastle,0,1,A,0,0,D,Paul Taylor,9,15,7,9,16,12,10,8,0,1,0,0
+30/09/00,Southampton,Middlesbrough,1,3,A,0,2,A,Graham Poll,16,7,8,5,6,22,6,6,2,2,0,0
+30/09/00,West Ham,Bradford,1,1,D,1,0,H,Mike Dean,14,9,6,6,14,10,7,2,3,2,0,0
+01/10/00,Arsenal,Man United,1,0,H,1,0,H,Graham Barber,7,13,5,4,18,17,3,11,2,3,0,0
+01/10/00,Chelsea,Liverpool,3,0,H,2,0,H,Dermot Gallagher,11,10,5,2,14,14,3,1,1,1,0,0
+01/10/00,Sunderland,Leicester,0,0,D,0,0,D,Steve Lodge,11,8,5,2,12,8,6,2,3,1,0,0
+14/10/00,Arsenal,Aston Villa,1,0,H,0,0,D,Rob Harris,16,8,10,3,12,20,7,4,1,4,0,1
+14/10/00,Coventry,Tottenham,2,1,H,2,0,H,Peter Jones,0,4,5,5,12,16,3,5,0,4,1,0
+14/10/00,Everton,Southampton,1,1,D,0,0,D,David Ellaray,7,7,3,4,16,13,9,8,1,3,0,0
+14/10/00,Ipswich,West Ham,1,1,D,1,0,H,Neale Barry,11,7,8,2,10,11,8,5,0,4,0,0
+14/10/00,Leeds,Charlton,3,1,H,1,0,H,Mike Dean,22,10,10,8,7,9,8,5,0,1,0,0
+14/10/00,Leicester,Man United,0,3,A,0,1,A,Paul Durkin,10,16,4,5,8,11,6,7,0,0,0,0
+14/10/00,Man City,Bradford,2,0,H,2,0,H,Barry Knight,13,10,10,2,10,16,5,6,0,2,0,0
+14/10/00,Sunderland,Chelsea,1,0,H,0,0,D,Jeff Winter,16,11,11,2,12,18,5,0,0,1,1,1
+15/10/00,Derby,Liverpool,0,4,A,0,1,A,Steve Bennett,6,16,0,11,18,13,4,3,1,1,0,0
+16/10/00,Middlesbrough,Newcastle,1,3,A,0,1,A,Steve Dunn,8,15,2,8,8,13,6,6,2,1,0,0
+21/10/00,Bradford,Ipswich,0,2,A,0,1,A,Paul Taylor,7,12,3,3,15,14,9,1,1,0,0,0
+21/10/00,Charlton,Middlesbrough,1,0,H,0,0,D,Mike Riley,5,8,2,6,11,19,5,6,2,2,0,0
+21/10/00,Chelsea,Coventry,6,1,H,2,0,H,Steve Lodge,33,3,19,3,6,8,10,0,0,1,0,1
+21/10/00,Liverpool,Leicester,1,0,H,0,0,D,Andy D'Urso,24,8,11,3,8,10,10,9,1,2,0,0
+21/10/00,Man United,Leeds,3,0,H,1,0,H,Jeff Winter,26,5,14,0,9,18,12,4,0,2,0,0
+21/10/00,Newcastle,Everton,0,1,A,0,0,D,Mark Halsey,11,9,4,4,9,12,5,4,1,3,0,0
+21/10/00,Tottenham,Derby,3,1,H,2,1,H,Mike Dean,18,8,8,7,9,16,7,4,1,2,0,0
+21/10/00,West Ham,Arsenal,1,2,A,0,2,A,Dermot Gallagher,11,13,3,5,15,11,5,4,1,0,0,0
+22/10/00,Aston Villa,Sunderland,0,0,D,0,0,D,Rob Styles,17,7,4,3,11,17,7,3,1,3,0,0
+23/10/00,Southampton,Man City,0,2,A,0,1,A,Alan Wiley,19,11,6,4,10,15,9,3,1,2,0,0
+28/10/00,Arsenal,Man City,5,0,H,1,0,H,Rob Styles,22,6,14,2,6,13,10,4,0,3,0,1
+28/10/00,Aston Villa,Charlton,2,1,H,2,0,H,Dermot Gallagher,12,7,7,4,13,11,9,6,3,2,0,0
+28/10/00,Chelsea,Tottenham,3,0,H,2,0,H,Steve Dunn,9,6,7,3,12,14,2,3,3,3,0,0
+28/10/00,Ipswich,Middlesbrough,2,1,H,2,0,H,Neale Barry,19,7,11,3,8,17,6,1,0,2,0,0
+28/10/00,Leicester,Derby,2,1,H,1,1,D,Graham Poll,9,7,5,2,9,18,7,3,0,3,0,0
+28/10/00,Man United,Southampton,5,0,H,2,0,H,Andy D'Urso,16,12,8,5,5,9,7,7,0,0,0,0
+28/10/00,Sunderland,Coventry,1,0,H,0,0,D,Alan Wiley,11,10,7,4,17,10,1,3,2,2,0,0
+28/10/00,West Ham,Newcastle,1,0,H,0,0,D,Mike Riley,11,12,4,5,15,10,3,8,3,2,0,0
+29/10/00,Bradford,Leeds,1,1,D,1,0,H,Steve Lodge,11,12,6,9,15,15,5,9,3,4,0,0
+29/10/00,Liverpool,Everton,3,1,H,1,1,D,Paul Durkin,10,9,8,7,10,10,9,6,0,1,0,1
+04/11/00,Charlton,Bradford,2,0,H,2,0,H,Neale Barry,11,12,7,8,10,20,3,6,0,1,0,1
+04/11/00,Coventry,Man United,1,2,A,0,2,A,Graham Poll,4,11,2,6,17,8,3,9,1,1,0,0
+04/11/00,Leeds,Liverpool,4,3,H,1,2,A,David Ellaray,10,14,7,8,18,18,7,7,1,4,0,0
+04/11/00,Man City,Leicester,0,1,A,0,0,D,Mark Halsey,14,3,3,2,12,14,9,4,1,2,0,0
+04/11/00,Middlesbrough,Arsenal,0,1,A,0,1,A,Andy D'Urso,4,11,3,8,10,11,5,8,1,1,1,0
+04/11/00,Newcastle,Ipswich,2,1,H,1,1,D,Alan Wiley,11,8,6,5,13,7,7,4,1,0,0,0
+04/11/00,Southampton,Chelsea,3,2,H,2,0,H,Jeff Winter,10,9,4,4,16,11,7,7,4,2,0,0
+04/11/00,Tottenham,Sunderland,2,1,H,1,0,H,Dermot Gallagher,11,12,6,3,18,9,8,7,1,0,1,0
+05/11/00,Everton,Aston Villa,0,1,A,0,0,D,Steve Lodge,14,4,6,1,17,23,6,2,3,2,0,0
+06/11/00,Derby,West Ham,0,0,D,0,0,D,Paul Durkin,14,6,2,6,14,18,6,1,1,1,0,0
+11/11/00,Arsenal,Derby,0,0,D,0,0,D,Steve Lodge,15,9,9,2,12,13,10,0,0,2,0,0
+11/11/00,Aston Villa,Tottenham,2,0,H,1,0,H,Barry Knight,11,3,6,2,15,13,10,1,0,3,0,0
+11/11/00,Bradford,Everton,0,1,A,0,0,D,Rob Harris,11,9,6,4,8,18,3,3,1,2,0,0
+11/11/00,Ipswich,Charlton,2,0,H,0,0,D,Steve Bennett,30,7,13,4,8,12,13,3,0,2,0,0
+11/11/00,Leicester,Newcastle,1,1,D,0,0,D,Rob Styles,8,7,4,1,7,8,0,3,1,1,0,0
+11/11/00,Man United,Middlesbrough,2,1,H,0,1,A,Paul Durkin,18,5,11,1,5,10,10,0,0,0,0,0
+11/11/00,Sunderland,Southampton,2,2,D,1,1,D,Mike Dean,11,10,5,5,13,21,7,4,1,1,0,0
+11/11/00,West Ham,Man City,4,1,H,0,1,A,Jeff Winter,22,10,11,5,7,7,7,5,1,1,0,0
+12/11/00,Chelsea,Leeds,1,1,D,0,0,D,Graham Poll,12,11,7,3,19,24,3,2,4,4,0,0
+12/11/00,Liverpool,Coventry,4,1,H,1,0,H,Mike Riley,19,10,13,5,10,12,7,1,1,0,0,0
+18/11/00,Charlton,Chelsea,2,0,H,1,0,H,Paul Durkin,10,13,6,3,18,22,4,5,2,3,0,0
+18/11/00,Derby,Bradford,2,0,H,0,0,D,Andy D'Urso,7,7,3,4,10,18,2,4,3,1,0,0
+18/11/00,Everton,Arsenal,2,0,H,0,0,D,Mike Riley,4,4,2,2,20,12,3,5,3,1,0,0
+18/11/00,Leeds,West Ham,0,1,A,0,1,A,Paul Taylor,15,4,6,3,14,19,2,2,1,1,0,0
+18/11/00,Man City,Man United,0,1,A,0,1,A,Steve Dunn,10,8,4,4,13,8,10,11,3,1,0,0
+18/11/00,Middlesbrough,Leicester,0,3,A,0,2,A,Alan Wiley,11,9,4,7,8,12,6,2,3,1,0,0
+18/11/00,Newcastle,Sunderland,1,2,A,1,0,H,Graham Poll,19,9,9,6,17,26,1,4,1,3,0,0
+18/11/00,Southampton,Aston Villa,2,0,H,2,0,H,Peter Jones,7,9,3,3,10,10,3,3,0,0,0,0
+19/11/00,Tottenham,Liverpool,2,1,H,2,1,H,Mark Halsey,6,9,4,4,11,13,6,5,1,2,0,0
+20/11/00,Coventry,Ipswich,0,1,A,0,0,D,David Ellaray,12,10,5,4,10,12,5,5,1,1,0,0
+25/11/00,Charlton,Sunderland,0,1,A,0,0,D,Steve Dunn,10,8,2,3,16,16,7,8,0,1,0,0
+25/11/00,Coventry,Aston Villa,1,1,D,0,1,A,Jeff Winter,10,7,2,4,9,19,6,1,1,2,0,0
+25/11/00,Derby,Man United,0,3,A,0,0,D,David Ellaray,1,12,0,7,12,12,3,9,2,1,0,0
+25/11/00,Everton,Chelsea,2,1,H,0,1,A,Rob Styles,11,10,5,6,11,18,1,4,0,3,0,1
+25/11/00,Man City,Ipswich,2,3,A,0,2,A,Mike Dean,9,11,4,4,8,5,6,5,0,2,0,0
+25/11/00,Middlesbrough,Bradford,2,2,D,0,2,A,Paul Taylor,14,9,9,5,17,18,6,4,0,2,1,0
+25/11/00,Southampton,West Ham,2,3,A,1,2,A,Steve Bennett,10,14,5,8,12,10,6,10,1,2,0,0
+25/11/00,Tottenham,Leicester,3,0,H,2,0,H,Rob Harris,15,11,7,5,21,15,5,8,1,3,0,1
+26/11/00,Leeds,Arsenal,1,0,H,0,0,D,Dermot Gallagher,12,9,6,3,19,22,8,4,1,7,0,0
+26/11/00,Newcastle,Liverpool,2,1,H,1,0,H,Barry Knight,9,13,6,9,17,15,5,11,3,2,0,0
+02/12/00,Arsenal,Southampton,1,0,H,0,0,D,Steve Dunn,24,7,12,5,14,15,16,8,0,2,0,0
+02/12/00,Aston Villa,Newcastle,1,1,D,1,0,H,David Ellaray,8,9,4,5,11,12,8,2,2,1,0,0
+02/12/00,Bradford,Coventry,2,1,H,0,0,D,Mike Dean,10,13,6,7,11,12,9,8,3,2,0,0
+02/12/00,Ipswich,Derby,0,1,A,0,1,A,Mark Halsey,11,3,5,3,13,13,6,1,1,1,0,0
+02/12/00,Leicester,Leeds,3,1,H,3,0,H,Steve Bennett,8,12,5,4,10,7,0,6,1,2,0,1
+02/12/00,Liverpool,Charlton,3,0,H,1,0,H,Rob Styles,13,7,3,2,10,9,6,5,1,1,0,0
+02/12/00,Man United,Tottenham,2,0,H,1,0,H,Graham Poll,16,5,8,3,7,8,7,5,2,1,0,0
+02/12/00,West Ham,Middlesbrough,1,0,H,1,0,H,Roy Burton,14,5,6,3,17,19,7,5,1,4,0,1
+03/12/00,Chelsea,Man City,2,1,H,2,0,H,Dermot Gallagher,9,11,7,5,9,12,7,10,2,0,0,0
+04/12/00,Sunderland,Everton,2,0,H,1,0,H,Peter Jones,24,7,11,2,16,23,8,4,0,3,0,0
+09/12/00,Arsenal,Newcastle,5,0,H,2,0,H,Mike Dean,15,3,10,1,10,11,5,2,0,3,0,0
+09/12/00,Bradford,Tottenham,3,3,D,1,2,A,Neale Barry,13,6,6,4,6,16,7,2,2,0,0,0
+09/12/00,Charlton,Man United,3,3,D,1,2,A,Steve Lodge,15,15,8,8,6,10,9,6,0,1,0,0
+09/12/00,Chelsea,Derby,4,1,H,3,0,H,Paul Taylor,19,5,10,3,8,14,3,6,0,0,0,0
+09/12/00,Man City,Everton,5,0,H,3,0,H,Steve Bennett,13,14,9,4,12,12,5,13,0,1,0,0
+09/12/00,Southampton,Leeds,1,0,H,1,0,H,Paul Durkin,12,13,3,5,13,15,2,10,3,4,1,0
+09/12/00,Sunderland,Middlesbrough,1,0,H,0,0,D,Graham Poll,8,8,5,5,22,21,5,3,1,3,0,0
+09/12/00,West Ham,Aston Villa,1,1,D,1,1,D,Mike Riley,13,15,5,4,14,15,4,4,1,3,0,0
+10/12/00,Coventry,Leicester,1,0,H,1,0,H,Steve Dunn,12,6,5,1,11,15,8,10,0,1,0,0
+10/12/00,Liverpool,Ipswich,0,1,A,0,1,A,Alan Wiley,14,11,5,6,12,14,8,5,1,3,0,0
+16/12/00,Aston Villa,Man City,2,2,D,0,0,D,Andy D'Urso,10,9,5,4,8,16,5,4,2,1,1,0
+16/12/00,Derby,Coventry,1,0,H,1,0,H,Matt Messias,4,14,3,5,17,10,3,5,1,3,0,0
+16/12/00,Everton,West Ham,1,1,D,0,0,D,Clive Wilkes,15,9,5,4,10,7,9,7,1,2,0,0
+16/12/00,Ipswich,Southampton,3,1,H,0,1,A,Barry Knight,15,13,7,4,11,12,6,1,1,2,0,0
+16/12/00,Leeds,Sunderland,2,0,H,1,0,H,Rob Styles,17,17,8,6,16,20,8,5,3,4,0,0
+16/12/00,Leicester,Charlton,3,1,H,1,1,D,Alan Wiley,9,12,5,8,11,16,5,5,1,2,0,0
+16/12/00,Middlesbrough,Chelsea,1,0,H,0,0,D,Peter Jones,7,9,4,3,14,16,3,5,0,2,0,0
+16/12/00,Newcastle,Bradford,2,1,H,1,0,H,Steve Dunn,17,7,6,3,16,17,4,3,0,2,0,0
+17/12/00,Man United,Liverpool,0,1,A,0,1,A,Mike Riley,6,9,4,4,10,11,9,2,1,0,1,0
+18/12/00,Tottenham,Arsenal,1,1,D,1,0,H,Jeff Winter,8,17,4,10,20,14,3,7,2,1,0,0
+22/12/00,Coventry,Southampton,1,1,D,1,0,H,Alan Wiley,12,10,5,2,12,13,8,6,1,1,0,0
+23/12/00,Charlton,Everton,1,0,H,1,0,H,Graham Barber,10,10,7,4,15,21,13,6,1,4,0,0
+23/12/00,Chelsea,Bradford,3,0,H,1,0,H,Barry Knight,17,7,8,1,8,12,5,4,0,1,0,0
+23/12/00,Derby,Newcastle,2,0,H,1,0,H,Rob Harris,8,8,5,4,17,16,2,3,1,2,0,0
+23/12/00,Leeds,Aston Villa,1,2,A,0,1,A,Mark Halsey,15,8,5,5,18,18,10,2,1,4,0,0
+23/12/00,Leicester,West Ham,2,1,H,1,1,D,Graham Poll,11,11,6,4,7,5,6,5,1,0,0,0
+23/12/00,Liverpool,Arsenal,4,0,H,1,0,H,Paul Durkin,12,12,6,6,18,14,6,3,2,0,0,0
+23/12/00,Man United,Ipswich,2,0,H,2,0,H,Steve Bennett,20,5,4,3,7,8,11,3,0,1,0,0
+23/12/00,Sunderland,Man City,1,0,H,1,0,H,David Ellaray,9,9,5,3,14,18,8,6,2,2,0,0
+23/12/00,Tottenham,Middlesbrough,0,0,D,0,0,D,Rob Styles,16,5,8,0,22,13,8,4,2,3,0,0
+26/12/00,Arsenal,Leicester,6,1,H,1,0,H,Dermot Gallagher,27,2,15,2,14,11,14,0,0,0,0,0
+26/12/00,Aston Villa,Man United,0,1,A,0,0,D,Graham Poll,6,14,3,3,15,16,2,4,1,2,0,0
+26/12/00,Bradford,Sunderland,1,4,A,0,1,A,Paul Durkin,11,16,3,11,17,17,9,8,2,0,0,0
+26/12/00,Everton,Coventry,1,2,A,0,0,D,Neale Barry,17,10,9,5,14,16,5,2,2,1,0,0
+26/12/00,Ipswich,Chelsea,2,2,D,1,2,A,Jeff Winter,19,7,13,4,5,9,8,2,0,4,0,0
+26/12/00,Man City,Derby,0,0,D,0,0,D,Mike Riley,15,14,7,3,15,14,7,7,2,2,0,0
+26/12/00,Middlesbrough,Liverpool,1,0,H,1,0,H,Steve Lodge,7,11,2,5,7,9,2,6,2,2,0,0
+26/12/00,Newcastle,Leeds,2,1,H,2,1,H,Andy D'Urso,13,8,4,5,23,17,7,2,4,2,0,0
+26/12/00,West Ham,Charlton,5,0,H,3,0,H,Steve Dunn,17,12,10,8,19,11,5,8,1,0,0,0
+27/12/00,Southampton,Tottenham,2,0,H,2,0,H,David Ellaray,17,7,6,2,17,13,4,4,1,3,0,0
+30/12/00,Arsenal,Sunderland,2,2,D,2,0,H,Graham Barber,17,14,9,7,14,18,11,1,0,3,0,0
+30/12/00,Ipswich,Tottenham,3,0,H,1,0,H,Matt Messias,18,6,9,3,13,17,10,5,0,0,0,0
+30/12/00,Man City,Charlton,1,4,A,0,2,A,Clive Wilkes,8,13,1,8,11,14,7,4,1,2,0,0
+30/12/00,Middlesbrough,Coventry,1,1,D,0,1,A,Dermot Gallagher,14,9,6,3,9,16,4,3,1,3,0,0
+30/12/00,Newcastle,Man United,1,1,D,0,1,A,Mike Riley,14,8,4,6,13,10,6,3,2,3,0,0
+30/12/00,Southampton,Derby,1,0,H,0,0,D,Andy D'Urso,10,9,5,5,17,10,7,6,0,2,0,0
+01/01/01,Charlton,Arsenal,1,0,H,1,0,H,Graham Poll,9,10,4,5,15,12,6,12,1,1,0,0
+01/01/01,Chelsea,Aston Villa,1,0,H,1,0,H,Paul Durkin,13,7,5,3,15,19,2,5,0,1,0,0
+01/01/01,Coventry,Man City,1,1,D,0,0,D,Barry Knight,19,10,9,5,16,15,12,8,1,2,0,0
+01/01/01,Derby,Everton,1,0,H,1,0,H,Alan Wiley,7,9,3,6,9,18,5,11,2,3,0,0
+01/01/01,Leeds,Middlesbrough,1,1,D,0,1,A,David Ellaray,16,5,5,3,14,15,5,1,2,3,0,0
+01/01/01,Leicester,Bradford,1,2,A,1,2,A,Steve Lodge,9,8,3,4,11,14,5,3,0,3,0,0
+01/01/01,Liverpool,Southampton,2,1,H,1,1,D,Dermot Gallagher,16,7,8,3,8,5,15,2,0,1,0,0
+01/01/01,Man United,West Ham,3,1,H,2,0,H,Peter Jones,25,9,12,5,17,13,8,2,1,2,0,0
+01/01/01,Sunderland,Ipswich,4,1,H,1,1,D,Neale Barry,16,9,9,3,15,10,4,3,1,5,0,0
+02/01/01,Tottenham,Newcastle,4,2,H,3,1,H,Steve Bennett,16,9,10,4,11,10,9,6,0,2,1,2
+13/01/01,Arsenal,Chelsea,1,1,D,1,0,H,David Ellaray,15,12,8,8,13,15,10,3,1,4,0,0
+13/01/01,Aston Villa,Liverpool,0,3,A,0,2,A,Graham Barber,5,12,1,6,7,10,1,4,2,0,0,0
+13/01/01,Bradford,Man United,0,3,A,0,0,D,Alan Wiley,9,20,3,11,11,11,1,9,1,0,0,0
+13/01/01,Everton,Tottenham,0,0,D,0,0,D,Andy D'Urso,17,4,8,1,11,15,9,0,1,0,0,0
+13/01/01,Man City,Leeds,0,4,A,0,1,A,Mike Dean,5,10,3,6,23,17,4,5,5,3,0,0
+13/01/01,Middlesbrough,Derby,4,0,H,1,0,H,Rob Styles,13,6,8,3,8,14,4,5,0,4,0,0
+13/01/01,Newcastle,Coventry,3,1,H,1,0,H,Jeff Winter,11,12,6,5,6,9,2,7,0,3,0,0
+13/01/01,Southampton,Charlton,0,0,D,0,0,D,Steve Lodge,17,10,6,4,8,12,9,3,0,0,0,0
+13/01/01,West Ham,Sunderland,0,2,A,0,1,A,Matt Messias,13,7,6,5,20,21,9,6,4,2,0,0
+14/01/01,Ipswich,Leicester,2,0,H,0,0,D,Mike Riley,22,6,9,3,14,10,8,1,1,1,0,0
+20/01/01,Chelsea,Ipswich,4,1,H,1,1,D,Andy D'Urso,23,5,10,2,11,12,11,1,3,0,0,1
+20/01/01,Coventry,Everton,1,3,A,0,3,A,Paul Durkin,9,8,5,4,9,22,15,3,0,1,0,0
+20/01/01,Derby,Man City,1,1,D,0,0,D,Jeff Winter,9,10,3,4,17,22,5,4,2,2,0,0
+20/01/01,Leeds,Newcastle,1,3,A,1,2,A,Alan Wiley,12,11,5,7,12,18,16,1,2,1,0,0
+20/01/01,Leicester,Arsenal,0,0,D,0,0,D,Barry Knight,3,13,0,4,6,8,1,9,2,2,1,0
+20/01/01,Liverpool,Middlesbrough,0,0,D,0,0,D,Steve Dunn,22,4,7,2,9,10,7,3,1,1,0,0
+20/01/01,Man United,Aston Villa,2,0,H,0,0,D,Mike Riley,12,5,7,3,10,19,7,3,1,2,0,0
+20/01/01,Tottenham,Southampton,0,0,D,0,0,D,Clive Wilkes,9,9,4,6,10,15,6,0,0,1,0,0
+21/01/01,Sunderland,Bradford,0,0,D,0,0,D,Mark Halsey,14,7,6,3,10,13,8,7,0,1,0,0
+22/01/01,Charlton,West Ham,1,1,D,1,0,H,Dermot Gallagher,9,18,3,3,11,8,0,5,0,1,0,0
+24/01/01,Aston Villa,Leeds,1,2,A,1,1,D,Steve Bennett,12,7,4,3,11,10,5,3,2,0,0,0
+30/01/01,Arsenal,Bradford,2,0,H,2,0,H,Clive Wilkes,20,6,8,2,12,14,6,3,1,2,0,0
+30/01/01,Charlton,Derby,2,1,H,1,1,D,Mike Dean,13,6,9,3,13,14,9,3,2,1,0,0
+31/01/01,Chelsea,Newcastle,3,1,H,1,1,D,Mark Halsey,14,4,4,2,12,19,7,2,1,3,0,0
+31/01/01,Everton,Middlesbrough,2,2,D,0,1,A,Graham Barber,17,6,8,3,17,12,9,1,1,5,0,0
+31/01/01,Leeds,Coventry,1,0,H,0,0,D,Rob Harris,11,3,6,1,18,19,9,2,4,5,0,0
+31/01/01,Man City,Liverpool,1,1,D,0,1,A,Peter Jones,4,16,2,3,17,13,5,11,1,1,0,0
+31/01/01,Southampton,Leicester,1,0,H,0,0,D,Steve Bennett,10,6,5,3,14,12,3,3,0,3,0,0
+31/01/01,Sunderland,Man United,0,1,A,0,0,D,Graham Poll,9,13,2,7,15,13,3,2,2,0,2,1
+31/01/01,West Ham,Tottenham,0,0,D,0,0,D,Neale Barry,17,14,6,6,9,16,9,4,1,1,0,0
+03/02/01,Bradford,Aston Villa,0,3,A,0,0,D,Dermot Gallagher,9,13,2,6,14,14,3,4,2,0,0,0
+03/02/01,Coventry,Arsenal,0,1,A,0,0,D,Mike Dean,12,8,4,6,13,14,3,7,3,4,0,0
+03/02/01,Derby,Sunderland,1,0,H,1,0,H,Barry Knight,9,17,3,5,16,18,3,4,7,3,0,0
+03/02/01,Ipswich,Leeds,1,2,A,0,2,A,Peter Jones,11,10,6,3,10,15,3,4,1,2,1,0
+03/02/01,Leicester,Chelsea,2,1,H,1,0,H,Steve Dunn,10,8,5,4,7,13,2,7,0,1,0,0
+03/02/01,Liverpool,West Ham,3,0,H,2,0,H,Steve Bennett,14,8,10,3,9,6,5,3,0,1,0,1
+03/02/01,Man United,Everton,1,0,H,0,0,D,Jeff Winter,8,5,1,1,8,11,2,5,0,2,0,0
+03/02/01,Middlesbrough,Man City,1,1,D,0,1,A,Alan Wiley,14,6,6,3,12,14,4,2,0,2,1,0
+03/02/01,Tottenham,Charlton,0,0,D,0,0,D,David Ellaray,9,7,3,2,17,14,2,3,2,0,0,0
+07/02/01,Everton,Leeds,2,2,D,1,0,H,Neale Barry,7,9,4,5,18,18,4,7,2,1,0,0
+10/02/01,Arsenal,Ipswich,1,0,H,0,0,D,Rob Harris,17,5,10,3,16,15,11,3,2,1,0,0
+10/02/01,Aston Villa,Middlesbrough,1,1,D,1,0,H,Clive Wilkes,15,6,4,3,11,11,7,4,1,1,0,0
+10/02/01,Chelsea,Man United,1,1,D,1,0,H,David Ellaray,8,16,4,6,16,12,3,8,0,2,0,0
+10/02/01,Everton,Leicester,2,1,H,2,0,H,Rob Styles,9,9,6,2,12,7,7,2,3,2,0,0
+10/02/01,Leeds,Derby,0,0,D,0,0,D,Jeff Winter,12,3,6,2,11,17,17,4,2,5,0,0
+10/02/01,Man City,Tottenham,0,1,A,0,0,D,Steve Dunn,11,11,4,4,17,10,7,3,1,0,0,0
+10/02/01,Southampton,Bradford,2,0,H,0,0,D,Graham Poll,12,4,6,1,9,16,8,0,0,1,0,0
+10/02/01,Sunderland,Liverpool,1,1,D,0,0,D,Graham Barber,9,8,6,4,15,25,9,6,5,3,0,0
+11/02/01,Charlton,Newcastle,2,0,H,2,0,H,Paul Durkin,11,5,4,3,10,12,4,11,2,1,0,0
+12/02/01,West Ham,Coventry,1,1,D,0,0,D,Dermot Gallagher,21,13,9,4,13,16,5,4,2,5,0,0
+24/02/01,Bradford,West Ham,1,2,A,0,1,A,Steve Lodge,15,11,5,5,9,10,7,1,1,2,0,0
+24/02/01,Coventry,Charlton,2,2,D,1,1,D,Mark Halsey,17,15,7,7,15,11,3,7,0,0,0,0
+24/02/01,Derby,Aston Villa,1,0,H,1,0,H,Alan Wiley,9,19,5,7,9,10,1,9,1,1,0,0
+24/02/01,Ipswich,Everton,2,0,H,0,0,D,Graham Poll,12,8,6,2,11,14,3,2,1,2,0,1
+24/02/01,Leicester,Sunderland,2,0,H,1,0,H,Andy D'Urso,11,9,7,3,13,16,6,5,0,4,0,1
+24/02/01,Middlesbrough,Southampton,0,1,A,0,0,D,Neale Barry,11,10,6,5,9,9,3,6,1,0,0,0
+24/02/01,Newcastle,Man City,0,1,A,0,0,D,Rob Harris,10,11,3,3,18,11,5,5,1,0,0,0
+24/02/01,Tottenham,Leeds,1,2,A,1,1,D,Jeff Winter,13,15,4,9,16,14,5,12,2,1,0,0
+25/02/01,Man United,Arsenal,6,1,H,5,1,H,Paul Durkin,16,6,9,2,10,6,3,3,0,0,0,0
+03/03/01,Arsenal,West Ham,3,0,H,3,0,H,Mike Riley,16,4,6,2,19,12,5,6,2,3,0,0
+03/03/01,Coventry,Chelsea,0,0,D,0,0,D,Steve Bennett,17,24,10,11,13,15,5,8,2,2,0,0
+03/03/01,Derby,Tottenham,2,1,H,2,0,H,Rob Harris,8,13,4,7,20,12,6,7,2,3,0,0
+03/03/01,Everton,Newcastle,1,1,D,0,0,D,David Ellaray,16,4,6,2,13,12,4,1,1,2,0,0
+03/03/01,Leeds,Man United,1,1,D,0,0,D,Graham Barber,18,5,10,5,25,21,14,3,3,5,0,0
+03/03/01,Leicester,Liverpool,2,0,H,0,0,D,Dermot Gallagher,9,8,7,3,9,7,4,7,1,1,0,0
+03/03/01,Man City,Southampton,0,1,A,0,0,D,Jeff Winter,15,6,7,1,15,15,5,6,1,1,0,0
+03/03/01,Middlesbrough,Charlton,0,0,D,0,0,D,Mike Dean,8,11,2,8,13,12,4,5,1,1,0,0
+04/03/01,Ipswich,Bradford,3,1,H,0,1,A,Andy D'Urso,21,7,8,5,13,14,7,2,0,4,0,0
+05/03/01,Sunderland,Aston Villa,1,1,D,0,0,D,Steve Lodge,18,6,12,2,17,18,5,3,1,2,0,0
+07/03/01,West Ham,Chelsea,0,2,A,0,2,A,Alan Wiley,7,17,2,6,12,9,1,0,2,2,0,0
+10/03/01,Aston Villa,Ipswich,2,1,H,0,1,A,Rob Styles,9,8,5,3,15,11,6,2,1,1,0,0
+17/03/01,Bradford,Man City,2,2,D,0,1,A,Steve Dunn,16,10,7,3,13,12,3,3,2,1,0,0
+17/03/01,Charlton,Leeds,1,2,A,1,1,D,Clive Wilkes,7,7,3,5,19,13,2,5,3,5,0,0
+17/03/01,Chelsea,Sunderland,2,4,A,2,1,H,Paul Durkin,14,11,6,7,15,26,4,5,0,0,0,0
+17/03/01,Man United,Leicester,2,0,H,0,0,D,Alan Wiley,19,5,8,2,11,13,14,2,1,1,0,0
+17/03/01,Newcastle,Middlesbrough,1,2,A,0,2,A,Graham Barber,16,7,5,4,14,19,5,1,0,3,0,1
+17/03/01,Southampton,Everton,1,0,H,0,0,D,Mark Halsey,17,5,5,1,13,18,6,6,1,1,0,0
+17/03/01,Tottenham,Coventry,3,0,H,2,0,H,Graham Poll,12,11,4,5,13,10,5,8,0,1,0,0
+17/03/01,West Ham,Ipswich,0,1,A,0,0,D,Mike Dean,5,13,2,5,14,8,4,5,0,0,0,0
+18/03/01,Aston Villa,Arsenal,0,0,D,0,0,D,Barry Knight,4,14,2,5,16,13,3,3,2,2,0,1
+18/03/01,Liverpool,Derby,1,1,D,0,1,A,Neale Barry,18,7,8,4,11,9,9,3,2,2,0,0
+31/03/01,Arsenal,Tottenham,2,0,H,0,0,D,Paul Durkin,25,4,19,3,5,6,12,2,0,1,0,0
+31/03/01,Bradford,Newcastle,2,2,D,2,1,H,Paul Taylor,22,14,8,7,17,23,10,8,0,1,0,0
+31/03/01,Chelsea,Middlesbrough,2,1,H,1,0,H,Peter Jones,17,7,5,3,19,10,4,3,2,1,0,0
+31/03/01,Coventry,Derby,2,0,H,1,0,H,David Ellaray,12,14,7,8,12,16,9,4,0,1,1,0
+31/03/01,Liverpool,Man United,2,0,H,2,0,H,Graham Poll,15,9,6,3,8,8,6,4,1,1,1,0
+31/03/01,Man City,Aston Villa,1,3,A,1,2,A,Rob Styles,12,8,6,7,18,13,9,2,6,4,1,0
+31/03/01,Sunderland,Leeds,0,2,A,0,1,A,Steve Dunn,14,7,8,4,17,10,8,4,2,2,0,1
+31/03/01,West Ham,Everton,0,2,A,0,1,A,Andy D'Urso,17,10,6,7,16,16,8,2,3,2,1,0
+01/04/01,Charlton,Leicester,2,0,H,1,0,H,Jeff Winter,16,5,9,1,12,9,6,2,2,2,0,0
+02/04/01,Southampton,Ipswich,0,3,A,0,1,A,Alan Wiley,11,11,3,5,17,15,6,7,2,1,0,0
+04/04/01,Aston Villa,Leicester,2,1,H,1,1,D,Mike Dean,9,6,5,2,11,12,10,3,2,2,0,0
+07/04/01,Aston Villa,West Ham,2,2,D,0,0,D,Rob Harris,6,7,4,5,5,3,5,3,1,3,0,0
+07/04/01,Derby,Chelsea,0,4,A,0,0,D,Steve Lodge,3,10,2,7,13,7,1,9,1,1,0,0
+07/04/01,Leeds,Southampton,2,0,H,1,0,H,Jeff Winter,15,6,7,2,10,11,10,1,0,0,0,0
+07/04/01,Leicester,Coventry,1,3,A,1,2,A,Graham Barber,9,15,4,5,9,19,4,9,3,2,0,0
+08/04/01,Everton,Man City,3,1,H,2,1,H,David Ellaray,11,13,7,5,17,18,8,8,0,3,1,1
+09/04/01,Middlesbrough,Sunderland,0,0,D,0,0,D,Andy D'Urso ,12,12,6,4,22,22,3,2,5,3,1,0
+10/04/01,Ipswich,Liverpool,1,1,D,0,0,D,Steve Dunn,8,7,5,2,10,15,6,1,0,0,0,0
+10/04/01,Man United,Charlton,2,1,H,1,0,H,Mark Halsey ,23,3,8,2,8,9,12,4,1,1,0,0
+10/04/01,Tottenham,Bradford,2,1,H,1,1,D,Steve Bennett ,17,10,13,5,13,9,5,7,1,1,0,0
+11/04/01,Man City,Arsenal,0,4,A,0,4,A,Neale Barry,7,15,2,8,10,8,7,3,2,0,0,0
+13/04/01,Bradford,Charlton,2,0,H,0,0,D,Peter Jones,4,3,8,8,13,21,3,7,1,3,0,0
+13/04/01,Liverpool,Leeds,1,2,A,0,2,A,Alan Wiley,11,9,5,3,19,16,8,2,3,1,1,0
+14/04/01,Arsenal,Middlesbrough,0,3,A,0,2,A,Paul Durkin,17,6,8,2,13,11,9,0,1,1,0,0
+14/04/01,Aston Villa,Everton,2,1,H,1,1,D,Paul Taylor,8,5,5,3,13,14,5,3,0,3,0,0
+14/04/01,Chelsea,Southampton,1,0,H,1,0,H,Clive Wilkes,14,9,8,5,11,19,7,6,3,3,0,0
+14/04/01,Ipswich,Newcastle,1,0,H,0,0,D,Mike Dean,14,6,5,2,6,13,9,3,0,1,0,1
+14/04/01,Leicester,Man City,1,2,A,1,1,D,Barry Knight,15,8,9,3,13,26,5,1,2,3,0,0
+14/04/01,Man United,Coventry,4,2,H,2,2,D,Mike Riley,28,9,13,4,9,18,9,2,1,4,0,0
+14/04/01,Sunderland,Tottenham,2,3,A,2,0,H,David Ellaray,13,8,4,6,12,15,3,3,1,2,0,0
+14/04/01,West Ham,Derby,3,1,H,3,0,H,Rob Styles,18,6,10,3,10,18,3,5,0,2,0,0
+16/04/01,Coventry,Sunderland,1,0,H,1,0,H,Dermot Gallagher,14,6,9,3,15,21,6,3,3,0,0,0
+16/04/01,Derby,Leicester,2,0,H,1,0,H,Mark Halsey,10,7,6,4,17,16,5,6,0,0,0,0
+16/04/01,Everton,Liverpool,2,3,A,1,1,D,Jeff Winter,10,10,7,6,19,15,2,5,4,2,1,0
+16/04/01,Middlesbrough,Ipswich,1,2,A,1,0,H,Steve Bennett,4,12,1,5,8,8,5,4,0,0,0,0
+16/04/01,Newcastle,West Ham,2,1,H,1,0,H,Paul Durkin,20,13,14,6,19,9,7,5,0,0,0,0
+17/04/01,Charlton,Aston Villa,3,3,D,2,0,H,Graham Poll,12,11,5,8,10,15,5,7,3,4,1,0
+17/04/01,Tottenham,Chelsea,0,3,A,0,1,A,Graham Barber,5,16,1,10,14,11,2,5,2,2,1,0
+21/04/01,Arsenal,Everton,4,1,H,1,1,D,Dermot Gallagher,10,4,8,2,7,13,10,0,0,2,0,1
+21/04/01,Aston Villa,Southampton,0,0,D,0,0,D,Jeff Winter,9,3,2,3,10,15,4,5,1,2,0,0
+21/04/01,Bradford,Derby,2,0,H,1,0,H,Neale Barry,15,12,9,3,14,13,3,8,0,2,0,1
+21/04/01,Chelsea,Charlton,0,1,A,0,1,A,Mike Dean,9,4,1,2,12,14,10,3,3,0,0,0
+21/04/01,Ipswich,Coventry,2,0,H,1,0,H,Graham Barber,13,6,5,2,22,23,2,3,1,4,0,0
+21/04/01,Leicester,Middlesbrough,0,3,A,0,1,A,Paul Taylor,15,15,4,7,13,11,12,5,3,1,0,0
+21/04/01,Man United,Man City,1,1,D,0,0,D,David Ellaray,13,6,6,4,14,20,3,2,0,0,1,0
+21/04/01,Sunderland,Newcastle,1,1,D,0,0,D,Mike Riley,16,9,10,5,17,22,4,8,5,4,0,0
+21/04/01,West Ham,Leeds,0,2,A,0,1,A,Graham Poll,15,12,10,7,17,13,6,6,5,2,0,1
+22/04/01,Liverpool,Tottenham,3,1,H,1,1,D,Barry Knight,14,7,8,5,10,13,6,4,1,1,0,0
+28/04/01,Coventry,Liverpool,0,2,A,0,0,D,Steve Bennett,11,13,4,6,15,11,7,7,3,1,0,0
+28/04/01,Derby,Arsenal,1,2,A,1,1,D,Graham Barber,6,14,2,9,14,13,4,6,3,4,0,0
+28/04/01,Everton,Bradford,2,1,H,0,1,A,Paul Durkin,18,7,9,4,15,15,5,2,1,2,0,0
+28/04/01,Leeds,Chelsea,2,0,H,0,0,D,Steve Dunn,16,7,9,5,22,17,7,2,2,5,0,0
+28/04/01,Man City,West Ham,1,0,H,1,0,H,Peter Jones,16,12,9,7,19,12,10,10,3,5,0,0
+28/04/01,Middlesbrough,Man United,0,2,A,0,1,A,Steve Lodge,18,9,3,5,13,21,4,6,2,3,0,0
+28/04/01,Newcastle,Leicester,1,0,H,0,0,D,Graham Poll,20,4,6,3,15,14,12,0,1,1,0,0
+28/04/01,Southampton,Sunderland,0,1,A,0,0,D,Alan Wiley,11,6,5,3,15,14,11,2,2,1,0,0
+28/04/01,Tottenham,Aston Villa,0,0,D,0,0,D,Clive Wilkes,7,7,3,4,13,13,5,6,1,0,0,0
+30/04/01,Charlton,Ipswich,2,1,H,1,1,D,Rob Styles,10,17,7,6,17,11,2,13,0,1,0,0
+01/05/01,Bradford,Liverpool,0,2,A,0,0,D,Jeff Winter,15,11,4,10,11,13,7,0,0,2,0,0
+01/05/01,Newcastle,Southampton,1,1,D,1,0,H,Steve Lodge,7,11,5,3,15,17,4,2,2,1,0,0
+05/05/01,Arsenal,Leeds,2,1,H,1,0,H,Peter Jones,7,4,4,3,21,18,11,2,4,3,0,0
+05/05/01,Aston Villa,Coventry,3,2,H,0,2,A,Mike Riley,6,6,4,3,12,23,6,2,2,5,0,0
+05/05/01,Bradford,Middlesbrough,1,1,D,1,0,H,Graham Barber,10,14,7,9,25,21,6,6,4,2,0,0
+05/05/01,Chelsea,Everton,2,1,H,2,1,H,Rob Harris,13,9,5,3,19,22,8,6,1,1,0,0
+05/05/01,Leicester,Tottenham,4,2,H,1,0,H,Mike Dean,19,9,9,4,11,14,6,2,3,2,0,0
+05/05/01,Liverpool,Newcastle,3,0,H,1,0,H,Mark Halsey,12,6,5,3,11,10,2,3,0,2,0,0
+05/05/01,Man United,Derby,0,1,A,0,1,A,Neale Barry,11,10,6,5,13,11,13,1,1,0,0,0
+05/05/01,Sunderland,Charlton,3,2,H,2,1,H,Steve Dunn,17,17,11,7,17,7,8,5,1,0,0,0
+05/05/01,West Ham,Southampton,3,0,H,0,0,D,Clive Wilkes,16,12,12,3,18,18,5,1,2,2,0,0
+07/05/01,Ipswich,Man City,2,1,H,0,0,D,Steve Lodge,15,11,7,7,8,19,9,2,0,0,0,0
+08/05/01,Liverpool,Chelsea,2,2,D,1,1,D,Dermot Gallagher,16,14,8,7,14,21,6,6,1,4,0,0
+13/05/01,Leeds,Bradford,6,1,H,5,1,H,Andy D'Urso,18,13,9,7,20,13,9,7,1,0,0,0
+13/05/01,Southampton,Man United,2,1,H,2,0,H,Jeff Winter,14,9,3,6,13,18,4,4,1,1,0,0
+15/05/01,Newcastle,Arsenal,0,0,D,0,0,D,Alan Wiley,12,8,2,1,14,10,4,8,1,0,0,0
+19/05/01,Charlton,Liverpool,0,4,A,0,0,D,Graham Barber,12,16,10,14,7,13,10,10,1,1,0,0
+19/05/01,Coventry,Bradford,0,0,D,0,0,D,Alan Wiley,15,10,7,3,15,13,9,3,1,1,0,0
+19/05/01,Derby,Ipswich,1,1,D,1,0,H,Graham Poll,7,13,2,6,14,15,3,11,1,1,0,0
+19/05/01,Everton,Sunderland,2,2,D,1,1,D,Steve Bennett,18,11,8,4,12,13,5,6,5,3,0,1
+19/05/01,Leeds,Leicester,3,1,H,1,1,D,David Ellaray,24,8,11,5,14,17,12,5,3,4,0,0
+19/05/01,Man City,Chelsea,1,2,A,1,1,D,Mike Riley,3,9,1,3,22,18,8,7,4,2,0,0
+19/05/01,Middlesbrough,West Ham,2,1,H,2,1,H,Paul Durkin,19,11,7,5,13,15,5,6,0,0,0,0
+19/05/01,Newcastle,Aston Villa,3,0,H,2,0,H,Barry Knight,9,5,5,1,10,14,5,1,0,5,1,1
+19/05/01,Southampton,Arsenal,3,2,H,0,1,A,Paul Taylor,11,8,7,5,17,10,7,5,1,2,0,0
+19/05/01,Tottenham,Man United,3,1,H,1,1,D,Andy D'Urso,9,15,3,6,13,15,3,6,0,2,0,0

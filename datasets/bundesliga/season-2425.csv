@@ -1,0 +1,91 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+23/08/24,M'gladbach,Leverkusen,2,3,A,0,2,A,,14,25,7,9,11,7,2,4,1,0,0,0
+24/08/24,Augsburg,Werder Bremen,2,2,D,2,1,H,,10,12,3,6,11,10,4,2,3,1,0,0
+24/08/24,Freiburg,Stuttgart,3,1,H,1,1,D,,15,9,4,2,7,10,6,3,2,1,0,0
+24/08/24,Hoffenheim,Holstein Kiel,3,2,H,2,0,H,,20,15,8,6,8,14,8,6,2,3,0,1
+24/08/24,Mainz,Union Berlin,1,1,D,0,0,D,,15,15,3,4,9,15,8,9,1,3,0,0
+24/08/24,RB Leipzig,Bochum,1,0,H,0,0,D,,12,10,3,4,9,17,9,3,1,3,1,0
+24/08/24,Dortmund,Ein Frankfurt,2,0,H,0,0,D,,17,7,5,2,6,3,7,7,0,1,0,0
+25/08/24,Wolfsburg,Bayern Munich,2,3,A,0,1,A,,11,14,2,8,13,11,1,7,2,3,0,0
+25/08/24,St Pauli,Heidenheim,0,2,A,0,0,D,,11,6,3,3,10,15,4,2,2,3,0,0
+30/08/24,Union Berlin,St Pauli,1,0,H,1,0,H,,10,8,5,2,10,11,5,4,3,1,0,0
+31/08/24,Bochum,M'gladbach,0,2,A,0,0,D,,16,15,4,6,9,10,3,4,1,0,0,0
+31/08/24,Ein Frankfurt,Hoffenheim,3,1,H,2,0,H,,17,10,7,3,10,10,1,4,0,3,0,0
+31/08/24,Holstein Kiel,Wolfsburg,0,2,A,0,2,A,,12,12,5,4,17,14,1,7,4,7,0,0
+31/08/24,Stuttgart,Mainz,3,3,D,2,1,H,,28,9,13,7,6,12,11,2,4,2,0,0
+31/08/24,Werder Bremen,Dortmund,0,0,D,0,0,D,,5,9,1,4,11,16,5,6,2,7,0,1
+31/08/24,Leverkusen,RB Leipzig,2,3,A,2,1,H,,27,10,10,4,7,8,18,2,3,1,0,0
+01/09/24,Heidenheim,Augsburg,4,0,H,2,0,H,,17,15,9,1,15,11,5,6,0,3,0,0
+01/09/24,Bayern Munich,Freiburg,2,0,H,1,0,H,,11,8,4,4,13,12,2,4,1,0,0,0
+13/09/24,Dortmund,Heidenheim,4,2,H,3,1,H,,13,11,7,4,13,18,8,1,2,2,0,0
+14/09/24,Freiburg,Bochum,2,1,H,0,1,A,,27,13,9,2,5,16,5,6,0,3,0,0
+14/09/24,Hoffenheim,Leverkusen,1,4,A,1,2,A,,14,20,5,8,9,10,4,12,2,2,0,0
+14/09/24,M'gladbach,Stuttgart,1,3,A,1,1,D,,15,12,7,7,14,12,6,2,2,2,0,0
+14/09/24,RB Leipzig,Union Berlin,0,0,D,0,0,D,,16,11,3,3,9,19,6,5,2,3,0,0
+14/09/24,Wolfsburg,Ein Frankfurt,1,2,A,0,1,A,,17,15,4,7,7,18,5,4,1,2,0,0
+14/09/24,Holstein Kiel,Bayern Munich,1,6,A,0,4,A,,5,23,1,13,12,11,2,10,0,1,0,0
+15/09/24,Augsburg,St Pauli,3,1,H,0,0,D,,18,12,10,3,12,10,7,7,4,3,0,0
+15/09/24,Mainz,Werder Bremen,1,2,A,1,1,D,,11,11,5,5,12,7,10,4,3,1,0,1
+20/09/24,Augsburg,Mainz,2,3,A,1,2,A,,30,5,9,3,7,12,14,1,3,5,1,1
+21/09/24,Bochum,Holstein Kiel,2,2,D,2,1,H,,14,13,3,4,20,9,2,5,4,1,0,0
+21/09/24,Heidenheim,Freiburg,0,3,A,0,0,D,,7,14,2,5,6,7,3,9,1,1,0,0
+21/09/24,Union Berlin,Hoffenheim,2,1,H,2,0,H,,12,6,2,3,17,18,5,5,3,3,0,0
+21/09/24,Werder Bremen,Bayern Munich,0,5,A,0,2,A,,0,25,0,7,4,13,1,4,0,3,0,0
+21/09/24,Ein Frankfurt,M'gladbach,2,0,H,1,0,H,,14,22,4,7,10,12,8,5,1,1,0,0
+22/09/24,Leverkusen,Wolfsburg,4,3,H,2,3,A,,20,8,7,4,6,14,6,2,4,5,0,1
+22/09/24,Stuttgart,Dortmund,5,1,H,2,0,H,,16,6,9,3,10,6,6,4,1,3,0,0
+22/09/24,St Pauli,RB Leipzig,0,0,D,0,0,D,,15,10,4,5,6,9,3,1,2,1,0,0
+27/09/24,Dortmund,Bochum,4,2,H,1,2,A,,23,10,8,6,12,9,11,0,2,0,0,0
+28/09/24,Freiburg,St Pauli,0,3,A,0,2,A,,6,10,2,4,7,18,4,2,3,3,0,0
+28/09/24,Mainz,Heidenheim,0,2,A,0,1,A,,7,14,2,7,10,10,7,6,4,4,1,1
+28/09/24,M'gladbach,Union Berlin,1,0,H,0,0,D,,8,9,3,3,10,12,2,4,3,1,0,0
+28/09/24,RB Leipzig,Augsburg,4,0,H,2,0,H,,14,7,7,1,9,13,8,5,1,2,0,0
+28/09/24,Wolfsburg,Stuttgart,2,2,D,1,1,D,,5,17,2,5,20,10,1,3,5,2,0,1
+28/09/24,Bayern Munich,Leverkusen,1,1,D,1,1,D,,18,3,3,3,11,15,6,1,1,3,0,0
+29/09/24,Holstein Kiel,Ein Frankfurt,2,4,A,1,1,D,,10,18,5,10,12,13,4,9,1,3,0,0
+29/09/24,Hoffenheim,Werder Bremen,3,4,A,3,3,D,,10,18,5,10,12,19,2,6,3,3,1,0
+04/10/24,Augsburg,M'gladbach,2,1,H,1,0,H,,13,11,5,5,13,15,6,5,2,4,0,0
+05/10/24,Bochum,Wolfsburg,1,3,A,0,2,A,,17,15,5,5,11,12,7,6,1,2,0,0
+05/10/24,Leverkusen,Holstein Kiel,2,2,D,2,1,H,,24,8,7,4,5,9,12,3,2,2,0,0
+05/10/24,Union Berlin,Dortmund,2,1,H,2,0,H,,13,9,5,5,15,17,3,3,4,4,0,0
+05/10/24,Werder Bremen,Freiburg,0,1,A,0,0,D,,11,13,3,3,7,9,7,5,1,2,0,0
+05/10/24,St Pauli,Mainz,0,3,A,0,2,A,,17,8,4,4,12,16,2,2,0,3,0,0
+06/10/24,Heidenheim,RB Leipzig,0,1,A,0,0,D,,15,12,4,2,12,13,3,2,2,2,0,0
+06/10/24,Ein Frankfurt,Bayern Munich,3,3,D,2,2,D,,5,22,4,13,10,6,0,11,1,1,0,0
+06/10/24,Stuttgart,Hoffenheim,1,1,D,0,1,A,,18,7,7,5,10,7,10,5,1,4,0,0
+18/10/24,Dortmund,St Pauli,2,1,H,1,0,H,,20,10,7,3,8,7,7,1,2,1,0,0
+19/10/24,Freiburg,Augsburg,3,1,H,3,0,H,,15,9,6,3,11,7,5,4,1,1,0,0
+19/10/24,Hoffenheim,Bochum,3,1,H,1,0,H,,12,13,7,4,10,12,4,2,1,1,0,0
+19/10/24,Leverkusen,Ein Frankfurt,2,1,H,1,1,D,,27,9,9,2,9,5,8,3,2,1,0,0
+19/10/24,Mainz,RB Leipzig,0,2,A,0,2,A,,16,11,2,5,12,15,5,3,1,3,0,0
+19/10/24,M'gladbach,Heidenheim,3,2,H,1,1,D,,20,19,10,6,15,9,6,3,3,3,0,0
+19/10/24,Bayern Munich,Stuttgart,4,0,H,0,0,D,,22,4,10,1,6,10,7,3,0,2,0,0
+20/10/24,Holstein Kiel,Union Berlin,0,2,A,0,1,A,,12,14,5,4,8,11,7,3,2,1,0,0
+20/10/24,Wolfsburg,Werder Bremen,2,4,A,1,1,D,,14,15,6,7,15,9,4,4,1,1,1,0
+25/10/24,Mainz,M'gladbach,1,1,D,0,0,D,,23,9,6,5,16,16,2,4,3,2,0,0
+26/10/24,Augsburg,Dortmund,2,1,H,1,1,D,,12,11,4,4,13,10,3,5,3,3,0,1
+26/10/24,RB Leipzig,Freiburg,3,1,H,0,1,A,,12,15,9,5,9,7,3,3,3,2,0,0
+26/10/24,St Pauli,Wolfsburg,0,0,D,0,0,D,,14,10,5,4,9,12,7,6,0,3,0,0
+26/10/24,Stuttgart,Holstein Kiel,2,1,H,1,0,H,,16,9,6,3,6,17,9,5,3,6,1,1
+26/10/24,Werder Bremen,Leverkusen,2,2,D,0,1,A,,13,15,8,6,9,11,3,5,1,1,0,0
+27/10/24,Bochum,Bayern Munich,0,5,A,0,2,A,,6,17,2,9,15,6,2,5,1,1,0,0
+27/10/24,Union Berlin,Ein Frankfurt,1,1,D,0,1,A,,13,17,4,5,13,7,4,5,5,3,0,1
+27/10/24,Heidenheim,Hoffenheim,0,0,D,0,0,D,,17,12,3,4,12,16,7,3,1,2,0,0
+01/11/24,Leverkusen,Stuttgart,0,0,D,0,0,D,,19,4,5,1,13,14,10,2,3,4,0,0
+02/11/24,Bayern Munich,Union Berlin,3,0,H,2,0,H,,16,8,7,1,2,9,7,4,0,2,0,0
+02/11/24,Ein Frankfurt,Bochum,7,2,H,4,1,H,,18,11,9,8,6,15,5,2,1,2,0,0
+02/11/24,Hoffenheim,St Pauli,0,2,A,0,1,A,,12,7,6,3,10,10,7,2,0,2,0,0
+02/11/24,Holstein Kiel,Heidenheim,1,0,H,1,0,H,,11,17,6,4,16,14,5,6,4,5,0,0
+02/11/24,Wolfsburg,Augsburg,1,1,D,0,1,A,,18,3,6,1,7,14,8,1,1,3,0,0
+02/11/24,Dortmund,RB Leipzig,2,1,H,1,1,D,,19,7,7,3,11,12,4,0,3,4,0,0
+03/11/24,Freiburg,Mainz,0,0,D,0,0,D,,10,9,2,2,9,12,8,4,1,2,0,0
+03/11/24,M'gladbach,Werder Bremen,4,1,H,3,0,H,,16,15,8,5,12,10,7,7,1,4,0,1
+08/11/24,Union Berlin,Freiburg,0,0,D,0,0,D,,12,14,6,4,11,8,4,1,2,0,0,0
+09/11/24,Bochum,Leverkusen,1,1,D,0,1,A,,15,11,3,3,10,9,6,4,0,1,0,0
+09/11/24,Mainz,Dortmund,3,1,H,2,1,H,,13,2,9,1,17,5,8,0,3,1,0,1
+09/11/24,St Pauli,Bayern Munich,0,1,A,0,1,A,,3,13,0,6,10,7,5,10,2,2,0,0
+09/11/24,Werder Bremen,Holstein Kiel,2,1,H,1,0,H,,16,12,5,5,10,19,6,3,3,2,0,0
+09/11/24,RB Leipzig,M'gladbach,0,0,D,0,0,D,,11,14,4,4,14,7,8,4,2,2,0,0
+10/11/24,Augsburg,Hoffenheim,0,0,D,0,0,D,,16,11,4,2,16,7,10,6,2,3,0,0
+10/11/24,Stuttgart,Ein Frankfurt,2,3,A,0,1,A,,22,8,11,5,10,15,8,3,2,3,0,0
+10/11/24,Heidenheim,Wolfsburg,1,3,A,0,2,A,,19,13,4,6,9,23,5,5,1,6,0,0
