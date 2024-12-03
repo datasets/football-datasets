@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+05/08/22,Crystal Palace,Arsenal,0,2,A,0,1,A,A Taylor,10,10,2,2,16,11,3,5,1,2,0,0
+06/08/22,Fulham,Liverpool,2,2,D,1,0,H,A Madley,9,11,3,4,7,9,4,4,2,0,0,0
+06/08/22,Bournemouth,Aston Villa,2,0,H,1,0,H,P Bankes,7,15,3,2,18,16,5,5,3,3,0,0
+06/08/22,Leeds,Wolves,2,1,H,1,1,D,R Jones,12,15,4,6,13,9,6,4,2,0,0,0
+06/08/22,Newcastle,Nott'm Forest,2,0,H,0,0,D,S Hooper,23,5,10,0,9,14,11,1,0,3,0,0
+06/08/22,Tottenham,Southampton,4,1,H,2,1,H,A Marriner,18,10,8,2,11,6,10,2,3,0,0,0
+06/08/22,Everton,Chelsea,0,1,A,0,1,A,C Pawson,8,15,4,6,14,11,4,16,3,2,0,0
+07/08/22,Leicester,Brentford,2,2,D,1,0,H,J Gillett,14,8,5,3,6,5,5,6,0,0,0,0
+07/08/22,Man United,Brighton,1,2,A,0,2,A,P Tierney,17,15,5,4,7,12,6,2,4,1,0,0
+07/08/22,West Ham,Man City,0,2,A,0,1,A,M Oliver,6,14,1,2,8,4,1,4,0,1,0,0
+13/08/22,Aston Villa,Everton,2,1,H,1,0,H,M Oliver,12,15,4,4,9,7,5,8,4,1,0,0
+13/08/22,Arsenal,Leicester,4,2,H,2,0,H,D England,19,6,7,2,15,9,6,2,1,1,0,0
+13/08/22,Brighton,Newcastle,0,0,D,0,0,D,G Scott,13,4,7,1,8,6,7,3,2,3,0,0
+13/08/22,Man City,Bournemouth,4,0,H,3,0,H,D Coote,19,3,7,1,9,9,11,1,0,3,0,0
+13/08/22,Southampton,Leeds,2,2,D,0,0,D,T Harrington,14,13,4,5,10,12,2,5,1,3,0,0
+13/08/22,Wolves,Fulham,0,0,D,0,0,D,J Brooks,7,9,1,3,7,14,5,3,3,3,0,0
+13/08/22,Brentford,Man United,4,0,H,4,0,H,S Attwell,13,15,7,4,6,15,8,2,0,4,0,0
+14/08/22,Nott'm Forest,West Ham,1,0,H,1,0,H,R Jones,13,19,6,5,10,11,6,7,4,1,0,0
+14/08/22,Chelsea,Tottenham,2,2,D,1,0,H,A Taylor,16,10,3,5,9,9,8,5,3,0,0,0
+15/08/22,Liverpool,Crystal Palace,1,1,D,0,1,A,P Tierney,24,7,4,3,7,8,4,2,2,4,1,0
+20/08/22,Tottenham,Wolves,1,0,H,0,0,D,S Hooper,11,20,4,3,10,8,8,6,2,2,0,0
+20/08/22,Crystal Palace,Aston Villa,3,1,H,1,1,D,A Madley,17,13,9,5,16,14,4,2,2,1,0,0
+20/08/22,Everton,Nott'm Forest,1,1,D,0,0,D,A Marriner,19,14,8,5,6,9,6,2,3,2,0,0
+20/08/22,Fulham,Brentford,3,2,H,2,1,H,P Bankes,18,13,9,5,13,7,6,3,3,2,0,0
+20/08/22,Leicester,Southampton,1,2,A,0,0,D,M Salisbury,6,9,1,3,11,15,2,5,2,3,0,0
+20/08/22,Bournemouth,Arsenal,0,3,A,0,2,A,C Pawson,6,14,1,6,12,10,3,4,2,1,0,0
+21/08/22,Leeds,Chelsea,3,0,H,2,0,H,S Attwell,12,14,6,3,16,15,4,6,0,1,0,1
+21/08/22,West Ham,Brighton,0,2,A,0,1,A,A Taylor,13,11,3,2,10,7,5,4,2,0,0,0
+21/08/22,Newcastle,Man City,3,3,D,2,1,H,J Gillett,12,21,6,10,14,7,5,5,4,2,0,0
+22/08/22,Man United,Liverpool,2,1,H,1,0,H,M Oliver,12,17,4,5,11,7,6,8,3,1,0,0
+27/08/22,Southampton,Man United,0,1,A,0,0,D,A Madley,17,11,5,6,4,14,5,3,0,3,0,0
+27/08/22,Brentford,Everton,1,1,D,0,1,A,J Brooks,19,14,5,7,8,8,8,5,2,2,0,0
+27/08/22,Brighton,Leeds,1,0,H,0,0,D,M Salisbury,13,10,4,2,10,14,5,3,2,3,0,0
+27/08/22,Chelsea,Leicester,2,1,H,0,0,D,P Tierney,7,17,3,5,10,7,3,11,1,2,1,0
+27/08/22,Liverpool,Bournemouth,9,0,H,5,0,H,S Attwell,19,5,12,2,6,5,8,1,0,1,0,0
+27/08/22,Man City,Crystal Palace,4,2,H,0,2,A,D England,18,2,5,2,14,8,6,1,1,2,0,0
+27/08/22,Arsenal,Fulham,2,1,H,0,0,D,J Gillett,22,11,8,3,6,12,9,2,2,3,0,0
+28/08/22,Aston Villa,West Ham,0,1,A,0,0,D,D Coote,9,7,3,2,10,10,3,2,2,0,0,0
+28/08/22,Wolves,Newcastle,1,1,D,1,0,H,P Bankes,10,21,4,6,10,11,4,13,2,1,0,0
+28/08/22,Nott'm Forest,Tottenham,0,2,A,0,1,A,C Pawson,17,18,1,7,11,13,6,1,6,1,0,0
+30/08/22,Crystal Palace,Brentford,1,1,D,0,0,D,S Hooper,13,9,4,3,11,8,4,6,1,2,0,0
+30/08/22,Fulham,Brighton,2,1,H,0,0,D,T Bramall,10,7,3,4,9,11,3,3,2,1,0,0
+30/08/22,Southampton,Chelsea,2,1,H,2,1,H,M Oliver,9,10,7,4,15,10,5,3,2,1,0,0
+30/08/22,Leeds,Everton,1,1,D,0,1,A,D England,14,7,5,2,10,9,10,2,3,3,0,0
+31/08/22,Arsenal,Aston Villa,2,1,H,1,0,H,R Jones,22,4,9,3,10,14,10,3,2,3,0,0
+31/08/22,Bournemouth,Wolves,0,0,D,0,0,D,A Taylor,5,17,2,4,12,12,2,5,2,1,0,0
+31/08/22,Man City,Nott'm Forest,6,0,H,3,0,H,P Tierney,17,8,9,1,9,7,10,1,0,1,0,0
+31/08/22,West Ham,Tottenham,1,1,D,0,1,A,P Bankes,14,13,4,4,10,9,3,4,2,5,0,0
+31/08/22,Liverpool,Newcastle,2,1,H,0,1,A,A Marriner,23,5,6,2,9,10,13,0,0,2,0,0
+01/09/22,Leicester,Man United,0,1,A,0,1,A,C Pawson,10,9,2,2,7,15,1,3,1,3,0,0
+03/09/22,Everton,Liverpool,0,0,D,0,0,D,A Taylor,14,23,3,8,7,11,7,9,2,2,0,0
+03/09/22,Brentford,Leeds,5,2,H,2,1,H,R Jones,14,17,8,6,8,9,2,6,2,2,0,0
+03/09/22,Chelsea,West Ham,2,1,H,0,0,D,A Madley,8,6,3,3,6,11,10,3,4,2,0,0
+03/09/22,Newcastle,Crystal Palace,0,0,D,0,0,D,M Salisbury,23,19,6,9,19,12,13,5,2,1,0,0
+03/09/22,Nott'm Forest,Bournemouth,2,3,A,2,0,H,M Oliver,11,8,3,3,13,10,4,6,2,1,0,0
+03/09/22,Tottenham,Fulham,2,1,H,1,0,H,S Attwell,23,9,10,3,9,6,10,3,3,4,0,0
+03/09/22,Wolves,Southampton,1,0,H,1,0,H,J Brooks,7,12,2,1,10,14,5,6,4,2,0,0
+03/09/22,Aston Villa,Man City,1,1,D,0,0,D,S Hooper,3,13,1,4,7,6,1,4,2,0,0,0
+04/09/22,Brighton,Leicester,5,2,H,2,2,D,T Harrington,23,6,11,4,6,8,10,1,1,1,0,0
+04/09/22,Man United,Arsenal,3,1,H,1,0,H,P Tierney,10,16,6,3,13,9,2,5,3,3,0,0
+16/09/22,Aston Villa,Southampton,1,0,H,1,0,H,T Harrington,11,7,3,1,13,13,6,3,3,1,0,0
+16/09/22,Nott'm Forest,Fulham,2,3,A,1,0,H,J Gillett,11,15,3,7,11,10,2,10,2,4,0,0
+17/09/22,Wolves,Man City,0,3,A,0,2,A,A Taylor,6,16,1,7,7,9,5,7,2,1,1,0
+17/09/22,Newcastle,Bournemouth,1,1,D,0,0,D,C Pawson,20,10,7,3,10,11,8,1,2,2,0,0
+17/09/22,Tottenham,Leicester,6,2,H,2,2,D,S Hooper,16,19,11,7,9,9,6,1,1,2,0,0
+18/09/22,Brentford,Arsenal,0,3,A,0,2,A,D Coote,5,13,2,7,10,10,3,3,0,2,0,0
+18/09/22,Everton,West Ham,1,0,H,0,0,D,M Oliver,7,14,2,4,8,11,5,14,3,1,0,0
+01/10/22,Arsenal,Tottenham,3,1,H,1,1,D,A Taylor,22,7,9,3,10,10,5,2,2,1,0,1
+01/10/22,Bournemouth,Brentford,0,0,D,0,0,D,T Bramall,7,13,1,4,11,10,7,8,1,2,0,0
+01/10/22,Crystal Palace,Chelsea,1,2,A,1,1,D,C Kavanagh,7,13,3,3,11,13,5,2,1,3,0,0
+01/10/22,Fulham,Newcastle,1,4,A,0,3,A,D England,3,19,1,10,9,10,1,8,2,0,1,0
+01/10/22,Liverpool,Brighton,3,3,D,1,2,A,A Madley,15,6,7,6,9,13,9,2,1,1,0,0
+01/10/22,Southampton,Everton,1,2,A,0,0,D,A Marriner,22,12,6,5,11,10,7,6,2,2,0,0
+01/10/22,West Ham,Wolves,2,0,H,1,0,H,P Tierney,18,15,5,4,8,6,1,6,2,2,0,0
+02/10/22,Man City,Man United,6,3,H,4,0,H,M Oliver,22,12,10,8,3,9,5,1,0,3,0,0
+02/10/22,Leeds,Aston Villa,0,0,D,0,0,D,S Attwell,9,19,1,7,23,12,2,9,3,2,1,0
+03/10/22,Leicester,Nott'm Forest,4,0,H,3,0,H,R Jones,17,10,7,3,13,12,6,6,2,4,0,0
+08/10/22,Bournemouth,Leicester,2,1,H,0,1,A,M Salisbury,10,9,4,5,8,16,7,2,1,2,0,0
+08/10/22,Chelsea,Wolves,3,0,H,1,0,H,S Hooper,20,8,7,2,8,8,4,2,2,0,0,0
+08/10/22,Man City,Southampton,4,0,H,2,0,H,A Madley,21,5,8,0,4,8,9,1,0,1,0,0
+08/10/22,Newcastle,Brentford,5,1,H,2,0,H,J Brooks,16,6,6,3,14,9,9,5,0,1,0,0
+08/10/22,Brighton,Tottenham,0,1,A,0,1,A,T Harrington,14,8,4,3,9,14,6,2,1,2,0,0
+09/10/22,Crystal Palace,Leeds,2,1,H,1,1,D,P Tierney,13,10,5,4,13,23,5,3,3,3,0,0
+09/10/22,West Ham,Fulham,3,1,H,1,1,D,C Kavanagh,17,8,8,2,9,7,4,2,1,3,0,0
+09/10/22,Arsenal,Liverpool,3,2,H,2,1,H,M Oliver,11,8,7,3,11,11,4,3,1,2,0,0
+09/10/22,Everton,Man United,1,2,A,1,2,A,D Coote,11,12,2,4,7,13,5,4,2,1,0,0
+10/10/22,Nott'm Forest,Aston Villa,1,1,D,1,1,D,A Taylor,6,12,3,2,13,19,1,4,3,3,0,0
+14/10/22,Brentford,Brighton,2,0,H,1,0,H,M Salisbury,7,21,3,7,12,15,2,11,3,1,0,0
+15/10/22,Leicester,Crystal Palace,0,0,D,0,0,D,A Madley,14,8,5,1,18,13,9,2,2,2,0,0
+15/10/22,Fulham,Bournemouth,2,2,D,1,2,A,G Scott,19,10,4,6,9,11,5,6,2,0,0,0
+15/10/22,Wolves,Nott'm Forest,1,0,H,0,0,D,T Bramall,9,10,2,2,17,13,4,5,2,2,0,0
+15/10/22,Tottenham,Everton,2,0,H,0,0,D,P Tierney,21,4,7,0,12,13,7,1,1,4,0,0
+16/10/22,Aston Villa,Chelsea,0,2,A,0,1,A,R Jones,18,8,7,4,12,11,7,1,0,3,0,0
+16/10/22,Leeds,Arsenal,0,1,A,0,1,A,C Kavanagh,16,9,4,4,10,11,6,3,0,2,0,0
+16/10/22,Man United,Newcastle,0,0,D,0,0,D,C Pawson,15,9,2,2,13,11,4,4,3,1,0,0
+16/10/22,Southampton,West Ham,1,1,D,1,0,H,P Bankes,10,25,8,4,7,3,4,14,1,1,0,0
+16/10/22,Liverpool,Man City,1,0,H,0,0,D,A Taylor,13,16,2,6,10,7,5,6,3,1,0,0
+18/10/22,Brighton,Nott'm Forest,0,0,D,0,0,D,D England,19,3,7,0,10,14,9,1,3,1,0,0
+18/10/22,Crystal Palace,Wolves,2,1,H,0,1,A,D Coote,14,10,4,4,14,18,4,3,3,1,0,0
+19/10/22,Bournemouth,Southampton,0,1,A,0,1,A,J Brooks,15,9,3,3,8,13,7,3,1,3,0,0
+19/10/22,Brentford,Chelsea,0,0,D,0,0,D,J Gillett,8,14,5,5,7,7,6,2,0,0,0,0
+19/10/22,Liverpool,West Ham,1,0,H,1,0,H,S Attwell,22,8,7,3,9,8,8,3,0,0,0,0
+19/10/22,Newcastle,Everton,1,0,H,1,0,H,T Harrington,16,1,4,0,9,12,8,2,2,4,0,0
+19/10/22,Man United,Tottenham,2,0,H,0,0,D,S Hooper,28,9,10,2,7,7,8,3,1,0,0,0
+20/10/22,Fulham,Aston Villa,3,0,H,1,0,H,M Oliver,18,12,8,6,11,11,9,7,0,2,0,1
+20/10/22,Leicester,Leeds,2,0,H,2,0,H,P Bankes,5,14,1,2,15,11,2,9,2,1,0,0
+22/10/22,Nott'm Forest,Liverpool,1,0,H,0,0,D,P Tierney,10,15,7,7,14,8,2,11,2,1,0,0
+22/10/22,Everton,Crystal Palace,3,0,H,1,0,H,S Hooper,9,9,6,2,16,14,3,4,3,4,0,0
+22/10/22,Man City,Brighton,3,1,H,2,0,H,C Pawson,10,8,4,2,11,12,7,3,1,3,0,0
+22/10/22,Chelsea,Man United,1,1,D,0,0,D,S Attwell,6,13,2,6,8,10,6,4,1,4,0,0
+23/10/22,Aston Villa,Brentford,4,0,H,3,0,H,D England,19,12,11,3,14,11,7,6,1,0,0,0
+23/10/22,Leeds,Fulham,2,3,A,1,1,D,A Taylor,14,11,5,5,12,8,3,6,1,1,0,0
+23/10/22,Southampton,Arsenal,1,1,D,0,1,A,R Jones,10,12,3,3,11,8,9,4,2,1,0,0
+23/10/22,Wolves,Leicester,0,4,A,0,2,A,M Oliver,21,5,5,4,10,13,9,2,2,1,0,0
+23/10/22,Tottenham,Newcastle,1,2,A,0,2,A,J Gillett,17,13,5,5,12,6,6,7,4,2,0,0
+24/10/22,West Ham,Bournemouth,2,0,H,1,0,H,D Coote,20,5,4,3,9,11,5,0,0,2,0,0
+29/10/22,Leicester,Man City,0,1,A,0,0,D,R Jones,10,15,5,5,5,10,3,10,0,0,0,0
+29/10/22,Bournemouth,Tottenham,2,3,A,1,0,H,A Taylor,6,23,4,7,10,5,2,19,1,2,0,0
+29/10/22,Brentford,Wolves,1,1,D,0,0,D,R Madley,12,14,3,4,10,17,3,6,3,3,0,1
+29/10/22,Brighton,Chelsea,4,1,H,3,0,H,A Madley,19,15,9,7,16,6,8,7,1,2,0,0
+29/10/22,Crystal Palace,Southampton,1,0,H,1,0,H,M Salisbury,12,14,3,4,13,12,8,4,3,3,0,0
+29/10/22,Newcastle,Aston Villa,4,0,H,1,0,H,P Tierney,20,3,7,0,11,11,3,0,1,1,0,0
+29/10/22,Fulham,Everton,0,0,D,0,0,D,J Brooks,24,9,6,4,10,8,13,4,2,1,0,0
+29/10/22,Liverpool,Leeds,1,2,A,1,1,D,M Oliver,22,14,10,6,9,3,14,5,0,1,0,0
+30/10/22,Arsenal,Nott'm Forest,5,0,H,1,0,H,S Hooper,24,5,10,2,9,8,9,4,0,1,0,0
+30/10/22,Man United,West Ham,1,0,H,1,0,H,C Kavanagh,16,13,3,5,12,10,5,10,1,3,0,0
+05/11/22,Leeds,Bournemouth,4,3,H,1,2,A,T Harrington,18,9,4,6,16,10,13,3,2,2,0,0
+05/11/22,Man City,Fulham,2,1,H,1,1,D,D England,16,4,5,2,6,11,9,0,2,4,1,0
+05/11/22,Nott'm Forest,Brentford,2,2,D,1,1,D,A Marriner,15,6,7,2,10,11,3,3,2,2,0,0
+05/11/22,Wolves,Brighton,2,3,A,2,2,D,G Scott,8,19,5,8,15,11,4,9,2,0,1,0
+05/11/22,Everton,Leicester,0,2,A,0,1,A,D Coote,12,22,2,8,9,5,8,3,0,0,0,0
+06/11/22,Chelsea,Arsenal,0,1,A,0,0,D,M Oliver,5,14,1,2,20,13,4,6,5,2,0,0
+06/11/22,Aston Villa,Man United,3,1,H,2,1,H,A Taylor,6,8,4,3,6,12,3,5,3,3,0,0
+06/11/22,Southampton,Newcastle,1,4,A,0,1,A,S Attwell,16,7,5,4,7,10,8,2,1,0,0,0
+06/11/22,West Ham,Crystal Palace,1,2,A,1,1,D,P Tierney,5,15,2,6,10,7,2,5,1,1,0,0
+06/11/22,Tottenham,Liverpool,1,2,A,0,2,A,A Madley,14,13,5,6,10,8,5,3,0,0,0,0
+12/11/22,Man City,Brentford,1,2,A,1,1,D,P Bankes,29,10,6,8,9,7,10,2,2,2,0,0
+12/11/22,Bournemouth,Everton,3,0,H,2,0,H,C Pawson,16,15,9,3,12,8,3,5,2,0,0,0
+12/11/22,Liverpool,Southampton,3,1,H,3,1,H,S Hooper,15,9,7,5,8,8,6,0,0,2,0,0
+12/11/22,Nott'm Forest,Crystal Palace,1,0,H,0,0,D,J Brooks,9,8,2,0,11,13,1,5,1,4,0,0
+12/11/22,Tottenham,Leeds,4,3,H,1,2,A,M Salisbury,14,12,8,5,8,7,9,2,1,1,0,1
+12/11/22,West Ham,Leicester,0,2,A,0,1,A,J Gillett,18,9,6,6,9,8,7,2,3,1,0,0
+12/11/22,Newcastle,Chelsea,1,0,H,0,0,D,R Jones,10,5,3,2,14,11,5,3,3,2,0,0
+12/11/22,Wolves,Arsenal,0,2,A,0,0,D,S Attwell,11,14,2,4,5,6,6,4,3,2,0,0
+13/11/22,Brighton,Aston Villa,1,2,A,1,1,D,C Kavanagh,7,8,2,2,14,11,11,4,2,7,0,0
+13/11/22,Fulham,Man United,1,2,A,0,1,A,P Tierney,14,14,7,9,9,10,10,3,1,1,0,0
+26/12/22,Brentford,Tottenham,2,2,D,1,0,H,D Coote,9,16,5,8,11,10,6,5,3,1,0,0
+26/12/22,Crystal Palace,Fulham,0,3,A,0,1,A,A Madley,4,23,0,11,12,15,1,8,0,0,2,0
+26/12/22,Everton,Wolves,1,2,A,1,1,D,C Pawson,12,7,6,4,9,22,2,2,1,6,0,0
+26/12/22,Leicester,Newcastle,0,3,A,0,3,A,J Gillett,8,12,2,5,9,6,5,5,0,0,0,0
+26/12/22,Southampton,Brighton,1,3,A,0,2,A,R Jones,14,7,4,4,9,10,4,2,1,2,0,0
+26/12/22,Aston Villa,Liverpool,1,3,A,0,2,A,P Tierney,12,16,6,9,7,12,0,6,0,0,0,0
+26/12/22,Arsenal,West Ham,3,1,H,0,1,A,M Oliver,16,8,5,4,13,17,7,5,0,2,0,0
+27/12/22,Chelsea,Bournemouth,2,0,H,2,0,H,S Hooper,15,9,5,4,8,10,6,8,0,0,0,0
+27/12/22,Man United,Nott'm Forest,3,0,H,2,0,H,A Taylor,17,8,8,3,13,4,9,9,3,1,0,0
+28/12/22,Leeds,Man City,1,3,A,0,1,A,S Attwell,9,26,1,9,11,14,3,5,3,3,0,0
+30/12/22,West Ham,Brentford,0,2,A,0,2,A,D England,20,9,5,6,9,5,8,1,1,0,0,0
+30/12/22,Liverpool,Leicester,2,1,H,2,1,H,C Pawson,21,7,5,2,8,15,4,5,0,1,0,0
+31/12/22,Wolves,Man United,0,1,A,0,0,D,R Jones,10,16,3,6,11,11,7,5,1,3,0,0
+31/12/22,Bournemouth,Crystal Palace,0,2,A,0,2,A,A Marriner,6,15,2,6,17,11,2,7,4,1,0,0
+31/12/22,Fulham,Southampton,2,1,H,1,0,H,G Scott,8,9,2,3,8,13,4,4,0,1,0,0
+31/12/22,Man City,Everton,1,1,D,1,0,H,A Madley,16,2,3,1,13,14,7,1,3,4,0,0
+31/12/22,Newcastle,Leeds,0,0,D,0,0,D,S Hooper,16,8,5,1,13,19,9,3,3,5,0,0
+31/12/22,Brighton,Arsenal,2,4,A,0,2,A,A Taylor,9,14,5,7,7,11,7,4,3,3,0,0
+01/01/23,Tottenham,Aston Villa,0,2,A,0,0,D,J Brooks,6,13,2,4,15,10,5,3,4,3,0,0
+01/01/23,Nott'm Forest,Chelsea,1,1,D,0,1,A,P Bankes,12,7,5,2,16,14,1,2,2,2,0,0
+02/01/23,Brentford,Liverpool,3,1,H,2,0,H,S Attwell,10,16,7,6,5,8,4,9,1,3,0,0
+03/01/23,Arsenal,Newcastle,0,0,D,0,0,D,A Madley,17,8,4,1,10,16,5,5,4,4,0,0
+03/01/23,Everton,Brighton,1,4,A,0,1,A,A Marriner,10,19,4,8,8,10,5,2,3,1,0,0
+03/01/23,Leicester,Fulham,0,1,A,0,1,A,D Bond,15,11,6,2,12,11,6,3,2,6,0,0
+03/01/23,Man United,Bournemouth,3,0,H,1,0,H,M Salisbury,18,7,6,4,13,7,6,5,0,3,0,0
+04/01/23,Southampton,Nott'm Forest,0,1,A,0,1,A,T Bramall,8,11,0,1,14,17,6,2,2,2,0,0
+04/01/23,Leeds,West Ham,2,2,D,1,1,D,D Coote,14,15,6,2,11,18,8,1,3,1,0,0
+04/01/23,Aston Villa,Wolves,1,1,D,0,1,A,J Gillett,13,10,4,3,6,12,7,8,1,3,0,0
+04/01/23,Crystal Palace,Tottenham,0,4,A,0,0,D,M Oliver,19,14,4,6,11,8,10,4,1,2,0,0
+05/01/23,Chelsea,Man City,0,1,A,0,0,D,P Tierney,8,12,2,3,9,9,3,2,2,0,0,0
+12/01/23,Fulham,Chelsea,2,1,H,1,0,H,D Coote,8,20,3,10,12,16,5,7,4,3,0,1
+13/01/23,Aston Villa,Leeds,2,1,H,1,0,H,M Oliver,11,16,5,4,12,8,0,11,2,2,0,0
+14/01/23,Man United,Man City,2,1,H,0,0,D,S Attwell,8,5,4,1,15,5,1,2,3,0,0,0
+14/01/23,Brighton,Liverpool,3,0,H,0,0,D,D England,16,6,9,2,8,15,7,1,1,3,0,0
+14/01/23,Everton,Southampton,1,2,A,1,0,H,J Brooks,12,13,4,5,7,19,6,4,0,3,0,0
+14/01/23,Nott'm Forest,Leicester,2,0,H,0,0,D,P Tierney,15,6,5,1,11,12,3,5,1,2,0,0
+14/01/23,Wolves,West Ham,1,0,H,0,0,D,S Hooper,17,16,4,4,10,7,4,3,0,2,0,0
+14/01/23,Brentford,Bournemouth,2,0,H,1,0,H,J Gillett,12,7,4,2,5,9,5,3,1,1,0,0
+15/01/23,Chelsea,Crystal Palace,1,0,H,0,0,D,P Bankes,15,10,5,5,10,17,11,7,2,5,0,0
+15/01/23,Newcastle,Fulham,1,0,H,0,0,D,R Jones,20,5,5,0,6,14,10,5,1,3,0,0
+15/01/23,Tottenham,Arsenal,0,2,A,0,2,A,C Pawson,17,14,7,5,16,15,4,3,4,2,0,0
+18/01/23,Crystal Palace,Man United,1,1,D,0,1,A,R Jones,10,15,5,4,9,10,3,3,1,2,0,0
+19/01/23,Man City,Tottenham,4,2,H,0,2,A,S Hooper,16,9,6,3,10,14,8,3,1,2,0,0
+21/01/23,Liverpool,Chelsea,0,0,D,0,0,D,M Oliver,15,11,3,2,16,9,5,5,3,1,0,0
+21/01/23,Bournemouth,Nott'm Forest,1,1,D,1,0,H,A Madley,16,20,4,5,10,7,4,6,1,2,0,0
+21/01/23,Leicester,Brighton,2,2,D,1,1,D,T Bramall,9,13,2,4,9,9,5,6,0,1,0,0
+21/01/23,Southampton,Aston Villa,0,1,A,0,0,D,M Salisbury,8,16,5,5,19,9,2,2,1,2,0,0
+21/01/23,West Ham,Everton,2,0,H,2,0,H,S Attwell,11,5,4,2,9,6,4,9,1,1,0,0
+21/01/23,Crystal Palace,Newcastle,0,0,D,0,0,D,C Pawson,6,16,1,7,13,7,3,15,4,2,0,0
+22/01/23,Leeds,Brentford,0,0,D,0,0,D,P Bankes,9,6,5,0,10,18,2,3,2,2,0,0
+22/01/23,Man City,Wolves,3,0,H,1,0,H,D Coote,13,10,7,1,10,10,5,7,1,2,0,0
+22/01/23,Arsenal,Man United,3,2,H,1,1,D,A Taylor,25,6,5,4,8,9,12,4,1,2,0,0
+23/01/23,Fulham,Tottenham,0,1,A,0,1,A,P Tierney,10,10,5,3,10,10,3,8,1,3,0,0
+03/02/23,Chelsea,Fulham,0,0,D,0,0,D,S Attwell,12,10,3,4,16,12,6,2,1,4,0,0
+04/02/23,Everton,Arsenal,1,0,H,0,0,D,D Coote,12,15,4,3,13,8,7,5,4,1,0,0
+04/02/23,Aston Villa,Leicester,2,4,A,2,3,A,D England,19,9,4,5,10,10,11,3,0,2,0,0
+04/02/23,Brentford,Southampton,3,0,H,2,0,H,D Bond,14,14,4,6,10,9,4,4,1,2,0,0
+04/02/23,Brighton,Bournemouth,1,0,H,0,0,D,C Pawson,20,12,6,2,14,7,7,3,3,1,0,0
+04/02/23,Man United,Crystal Palace,2,1,H,1,0,H,A Marriner,14,10,5,3,9,9,5,5,1,2,1,0
+04/02/23,Wolves,Liverpool,3,0,H,2,0,H,P Tierney,12,22,6,4,9,7,2,7,1,1,0,0
+04/02/23,Newcastle,West Ham,1,1,D,1,1,D,P Bankes,8,10,2,1,11,13,4,2,2,1,0,0
+05/02/23,Nott'm Forest,Leeds,1,0,H,1,0,H,R Jones,6,10,2,4,15,14,0,2,4,2,0,0
+05/02/23,Tottenham,Man City,1,0,H,1,0,H,A Madley,12,15,3,5,19,14,4,6,2,3,1,0
+08/02/23,Man United,Leeds,2,2,D,0,1,A,S Hooper,24,8,7,2,7,11,6,5,1,3,0,0
+11/02/23,West Ham,Chelsea,1,1,D,1,1,D,C Pawson,10,12,2,4,9,11,5,6,1,1,0,0
+11/02/23,Arsenal,Brentford,1,1,D,0,0,D,P Bankes,23,9,7,2,9,9,7,4,0,2,0,0
+11/02/23,Crystal Palace,Brighton,1,1,D,0,0,D,M Oliver,6,17,1,7,10,11,1,6,4,1,0,0
+11/02/23,Fulham,Nott'm Forest,2,0,H,1,0,H,A Madley,16,10,3,1,9,11,5,4,0,1,0,0
+11/02/23,Leicester,Tottenham,4,1,H,3,1,H,M Salisbury,15,11,7,4,14,9,1,5,5,2,0,0
+11/02/23,Southampton,Wolves,1,2,A,1,0,H,J Gillett,17,11,2,2,12,14,5,2,2,2,0,1
+11/02/23,Bournemouth,Newcastle,1,1,D,1,1,D,S Attwell,11,15,5,7,8,10,4,6,2,3,0,0
+12/02/23,Leeds,Man United,0,2,A,0,0,D,P Tierney,16,11,6,5,10,13,7,3,2,1,0,0
+12/02/23,Man City,Aston Villa,3,1,H,3,0,H,R Jones,17,6,9,2,13,14,8,4,1,2,0,0
+13/02/23,Liverpool,Everton,2,0,H,1,0,H,S Hooper,15,6,6,1,8,16,3,3,1,3,0,0
+15/02/23,Arsenal,Man City,1,3,A,1,1,D,A Taylor,10,9,1,6,11,15,1,3,2,3,0,0
+18/02/23,Aston Villa,Arsenal,2,4,A,2,1,H,S Hooper,7,20,5,5,13,4,2,9,2,1,0,0
+18/02/23,Brentford,Crystal Palace,1,1,D,0,0,D,P Tierney,12,10,5,4,10,8,2,6,2,2,0,0
+18/02/23,Brighton,Fulham,0,1,A,0,0,D,D England,21,5,7,2,12,14,10,2,0,5,0,0
+18/02/23,Chelsea,Southampton,0,1,A,0,1,A,D Coote,17,8,5,5,16,24,8,2,3,6,0,0
+18/02/23,Everton,Leeds,1,0,H,0,0,D,A Madley,15,8,6,0,8,6,6,4,2,3,0,0
+18/02/23,Nott'm Forest,Man City,1,1,D,0,1,A,G Scott,4,26,1,6,8,6,0,10,1,0,0,0
+18/02/23,Wolves,Bournemouth,0,1,A,0,0,D,M Salisbury,15,5,4,1,12,10,12,2,3,3,0,0
+18/02/23,Newcastle,Liverpool,0,2,A,0,2,A,A Taylor,14,13,4,7,3,8,6,7,1,1,1,0
+19/02/23,Man United,Leicester,3,0,H,1,0,H,S Attwell,26,19,8,3,9,9,6,6,0,2,0,0
+19/02/23,Tottenham,West Ham,2,0,H,0,0,D,M Oliver,16,6,6,1,16,10,4,7,2,1,0,0
+24/02/23,Fulham,Wolves,1,1,D,0,1,A,M Oliver,10,8,5,2,12,17,4,3,2,0,0,0
+25/02/23,Everton,Aston Villa,0,2,A,0,0,D,A Taylor,15,9,5,5,12,12,5,1,2,1,0,0
+25/02/23,Leeds,Southampton,1,0,H,0,0,D,P Bankes,14,8,4,2,15,13,9,2,2,4,0,0
+25/02/23,Leicester,Arsenal,0,1,A,0,0,D,C Pawson,1,10,0,2,14,9,0,8,0,1,0,0
+25/02/23,West Ham,Nott'm Forest,4,0,H,0,0,D,J Gillett,18,8,5,3,8,5,12,3,0,0,0,0
+25/02/23,Bournemouth,Man City,1,4,A,0,3,A,P Tierney,13,20,2,5,10,9,4,6,2,2,0,0
+25/02/23,Crystal Palace,Liverpool,0,0,D,0,0,D,D England,6,12,0,4,11,14,5,3,2,5,0,0
+26/02/23,Tottenham,Chelsea,2,0,H,0,0,D,S Attwell,8,10,3,2,10,10,4,4,2,3,0,0
+01/03/23,Arsenal,Everton,4,0,H,2,0,H,M Oliver,15,8,5,5,5,12,5,1,0,2,0,0
+01/03/23,Liverpool,Wolves,2,0,H,0,0,D,P Tierney,15,4,6,1,13,14,5,2,2,3,0,0
+04/03/23,Man City,Newcastle,2,0,H,1,0,H,S Hooper,11,5,3,2,8,13,8,4,2,4,0,0
+04/03/23,Arsenal,Bournemouth,3,2,H,0,1,A,C Kavanagh,31,4,9,4,6,8,17,1,0,2,0,0
+04/03/23,Aston Villa,Crystal Palace,1,0,H,1,0,H,C Pawson,8,3,1,0,14,17,2,4,2,3,0,1
+04/03/23,Brighton,West Ham,4,0,H,1,0,H,S Attwell,20,3,9,2,6,8,7,3,0,3,0,0
+04/03/23,Chelsea,Leeds,1,0,H,0,0,D,M Oliver,13,11,3,2,10,7,5,7,2,0,0,0
+04/03/23,Wolves,Tottenham,1,0,H,0,0,D,T Robinson,8,21,5,6,11,18,4,8,1,1,0,0
+04/03/23,Southampton,Leicester,1,0,H,1,0,H,R Jones,11,11,5,0,12,11,3,4,4,2,0,0
+05/03/23,Nott'm Forest,Everton,2,2,D,1,2,A,J Brooks,10,10,4,3,11,17,3,3,3,5,0,0
+05/03/23,Liverpool,Man United,7,0,H,1,0,H,A Madley,18,8,8,4,13,14,4,3,2,3,0,0
+06/03/23,Brentford,Fulham,3,2,H,1,1,D,A Taylor,14,9,6,5,12,17,2,3,0,3,0,0
+11/03/23,Bournemouth,Liverpool,1,0,H,1,0,H,J Brooks,5,15,2,6,7,9,3,8,2,1,0,0
+11/03/23,Everton,Brentford,1,0,H,1,0,H,S Hooper,13,12,6,4,11,12,5,8,2,1,0,0
+11/03/23,Leeds,Brighton,2,2,D,1,1,D,P Tierney,12,14,4,2,12,9,4,7,1,1,0,0
+11/03/23,Leicester,Chelsea,1,3,A,1,2,A,A Marriner,17,12,7,6,10,11,2,5,1,2,1,0
+11/03/23,Tottenham,Nott'm Forest,3,1,H,2,0,H,C Pawson,15,9,7,5,13,13,2,10,3,1,0,0
+11/03/23,Crystal Palace,Man City,0,1,A,0,0,D,R Jones,4,14,0,4,11,17,2,6,2,2,0,0
+12/03/23,Fulham,Arsenal,0,3,A,0,3,A,D Coote,12,15,2,7,10,9,4,8,0,1,0,0
+12/03/23,Man United,Southampton,0,0,D,0,0,D,A Taylor,10,17,4,4,12,9,7,8,2,0,0,0
+12/03/23,West Ham,Aston Villa,1,1,D,1,1,D,C Kavanagh,17,12,6,4,8,6,13,2,1,0,0,0
+12/03/23,Newcastle,Wolves,2,1,H,1,0,H,A Madley,19,7,8,4,11,10,10,3,1,2,0,0
+15/03/23,Brighton,Crystal Palace,1,0,H,1,0,H,P Bankes,11,11,5,3,13,20,1,4,1,2,0,0
+15/03/23,Southampton,Brentford,0,2,A,0,1,A,M Salisbury,7,11,1,5,14,10,3,3,1,2,0,0
+17/03/23,Nott'm Forest,Newcastle,1,2,A,1,1,D,P Tierney,5,15,3,4,17,9,3,7,5,1,0,0
+18/03/23,Aston Villa,Bournemouth,3,0,H,1,0,H,R Jones,20,10,9,3,8,13,9,6,1,4,0,0
+18/03/23,Brentford,Leicester,1,1,D,1,0,H,D Bond,11,14,2,1,10,11,8,4,1,2,1,0
+18/03/23,Southampton,Tottenham,3,3,D,0,1,A,S Hooper,19,17,7,3,13,8,10,3,1,1,0,0
+18/03/23,Wolves,Leeds,2,4,A,0,1,A,M Salisbury,23,11,8,4,15,9,5,4,3,5,1,0
+18/03/23,Chelsea,Everton,2,2,D,0,0,D,D England,20,12,7,3,8,12,8,2,2,2,0,0
+19/03/23,Arsenal,Crystal Palace,4,1,H,2,0,H,S Attwell,15,8,5,4,8,10,5,4,0,1,0,0
+01/04/23,Man City,Liverpool,4,1,H,1,1,D,S Hooper,17,4,8,1,9,12,7,1,1,1,0,0
+01/04/23,Arsenal,Leeds,4,1,H,1,0,H,D England,13,7,6,5,11,13,4,3,0,2,0,0
+01/04/23,Bournemouth,Fulham,2,1,H,0,1,A,P Bankes,12,10,7,2,15,13,4,3,1,4,0,0
+01/04/23,Brighton,Brentford,3,3,D,2,2,D,M Oliver,33,7,15,5,16,10,14,0,2,1,0,0
+01/04/23,Crystal Palace,Leicester,2,1,H,0,0,D,T Robinson,31,3,9,2,12,16,10,1,3,4,0,0
+01/04/23,Nott'm Forest,Wolves,1,1,D,1,0,H,C Kavanagh,17,8,7,1,14,13,4,3,3,5,0,0
+01/04/23,Chelsea,Aston Villa,0,2,A,0,1,A,A Madley,27,5,8,2,14,16,13,2,3,3,0,0
+02/04/23,West Ham,Southampton,1,0,H,1,0,H,P Tierney,12,9,2,3,10,11,5,3,0,2,0,0
+02/04/23,Newcastle,Man United,2,0,H,0,0,D,S Attwell,22,6,6,1,8,12,7,4,0,0,0,0
+03/04/23,Everton,Tottenham,1,1,D,0,0,D,D Coote,15,8,6,2,10,14,3,3,0,3,1,1
+04/04/23,Bournemouth,Brighton,0,2,A,0,1,A,D Bond,14,16,3,6,11,5,5,5,1,1,0,0
+04/04/23,Leeds,Nott'm Forest,2,1,H,2,1,H,R Jones,21,13,6,1,11,13,11,4,1,4,0,0
+04/04/23,Leicester,Aston Villa,1,2,A,1,1,D,G Scott,9,15,4,5,10,14,4,8,2,0,1,0
+04/04/23,Chelsea,Liverpool,0,0,D,0,0,D,A Taylor,12,7,3,4,6,17,3,5,1,4,0,0
+05/04/23,Man United,Brentford,1,0,H,1,0,H,J Brooks,18,6,3,1,8,13,12,3,3,2,0,0
+05/04/23,West Ham,Newcastle,1,5,A,1,2,A,C Pawson,7,15,2,8,11,12,7,6,2,1,0,0
+08/04/23,Man United,Everton,2,0,H,1,0,H,M Oliver,29,15,11,1,10,9,10,4,0,0,0,0
+08/04/23,Aston Villa,Nott'm Forest,2,0,H,0,0,D,A Taylor,8,6,3,2,7,17,1,8,3,4,0,0
+08/04/23,Brentford,Newcastle,1,2,A,1,0,H,C Kavanagh,12,10,6,4,10,15,6,5,0,0,0,0
+08/04/23,Fulham,West Ham,0,1,A,0,1,A,J Gillett,16,9,3,5,10,12,11,4,1,1,0,0
+08/04/23,Leicester,Bournemouth,0,1,A,0,1,A,D Coote,14,19,4,7,10,13,6,6,0,3,0,0
+08/04/23,Tottenham,Brighton,2,1,H,1,1,D,S Attwell,9,17,3,4,15,15,3,7,3,1,0,0
+08/04/23,Wolves,Chelsea,1,0,H,1,0,H,P Bankes,9,13,4,1,14,10,8,8,2,5,0,0
+08/04/23,Southampton,Man City,1,4,A,0,1,A,R Jones,4,13,1,8,6,10,0,10,0,2,0,0
+09/04/23,Leeds,Crystal Palace,1,5,A,1,1,D,S Hooper,11,16,7,8,11,8,2,4,3,1,0,0
+09/04/23,Liverpool,Arsenal,2,2,D,1,2,A,P Tierney,21,9,6,5,11,11,5,4,4,4,0,0
+15/04/23,Aston Villa,Newcastle,3,0,H,1,0,H,J Brooks,16,8,6,2,13,15,7,2,1,1,0,0
+15/04/23,Chelsea,Brighton,1,2,A,1,1,D,R Jones,8,26,2,10,11,11,2,8,2,2,0,0
+15/04/23,Everton,Fulham,1,3,A,1,1,D,A Taylor,15,21,7,7,10,6,4,8,3,2,0,0
+15/04/23,Southampton,Crystal Palace,0,2,A,0,0,D,M Oliver,11,9,4,2,6,13,6,2,3,1,0,0
+15/04/23,Tottenham,Bournemouth,2,3,A,1,1,D,A Madley,24,6,8,6,8,9,8,1,1,2,0,0
+15/04/23,Wolves,Brentford,2,0,H,1,0,H,P Tierney,11,10,9,3,12,8,5,2,1,1,0,0
+15/04/23,Man City,Leicester,3,1,H,3,0,H,D England,12,10,4,4,8,8,6,2,1,1,0,0
+16/04/23,West Ham,Arsenal,2,2,D,1,2,A,D Coote,16,11,3,5,11,8,7,2,1,2,0,0
+16/04/23,Nott'm Forest,Man United,0,2,A,0,1,A,S Hooper,6,22,0,8,9,9,4,9,2,2,0,0
+17/04/23,Leeds,Liverpool,1,6,A,0,2,A,C Pawson,13,13,3,7,6,12,4,2,0,1,0,0
+21/04/23,Arsenal,Southampton,3,3,D,1,2,A,S Hooper,25,8,6,6,10,14,7,2,1,5,0,0
+22/04/23,Fulham,Leeds,2,1,H,0,0,D,P Bankes,12,10,5,2,10,15,8,6,1,4,0,0
+22/04/23,Brentford,Aston Villa,1,1,D,0,0,D,M Salisbury,6,14,5,2,12,8,8,4,3,2,0,0
+22/04/23,Crystal Palace,Everton,0,0,D,0,0,D,J Brooks,12,10,2,5,12,14,8,1,1,1,0,1
+22/04/23,Leicester,Wolves,2,1,H,1,1,D,A Madley,15,16,8,3,17,16,1,7,1,3,0,0
+22/04/23,Liverpool,Nott'm Forest,3,2,H,0,0,D,M Oliver,18,11,6,5,9,12,9,3,0,1,0,0
+23/04/23,Bournemouth,West Ham,0,4,A,0,3,A,A Taylor,17,18,5,10,7,8,8,5,1,2,0,0
+23/04/23,Newcastle,Tottenham,6,1,H,5,0,H,D Coote,25,11,8,3,7,13,9,3,0,3,0,0
+25/04/23,Wolves,Crystal Palace,2,0,H,1,0,H,R Jones,9,14,3,4,13,14,6,11,5,4,0,0
+25/04/23,Aston Villa,Fulham,1,0,H,1,0,H,T Bramall,14,1,3,0,6,18,8,2,3,2,0,0
+25/04/23,Leeds,Leicester,1,1,D,1,0,H,P Tierney,13,15,3,3,14,15,3,6,4,2,0,0
+26/04/23,Nott'm Forest,Brighton,3,1,H,1,1,D,J Gillett,12,17,5,7,7,8,2,7,2,0,0,0
+26/04/23,Chelsea,Brentford,0,2,A,0,1,A,A Madley,15,7,4,1,5,13,5,2,1,2,0,0
+26/04/23,West Ham,Liverpool,1,2,A,1,1,D,C Kavanagh,7,20,2,4,6,8,3,6,0,0,0,0
+26/04/23,Man City,Arsenal,4,1,H,2,0,H,M Oliver,14,8,9,2,13,13,1,3,3,1,0,0
+27/04/23,Everton,Newcastle,1,4,A,0,1,A,A Marriner,13,15,5,8,8,6,3,14,2,1,0,0
+27/04/23,Southampton,Bournemouth,0,1,A,0,0,D,D England,11,16,2,2,9,11,6,4,0,3,0,0
+27/04/23,Tottenham,Man United,2,2,D,0,2,A,A Taylor,18,17,7,8,8,7,6,8,1,2,0,0
+29/04/23,Crystal Palace,West Ham,4,3,H,3,2,H,C Pawson,16,8,6,4,9,17,8,5,1,2,0,0
+29/04/23,Brentford,Nott'm Forest,2,1,H,0,1,A,P Bankes,14,5,8,3,6,13,6,0,1,2,0,0
+29/04/23,Brighton,Wolves,6,0,H,4,0,H,D Coote,22,10,8,2,14,11,2,5,1,1,0,0
+30/04/23,Bournemouth,Leeds,4,1,H,2,1,H,C Kavanagh,12,15,7,6,12,14,2,6,1,0,0,0
+30/04/23,Fulham,Man City,1,2,A,1,2,A,S Hooper,4,12,1,9,9,10,2,5,1,3,0,0
+30/04/23,Man United,Aston Villa,1,0,H,1,0,H,J Gillett,14,7,6,1,16,7,1,4,2,0,0,0
+30/04/23,Newcastle,Southampton,3,1,H,0,1,A,A Taylor,22,4,5,3,7,10,11,2,1,4,0,0
+30/04/23,Liverpool,Tottenham,4,3,H,3,1,H,P Tierney,12,10,4,7,12,6,5,2,3,2,0,0
+01/05/23,Leicester,Everton,2,2,D,2,1,H,M Oliver,15,23,6,8,10,12,2,9,4,1,0,0
+02/05/23,Arsenal,Chelsea,3,1,H,3,0,H,R Jones,16,7,10,4,10,10,7,2,0,2,0,0
+03/05/23,Liverpool,Fulham,1,0,H,1,0,H,S Attwell,15,9,3,3,10,8,7,5,0,0,0,0
+03/05/23,Man City,West Ham,3,0,H,0,0,D,J Brooks,16,6,7,2,8,8,6,3,0,1,0,0
+04/05/23,Brighton,Man United,1,0,H,0,0,D,A Marriner,22,16,6,5,10,14,8,6,4,4,0,0
+06/05/23,Bournemouth,Chelsea,1,3,A,1,1,D,J Brooks,10,11,4,5,9,11,7,7,1,3,0,0
+06/05/23,Man City,Leeds,2,1,H,2,0,H,A Madley,18,4,6,2,3,16,10,1,0,3,0,0
+06/05/23,Tottenham,Crystal Palace,1,0,H,1,0,H,D England,8,7,3,2,15,14,8,4,3,5,0,0
+06/05/23,Wolves,Aston Villa,1,0,H,1,0,H,S Attwell,6,16,2,3,20,9,5,6,3,3,0,0
+06/05/23,Liverpool,Brentford,1,0,H,1,0,H,A Taylor,15,5,5,1,19,10,7,3,4,2,0,0
+07/05/23,Newcastle,Arsenal,0,2,A,0,1,A,C Kavanagh,12,10,5,6,16,12,9,4,2,1,0,0
+07/05/23,West Ham,Man United,1,0,H,1,0,H,P Bankes,15,19,4,4,4,9,5,6,0,2,0,0
+08/05/23,Fulham,Leicester,5,3,H,3,0,H,R Jones,17,18,7,9,13,15,2,7,0,3,0,0
+08/05/23,Brighton,Everton,1,5,A,0,3,A,S Hooper,23,10,5,5,11,13,15,1,1,5,0,0
+08/05/23,Nott'm Forest,Southampton,4,3,H,3,1,H,M Oliver,9,19,4,5,16,10,2,11,1,0,0,0
+13/05/23,Leeds,Newcastle,2,2,D,1,1,D,S Hooper,9,18,4,5,16,14,2,6,3,2,1,0
+13/05/23,Aston Villa,Tottenham,2,1,H,1,0,H,P Bankes,8,5,4,2,9,14,8,3,3,3,0,0
+13/05/23,Chelsea,Nott'm Forest,2,2,D,0,1,A,P Tierney,14,11,6,2,13,15,2,5,3,1,0,0
+13/05/23,Crystal Palace,Bournemouth,2,0,H,1,0,H,M Salisbury,17,5,5,0,5,12,11,2,0,2,0,0
+13/05/23,Man United,Wolves,2,0,H,1,0,H,J Brooks,27,5,9,0,9,9,11,7,3,2,0,0
+13/05/23,Southampton,Fulham,0,2,A,0,0,D,T Bramall,5,9,1,4,17,12,1,8,2,0,0,0
+14/05/23,Brentford,West Ham,2,0,H,2,0,H,M Oliver,24,4,10,4,5,5,7,5,1,0,0,0
+14/05/23,Everton,Man City,0,3,A,0,2,A,A Taylor,7,9,3,4,12,4,8,6,1,0,0,0
+14/05/23,Arsenal,Brighton,0,3,A,0,0,D,A Madley,14,12,2,6,13,17,5,2,1,2,0,0
+15/05/23,Leicester,Liverpool,0,3,A,0,2,A,C Pawson,4,16,4,5,11,17,4,4,2,1,0,0
+18/05/23,Newcastle,Brighton,4,1,H,2,0,H,R Jones,22,8,9,2,17,16,6,1,2,4,0,0
+20/05/23,Tottenham,Brentford,1,3,A,1,0,H,J Gillett,22,11,8,4,11,9,8,2,1,1,0,0
+20/05/23,Bournemouth,Man United,0,1,A,0,1,A,C Kavanagh,10,20,4,5,6,7,3,6,1,0,0,0
+20/05/23,Fulham,Crystal Palace,2,2,D,1,1,D,J Smith,11,11,4,5,13,12,7,4,3,0,0,0
+20/05/23,Liverpool,Aston Villa,1,1,D,0,1,A,J Brooks,10,6,5,3,16,13,9,4,3,5,0,0
+20/05/23,Wolves,Everton,1,1,D,1,0,H,D Coote,13,19,5,4,18,10,1,7,5,1,0,0
+20/05/23,Nott'm Forest,Arsenal,1,0,H,1,0,H,A Taylor,6,11,2,3,11,12,3,6,3,2,0,0
+21/05/23,West Ham,Leeds,3,1,H,1,1,D,P Bankes,19,12,9,3,6,11,9,5,1,3,0,0
+21/05/23,Brighton,Southampton,3,1,H,2,0,H,P Tierney,26,5,8,1,8,9,4,3,2,5,0,0
+21/05/23,Man City,Chelsea,1,0,H,1,0,H,M Oliver,15,13,2,6,12,9,5,2,0,2,0,0
+22/05/23,Newcastle,Leicester,0,0,D,0,0,D,A Marriner,23,1,4,1,9,5,12,1,2,0,0,0
+24/05/23,Brighton,Man City,1,1,D,1,1,D,S Hooper,20,13,7,4,16,11,5,1,2,1,0,0
+25/05/23,Man United,Chelsea,4,1,H,2,0,H,S Attwell,18,14,9,5,12,6,3,4,1,1,0,0
+28/05/23,Arsenal,Wolves,5,0,H,3,0,H,A Marriner,14,6,8,0,8,11,8,4,0,0,0,0
+28/05/23,Aston Villa,Brighton,2,1,H,2,1,H,D Coote,12,8,5,4,15,16,4,3,4,4,0,0
+28/05/23,Brentford,Man City,1,0,H,0,0,D,J Brooks,11,17,4,3,12,8,3,4,4,0,0,0
+28/05/23,Chelsea,Newcastle,1,1,D,1,1,D,J Gillett,22,13,5,4,9,11,10,3,0,0,0,0
+28/05/23,Crystal Palace,Nott'm Forest,1,1,D,0,1,A,T Bramall,16,7,4,4,9,13,5,4,0,2,0,0
+28/05/23,Everton,Bournemouth,1,0,H,0,0,D,S Attwell,13,7,6,2,11,12,9,3,1,3,0,0
+28/05/23,Leeds,Tottenham,1,4,A,0,1,A,A Taylor,19,11,2,7,7,5,12,3,3,0,0,0
+28/05/23,Leicester,West Ham,2,1,H,1,0,H,S Hooper,13,16,4,3,8,10,3,5,1,1,0,0
+28/05/23,Man United,Fulham,2,1,H,1,1,D,R Jones,21,10,8,3,14,10,5,4,1,2,0,0
+28/05/23,Southampton,Liverpool,4,4,D,2,2,D,D England,15,30,10,8,4,10,2,9,0,2,0,0

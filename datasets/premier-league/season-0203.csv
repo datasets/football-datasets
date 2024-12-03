@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+17/08/02,Blackburn,Sunderland,0,0,D,0,0,D,D Elleray,15,7,5,3,14,11,9,1,1,2,0,0
+17/08/02,Charlton,Chelsea,2,3,A,2,1,H,G Barber,5,21,5,12,10,12,3,6,0,3,1,0
+17/08/02,Everton,Tottenham,2,2,D,1,0,H,N Barry,13,10,9,5,18,4,10,5,1,1,0,0
+17/08/02,Fulham,Bolton,4,1,H,3,1,H,A Wiley,13,3,6,1,16,12,7,4,1,2,0,0
+17/08/02,Leeds,Man City,3,0,H,2,0,H,G Poll,13,18,8,10,13,13,2,7,1,1,0,0
+17/08/02,Man United,West Brom,1,0,H,0,0,D,S Bennett,20,6,13,5,9,12,9,1,1,1,0,1
+17/08/02,Southampton,Middlesbrough,0,0,D,0,0,D,B Knight,12,11,5,5,11,14,3,4,0,0,0,0
+18/08/02,Arsenal,Birmingham,2,0,H,2,0,H,M Riley,15,7,7,1,6,11,9,2,0,1,0,1
+18/08/02,Aston Villa,Liverpool,0,1,A,0,0,D,A D'Urso,11,12,5,6,9,5,6,8,2,2,0,0
+19/08/02,Newcastle,West Ham,4,0,H,0,0,D,P Durkin,13,7,10,4,7,9,7,1,1,2,0,0
+23/08/02,Chelsea,Man United,2,2,D,2,1,H,G Poll,11,9,5,7,13,9,3,3,3,2,0,0
+24/08/02,Birmingham,Blackburn,0,1,A,0,1,A,D Gallagher,15,13,10,9,10,17,6,4,1,2,0,0
+24/08/02,Bolton,Charlton,1,2,A,1,1,D,M Messias,15,8,9,4,9,11,4,6,1,1,0,0
+24/08/02,Liverpool,Southampton,3,0,H,1,0,H,J Winter,16,7,9,1,11,8,5,8,0,1,0,0
+24/08/02,Man City,Newcastle,1,0,H,1,0,H,U Rennie,20,9,12,6,12,14,6,8,1,1,0,0
+24/08/02,Middlesbrough,Fulham,2,2,D,1,0,H,M Dean,6,10,3,4,18,7,8,11,4,2,0,0
+24/08/02,Sunderland,Everton,0,1,A,0,1,A,R Styles,13,11,3,5,10,15,10,4,1,0,0,0
+24/08/02,Tottenham,Aston Villa,1,0,H,1,0,H,C Wilkes,8,18,3,8,20,15,2,5,2,0,0,0
+24/08/02,West Brom,Leeds,1,3,A,0,1,A,S Dunn,12,11,2,4,9,11,7,3,1,1,0,0
+24/08/02,West Ham,Arsenal,2,2,D,1,0,H,N Barry,8,9,4,5,18,14,4,4,2,5,0,0
+27/08/02,Arsenal,West Brom,5,2,H,3,0,H,P Durkin,10,8,8,6,9,9,1,1,3,2,0,0
+27/08/02,Charlton,Tottenham,0,1,A,0,1,A,A Wiley,10,7,5,1,9,23,6,9,1,2,0,0
+28/08/02,Aston Villa,Man City,1,0,H,0,0,D,D Pugh,11,7,6,1,13,11,5,4,1,3,0,0
+28/08/02,Blackburn,Liverpool,2,2,D,1,1,D,S Bennett,7,5,4,3,17,10,5,2,3,1,0,0
+28/08/02,Everton,Birmingham,1,1,D,0,0,D,E Wolstenholme,11,5,4,2,18,12,7,4,0,3,1,0
+28/08/02,Leeds,Sunderland,0,1,A,0,0,D,M Halsey,20,9,9,4,13,11,8,1,2,0,0,0
+28/08/02,Southampton,Chelsea,1,1,D,0,0,D,C Foy,12,10,4,3,16,11,5,6,2,1,0,0
+31/08/02,Birmingham,Leeds,2,1,H,1,0,H,P Durkin,9,8,5,6,14,16,2,5,3,3,0,0
+31/08/02,Man City,Everton,3,1,H,2,1,H,B Knight,7,14,6,8,12,11,7,6,1,0,1,0
+31/08/02,Middlesbrough,Blackburn,1,0,H,0,0,D,M Halsey,7,10,3,7,19,16,8,6,3,3,0,0
+31/08/02,Sunderland,Man United,1,1,D,0,1,A,U Rennie,12,20,5,10,13,16,6,8,1,2,0,1
+31/08/02,Tottenham,Southampton,2,1,H,1,1,D,M Dean,18,15,8,8,16,13,12,6,3,1,0,1
+31/08/02,West Brom,Fulham,1,0,H,0,0,D,R Styles,8,6,5,1,17,16,5,7,4,3,0,0
+31/08/02,West Ham,Charlton,0,2,A,0,2,A,J Winter,9,5,4,3,11,15,8,6,3,1,0,0
+01/09/02,Bolton,Aston Villa,1,0,H,0,0,D,S Dunn,13,12,6,5,9,11,4,5,2,3,0,0
+01/09/02,Chelsea,Arsenal,1,1,D,1,0,H,A D'Urso,8,8,2,5,20,16,6,2,5,2,0,1
+02/09/02,Liverpool,Newcastle,2,2,D,0,0,D,G Poll,22,11,11,6,7,25,12,3,1,2,0,0
+03/09/02,Man United,Middlesbrough,1,0,H,1,0,H,M Riley,7,5,1,3,13,12,4,6,1,2,0,0
+10/09/02,Arsenal,Man City,2,1,H,2,1,H,C Wilkes,13,5,5,4,16,14,7,6,1,2,0,1
+10/09/02,Middlesbrough,Sunderland,3,0,H,2,0,H,A Wiley,9,8,7,6,16,12,6,8,3,3,0,0
+11/09/02,Aston Villa,Charlton,2,0,H,0,0,D,G Poll,12,8,5,2,16,16,6,2,0,1,0,0
+11/09/02,Blackburn,Chelsea,2,3,A,2,1,H,M Riley,11,14,6,9,15,16,9,4,2,3,0,0
+11/09/02,Fulham,Tottenham,3,2,H,0,2,A,M Halsey,13,7,8,4,8,11,9,6,0,1,0,0
+11/09/02,Liverpool,Birmingham,2,2,D,1,0,H,N Barry,12,6,10,3,6,10,1,2,0,1,0,0
+11/09/02,Man United,Bolton,0,1,A,0,0,D,G Barber,23,10,14,8,10,11,9,6,1,2,0,0
+11/09/02,Newcastle,Leeds,0,2,A,0,1,A,D Gallagher,22,14,11,6,15,12,10,7,3,2,0,0
+11/09/02,Southampton,Everton,1,0,H,0,0,D,S Bennett,11,18,7,10,13,19,4,13,3,3,0,0
+11/09/02,West Ham,West Brom,0,1,A,0,1,A,A D'Urso,5,6,3,5,11,15,8,4,1,0,0,0
+14/09/02,Bolton,Liverpool,2,3,A,0,1,A,R Styles,7,12,5,8,10,9,7,4,2,2,0,0
+14/09/02,Charlton,Arsenal,0,3,A,0,1,A,S Dunn,9,10,3,8,8,13,1,6,0,3,0,0
+14/09/02,Chelsea,Newcastle,3,0,H,2,0,H,B Knight,7,5,5,0,9,9,2,4,1,4,0,0
+14/09/02,Everton,Middlesbrough,2,1,H,1,1,D,M Messias,13,10,8,5,18,12,10,4,2,1,0,0
+14/09/02,Leeds,Man United,1,0,H,0,0,D,J Winter,8,6,2,5,15,12,4,7,2,1,0,0
+14/09/02,Sunderland,Fulham,0,3,A,0,1,A,C Foy,8,5,5,4,12,13,11,6,2,2,0,0
+14/09/02,West Brom,Southampton,1,0,H,0,0,D,D Gallagher,11,10,7,5,14,14,0,7,2,1,0,1
+15/09/02,Man City,Blackburn,2,2,D,0,1,A,M Dean,15,12,7,8,13,13,15,5,3,3,1,0
+15/09/02,Tottenham,West Ham,3,2,H,0,0,D,U Rennie,12,11,3,1,16,16,5,6,2,2,0,1
+16/09/02,Birmingham,Aston Villa,3,0,H,1,0,H,D Elleray,12,8,5,1,18,13,9,6,3,2,0,0
+21/09/02,Arsenal,Bolton,2,1,H,1,0,H,D Pugh,14,8,9,3,12,11,8,1,1,3,0,1
+21/09/02,Liverpool,West Brom,2,0,H,0,0,D,D Elleray,23,5,14,2,8,11,9,2,2,2,0,1
+21/09/02,Man United,Tottenham,1,0,H,0,0,D,R Styles,16,10,9,5,11,8,10,5,1,1,0,0
+21/09/02,Middlesbrough,Birmingham,1,0,H,1,0,H,A D'Urso,9,12,4,3,22,13,6,3,3,4,0,0
+21/09/02,Newcastle,Sunderland,2,0,H,2,0,H,M Riley,11,8,6,4,8,15,8,3,2,4,0,0
+21/09/02,Southampton,Charlton,0,0,D,0,0,D,P Dowd,13,6,5,5,24,14,5,3,2,1,0,0
+21/09/02,West Ham,Man City,0,0,D,0,0,D,G Barber,9,8,5,6,12,6,8,4,2,0,0,0
+22/09/02,Aston Villa,Everton,3,2,H,1,0,H,J Winter,12,14,8,7,13,15,5,5,0,1,0,0
+22/09/02,Blackburn,Leeds,1,0,H,1,0,H,G Poll,11,7,7,5,24,14,7,2,1,2,0,0
+23/09/02,Fulham,Chelsea,0,0,D,0,0,D,P Durkin,8,11,3,4,16,15,5,3,1,0,0,0
+28/09/02,Birmingham,Newcastle,0,2,A,0,1,A,S Bennett,11,13,5,6,18,9,5,10,3,0,0,0
+28/09/02,Bolton,Southampton,1,1,D,0,0,D,U Rennie,19,10,10,6,5,16,9,7,1,0,0,0
+28/09/02,Charlton,Man United,1,3,A,1,0,H,D Gallagher,7,13,3,7,12,8,3,6,2,3,0,0
+28/09/02,Chelsea,West Ham,2,3,A,1,1,D,M Dean,12,16,9,11,17,7,5,7,1,4,0,0
+28/09/02,Everton,Fulham,2,0,H,2,0,H,S Dunn,15,12,9,6,13,18,8,4,1,3,0,0
+28/09/02,Leeds,Arsenal,1,4,A,0,2,A,A Wiley,9,7,3,6,14,15,4,4,4,2,0,0
+28/09/02,Man City,Liverpool,0,3,A,0,1,A,P Durkin,14,9,6,6,7,9,12,3,0,0,0,0
+28/09/02,Sunderland,Aston Villa,1,0,H,0,0,D,N Barry,8,12,6,5,20,10,5,12,3,3,0,0
+28/09/02,Tottenham,Middlesbrough,0,3,A,0,1,A,G Poll,12,18,4,12,9,11,4,11,1,1,0,0
+30/09/02,West Brom,Blackburn,0,2,A,0,0,D,M Halsey,9,10,8,5,14,15,7,2,1,1,0,0
+05/10/02,Middlesbrough,Bolton,2,0,H,1,0,H,C Wilkes,13,11,2,4,9,10,5,5,0,3,0,0
+05/10/02,Newcastle,West Brom,2,1,H,1,1,D,C Foy,14,5,8,3,11,9,11,6,1,2,0,0
+05/10/02,Southampton,Man City,2,0,H,2,0,H,M Messias,19,11,13,4,15,9,8,5,2,2,1,0
+05/10/02,West Ham,Birmingham,1,2,A,1,2,A,P Dowd,13,10,6,4,20,11,8,2,2,1,0,0
+06/10/02,Arsenal,Sunderland,3,1,H,3,0,H,D Elleray,9,4,5,2,9,7,15,0,0,0,0,0
+06/10/02,Aston Villa,Leeds,0,0,D,0,0,D,M Halsey,16,6,5,3,11,10,14,6,1,1,0,0
+06/10/02,Blackburn,Tottenham,1,2,A,0,1,A,A D'Urso,12,9,7,6,17,11,6,3,1,0,0,0
+06/10/02,Fulham,Charlton,1,0,H,1,0,H,J Winter,9,14,5,7,9,13,4,8,1,2,0,0
+06/10/02,Liverpool,Chelsea,1,0,H,0,0,D,G Barber,12,8,8,0,10,13,3,1,0,2,0,0
+07/10/02,Man United,Everton,3,0,H,0,0,D,M Riley,17,8,12,4,14,12,7,1,0,2,0,1
+19/10/02,Blackburn,Newcastle,5,2,H,2,1,H,A Wiley,21,5,11,5,16,9,7,5,0,2,0,1
+19/10/02,Everton,Arsenal,2,1,H,1,1,D,U Rennie,10,9,6,3,18,13,8,5,3,1,0,0
+19/10/02,Fulham,Man United,1,1,D,1,0,H,M Dean,12,8,6,5,9,13,6,1,1,3,0,0
+19/10/02,Leeds,Liverpool,0,1,A,0,0,D,S Dunn,12,13,5,6,13,13,9,9,1,2,0,0
+19/10/02,Man City,Chelsea,0,3,A,0,0,D,D Gallagher,11,8,8,6,11,10,3,7,1,2,0,0
+19/10/02,Sunderland,West Ham,0,1,A,0,1,A,G Barber,7,7,2,1,16,17,9,4,1,1,0,0
+19/10/02,West Brom,Birmingham,1,1,D,0,0,D,G Poll,18,7,7,1,15,12,12,2,3,2,0,1
+20/10/02,Charlton,Middlesbrough,1,0,H,1,0,H,N Barry,14,9,7,5,11,19,5,4,1,3,0,0
+20/10/02,Tottenham,Bolton,3,1,H,0,0,D,P Durkin,6,5,3,1,8,11,7,3,0,1,0,0
+21/10/02,Aston Villa,Southampton,0,1,A,0,0,D,S Bennett,18,13,11,7,13,11,7,4,3,1,1,0
+23/10/02,Fulham,West Ham,0,1,A,0,0,D,R Styles,6,6,2,4,18,11,7,6,2,3,1,0
+26/10/02,Arsenal,Blackburn,1,2,A,1,1,D,G Barber,19,3,9,2,11,14,15,3,1,3,0,1
+26/10/02,Birmingham,Man City,0,2,A,0,1,A,S Bennett,9,8,4,4,10,16,6,1,2,2,0,0
+26/10/02,Chelsea,West Brom,2,0,H,1,0,H,S Dunn,10,7,5,5,6,7,5,5,0,1,0,0
+26/10/02,Liverpool,Tottenham,2,1,H,0,0,D,M Riley,9,10,5,8,11,19,5,7,2,4,0,0
+26/10/02,Man United,Aston Villa,1,1,D,0,1,A,G Poll,15,9,6,3,7,16,8,5,1,0,0,0
+26/10/02,Middlesbrough,Leeds,2,2,D,1,1,D,R Styles,16,7,7,7,17,17,11,2,3,2,1,1
+26/10/02,Newcastle,Charlton,2,1,H,1,1,D,A D'Urso,16,6,12,5,12,14,14,5,2,1,0,0
+27/10/02,Southampton,Fulham,4,2,H,2,2,D,M Halsey,13,5,8,4,12,19,3,5,1,2,0,0
+27/10/02,West Ham,Everton,0,1,A,0,0,D,A Wiley,16,10,9,5,12,12,5,3,0,0,0,0
+28/10/02,Bolton,Sunderland,1,1,D,0,1,A,E Wolstenholme,14,8,7,4,12,9,5,2,1,2,0,0
+02/11/02,Birmingham,Bolton,3,1,H,0,0,D,C Foy,12,11,6,7,12,19,8,5,2,4,0,1
+02/11/02,Liverpool,West Ham,2,0,H,1,0,H,E Wolstenholme,13,5,9,1,7,8,6,0,0,0,0,0
+02/11/02,Man United,Southampton,2,1,H,1,1,D,U Rennie,16,12,8,5,12,18,10,2,0,1,0,0
+02/11/02,West Brom,Man City,1,2,A,0,0,D,D Elleray,5,10,4,4,10,10,5,4,2,2,0,0
+03/11/02,Blackburn,Aston Villa,0,0,D,0,0,D,M Dean,17,11,6,4,15,10,10,3,1,2,0,0
+03/11/02,Charlton,Sunderland,1,1,D,0,1,A,D Gallagher,19,9,12,7,8,14,6,8,1,4,0,0
+03/11/02,Fulham,Arsenal,0,1,A,0,1,A,J Winter,5,6,4,3,10,21,10,5,1,2,0,0
+03/11/02,Leeds,Everton,0,1,A,0,0,D,N Barry,18,12,5,7,14,20,9,9,3,3,0,0
+03/11/02,Tottenham,Chelsea,0,0,D,0,0,D,R Styles,15,14,7,4,17,12,8,2,3,2,0,0
+04/11/02,Newcastle,Middlesbrough,2,0,H,1,0,H,G Barber,18,12,13,9,16,7,7,5,2,2,0,1
+09/11/02,Arsenal,Newcastle,1,0,H,1,0,H,M Dean,16,3,10,2,11,12,11,0,0,2,0,0
+09/11/02,Aston Villa,Fulham,3,1,H,1,0,H,A D'Urso,9,8,7,4,12,10,4,6,3,2,0,0
+09/11/02,Bolton,West Brom,1,1,D,0,1,A,M Riley,15,5,8,1,14,13,7,4,2,2,1,0
+09/11/02,Chelsea,Birmingham,3,0,H,3,0,H,D Pugh,16,7,10,2,7,6,7,3,1,1,0,0
+09/11/02,Everton,Charlton,1,0,H,1,0,H,R Styles,11,5,2,1,14,13,7,3,2,3,0,0
+09/11/02,Man City,Man United,3,1,H,2,1,H,P Durkin,11,9,6,6,12,16,0,9,1,2,0,0
+09/11/02,Middlesbrough,Liverpool,1,0,H,0,0,D,M Halsey,11,13,3,7,10,8,5,2,1,0,0,0
+09/11/02,Southampton,Blackburn,1,1,D,1,0,H,A Wiley,21,11,12,3,13,13,5,4,0,2,0,1
+10/11/02,Sunderland,Tottenham,2,0,H,0,0,D,U Rennie,13,9,5,3,10,18,4,5,0,2,0,0
+10/11/02,West Ham,Leeds,3,4,A,1,4,A,S Dunn,19,12,9,8,14,11,5,4,5,3,0,0
+16/11/02,Arsenal,Tottenham,3,0,H,1,0,H,M Riley,17,6,12,5,15,10,3,1,0,2,0,1
+16/11/02,Chelsea,Middlesbrough,1,0,H,0,0,D,P Dowd,13,7,5,4,9,11,5,7,2,1,0,0
+16/11/02,Man City,Charlton,0,1,A,0,0,D,G Barber,15,13,4,4,10,16,7,5,0,4,0,0
+16/11/02,Newcastle,Southampton,2,1,H,1,1,D,C Wilkes,18,8,13,3,7,18,6,2,1,3,0,0
+16/11/02,West Brom,Aston Villa,0,0,D,0,0,D,D Gallagher,10,8,5,5,15,15,8,6,2,3,0,0
+17/11/02,Birmingham,Fulham,0,0,D,0,0,D,M Messias,11,4,6,1,17,15,9,1,2,1,0,2
+17/11/02,Blackburn,Everton,0,1,A,0,1,A,G Poll,16,9,6,6,10,19,12,4,3,1,0,0
+17/11/02,Leeds,Bolton,2,4,A,1,1,D,A Wiley,12,14,3,7,19,9,2,4,2,0,0,0
+17/11/02,Liverpool,Sunderland,0,0,D,0,0,D,A D'Urso,27,0,12,0,6,10,12,0,0,1,0,0
+17/11/02,West Ham,Man United,1,1,D,0,1,A,M Halsey,3,11,1,4,13,14,10,6,1,1,0,0
+23/11/02,Aston Villa,West Ham,4,1,H,1,0,H,C Foy,23,15,11,8,11,15,6,4,3,2,0,0
+23/11/02,Bolton,Chelsea,1,1,D,0,0,D,M Dean,15,15,8,11,4,9,9,10,2,4,0,1
+23/11/02,Everton,West Brom,1,0,H,1,0,H,J Winter,17,13,9,8,14,11,10,6,2,2,0,0
+23/11/02,Fulham,Liverpool,3,2,H,2,0,H,G Poll,11,14,10,11,14,9,1,8,1,0,1,0
+23/11/02,Man United,Newcastle,5,3,H,3,1,H,S Dunn,11,10,9,7,14,9,6,1,2,2,0,0
+23/11/02,Middlesbrough,Man City,3,1,H,0,0,D,N Barry,18,9,7,5,5,12,6,6,0,3,0,1
+23/11/02,Southampton,Arsenal,3,2,H,1,1,D,P Durkin,8,7,3,2,12,16,3,8,1,2,0,1
+23/11/02,Sunderland,Birmingham,0,1,A,0,0,D,R Styles,7,11,2,9,18,17,5,7,3,3,0,0
+24/11/02,Charlton,Blackburn,3,1,H,0,0,D,U Rennie,13,12,9,7,16,17,5,7,2,0,0,0
+24/11/02,Tottenham,Leeds,2,0,H,2,0,H,S Bennett,11,8,6,4,18,16,3,1,3,7,0,0
+30/11/02,Arsenal,Aston Villa,3,1,H,1,0,H,G Barber,13,12,7,5,11,20,6,9,2,3,0,0
+30/11/02,Birmingham,Tottenham,1,1,D,0,0,D,E Wolstenholme,13,7,6,3,19,16,1,2,1,0,0,0
+30/11/02,Blackburn,Fulham,2,1,H,1,0,H,P Dowd,8,9,4,7,19,16,6,6,1,2,0,0
+30/11/02,Chelsea,Sunderland,3,0,H,0,0,D,S Bennett,15,1,11,0,7,12,9,5,0,3,0,0
+30/11/02,Man City,Bolton,2,0,H,1,0,H,J Winter,13,3,10,3,10,10,11,2,0,2,0,0
+30/11/02,West Brom,Middlesbrough,1,0,H,0,0,D,P Durkin,16,11,8,2,13,8,5,9,0,1,0,0
+01/12/02,Leeds,Charlton,1,2,A,1,0,H,A D'Urso,18,14,6,10,14,15,5,11,1,1,0,0
+01/12/02,Liverpool,Man United,1,2,A,0,0,D,A Wiley,13,5,7,4,13,11,5,2,1,4,0,0
+01/12/02,Newcastle,Everton,2,1,H,0,1,A,M Halsey,24,7,15,5,13,18,11,2,0,1,0,1
+02/12/02,West Ham,Southampton,0,1,A,0,0,D,M Riley,14,9,7,3,10,11,6,1,1,1,0,0
+07/12/02,Aston Villa,Newcastle,0,1,A,0,0,D,S Bennett,12,11,4,5,9,10,6,5,2,0,0,0
+07/12/02,Bolton,Blackburn,1,1,D,1,0,H,N Barry,18,13,7,7,16,10,3,11,2,2,0,0
+07/12/02,Charlton,Liverpool,2,0,H,1,0,H,M Riley,14,17,11,7,14,12,4,5,3,3,0,0
+07/12/02,Everton,Chelsea,1,3,A,1,2,A,E Wolstenholme,14,13,6,10,13,17,9,4,1,6,1,0
+07/12/02,Fulham,Leeds,1,0,H,1,0,H,P Durkin,10,6,3,4,10,14,9,1,3,4,0,0
+07/12/02,Man United,Arsenal,2,0,H,1,0,H,D Gallagher,8,12,6,5,16,12,6,7,1,2,0,0
+07/12/02,Middlesbrough,West Ham,2,2,D,0,0,D,G Poll,12,14,5,8,13,13,5,7,1,1,0,0
+07/12/02,Southampton,Birmingham,2,0,H,0,0,D,J Winter,13,6,8,2,7,6,6,9,0,2,0,0
+08/12/02,Tottenham,West Brom,3,1,H,2,0,H,A Wiley,10,13,6,7,16,10,4,3,2,1,0,0
+09/12/02,Sunderland,Man City,0,3,A,0,1,A,S Dunn,8,11,6,7,11,12,10,5,0,2,0,0
+14/12/02,Aston Villa,West Brom,2,1,H,1,1,D,M Dean,23,13,12,3,20,14,8,2,3,1,1,0
+14/12/02,Charlton,Man City,2,2,D,0,0,D,D Pugh,12,14,5,9,12,12,5,3,2,1,0,0
+14/12/02,Everton,Blackburn,2,1,H,2,1,H,G Barber,12,17,7,9,14,16,5,10,1,2,0,1
+14/12/02,Man United,West Ham,3,0,H,2,0,H,R Styles,14,10,10,3,12,11,7,4,0,1,0,0
+14/12/02,Middlesbrough,Chelsea,1,1,D,1,1,D,M Messias,9,16,6,11,9,14,5,8,0,1,0,0
+14/12/02,Southampton,Newcastle,1,1,D,0,0,D,P Dowd,16,17,9,11,12,11,8,8,0,0,0,0
+15/12/02,Fulham,Birmingham,0,1,A,0,1,A,A D'Urso,7,2,0,1,11,22,7,1,3,7,0,1
+15/12/02,Sunderland,Liverpool,2,1,H,1,0,H,M Halsey,7,11,3,4,12,7,9,10,0,2,0,0
+15/12/02,Tottenham,Arsenal,1,1,D,1,1,D,N Barry,14,6,10,4,14,11,5,6,3,2,0,0
+16/12/02,Bolton,Leeds,0,3,A,0,2,A,G Poll,17,9,9,7,9,14,5,3,1,3,0,0
+21/12/02,Arsenal,Middlesbrough,2,0,H,1,0,H,S Dunn,26,3,14,1,8,14,13,3,1,3,0,1
+21/12/02,Birmingham,Charlton,1,1,D,0,1,A,R Styles,8,8,5,5,15,21,5,5,4,4,1,0
+21/12/02,Chelsea,Aston Villa,2,0,H,1,0,H,M Riley,16,12,8,4,9,18,6,4,0,3,0,0
+21/12/02,Leeds,Southampton,1,1,D,0,0,D,C Foy,19,10,11,4,15,14,7,4,0,1,0,0
+21/12/02,Newcastle,Fulham,2,0,H,1,0,H,A Wiley,19,6,14,0,5,10,7,6,0,2,0,1
+21/12/02,West Brom,Sunderland,2,2,D,2,0,H,C Wilkes,9,11,5,7,22,15,8,10,2,1,0,0
+21/12/02,West Ham,Bolton,1,1,D,1,0,H,S Bennett,13,6,6,3,13,9,7,4,0,1,0,0
+22/12/02,Blackburn,Man United,1,0,H,1,0,H,D Elleray,9,12,3,6,8,10,7,8,0,1,0,0
+22/12/02,Liverpool,Everton,0,0,D,0,0,D,G Poll,14,5,8,2,14,20,7,4,3,4,0,0
+23/12/02,Man City,Tottenham,2,3,A,1,1,D,J Winter,19,9,18,9,6,7,7,9,2,3,0,1
+26/12/02,Birmingham,Everton,1,1,D,1,1,D,D Elleray,6,8,3,5,16,21,0,4,1,1,0,1
+26/12/02,Bolton,Newcastle,4,3,H,3,1,H,U Rennie,11,14,7,8,12,16,6,8,1,2,0,0
+26/12/02,Chelsea,Southampton,0,0,D,0,0,D,P Durkin,11,10,4,6,13,12,6,5,1,2,0,0
+26/12/02,Liverpool,Blackburn,1,1,D,1,0,H,N Barry,12,10,6,5,8,6,7,4,1,1,0,0
+26/12/02,Man City,Aston Villa,3,1,H,1,1,D,M Halsey,13,11,10,5,10,11,7,8,0,1,0,0
+26/12/02,Middlesbrough,Man United,3,1,H,1,0,H,G Barber,13,14,5,6,7,12,5,8,1,1,0,0
+26/12/02,Sunderland,Leeds,1,2,A,1,0,H,M Dean,18,11,6,4,12,11,8,3,0,1,0,0
+26/12/02,Tottenham,Charlton,2,2,D,0,1,A,A D'Urso,20,10,12,7,10,11,9,2,2,1,1,0
+26/12/02,West Brom,Arsenal,1,2,A,1,0,H,G Poll,6,11,2,4,20,8,5,7,1,0,0,0
+26/12/02,West Ham,Fulham,1,1,D,0,0,D,D Gallagher,11,11,5,5,16,11,7,1,2,1,1,0
+28/12/02,Aston Villa,Middlesbrough,1,0,H,1,0,H,R Styles,11,12,9,4,14,7,3,8,3,2,0,1
+28/12/02,Blackburn,West Ham,2,2,D,1,1,D,A Wiley,11,7,3,1,11,12,4,1,3,2,0,0
+28/12/02,Charlton,West Brom,1,0,H,1,0,H,S Dunn,8,18,5,8,13,20,6,10,2,3,0,0
+28/12/02,Everton,Bolton,0,0,D,0,0,D,D Gallagher,15,3,9,1,11,13,8,4,1,4,0,0
+28/12/02,Fulham,Man City,0,1,A,0,0,D,P Durkin,15,13,7,8,7,14,4,13,0,1,0,0
+28/12/02,Leeds,Chelsea,2,0,H,2,0,H,G Barber,6,17,4,4,20,16,3,7,2,0,0,0
+28/12/02,Man United,Birmingham,2,0,H,1,0,H,M Dean,22,7,10,2,12,9,13,4,1,2,0,0
+28/12/02,Southampton,Sunderland,2,1,H,0,0,D,M Riley,18,4,6,1,7,18,17,3,1,2,0,0
+29/12/02,Arsenal,Liverpool,1,1,D,0,0,D,J Winter,13,9,6,2,14,15,15,4,1,3,0,0
+29/12/02,Newcastle,Tottenham,2,1,H,1,0,H,S Bennett,14,9,10,6,9,12,7,6,1,2,0,0
+01/01/03,Arsenal,Chelsea,3,2,H,1,0,H,U Rennie,7,8,7,7,13,9,2,7,0,0,0,0
+01/01/03,Aston Villa,Bolton,2,0,H,1,0,H,M Messias,12,9,7,4,14,4,9,8,2,0,0,0
+01/01/03,Blackburn,Middlesbrough,1,0,H,0,0,D,D Pugh,17,7,10,3,15,8,5,2,0,0,0,0
+01/01/03,Everton,Man City,2,2,D,1,1,D,A D'Urso,12,9,5,2,13,19,4,1,1,2,0,0
+01/01/03,Leeds,Birmingham,2,0,H,1,0,H,P Dowd,12,9,6,5,14,9,5,8,1,2,0,0
+01/01/03,Man United,Sunderland,2,1,H,0,1,A,G Poll,31,4,18,1,12,11,10,2,2,1,0,0
+01/01/03,Newcastle,Liverpool,1,0,H,1,0,H,D Gallagher,8,5,5,4,6,20,4,4,1,3,0,1
+01/01/03,Southampton,Tottenham,1,0,H,0,0,D,M Halsey,12,11,6,7,15,5,5,5,0,0,0,0
+11/01/03,Bolton,Fulham,0,0,D,0,0,D,A Wiley,17,13,5,8,15,16,7,4,1,2,0,0
+11/01/03,Chelsea,Charlton,4,1,H,3,1,H,M Dean,15,6,7,5,9,13,8,4,4,3,0,0
+11/01/03,Liverpool,Aston Villa,1,1,D,1,0,H,P Durkin,19,8,11,3,11,18,9,2,1,2,0,0
+11/01/03,Man City,Leeds,2,1,H,1,0,H,R Styles,11,4,5,3,9,12,8,8,0,4,0,0
+11/01/03,Middlesbrough,Southampton,2,2,D,0,1,A,D Elleray,12,17,4,8,7,10,7,4,0,2,0,0
+11/01/03,Sunderland,Blackburn,0,0,D,0,0,D,M Riley,9,12,4,4,18,12,3,4,1,3,0,0
+11/01/03,West Brom,Man United,1,3,A,1,2,A,N Barry,9,9,3,4,10,7,2,6,0,1,0,0
+11/01/03,West Ham,Newcastle,2,2,D,2,1,H,J Winter,13,12,8,7,17,18,5,3,0,1,0,0
+12/01/03,Birmingham,Arsenal,0,4,A,0,2,A,S Bennett,10,12,4,9,13,17,7,5,2,2,0,0
+12/01/03,Tottenham,Everton,4,3,H,1,1,D,S Dunn,18,13,12,10,12,10,9,9,1,1,0,0
+18/01/03,Aston Villa,Tottenham,0,1,A,0,0,D,N Barry,11,10,5,6,9,11,11,5,1,3,0,0
+18/01/03,Blackburn,Birmingham,1,1,D,1,0,H,C Wilkes,14,15,10,7,16,15,4,11,2,3,1,0
+18/01/03,Charlton,Bolton,1,1,D,0,0,D,D Elleray,10,10,5,5,11,12,7,7,0,0,0,0
+18/01/03,Everton,Sunderland,2,1,H,0,1,A,P Dowd,15,7,9,5,14,19,13,8,2,3,0,0
+18/01/03,Leeds,West Brom,0,0,D,0,0,D,U Rennie,10,8,4,1,11,12,6,5,1,1,0,1
+18/01/03,Man United,Chelsea,2,1,H,1,1,D,P Durkin,10,10,8,5,9,9,6,6,0,0,0,0
+18/01/03,Newcastle,Man City,2,0,H,1,0,H,G Poll,13,6,10,2,13,13,7,1,0,1,0,0
+18/01/03,Southampton,Liverpool,0,1,A,0,1,A,S Bennett,8,17,4,7,8,10,6,4,1,1,0,0
+19/01/03,Arsenal,West Ham,3,1,H,1,1,D,M Dean,24,5,13,2,17,9,12,1,3,1,0,1
+19/01/03,Fulham,Middlesbrough,1,0,H,1,0,H,M Halsey,18,8,6,4,12,12,8,4,0,1,0,0
+22/01/03,Charlton,West Ham,4,2,H,2,1,H,E Wolstenholme,12,11,4,3,11,7,8,2,0,1,0,0
+22/01/03,Newcastle,Bolton,1,0,H,1,0,H,P Dowd,10,12,7,4,15,6,7,3,1,2,0,0
+28/01/03,Bolton,Everton,1,2,A,0,2,A,R Styles,7,6,5,4,8,15,5,6,2,1,0,0
+28/01/03,Chelsea,Leeds,3,2,H,0,1,A,J Winter,13,5,7,5,6,6,7,3,2,1,0,0
+28/01/03,Middlesbrough,Aston Villa,2,5,A,2,2,D,D Gallagher,13,15,8,9,13,11,6,3,1,2,0,0
+28/01/03,Sunderland,Southampton,0,1,A,0,0,D,N Barry,10,12,4,6,9,13,5,2,1,0,0,0
+29/01/03,Liverpool,Arsenal,2,2,D,0,1,A,M Halsey,16,20,12,15,14,11,9,10,1,1,0,0
+29/01/03,Man City,Fulham,4,1,H,1,1,D,S Bennett,11,6,4,2,10,10,9,3,3,1,0,0
+29/01/03,Tottenham,Newcastle,0,1,A,0,0,D,D Elleray,13,15,7,8,14,9,5,4,0,1,0,0
+29/01/03,West Brom,Charlton,0,1,A,0,0,D,A D'Urso,15,3,6,2,12,14,6,6,0,2,0,0
+29/01/03,West Ham,Blackburn,2,1,H,0,1,A,A Wiley,9,4,7,1,16,14,5,4,1,1,0,0
+01/02/03,Arsenal,Fulham,2,1,H,1,1,D,E Wolstenholme,11,3,6,1,10,16,6,4,3,1,0,0
+01/02/03,Bolton,Birmingham,4,2,H,1,1,D,D Gallagher,15,11,10,6,16,10,7,4,2,2,0,0
+01/02/03,Chelsea,Tottenham,1,1,D,1,1,D,P Durkin,16,8,8,5,7,15,11,3,1,1,0,0
+01/02/03,Everton,Leeds,2,0,H,0,0,D,M Halsey,13,8,5,2,6,16,6,4,0,1,0,0
+01/02/03,Man City,West Brom,1,2,A,1,1,D,N Barry,12,9,7,5,10,17,6,6,1,2,0,1
+01/02/03,Southampton,Man United,0,2,A,0,2,A,P Dowd,9,13,4,8,15,13,7,6,2,0,0,0
+01/02/03,Sunderland,Charlton,1,3,A,0,3,A,A Wiley,13,14,5,4,21,12,8,3,1,1,0,0
+02/02/03,Aston Villa,Blackburn,3,0,H,2,0,H,M Dean,16,7,9,1,8,21,9,2,1,5,0,0
+02/02/03,West Ham,Liverpool,0,3,A,0,2,A,M Messias,7,11,2,5,12,12,6,8,1,0,0,0
+04/02/03,Birmingham,Man United,0,1,A,0,0,D,S Dunn,5,15,3,7,9,14,3,5,1,1,0,0
+08/02/03,Birmingham,Chelsea,1,3,A,0,1,A,M Halsey,7,3,6,3,13,14,7,2,1,4,0,0
+08/02/03,Blackburn,Southampton,1,0,H,1,0,H,M Riley,18,11,11,5,9,11,6,6,0,1,0,0
+08/02/03,Charlton,Everton,2,1,H,1,0,H,J Winter,19,14,10,6,15,10,4,10,0,1,0,0
+08/02/03,Fulham,Aston Villa,2,1,H,2,1,H,S Dunn,17,8,10,5,11,14,6,5,1,3,0,0
+08/02/03,Leeds,West Ham,1,0,H,1,0,H,D Gallagher,10,12,7,3,13,13,9,6,2,2,0,1
+08/02/03,Liverpool,Middlesbrough,1,1,D,0,1,A,S Bennett,17,2,10,2,16,12,14,3,0,2,0,0
+08/02/03,Tottenham,Sunderland,4,1,H,2,1,H,R Styles,16,8,7,6,12,11,10,8,0,2,0,0
+08/02/03,West Brom,Bolton,1,1,D,0,1,A,D Elleray,15,7,8,5,8,12,5,4,2,4,0,0
+09/02/03,Man United,Man City,1,1,D,1,0,H,A Wiley,15,9,8,6,8,10,10,4,1,1,0,0
+09/02/03,Newcastle,Arsenal,1,1,D,0,1,A,N Barry,6,18,4,10,11,10,6,7,2,2,1,0
+19/02/03,Fulham,West Brom,3,0,H,0,0,D,U Rennie,12,9,8,4,13,18,2,3,1,2,0,0
+22/02/03,Bolton,Man United,1,1,D,0,0,D,A D'Urso,13,7,5,3,13,10,8,5,1,1,0,0
+22/02/03,Charlton,Aston Villa,3,0,H,0,0,D,P Dowd,14,13,9,6,17,20,6,6,2,2,0,0
+22/02/03,Chelsea,Blackburn,1,2,A,0,0,D,G Poll,16,6,9,5,11,12,5,2,2,1,0,0
+22/02/03,Everton,Southampton,2,1,H,0,1,A,D Elleray,25,11,16,6,3,13,17,6,0,1,0,0
+22/02/03,Leeds,Newcastle,0,3,A,0,1,A,A Wiley,12,13,5,6,14,19,1,7,0,0,0,0
+22/02/03,Man City,Arsenal,1,5,A,0,4,A,P Durkin,18,9,12,9,7,7,14,4,0,0,0,0
+22/02/03,Sunderland,Middlesbrough,1,3,A,0,2,A,M Halsey,7,9,4,5,18,16,4,6,2,1,0,0
+23/02/03,Birmingham,Liverpool,2,1,H,1,0,H,C Wilkes,5,14,2,9,14,11,2,6,2,1,0,0
+23/02/03,West Brom,West Ham,1,2,A,0,1,A,M Dean,10,7,5,2,19,12,7,4,1,1,0,0
+24/02/03,Tottenham,Fulham,1,1,D,1,1,D,G Barber,15,8,10,7,17,13,5,7,2,2,1,1
+01/03/03,Blackburn,Man City,1,0,H,1,0,H,S Dunn,10,12,7,6,9,15,2,4,2,0,0,0
+01/03/03,Fulham,Sunderland,1,0,H,0,0,D,E Wolstenholme,11,15,4,6,18,13,8,11,1,2,0,0
+01/03/03,Middlesbrough,Everton,1,1,D,0,1,A,U Rennie,6,11,2,5,14,8,4,2,0,0,0,0
+01/03/03,Newcastle,Chelsea,2,1,H,1,1,D,J Winter,5,8,2,5,12,22,5,7,0,1,0,0
+01/03/03,Southampton,West Brom,1,0,H,1,0,H,D Gallagher,15,12,11,3,21,20,9,3,2,2,0,0
+01/03/03,West Ham,Tottenham,2,0,H,1,0,H,N Barry,10,9,8,3,14,9,8,3,3,2,0,0
+02/03/03,Arsenal,Charlton,2,0,H,2,0,H,R Styles,19,6,11,4,12,12,12,6,1,0,0,0
+03/03/03,Aston Villa,Birmingham,0,2,A,0,0,D,M Halsey,11,5,4,3,20,17,4,3,1,2,2,0
+05/03/03,Man United,Leeds,2,1,H,1,0,H,G Poll,15,7,2,6,10,16,8,3,1,1,0,0
+05/03/03,Middlesbrough,Newcastle,1,0,H,0,0,D,A D'Urso,10,11,4,0,13,16,5,9,0,3,0,0
+08/03/03,Liverpool,Bolton,2,0,H,1,0,H,G Barber,9,10,3,2,13,11,3,3,0,3,0,0
+15/03/03,Aston Villa,Man United,0,1,A,0,1,A,M Dean,19,13,6,5,10,10,6,6,2,1,0,0
+15/03/03,Blackburn,Arsenal,2,0,H,1,0,H,S Bennett,10,9,4,5,11,15,3,5,4,2,0,0
+15/03/03,Charlton,Newcastle,0,2,A,0,1,A,S Dunn,7,11,5,5,10,9,6,4,1,2,0,0
+15/03/03,Everton,West Ham,0,0,D,0,0,D,M Halsey,11,3,8,2,14,12,5,5,2,0,0,0
+15/03/03,Fulham,Southampton,2,2,D,1,0,H,P Durkin,3,12,3,5,8,11,3,7,1,0,0,0
+15/03/03,Leeds,Middlesbrough,2,3,A,1,2,A,D Elleray,14,7,8,3,16,11,6,3,3,2,0,0
+15/03/03,Sunderland,Bolton,0,2,A,0,0,D,J Winter,12,13,7,8,15,12,8,6,1,1,0,0
+16/03/03,Man City,Birmingham,1,0,H,0,0,D,M Messias,14,7,9,4,17,7,7,6,2,1,1,0
+16/03/03,Tottenham,Liverpool,2,3,A,0,0,D,U Rennie,12,9,5,6,21,11,9,4,1,1,0,0
+16/03/03,West Brom,Chelsea,0,2,A,0,1,A,A D'Urso,5,11,1,8,10,8,2,4,0,0,0,0
+22/03/03,Birmingham,West Brom,1,0,H,0,0,D,P Durkin,13,9,6,3,10,22,8,3,0,0,0,0
+22/03/03,Chelsea,Man City,5,0,H,2,0,H,P Dowd,16,8,10,4,11,13,7,6,1,2,0,1
+22/03/03,Man United,Fulham,3,0,H,1,0,H,S Bennett,18,11,11,6,11,12,9,5,2,1,0,0
+22/03/03,Middlesbrough,Charlton,1,1,D,0,1,A,M Dean,15,6,6,4,9,10,8,4,1,2,0,0
+22/03/03,Newcastle,Blackburn,5,1,H,1,0,H,N Barry,14,11,8,8,12,11,8,3,1,1,0,0
+22/03/03,Southampton,Aston Villa,2,2,D,1,2,A,G Barber,11,13,7,9,8,17,4,3,0,1,0,0
+22/03/03,West Ham,Sunderland,2,0,H,1,0,H,R Styles,10,4,4,2,16,12,4,1,1,0,0,0
+23/03/03,Arsenal,Everton,2,1,H,1,0,H,A Wiley,14,6,10,3,15,19,3,5,2,1,0,0
+23/03/03,Liverpool,Leeds,3,1,H,2,1,H,A D'Urso,19,11,11,6,12,17,4,6,0,1,0,0
+24/03/03,Bolton,Tottenham,1,0,H,0,0,D,G Poll,15,7,8,2,8,9,4,9,0,1,0,0
+05/04/03,Aston Villa,Arsenal,1,1,D,0,0,D,U Rennie,6,12,2,5,19,12,5,6,1,2,0,0
+05/04/03,Bolton,Man City,2,0,H,1,0,H,C Wilkes,5,5,3,2,6,10,5,7,0,5,0,0
+05/04/03,Charlton,Leeds,1,6,A,1,3,A,E Wolstenholme,6,14,4,10,14,17,7,8,2,1,0,0
+05/04/03,Man United,Liverpool,4,0,H,1,0,H,M Riley,12,5,9,1,15,17,10,4,1,3,0,1
+05/04/03,Middlesbrough,West Brom,3,0,H,1,0,H,M Halsey,22,12,12,6,9,15,3,5,0,1,0,0
+05/04/03,Southampton,West Ham,1,1,D,1,0,H,M Messias,11,14,5,8,17,11,3,8,3,2,0,0
+05/04/03,Sunderland,Chelsea,1,2,A,1,0,H,D Gallagher,9,13,4,10,17,11,3,8,1,1,0,0
+05/04/03,Tottenham,Birmingham,2,1,H,1,0,H,D Elleray,12,10,6,4,20,16,10,5,1,1,0,0
+06/04/03,Everton,Newcastle,2,1,H,1,1,D,N Barry,9,15,7,8,12,13,9,5,1,2,0,0
+07/04/03,Fulham,Blackburn,0,4,A,0,2,A,G Poll,9,7,4,3,9,19,3,4,0,2,0,0
+12/04/03,Birmingham,Sunderland,2,0,H,1,0,H,P Dowd,7,2,3,0,22,19,6,6,0,1,0,1
+12/04/03,Blackburn,Charlton,1,0,H,1,0,H,J Winter,11,7,6,5,10,14,9,11,0,0,0,0
+12/04/03,Chelsea,Bolton,1,0,H,0,0,D,G Barber,17,7,8,2,9,10,3,1,1,2,0,0
+12/04/03,Leeds,Tottenham,2,2,D,1,2,A,R Styles,11,6,4,2,13,10,7,4,1,2,0,0
+12/04/03,Liverpool,Fulham,2,0,H,1,0,H,A Wiley,17,11,11,7,9,17,5,6,1,2,0,0
+12/04/03,Man City,Middlesbrough,0,0,D,0,0,D,A D'Urso,9,6,6,1,12,7,1,4,0,1,0,0
+12/04/03,Newcastle,Man United,2,6,A,1,4,A,S Dunn,15,15,9,11,8,7,6,6,1,0,0,0
+12/04/03,West Brom,Everton,1,2,A,1,2,A,S Bennett,12,8,6,3,9,5,3,10,2,2,0,0
+12/04/03,West Ham,Aston Villa,2,2,D,1,1,D,M Dean,15,6,7,3,14,12,10,7,4,1,0,0
+16/04/03,Arsenal,Man United,2,2,D,0,1,A,M Halsey,10,6,7,3,15,15,6,2,0,2,1,0
+18/04/03,Tottenham,Man City,0,2,A,0,2,A,M Riley,9,11,6,6,11,15,7,9,2,3,0,0
+19/04/03,Aston Villa,Chelsea,2,1,H,1,0,H,R Styles,19,16,10,10,11,12,6,2,1,0,0,0
+19/04/03,Bolton,West Ham,1,0,H,1,0,H,U Rennie,19,9,9,3,18,9,8,3,3,4,0,1
+19/04/03,Charlton,Birmingham,0,2,A,0,1,A,N Barry,7,13,5,7,16,12,8,5,2,1,0,0
+19/04/03,Everton,Liverpool,1,2,A,0,1,A,P Durkin,9,8,4,2,15,18,4,3,4,3,2,0
+19/04/03,Fulham,Newcastle,2,1,H,0,1,A,D Gallagher,13,8,6,6,12,9,6,13,1,1,0,1
+19/04/03,Man United,Blackburn,3,1,H,2,1,H,A D'Urso,18,6,12,1,8,9,7,3,0,0,0,0
+19/04/03,Middlesbrough,Arsenal,0,2,A,0,0,D,D Elleray,7,6,3,2,16,12,3,5,0,1,0,0
+19/04/03,Southampton,Leeds,3,2,H,2,0,H,M Halsey,16,5,7,3,8,22,11,1,0,4,0,1
+19/04/03,Sunderland,West Brom,1,2,A,0,2,A,G Poll,20,9,13,7,19,12,10,5,4,1,0,0
+21/04/03,Birmingham,Southampton,3,2,H,0,1,A,S Bennett,15,12,9,7,10,19,5,3,0,2,0,0
+21/04/03,Blackburn,Bolton,0,0,D,0,0,D,M Dean,11,6,5,3,14,13,9,4,2,3,0,0
+21/04/03,Chelsea,Everton,4,1,H,1,0,H,M Riley,13,3,9,1,11,15,4,0,1,1,0,0
+21/04/03,Liverpool,Charlton,2,1,H,0,0,D,S Dunn,20,5,10,5,4,14,8,9,0,1,0,0
+21/04/03,Man City,Sunderland,3,0,H,2,0,H,G Barber,15,4,8,3,12,11,7,3,0,1,0,0
+21/04/03,Newcastle,Aston Villa,1,1,D,1,0,H,J Winter,16,10,4,7,6,13,8,5,0,1,0,0
+21/04/03,West Brom,Tottenham,2,3,A,1,1,D,P Dowd,8,8,8,5,9,10,5,8,2,2,0,0
+21/04/03,West Ham,Middlesbrough,1,0,H,0,0,D,A Wiley,13,6,9,2,15,18,4,6,1,2,0,0
+22/04/03,Leeds,Fulham,2,0,H,1,0,H,N Barry,19,7,7,2,18,17,8,4,0,2,0,0
+26/04/03,Birmingham,Middlesbrough,3,0,H,2,0,H,M Dean,7,6,6,4,17,18,3,3,1,2,0,0
+26/04/03,Bolton,Arsenal,2,2,D,0,0,D,A D'Urso,17,8,11,7,15,16,10,4,2,2,1,0
+26/04/03,Charlton,Southampton,2,1,H,1,0,H,A Wiley,14,14,10,6,15,12,7,10,1,1,0,0
+26/04/03,Chelsea,Fulham,1,1,D,1,0,H,D Elleray,11,7,5,5,9,11,9,2,3,2,0,0
+26/04/03,Everton,Aston Villa,2,1,H,0,0,D,G Poll,11,15,8,10,10,13,8,6,0,1,0,0
+26/04/03,Leeds,Blackburn,2,3,A,1,1,D,P Durkin,15,10,9,5,12,18,11,6,2,1,0,0
+26/04/03,Sunderland,Newcastle,0,1,A,0,1,A,S Bennett,12,18,8,9,20,18,6,8,4,4,0,0
+26/04/03,West Brom,Liverpool,0,6,A,0,1,A,D Gallagher,9,18,5,14,12,6,4,3,1,1,0,0
+27/04/03,Man City,West Ham,0,1,A,0,0,D,R Styles,16,11,5,7,10,11,11,6,1,1,0,0
+27/04/03,Tottenham,Man United,0,2,A,0,0,D,J Winter,6,20,3,15,11,11,5,8,0,0,0,0
+03/05/03,Aston Villa,Sunderland,1,0,H,0,0,D,S Dunn,11,11,4,7,11,13,12,6,0,1,0,0
+03/05/03,Blackburn,West Brom,1,1,D,1,0,H,R Styles,13,13,7,7,14,16,7,2,2,1,0,0
+03/05/03,Fulham,Everton,2,0,H,2,0,H,G Barber,13,16,6,8,14,13,6,9,1,1,0,0
+03/05/03,Liverpool,Man City,1,2,A,0,0,D,N Barry,8,6,6,3,9,17,8,4,2,2,0,0
+03/05/03,Man United,Charlton,4,1,H,3,1,H,M Halsey,21,4,14,2,6,10,11,3,0,1,0,0
+03/05/03,Middlesbrough,Tottenham,5,1,H,3,0,H,U Rennie,26,6,16,4,15,9,8,3,0,2,0,1
+03/05/03,Newcastle,Birmingham,1,0,H,1,0,H,D Elleray,18,4,9,2,14,12,8,4,0,2,0,1
+03/05/03,Southampton,Bolton,0,0,D,0,0,D,P Dowd,10,10,4,2,19,9,7,3,3,2,0,0
+03/05/03,West Ham,Chelsea,1,0,H,0,0,D,A D'Urso,11,8,7,3,12,15,10,8,3,1,0,0
+04/05/03,Arsenal,Leeds,2,3,A,1,1,D,A Wiley,33,11,17,6,16,16,6,2,2,1,0,0
+07/05/03,Arsenal,Southampton,6,1,H,5,1,H,U Rennie,16,13,13,5,12,16,6,10,1,1,0,0
+11/05/03,Birmingham,West Ham,2,2,D,0,0,D,G Poll,10,16,7,10,18,11,6,7,1,1,0,0
+11/05/03,Bolton,Middlesbrough,2,1,H,2,0,H,R Styles,13,6,6,3,18,18,6,5,3,2,0,1
+11/05/03,Charlton,Fulham,0,1,A,0,1,A,D Gallagher,10,17,4,7,13,14,2,4,2,3,1,0
+11/05/03,Chelsea,Liverpool,2,1,H,2,1,H,A Wiley,13,5,6,3,17,13,4,3,3,1,0,1
+11/05/03,Everton,Man United,1,2,A,1,1,D,M Riley,8,17,4,12,16,15,6,6,5,3,0,0
+11/05/03,Leeds,Aston Villa,3,1,H,1,1,D,M Halsey,11,18,5,6,18,14,1,8,0,1,0,0
+11/05/03,Man City,Southampton,0,1,A,0,1,A,M Dean,17,6,7,3,14,14,10,4,3,4,0,0
+11/05/03,Sunderland,Arsenal,0,4,A,0,2,A,P Durkin,7,20,3,13,16,12,6,10,1,0,0,0
+11/05/03,Tottenham,Blackburn,0,4,A,0,2,A,A D'Urso,11,13,7,9,9,12,6,3,1,1,1,0
+11/05/03,West Brom,Newcastle,2,2,D,0,1,A,G Barber,8,14,3,9,9,8,2,8,0,0,0,0
