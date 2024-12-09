@@ -1,19 +1,20 @@
-<a className="gh-badge" href="https://datahub.io/core/football-datasets"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25" alt="badge" /></a>
+<a className="gh-badge" href="https://datahub.io/collections/football"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25" alt="badge" /></a>
 
 # Football datasets
 
 This repository includes 5 major Europe leagues:
 
-- English Premier League
-- Spanish La Liga
-- Italian Serie A
-- German Bundesliga
-- French Ligue 1
+- English Premier League – https://datahub.io/core/english-premier-league
+- Spanish La Liga – https://datahub.io/core/spanish-la-liga
+- Italian Serie A – https://datahub.io/core/italian-serie-a
+- German Bundesliga – https://datahub.io/core/german-bundesliga
+- French Ligue 1 – https://datahub.io/core/french-ligue-1
 
 Each league has data for the all the seasons. The data is updated on monthly basis via Github-Actions
 
 ## Data
-    The data is sourced from the `https://www.football-data.co.uk/` website, datasets range starts from 1993 up to current year
+
+The data is sourced from the `https://www.football-data.co.uk/` website, datasets range starts from 1993 up to current year
 
 ## Preparation
 
