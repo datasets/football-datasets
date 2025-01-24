@@ -10,7 +10,7 @@ This repository includes 5 major Europe leagues:
 - German Bundesliga – https://datahub.io/core/german-bundesliga
 - French Ligue 1 – https://datahub.io/core/french-ligue-1
 
-Each league has data for the all the seasons. The data is updated on monthly basis via Github-Actions.
+Each league has data for the all the seasons. The data is updated on daily basis via Github-Actions.
 
 ## Data
 
@@ -26,7 +26,7 @@ You need to have Python version >=3.5:
 
 ## Automation
 
-Up-to-date (auto-updates every month) football dataset could be found on the datahub.io: https://datahub.io/core/football-datasets
+Up-to-date (auto-updates every day) football dataset could be found on the datahub.io: https://datahub.io/core/football-datasets
 
 ## Packaging datasets
 
