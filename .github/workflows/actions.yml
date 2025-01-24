@@ -9,7 +9,7 @@ on:
   pull_request:
     branches:
       - main
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   build:
@@ -33,7 +33,6 @@ jobs:
     - name: Run Script
       run: |
         python scripts/process.py
-        python scripts/package.py
 
     - name: Configure Git
       run: |
