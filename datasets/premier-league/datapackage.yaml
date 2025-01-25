@@ -1,0 +1,3216 @@
+---
+name: english-premier-league
+title: English Premier League (football)
+description: This dataset provides comprehensive statistical data on EPL matches starting
+  from the 1993/1994 season up to the current season, with daily updates to ensure
+  the most accurate and timely results.
+collection: football
+licenses:
+- name: ODC-PDDL
+  path: http://opendatacommons.org/licenses/pddl/
+  title: Open Data Commons Public Domain Dedication and License
+sources:
+- name: www.football-data.co.uk/
+  path: http://www.football-data.co.uk/
+  title: www.football-data.co.uk/
+resources:
+- name: season-2425
+  path: season-2425.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-2324
+  path: season-2324.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-2223
+  path: season-2223.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-2122
+  path: season-2122.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-2021
+  path: season-2021.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-1920
+  path: season-1920.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-1819
+  path: season-1819.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-1718
+  path: season-1718.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-1617
+  path: season-1617.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-1516
+  path: season-1516.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-1415
+  path: season-1415.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-1314
+  path: season-1314.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-1213
+  path: season-1213.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-1112
+  path: season-1112.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-1011
+  path: season-1011.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-0910
+  path: season-0910.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-0809
+  path: season-0809.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-0708
+  path: season-0708.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-0607
+  path: season-0607.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-0506
+  path: season-0506.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-0405
+  path: season-0405.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-0304
+  path: season-0304.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-0203
+  path: season-0203.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-0102
+  path: season-0102.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-0001
+  path: season-0001.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-9900
+  path: season-9900.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-9899
+  path: season-9899.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-9798
+  path: season-9798.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-9697
+  path: season-9697.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-9596
+  path: season-9596.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-9495
+  path: season-9495.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
+- name: season-9394
+  path: season-9394.csv
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\""
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
