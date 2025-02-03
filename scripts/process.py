@@ -3,6 +3,7 @@ import os
 import csv
 import chardet
 import datetime
+import requests
 import urllib.request
 
 from bs4 import BeautifulSoup
@@ -24,16 +25,13 @@ LEAGUES = [
 ]
 
 def fetch_league_links(league):
-    """Fetch CSV file links for a league."""
     headers = {'User-Agent': generate_user_agent(device_type="desktop", os=('mac', 'linux'))}
-    req = urllib.request.Request(BASE_URL + league['path'], headers=headers)
-    with urllib.request.urlopen(req) as response:
-        html = response.read().decode()
-        soup = BeautifulSoup(html, 'html.parser')
-        file_links = soup.find_all('a', href=re.compile(r"mmz4281"))
-        for link in file_links:
-            if league['key'] + '.csv' in link['href']:
-                league['links'].append(link['href'])
+    response = requests.get(BASE_URL + league['path'], headers=headers, verify=False)  # Disable SSL verification
+    soup = BeautifulSoup(response.text, 'html.parser')
+    file_links = soup.find_all('a', href=re.compile(r"mmz4281"))
+    for link in file_links:
+        if league['key'] + '.csv' in link['href']:
+            league['links'].append(link['href'])
 
 def download_and_save_data(league):
     """Download data from league links and save in specified format."""
