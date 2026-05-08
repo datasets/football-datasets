@@ -6,16 +6,118 @@ description: This dataset provides comprehensive statistical data on EPL matches
   the most accurate and timely results.
 collection: football
 licenses:
-- name: ODC-PDDL
+- name: ODC-PDDL-1.0
   path: http://opendatacommons.org/licenses/pddl/
   title: Open Data Commons Public Domain Dedication and License
 sources:
 - name: www.football-data.co.uk/
-  path: http://www.football-data.co.uk/
+  path: https://www.football-data.co.uk/
   title: www.football-data.co.uk/
 resources:
+- name: season-2526
+  path: season-2526.csv
+  description: Match-by-match results and statistics for the 2025/26 EPL season (in progress).
+  format: csv
+  mediatype: text/csv
+  encoding: ISO-8859-1
+  dialect:
+    delimiter: ","
+    quoteChar: "\"
+  schema:
+    fields:
+    - name: Date
+      type: date
+      format: "%d/%m/%y"
+      description: Match Date (dd/mm/yy)
+    - name: HomeTeam
+      type: string
+      format: default
+      description: Home Team
+    - name: AwayTeam
+      type: string
+      format: default
+      description: Away Team
+    - name: FTHG
+      type: integer
+      format: default
+      description: Full Time Home Team Goals
+    - name: FTAG
+      type: integer
+      format: default
+      description: Full Time Away Team Goals
+    - name: FTR
+      type: string
+      format: default
+      description: Full Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: HTHG
+      type: integer
+      format: default
+      description: Half Time Home Team Goals
+    - name: HTAG
+      type: integer
+      format: default
+      description: Half Time Away Team Goals
+    - name: HTR
+      type: string
+      format: default
+      description: Half Time Result (H=Home Win, D=Draw, A=Away Win)
+    - name: Referee
+      type: string
+      format: default
+      description: Match Referee
+    - name: HS
+      type: integer
+      format: default
+      description: Home Team Shots
+    - name: AS
+      type: integer
+      format: default
+      description: Away Team Shots
+    - name: HST
+      type: integer
+      format: default
+      description: Home Team Shots on Target
+    - name: AST
+      type: integer
+      format: default
+      description: Away Team Shots on Target
+    - name: HF
+      type: integer
+      format: default
+      description: Home Team Fouls Committed
+    - name: AF
+      type: integer
+      format: default
+      description: Away Team Fouls Committed
+    - name: HC
+      type: integer
+      format: default
+      description: Home Team Corners
+    - name: AC
+      type: integer
+      format: default
+      description: Away Team Corners
+    - name: HY
+      type: integer
+      format: default
+      description: Home Team Yellow Cards
+    - name: AY
+      type: integer
+      format: default
+      description: Away Team Yellow Cards
+    - name: HR
+      type: integer
+      format: default
+      description: Home Team Red Cards
+    - name: AR
+      type: integer
+      format: default
+      description: Away Team Red Cards
+    missingValues:
+    - ''
 - name: season-2425
   path: season-2425.csv
+  description: Match-by-match results and statistics for the 2024/25 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -116,6 +218,7 @@ resources:
     - ''
 - name: season-2324
   path: season-2324.csv
+  description: Match-by-match results and statistics for the 2023/24 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -216,6 +319,7 @@ resources:
     - ''
 - name: season-2223
   path: season-2223.csv
+  description: Match-by-match results and statistics for the 2022/23 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -316,6 +420,7 @@ resources:
     - ''
 - name: season-2122
   path: season-2122.csv
+  description: Match-by-match results and statistics for the 2021/22 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -416,6 +521,7 @@ resources:
     - ''
 - name: season-2021
   path: season-2021.csv
+  description: Match-by-match results and statistics for the 2020/21 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -516,6 +622,7 @@ resources:
     - ''
 - name: season-1920
   path: season-1920.csv
+  description: Match-by-match results and statistics for the 2019/20 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -616,6 +723,7 @@ resources:
     - ''
 - name: season-1819
   path: season-1819.csv
+  description: Match-by-match results and statistics for the 2018/19 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -716,6 +824,7 @@ resources:
     - ''
 - name: season-1718
   path: season-1718.csv
+  description: Match-by-match results and statistics for the 2017/18 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -816,6 +925,7 @@ resources:
     - ''
 - name: season-1617
   path: season-1617.csv
+  description: Match-by-match results and statistics for the 2016/17 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -916,6 +1026,7 @@ resources:
     - ''
 - name: season-1516
   path: season-1516.csv
+  description: Match-by-match results and statistics for the 2015/16 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -1016,6 +1127,7 @@ resources:
     - ''
 - name: season-1415
   path: season-1415.csv
+  description: Match-by-match results and statistics for the 2014/15 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -1116,6 +1228,7 @@ resources:
     - ''
 - name: season-1314
   path: season-1314.csv
+  description: Match-by-match results and statistics for the 2013/14 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -1216,6 +1329,7 @@ resources:
     - ''
 - name: season-1213
   path: season-1213.csv
+  description: Match-by-match results and statistics for the 2012/13 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -1316,6 +1430,7 @@ resources:
     - ''
 - name: season-1112
   path: season-1112.csv
+  description: Match-by-match results and statistics for the 2011/12 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -1416,6 +1531,7 @@ resources:
     - ''
 - name: season-1011
   path: season-1011.csv
+  description: Match-by-match results and statistics for the 2010/11 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -1516,6 +1632,7 @@ resources:
     - ''
 - name: season-0910
   path: season-0910.csv
+  description: Match-by-match results and statistics for the 2009/10 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -1616,6 +1733,7 @@ resources:
     - ''
 - name: season-0809
   path: season-0809.csv
+  description: Match-by-match results and statistics for the 2008/09 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -1716,6 +1834,7 @@ resources:
     - ''
 - name: season-0708
   path: season-0708.csv
+  description: Match-by-match results and statistics for the 2007/08 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -1816,6 +1935,7 @@ resources:
     - ''
 - name: season-0607
   path: season-0607.csv
+  description: Match-by-match results and statistics for the 2006/07 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -1916,6 +2036,7 @@ resources:
     - ''
 - name: season-0506
   path: season-0506.csv
+  description: Match-by-match results and statistics for the 2005/06 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -2016,6 +2137,7 @@ resources:
     - ''
 - name: season-0405
   path: season-0405.csv
+  description: Match-by-match results and statistics for the 2004/05 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -2116,6 +2238,7 @@ resources:
     - ''
 - name: season-0304
   path: season-0304.csv
+  description: Match-by-match results and statistics for the 2003/04 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -2216,6 +2339,7 @@ resources:
     - ''
 - name: season-0203
   path: season-0203.csv
+  description: Match-by-match results and statistics for the 2002/03 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -2316,6 +2440,7 @@ resources:
     - ''
 - name: season-0102
   path: season-0102.csv
+  description: Match-by-match results and statistics for the 2001/02 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -2416,6 +2541,7 @@ resources:
     - ''
 - name: season-0001
   path: season-0001.csv
+  description: Match-by-match results and statistics for the 2000/01 EPL season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -2516,6 +2642,7 @@ resources:
     - ''
 - name: season-9900
   path: season-9900.csv
+  description: Match-by-match results for the 1999/00 EPL season; full-time and half-time scores only — referee and detailed match statistics (shots, fouls, corners, cards) are not available for this season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -2616,6 +2743,7 @@ resources:
     - ''
 - name: season-9899
   path: season-9899.csv
+  description: Match-by-match results for the 1998/99 EPL season; full-time and half-time scores only — referee and detailed match statistics (shots, fouls, corners, cards) are not available for this season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -2716,6 +2844,7 @@ resources:
     - ''
 - name: season-9798
   path: season-9798.csv
+  description: Match-by-match results for the 1997/98 EPL season; full-time and half-time scores only — referee and detailed match statistics (shots, fouls, corners, cards) are not available for this season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -2816,6 +2945,7 @@ resources:
     - ''
 - name: season-9697
   path: season-9697.csv
+  description: Match-by-match results for the 1996/97 EPL season; full-time and half-time scores only — referee and detailed match statistics (shots, fouls, corners, cards) are not available for this season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -2916,6 +3046,7 @@ resources:
     - ''
 - name: season-9596
   path: season-9596.csv
+  description: Match-by-match results for the 1995/96 EPL season; full-time and half-time scores only — referee and detailed match statistics (shots, fouls, corners, cards) are not available for this season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -3016,6 +3147,7 @@ resources:
     - ''
 - name: season-9495
   path: season-9495.csv
+  description: Match-by-match results for the 1994/95 EPL season; only final scores are available — half-time scores and detailed match statistics are not recorded for this season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
@@ -3116,6 +3248,7 @@ resources:
     - ''
 - name: season-9394
   path: season-9394.csv
+  description: Match-by-match results for the 1993/94 EPL season; only final scores are available — half-time scores and detailed match statistics are not recorded for this season.
   format: csv
   mediatype: text/csv
   encoding: ISO-8859-1
