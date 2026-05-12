@@ -30,6 +30,16 @@ Here are some quick ideas for analyzing the dataset:
 - Disciplinary Insights: Analyze patterns in yellow/red cards over time.
 - Match Predictions: Build a machine learning model to predict outcomes.
 
+## ⚠️ Known Data Limitations
+
+Statistical coverage varies by era due to source data availability:
+
+| Seasons | Available fields |
+|---|---|
+| 1993/94 – 1994/95 | Final scores only (Date, HomeTeam, AwayTeam, FTHG, FTAG, FTR) |
+| 1995/96 – 1999/00 | Final scores + half-time scores (adds HTHG, HTAG, HTR) |
+| 2000/01 – present | Full statistics including referee, shots, fouls, corners, and cards |
+
 ## ⚠️ Disclaimer
 
 This dataset is sourced from Football Data UK and is intended for educational and research purposes only. Please review their terms and conditions if you plan to use this dataset beyond these purposes.
