@@ -27,8 +27,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -128,8 +128,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -229,8 +229,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -330,8 +330,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -431,8 +431,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -532,8 +532,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -633,8 +633,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -734,8 +734,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -835,8 +835,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -936,8 +936,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -1037,8 +1037,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -1138,8 +1138,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -1239,8 +1239,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -1340,8 +1340,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -1441,8 +1441,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -1542,8 +1542,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -1643,8 +1643,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -1744,8 +1744,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -1845,8 +1845,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -1946,8 +1946,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -2047,8 +2047,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -2148,8 +2148,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -2249,8 +2249,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -2350,8 +2350,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -2451,8 +2451,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -2552,8 +2552,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -2653,8 +2653,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -2754,8 +2754,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -2855,8 +2855,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -2956,8 +2956,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -3057,8 +3057,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -3158,8 +3158,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
@@ -3259,8 +3259,8 @@ resources:
     fields:
     - name: Date
       type: date
-      format: "%d/%m/%y"
-      description: Match Date (dd/mm/yy)
+      format: default
+      description: Match Date (YYYY-MM-DD)
     - name: HomeTeam
       type: string
       format: default
