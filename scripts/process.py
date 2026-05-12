@@ -61,7 +61,7 @@ def download_and_save_data(league):
                         date_parts = row["Date"].split("/")
                         if len(date_parts) == 3 and int(date_parts[2]) >= 1900:
                             x = datetime.datetime(int(date_parts[2]), int(date_parts[1]), int(date_parts[0]))
-                            row["Date"] = x.strftime('%d/%m/%y')
+                            row["Date"] = x.strftime('%Y-%m-%d')
                         # Write the reordered row
                         reordered_row = [row.get(col, "") for col in COLUMNS_ORDER]
                         writer.writerow(reordered_row)

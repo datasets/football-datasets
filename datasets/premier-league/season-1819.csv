@@ -1,381 +1,381 @@
 Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
-10/08/18,Man United,Leicester,2,1,H,1,0,H,A Marriner,8,13,6,4,11,8,2,5,2,1,0,0
-11/08/18,Bournemouth,Cardiff,2,0,H,1,0,H,K Friend,12,10,4,1,11,9,7,4,1,1,0,0
-11/08/18,Fulham,Crystal Palace,0,2,A,0,1,A,M Dean,15,10,6,9,9,11,5,5,1,2,0,0
-11/08/18,Huddersfield,Chelsea,0,3,A,0,2,A,C Kavanagh,6,13,1,4,9,8,2,5,2,1,0,0
-11/08/18,Newcastle,Tottenham,1,2,A,1,2,A,M Atkinson,15,15,2,5,11,12,3,5,2,2,0,0
-11/08/18,Watford,Brighton,2,0,H,1,0,H,J Moss,19,6,5,0,10,16,8,2,2,2,0,0
-11/08/18,Wolves,Everton,2,2,D,1,1,D,C Pawson,11,6,4,5,8,7,3,6,0,1,0,1
-12/08/18,Arsenal,Man City,0,2,A,0,1,A,M Oliver,9,17,3,8,11,14,2,9,2,2,0,0
-12/08/18,Liverpool,West Ham,4,0,H,2,0,H,A Taylor,18,5,8,2,14,9,5,4,1,2,0,0
-12/08/18,Southampton,Burnley,0,0,D,0,0,D,G Scott,18,16,3,6,10,9,8,5,0,1,0,0
-18/08/18,Cardiff,Newcastle,0,0,D,0,0,D,C Pawson,12,12,1,6,14,16,5,5,2,2,0,1
-18/08/18,Chelsea,Arsenal,3,2,H,2,2,D,M Atkinson,24,15,11,6,12,9,5,1,0,2,0,0
-18/08/18,Everton,Southampton,2,1,H,2,0,H,L Mason,13,15,7,4,8,20,2,5,0,5,0,0
-18/08/18,Leicester,Wolves,2,0,H,2,0,H,M Dean,6,11,2,3,10,8,1,9,2,1,1,0
-18/08/18,Tottenham,Fulham,3,1,H,1,0,H,A Taylor,25,10,11,3,9,5,5,2,0,0,0,0
-18/08/18,West Ham,Bournemouth,1,2,A,1,0,H,S Attwell,11,12,5,5,14,10,6,4,6,2,0,0
-19/08/18,Brighton,Man United,3,2,H,3,1,H,K Friend,6,9,3,3,16,13,3,5,1,1,0,0
-19/08/18,Burnley,Watford,1,3,A,1,1,D,P Tierney,8,9,3,6,8,19,5,2,1,2,0,0
-19/08/18,Man City,Huddersfield,6,1,H,3,1,H,A Marriner,32,5,14,1,9,4,10,3,0,2,0,0
-20/08/18,Crystal Palace,Liverpool,0,2,A,0,1,A,M Oliver,8,16,2,6,6,13,6,7,1,1,1,0
-25/08/18,Arsenal,West Ham,3,1,H,1,1,D,G Scott,17,13,10,5,16,13,10,2,1,3,0,0
-25/08/18,Bournemouth,Everton,2,2,D,0,0,D,L Probert,17,11,5,3,12,10,6,2,0,3,1,1
-25/08/18,Huddersfield,Cardiff,0,0,D,0,0,D,M Oliver,5,14,1,4,8,10,7,7,0,1,1,0
-25/08/18,Liverpool,Brighton,1,0,H,1,0,H,C Kavanagh,22,6,8,2,8,14,8,5,1,1,0,0
-25/08/18,Southampton,Leicester,1,2,A,0,0,D,J Moss,11,8,5,5,13,11,10,3,1,1,1,0
-25/08/18,Wolves,Man City,1,1,D,0,0,D,M Atkinson,11,18,2,6,13,8,5,9,1,2,0,0
-26/08/18,Fulham,Burnley,4,2,H,3,2,H,D Coote,25,12,12,2,11,8,6,4,2,1,0,0
-26/08/18,Newcastle,Chelsea,1,2,A,0,0,D,P Tierney,6,15,2,3,16,8,4,5,3,1,0,0
-26/08/18,Watford,Crystal Palace,2,1,H,0,0,D,A Taylor,13,9,5,3,14,11,6,3,4,2,0,0
-27/08/18,Man United,Tottenham,0,3,A,0,0,D,C Pawson,23,9,5,5,11,16,5,2,2,4,0,0
-01/09/18,Brighton,Fulham,2,2,D,0,1,A,L Probert,15,10,5,5,12,14,7,1,3,3,0,0
-01/09/18,Chelsea,Bournemouth,2,0,H,0,0,D,L Mason,24,8,6,1,10,7,7,6,2,2,0,0
-01/09/18,Crystal Palace,Southampton,0,2,A,0,0,D,M Atkinson,20,19,6,6,11,12,7,4,1,1,0,0
-01/09/18,Everton,Huddersfield,1,1,D,1,1,D,S Attwell,11,9,1,6,13,14,4,3,3,3,0,0
-01/09/18,Leicester,Liverpool,1,2,A,0,2,A,P Tierney,12,10,5,4,9,12,4,4,3,2,0,0
-01/09/18,Man City,Newcastle,2,1,H,1,1,D,K Friend,24,3,8,2,5,13,4,0,0,0,0,0
-01/09/18,West Ham,Wolves,0,1,A,0,0,D,C Kavanagh,13,15,3,6,10,11,4,4,2,1,0,0
-02/09/18,Burnley,Man United,0,2,A,0,2,A,J Moss,9,21,2,9,7,13,2,5,2,3,0,1
-02/09/18,Cardiff,Arsenal,2,3,A,1,1,D,A Taylor,14,17,3,11,12,14,3,9,3,4,0,0
-02/09/18,Watford,Tottenham,2,1,H,0,0,D,A Marriner,7,11,3,2,9,8,3,10,2,1,0,0
-15/09/18,Bournemouth,Leicester,4,2,H,3,0,H,C Pawson,10,14,5,8,13,15,4,6,3,2,0,1
-15/09/18,Chelsea,Cardiff,4,1,H,2,1,H,J Moss,18,6,7,2,8,10,5,4,0,0,0,0
-15/09/18,Huddersfield,Crystal Palace,0,1,A,0,1,A,L Mason,15,7,2,2,11,17,5,3,1,2,0,0
-15/09/18,Man City,Fulham,3,0,H,2,0,H,S Attwell,28,9,9,3,7,7,10,4,0,0,0,0
-15/09/18,Newcastle,Arsenal,1,2,A,0,0,D,L Probert,4,12,2,2,13,11,10,4,0,0,0,0
-15/09/18,Tottenham,Liverpool,1,2,A,0,1,A,M Oliver,11,17,3,10,17,16,5,4,0,0,0,0
-15/09/18,Watford,Man United,1,2,A,0,2,A,M Dean,14,9,5,6,9,11,6,8,2,1,0,1
-16/09/18,Everton,West Ham,1,3,A,1,2,A,M Atkinson,16,9,4,4,15,12,4,2,2,5,0,0
-16/09/18,Wolves,Burnley,1,0,H,0,0,D,A Marriner,30,7,7,2,10,9,8,2,2,4,0,0
-17/09/18,Southampton,Brighton,2,2,D,1,0,H,A Taylor,14,12,5,4,10,13,1,4,2,3,0,0
-22/09/18,Brighton,Tottenham,1,2,A,0,1,A,C Kavanagh,8,16,4,7,15,9,5,7,2,1,0,0
-22/09/18,Burnley,Bournemouth,4,0,H,2,0,H,A Taylor,12,19,5,5,17,6,3,8,2,0,0,0
-22/09/18,Cardiff,Man City,0,5,A,0,3,A,M Oliver,2,21,2,10,6,4,1,9,1,1,0,0
-22/09/18,Crystal Palace,Newcastle,0,0,D,0,0,D,A Marriner,16,6,4,3,8,11,9,5,1,1,0,0
-22/09/18,Fulham,Watford,1,1,D,0,1,A,M Atkinson,15,11,3,6,11,9,8,8,2,1,0,0
-22/09/18,Leicester,Huddersfield,3,1,H,1,1,D,D Coote,18,9,8,2,10,16,3,1,2,1,0,0
-22/09/18,Liverpool,Southampton,3,0,H,3,0,H,P Tierney,12,7,4,1,7,10,5,4,0,2,0,0
-22/09/18,Man United,Wolves,1,1,D,1,0,H,K Friend,15,11,6,8,5,17,5,4,1,1,0,0
-23/09/18,Arsenal,Everton,2,0,H,0,0,D,J Moss,9,9,5,6,17,12,5,9,2,1,0,0
-23/09/18,West Ham,Chelsea,0,0,D,0,0,D,M Dean,6,17,1,6,11,9,1,8,2,1,0,0
-29/09/18,Arsenal,Watford,2,0,H,0,0,D,A Taylor,9,13,2,4,11,17,6,6,2,2,0,0
-29/09/18,Chelsea,Liverpool,1,1,D,1,0,H,A Marriner,10,13,4,6,7,9,4,4,0,2,0,0
-29/09/18,Everton,Fulham,3,0,H,0,0,D,R East,19,6,6,0,13,13,12,1,0,3,0,0
-29/09/18,Huddersfield,Tottenham,0,2,A,0,2,A,C Pawson,9,10,5,6,17,16,3,0,2,2,0,0
-29/09/18,Man City,Brighton,2,0,H,1,0,H,L Mason,28,4,8,1,4,10,10,3,0,3,0,0
-29/09/18,Newcastle,Leicester,0,2,A,0,1,A,S Hooper,6,12,1,5,11,5,5,9,0,0,0,0
-29/09/18,West Ham,Man United,3,1,H,2,0,H,M Oliver,8,9,3,4,12,12,4,9,0,1,0,0
-29/09/18,Wolves,Southampton,2,0,H,0,0,D,S Attwell,14,17,6,6,11,7,8,6,3,1,0,0
-30/09/18,Cardiff,Burnley,1,2,A,0,0,D,M Atkinson,19,3,5,2,11,15,10,2,1,3,0,0
-01/10/18,Bournemouth,Crystal Palace,2,1,H,1,0,H,M Dean,11,10,5,2,9,12,3,3,3,4,0,0
-05/10/18,Brighton,West Ham,1,0,H,1,0,H,K Friend,9,17,4,4,12,8,2,9,3,2,0,0
-06/10/18,Burnley,Huddersfield,1,1,D,1,0,H,C Kavanagh,6,19,3,2,8,11,1,10,2,2,0,0
-06/10/18,Crystal Palace,Wolves,0,1,A,0,0,D,M Oliver,11,7,4,2,11,13,6,3,3,4,0,0
-06/10/18,Leicester,Everton,1,2,A,1,1,D,A Marriner,8,17,2,8,10,11,2,10,2,1,1,0
-06/10/18,Man United,Newcastle,3,2,H,0,2,A,A Taylor,18,13,10,8,16,8,10,6,2,2,0,0
-06/10/18,Tottenham,Cardiff,1,0,H,1,0,H,M Dean,19,8,7,6,7,11,6,2,2,1,0,1
-06/10/18,Watford,Bournemouth,0,4,A,0,3,A,J Moss,14,10,2,7,11,9,10,7,3,1,1,0
-07/10/18,Fulham,Arsenal,1,5,A,1,1,D,P Tierney,21,9,4,7,11,12,4,2,2,0,0,0
-07/10/18,Liverpool,Man City,0,0,D,0,0,D,M Atkinson,7,6,2,2,10,10,2,6,1,3,0,0
-07/10/18,Southampton,Chelsea,0,3,A,0,1,A,C Pawson,15,21,6,6,13,11,4,12,6,0,0,0
-20/10/18,Bournemouth,Southampton,0,0,D,0,0,D,L Probert,10,8,2,4,10,14,6,4,1,2,0,0
-20/10/18,Cardiff,Fulham,4,2,H,2,2,D,K Friend,22,9,5,4,15,16,4,4,3,3,0,0
-20/10/18,Chelsea,Man United,2,2,D,1,0,H,M Dean,21,7,6,4,9,17,5,3,2,5,0,0
-20/10/18,Huddersfield,Liverpool,0,1,A,0,1,A,M Oliver,13,11,1,2,9,6,2,4,0,2,0,0
-20/10/18,Man City,Burnley,5,0,H,1,0,H,J Moss,24,5,10,0,11,5,10,1,2,2,0,0
-20/10/18,Newcastle,Brighton,0,1,A,0,1,A,A Marriner,27,8,6,2,13,17,10,2,0,2,0,0
-20/10/18,West Ham,Tottenham,0,1,A,0,1,A,M Atkinson,13,10,4,2,8,10,10,6,3,0,0,0
-20/10/18,Wolves,Watford,0,2,A,0,2,A,L Mason,10,9,1,3,23,13,8,2,3,1,0,0
-21/10/18,Everton,Crystal Palace,2,0,H,0,0,D,A Taylor,20,7,4,3,13,17,10,5,2,1,0,0
-22/10/18,Arsenal,Leicester,3,1,H,1,1,D,C Kavanagh,19,8,6,2,10,10,6,4,2,2,0,0
-27/10/18,Brighton,Wolves,1,0,H,0,0,D,A Taylor,2,25,1,7,11,8,1,10,3,0,0,0
-27/10/18,Fulham,Bournemouth,0,3,A,0,1,A,A Marriner,11,12,1,5,16,3,5,5,2,1,1,0
-27/10/18,Leicester,West Ham,1,1,D,0,1,A,M Oliver,21,11,7,3,17,5,8,0,1,1,0,1
-27/10/18,Liverpool,Cardiff,4,1,H,1,0,H,S Attwell,19,2,7,1,6,4,8,0,0,0,0,0
-27/10/18,Southampton,Newcastle,0,0,D,0,0,D,C Kavanagh,22,6,4,0,9,12,7,2,0,1,0,0
-27/10/18,Watford,Huddersfield,3,0,H,2,0,H,M Dean,12,13,6,7,9,13,3,3,1,2,0,0
-28/10/18,Burnley,Chelsea,0,4,A,0,1,A,C Pawson,7,24,1,8,14,10,4,4,4,2,0,0
-28/10/18,Crystal Palace,Arsenal,2,2,D,1,0,H,M Atkinson,16,7,3,2,10,16,6,4,1,2,0,0
-28/10/18,Man United,Everton,2,1,H,1,0,H,J Moss,14,14,10,6,15,12,8,4,2,1,0,0
-29/10/18,Tottenham,Man City,0,1,A,0,1,A,K Friend,4,13,1,6,13,13,3,6,2,2,0,0
-03/11/18,Arsenal,Liverpool,1,1,D,0,0,D,A Marriner,12,13,4,4,7,7,5,8,1,1,0,0
-03/11/18,Bournemouth,Man United,1,2,A,1,1,D,P Tierney,18,18,7,8,12,12,9,5,4,3,0,0
-03/11/18,Cardiff,Leicester,0,1,A,0,0,D,L Probert,11,13,2,5,13,12,6,12,2,2,0,0
-03/11/18,Everton,Brighton,3,1,H,1,1,D,D Coote,14,5,3,3,9,17,6,4,0,1,0,0
-03/11/18,Newcastle,Watford,1,0,H,0,0,D,C Pawson,10,16,2,1,12,11,8,9,1,5,0,0
-03/11/18,West Ham,Burnley,4,2,H,1,1,D,R East,22,6,10,3,7,9,10,4,1,4,0,0
-03/11/18,Wolves,Tottenham,2,3,A,0,2,A,M Dean,16,10,7,8,11,8,5,1,1,2,0,0
-04/11/18,Chelsea,Crystal Palace,3,1,H,1,0,H,M Oliver,15,7,6,2,6,13,4,2,0,1,0,0
-04/11/18,Man City,Southampton,6,1,H,4,1,H,L Mason,18,12,8,6,14,9,4,4,1,1,0,0
-05/11/18,Huddersfield,Fulham,1,0,H,1,0,H,A Taylor,10,7,2,1,11,8,5,4,1,2,0,0
-10/11/18,Cardiff,Brighton,2,1,H,1,1,D,M Atkinson,20,7,6,3,7,21,4,1,2,1,0,1
-10/11/18,Crystal Palace,Tottenham,0,1,A,0,0,D,J Moss,11,11,4,2,12,9,10,6,1,1,0,0
-10/11/18,Huddersfield,West Ham,1,1,D,1,0,H,C Kavanagh,15,12,7,5,9,8,5,6,1,1,0,0
-10/11/18,Leicester,Burnley,0,0,D,0,0,D,M Dean,22,6,5,1,13,10,12,1,2,0,0,0
-10/11/18,Newcastle,Bournemouth,2,1,H,2,1,H,L Probert,18,14,6,4,9,11,7,10,2,1,0,0
-10/11/18,Southampton,Watford,1,1,D,1,0,H,S Hooper,14,12,4,6,13,13,7,6,3,2,0,0
-11/11/18,Arsenal,Wolves,1,1,D,0,1,A,S Attwell,10,12,3,5,9,16,11,2,2,2,0,0
-11/11/18,Chelsea,Everton,0,0,D,0,0,D,K Friend,15,6,4,1,7,11,5,5,4,3,0,0
-11/11/18,Liverpool,Fulham,2,0,H,1,0,H,P Tierney,20,8,7,3,11,9,6,3,1,1,0,0
-11/11/18,Man City,Man United,3,1,H,1,0,H,A Taylor,17,6,5,1,12,12,5,1,1,1,0,0
-24/11/18,Brighton,Leicester,1,1,D,1,0,H,C Kavanagh,14,8,3,3,10,7,6,1,3,1,0,1
-24/11/18,Everton,Cardiff,1,0,H,0,0,D,P Tierney,16,7,8,1,12,13,7,3,0,3,0,0
-24/11/18,Fulham,Southampton,3,2,H,2,1,H,M Oliver,10,19,5,8,10,6,2,5,2,3,0,0
-24/11/18,Man United,Crystal Palace,0,0,D,0,0,D,L Mason,12,13,5,2,13,12,10,3,1,2,0,0
-24/11/18,Tottenham,Chelsea,3,1,H,2,0,H,M Atkinson,18,13,9,2,19,12,4,4,0,3,0,0
-24/11/18,Watford,Liverpool,0,3,A,0,0,D,J Moss,5,10,1,7,12,13,5,5,0,0,0,1
-24/11/18,West Ham,Man City,0,4,A,0,3,A,A Marriner,9,9,1,6,6,3,8,1,0,0,0,0
-25/11/18,Bournemouth,Arsenal,1,2,A,1,1,D,C Pawson,11,20,5,4,6,9,5,8,2,1,0,0
-25/11/18,Wolves,Huddersfield,0,2,A,0,1,A,K Friend,12,14,3,6,9,8,3,5,1,2,0,0
-26/11/18,Burnley,Newcastle,1,2,A,1,2,A,A Taylor,14,17,4,3,6,11,5,5,0,1,0,0
-30/11/18,Cardiff,Wolves,2,1,H,0,1,A,A Marriner,17,15,3,4,3,12,7,6,1,2,0,0
-01/12/18,Crystal Palace,Burnley,2,0,H,1,0,H,L Probert,29,4,9,0,9,10,10,2,1,1,0,0
-01/12/18,Huddersfield,Brighton,1,2,A,1,1,D,M Oliver,7,14,2,6,10,12,2,6,0,2,1,0
-01/12/18,Leicester,Watford,2,0,H,2,0,H,G Scott,7,8,3,0,7,6,4,8,2,1,0,1
-01/12/18,Man City,Bournemouth,3,1,H,1,1,D,S Attwell,16,4,6,1,9,3,8,4,0,0,0,0
-01/12/18,Newcastle,West Ham,0,3,A,0,1,A,P Tierney,16,7,4,4,10,10,7,3,3,3,0,0
-01/12/18,Southampton,Man United,2,2,D,2,2,D,K Friend,16,11,6,5,12,13,3,5,4,4,0,0
-02/12/18,Arsenal,Tottenham,4,2,H,1,2,A,M Dean,22,11,7,6,15,17,8,5,3,3,0,1
-02/12/18,Chelsea,Fulham,2,0,H,1,0,H,C Pawson,16,9,9,4,8,17,4,6,2,1,0,0
-02/12/18,Liverpool,Everton,1,0,H,0,0,D,C Kavanagh,16,9,3,3,12,7,8,1,3,2,0,0
-04/12/18,Bournemouth,Huddersfield,2,1,H,2,1,H,R East,6,23,2,6,14,11,4,8,4,2,0,0
-04/12/18,Brighton,Crystal Palace,3,1,H,3,0,H,K Friend,9,18,3,5,14,12,4,5,2,3,1,0
-04/12/18,Watford,Man City,1,2,A,0,1,A,P Tierney,11,15,7,7,4,8,3,11,0,1,0,0
-04/12/18,West Ham,Cardiff,3,1,H,0,0,D,G Scott,17,9,11,5,10,10,10,4,1,2,0,0
-05/12/18,Burnley,Liverpool,1,3,A,0,0,D,S Attwell,10,18,6,12,10,3,5,9,1,0,0,0
-05/12/18,Everton,Newcastle,1,1,D,1,1,D,L Mason,19,8,3,5,7,18,14,2,0,5,0,0
-05/12/18,Fulham,Leicester,1,1,D,1,0,H,D Coote,25,13,7,5,12,7,10,8,0,0,0,0
-05/12/18,Man United,Arsenal,2,2,D,1,1,D,A Marriner,10,9,7,4,13,10,4,4,3,3,0,0
-05/12/18,Tottenham,Southampton,3,1,H,1,0,H,A Taylor,13,18,8,5,7,5,8,6,0,0,0,0
-05/12/18,Wolves,Chelsea,2,1,H,0,1,A,J Moss,6,17,2,3,18,10,1,5,4,4,0,0
-08/12/18,Arsenal,Huddersfield,1,0,H,0,0,D,P Tierney,14,6,2,0,13,20,7,1,5,4,0,0
-08/12/18,Bournemouth,Liverpool,0,4,A,0,1,A,L Mason,8,10,2,4,9,11,6,6,2,1,0,0
-08/12/18,Burnley,Brighton,1,0,H,1,0,H,M Atkinson,14,14,4,1,11,11,2,7,2,0,0,0
-08/12/18,Cardiff,Southampton,1,0,H,0,0,D,J Moss,13,12,4,1,9,10,7,7,2,2,0,0
-08/12/18,Chelsea,Man City,2,0,H,1,0,H,M Oliver,8,14,5,4,12,11,1,13,2,0,0,0
-08/12/18,Leicester,Tottenham,0,2,A,0,1,A,C Pawson,11,7,3,2,12,7,6,5,3,1,0,0
-08/12/18,Man United,Fulham,4,1,H,3,0,H,L Probert,20,10,11,4,11,15,10,3,1,1,0,1
-08/12/18,West Ham,Crystal Palace,3,2,H,0,1,A,A Taylor,13,8,6,4,10,8,5,3,1,2,0,0
-09/12/18,Newcastle,Wolves,1,2,A,1,1,D,M Dean,12,13,4,6,10,17,4,6,2,5,1,0
-10/12/18,Everton,Watford,2,2,D,1,0,H,K Friend,12,15,5,3,13,13,6,6,1,1,0,0
-15/12/18,Crystal Palace,Leicester,1,0,H,1,0,H,M Oliver,8,12,1,2,10,8,4,4,2,1,0,0
-15/12/18,Fulham,West Ham,0,2,A,0,2,A,M Dean,16,6,4,3,14,10,6,4,2,1,0,0
-15/12/18,Huddersfield,Newcastle,0,1,A,0,0,D,A Taylor,15,8,5,5,5,13,10,1,1,1,0,0
-15/12/18,Man City,Everton,3,1,H,1,0,H,C Pawson,13,9,5,2,7,9,6,2,1,2,0,0
-15/12/18,Tottenham,Burnley,1,0,H,0,0,D,G Scott,15,4,3,0,7,8,8,3,0,2,0,0
-15/12/18,Watford,Cardiff,3,2,H,1,0,H,A Madley,17,10,8,3,7,5,5,0,0,0,0,0
-15/12/18,Wolves,Bournemouth,2,0,H,1,0,H,S Hooper,9,13,3,3,15,7,5,3,1,2,0,0
-16/12/18,Brighton,Chelsea,1,2,A,0,2,A,S Attwell,6,10,2,3,14,6,4,1,2,2,0,0
-16/12/18,Liverpool,Man United,3,1,H,1,1,D,M Atkinson,36,6,11,2,6,14,13,2,0,2,0,0
-16/12/18,Southampton,Arsenal,3,2,H,2,1,H,C Kavanagh,12,13,7,4,12,10,4,5,3,1,0,0
-21/12/18,Wolves,Liverpool,0,2,A,0,1,A,C Pawson,11,15,5,6,7,3,1,10,0,0,0,0
-22/12/18,Arsenal,Burnley,3,1,H,1,0,H,K Friend,10,7,6,2,10,14,1,3,2,5,0,0
-22/12/18,Bournemouth,Brighton,2,0,H,1,0,H,M Dean,14,10,3,5,8,18,6,5,2,0,0,1
-22/12/18,Cardiff,Man United,1,5,A,1,3,A,M Oliver,9,17,3,9,13,13,4,7,2,1,0,0
-22/12/18,Chelsea,Leicester,0,1,A,0,0,D,L Probert,17,8,5,3,10,9,9,5,0,2,0,0
-22/12/18,Huddersfield,Southampton,1,3,A,0,2,A,S Attwell,16,13,5,6,12,9,8,2,2,3,0,0
-22/12/18,Man City,Crystal Palace,2,3,A,1,2,A,A Marriner,19,5,5,3,7,6,13,0,0,4,0,0
-22/12/18,Newcastle,Fulham,0,0,D,0,0,D,M Atkinson,9,4,0,2,9,12,6,0,1,2,0,0
-22/12/18,West Ham,Watford,0,2,A,0,1,A,L Mason,18,11,7,5,9,11,10,4,3,2,0,0
-23/12/18,Everton,Tottenham,2,6,A,1,3,A,P Tierney,10,17,3,8,13,9,2,1,0,2,0,0
-26/12/18,Brighton,Arsenal,1,1,D,1,1,D,A Taylor,12,7,3,4,10,4,4,9,2,1,0,0
-26/12/18,Burnley,Everton,1,5,A,1,3,A,M Oliver,11,13,4,6,11,19,5,7,2,4,0,0
-26/12/18,Crystal Palace,Cardiff,0,0,D,0,0,D,L Probert,31,9,5,4,9,11,12,1,0,3,0,0
-26/12/18,Fulham,Wolves,1,1,D,0,0,D,A Marriner,11,14,9,5,9,6,2,0,2,1,0,0
-26/12/18,Leicester,Man City,2,1,H,1,1,D,M Dean,10,11,5,4,5,8,3,7,2,2,0,1
-26/12/18,Liverpool,Newcastle,4,0,H,1,0,H,G Scott,16,6,8,2,7,9,10,2,0,0,0,0
-26/12/18,Man United,Huddersfield,3,1,H,1,0,H,J Moss,16,10,10,2,9,13,5,3,1,1,0,0
-26/12/18,Tottenham,Bournemouth,5,0,H,3,0,H,C Kavanagh,10,14,7,4,4,8,3,4,2,1,0,0
-26/12/18,Watford,Chelsea,1,2,A,1,1,D,M Atkinson,10,10,2,4,15,5,3,4,1,0,0,0
-27/12/18,Southampton,West Ham,1,2,A,0,0,D,C Pawson,11,16,5,5,10,3,4,5,2,0,0,0
-29/12/18,Brighton,Everton,1,0,H,0,0,D,A Madley,11,13,3,4,10,11,6,6,0,2,0,0
-29/12/18,Fulham,Huddersfield,1,0,H,0,0,D,K Friend,14,9,5,5,12,10,4,3,3,1,0,0
-29/12/18,Leicester,Cardiff,0,1,A,0,0,D,S Hooper,16,12,7,3,14,16,10,4,0,2,0,0
-29/12/18,Liverpool,Arsenal,5,1,H,4,1,H,M Oliver,15,8,10,2,8,13,5,3,1,2,0,0
-29/12/18,Tottenham,Wolves,1,3,A,1,0,H,S Attwell,10,11,3,4,7,7,6,7,3,2,0,0
-29/12/18,Watford,Newcastle,1,1,D,0,1,A,R East,12,8,5,2,17,16,3,6,1,2,0,0
-30/12/18,Burnley,West Ham,2,0,H,2,0,H,D Coote,17,11,5,4,15,11,5,5,1,4,0,0
-30/12/18,Crystal Palace,Chelsea,0,1,A,0,0,D,C Pawson,4,12,0,4,11,8,3,4,0,1,0,0
-30/12/18,Man United,Bournemouth,4,1,H,3,1,H,L Mason,11,7,8,3,10,7,4,5,2,0,1,0
-30/12/18,Southampton,Man City,1,3,A,1,3,A,P Tierney,5,14,4,6,11,10,3,8,2,3,1,0
-01/01/19,Arsenal,Fulham,4,1,H,1,0,H,G Scott,16,9,9,4,7,12,8,3,0,1,0,0
-01/01/19,Cardiff,Tottenham,0,3,A,0,3,A,K Friend,6,13,3,4,6,6,5,3,1,0,0,0
-01/01/19,Everton,Leicester,0,1,A,0,0,D,M Atkinson,17,8,2,4,5,8,6,5,3,1,0,0
-02/01/19,Bournemouth,Watford,3,3,D,3,3,D,D Coote,25,11,12,3,9,15,4,2,1,4,0,0
-02/01/19,Chelsea,Southampton,0,0,D,0,0,D,J Moss,17,6,6,2,8,11,7,2,1,2,0,0
-02/01/19,Huddersfield,Burnley,1,2,A,1,1,D,M Dean,9,16,2,8,11,9,5,2,0,4,1,1
-02/01/19,Newcastle,Man United,0,2,A,0,0,D,A Marriner,14,16,3,7,10,9,1,2,1,2,0,0
-02/01/19,West Ham,Brighton,2,2,D,0,0,D,C Kavanagh,13,13,6,6,9,11,1,5,0,1,0,0
-02/01/19,Wolves,Crystal Palace,0,2,A,0,0,D,R East,9,17,1,4,9,7,3,10,4,1,0,0
-03/01/19,Man City,Liverpool,2,1,H,1,0,H,A Taylor,9,7,4,5,12,7,2,1,4,2,0,0
-12/01/19,Brighton,Liverpool,0,1,A,0,0,D,K Friend,7,10,0,3,15,5,2,7,0,0,0,0
-12/01/19,Burnley,Fulham,2,1,H,2,1,H,M Atkinson,11,12,0,4,5,9,2,6,1,2,0,0
-12/01/19,Cardiff,Huddersfield,0,0,D,0,0,D,L Mason,3,14,0,2,12,14,3,10,3,1,0,0
-12/01/19,Chelsea,Newcastle,2,1,H,1,1,D,C Kavanagh,10,9,6,2,6,13,8,5,1,1,0,0
-12/01/19,Crystal Palace,Watford,1,2,A,1,0,H,P Tierney,15,16,6,2,11,11,7,7,1,4,0,0
-12/01/19,Leicester,Southampton,1,2,A,0,2,A,M Oliver,23,8,6,3,7,9,10,3,2,1,0,1
-12/01/19,West Ham,Arsenal,1,0,H,0,0,D,J Moss,11,11,3,2,7,10,7,3,0,2,0,0
-13/01/19,Everton,Bournemouth,2,0,H,0,0,D,A Taylor,15,16,3,7,17,8,5,9,5,0,0,0
-13/01/19,Tottenham,Man United,0,1,A,0,1,A,M Dean,21,13,11,8,8,8,7,4,1,2,0,0
-14/01/19,Man City,Wolves,3,0,H,2,0,H,C Pawson,24,3,9,0,6,3,12,1,1,0,0,1
-19/01/19,Arsenal,Chelsea,2,0,H,2,0,H,A Taylor,13,13,5,1,13,15,5,6,0,2,0,0
-19/01/19,Bournemouth,West Ham,2,0,H,0,0,D,S Hooper,10,9,4,1,6,10,2,3,0,1,0,0
-19/01/19,Liverpool,Crystal Palace,4,3,H,0,1,A,J Moss,19,9,9,3,6,8,8,3,0,1,1,0
-19/01/19,Man United,Brighton,2,1,H,2,0,H,P Tierney,20,7,5,3,11,11,6,5,1,0,0,0
-19/01/19,Newcastle,Cardiff,3,0,H,1,0,H,S Attwell,16,9,6,1,11,6,7,10,0,1,0,0
-19/01/19,Southampton,Everton,2,1,H,0,0,D,G Scott,11,7,4,2,12,11,7,6,2,1,0,0
-19/01/19,Watford,Burnley,0,0,D,0,0,D,M Oliver,9,11,4,3,14,9,1,7,1,2,0,0
-19/01/19,Wolves,Leicester,4,3,H,2,0,H,C Kavanagh,12,16,7,6,11,10,5,9,3,3,0,0
-20/01/19,Fulham,Tottenham,1,2,A,1,0,H,C Pawson,12,14,4,5,10,8,7,10,2,3,0,0
-20/01/19,Huddersfield,Man City,0,3,A,0,1,A,A Marriner,5,12,2,4,10,9,1,4,2,2,0,0
-29/01/19,Arsenal,Cardiff,2,1,H,0,0,D,M Dean,15,19,4,2,14,12,4,7,3,3,0,0
-29/01/19,Fulham,Brighton,4,2,H,0,2,A,L Probert,24,15,7,6,10,5,10,1,2,3,0,0
-29/01/19,Huddersfield,Everton,0,1,A,0,1,A,S Attwell,10,10,2,5,13,10,3,4,1,4,0,1
-29/01/19,Man United,Burnley,2,2,D,0,0,D,J Moss,28,6,9,4,10,9,11,3,1,3,0,0
-29/01/19,Newcastle,Man City,2,1,H,0,1,A,P Tierney,6,12,2,4,9,7,1,8,2,3,0,0
-29/01/19,Wolves,West Ham,3,0,H,0,0,D,D Coote,20,4,9,0,8,10,5,1,4,1,0,0
-30/01/19,Bournemouth,Chelsea,4,0,H,0,0,D,R East,12,11,7,7,8,6,3,7,1,0,0,0
-30/01/19,Liverpool,Leicester,1,1,D,1,1,D,M Atkinson,10,5,3,2,13,6,7,1,1,3,0,0
-30/01/19,Southampton,Crystal Palace,1,1,D,0,1,A,A Marriner,13,15,4,3,11,8,3,8,2,2,0,1
-30/01/19,Tottenham,Watford,2,1,H,0,1,A,G Scott,17,9,3,1,6,9,9,5,0,4,0,0
-02/02/19,Brighton,Watford,0,0,D,0,0,D,S Hooper,21,5,4,0,15,10,7,0,1,0,0,0
-02/02/19,Burnley,Southampton,1,1,D,0,0,D,A Taylor,15,10,6,4,10,9,4,2,3,1,0,0
-02/02/19,Cardiff,Bournemouth,2,0,H,1,0,H,J Moss,12,9,5,2,17,14,6,7,1,2,0,0
-02/02/19,Chelsea,Huddersfield,5,0,H,2,0,H,P Tierney,23,5,7,2,8,5,11,2,0,0,0,0
-02/02/19,Crystal Palace,Fulham,2,0,H,1,0,H,M Oliver,17,8,6,0,9,12,11,1,2,3,0,0
-02/02/19,Everton,Wolves,1,3,A,1,2,A,L Mason,13,8,4,4,12,14,3,1,3,1,0,0
-02/02/19,Tottenham,Newcastle,1,0,H,0,0,D,A Marriner,21,8,4,2,6,6,6,3,0,1,0,0
-03/02/19,Leicester,Man United,0,1,A,0,1,A,M Dean,17,10,6,6,14,9,7,2,4,4,0,0
-03/02/19,Man City,Arsenal,3,1,H,2,1,H,M Atkinson,19,4,12,2,11,8,4,2,1,1,0,0
-04/02/19,West Ham,Liverpool,1,1,D,1,1,D,K Friend,13,11,2,6,9,11,2,5,1,1,0,0
-06/02/19,Everton,Man City,0,2,A,0,1,A,C Pawson,4,15,1,4,12,6,5,6,1,1,0,0
-09/02/19,Brighton,Burnley,1,3,A,0,1,A,S Attwell,16,9,6,5,8,7,9,3,1,1,0,0
-09/02/19,Crystal Palace,West Ham,1,1,D,0,1,A,C Pawson,25,6,5,4,12,9,10,4,3,0,0,0
-09/02/19,Fulham,Man United,0,3,A,0,2,A,P Tierney,15,15,3,7,14,9,5,4,3,2,0,0
-09/02/19,Huddersfield,Arsenal,1,2,A,0,2,A,J Moss,15,9,6,4,17,12,5,0,3,2,0,0
-09/02/19,Liverpool,Bournemouth,3,0,H,2,0,H,A Taylor,20,12,9,2,14,6,8,5,2,2,0,0
-09/02/19,Southampton,Cardiff,1,2,A,0,0,D,M Atkinson,14,6,7,3,15,12,8,2,3,3,0,0
-09/02/19,Watford,Everton,1,0,H,0,0,D,L Probert,7,9,2,4,21,10,8,2,2,0,0,1
-10/02/19,Man City,Chelsea,6,0,H,4,0,H,M Dean,15,12,9,4,9,13,2,2,1,2,0,0
-10/02/19,Tottenham,Leicester,3,1,H,1,0,H,M Oliver,12,20,5,9,11,4,2,9,3,1,0,0
-11/02/19,Wolves,Newcastle,1,1,D,0,0,D,G Scott,22,9,6,3,7,9,13,1,1,3,0,0
-22/02/19,Cardiff,Watford,1,5,A,0,1,A,S Hooper,15,12,6,7,10,11,3,3,1,2,0,0
-22/02/19,West Ham,Fulham,3,1,H,2,1,H,L Mason,21,8,7,5,11,11,12,0,1,1,0,0
-23/02/19,Bournemouth,Wolves,1,1,D,1,0,H,R East,10,10,3,2,10,15,9,8,4,5,0,0
-23/02/19,Burnley,Tottenham,2,1,H,0,0,D,M Dean,10,17,4,6,9,12,7,6,1,3,0,0
-23/02/19,Leicester,Crystal Palace,1,4,A,0,1,A,A Taylor,27,7,5,5,7,14,8,3,2,1,0,0
-23/02/19,Newcastle,Huddersfield,2,0,H,0,0,D,K Friend,29,3,12,1,11,7,12,0,2,0,0,1
-24/02/19,Arsenal,Southampton,2,0,H,2,0,H,G Scott,12,10,4,4,7,14,6,4,0,0,0,0
-24/02/19,Man United,Liverpool,0,0,D,0,0,D,M Oliver,6,7,3,1,15,17,3,7,1,3,0,0
-26/02/19,Cardiff,Everton,0,3,A,0,1,A,K Friend,6,12,0,4,12,12,3,4,3,1,0,0
-26/02/19,Huddersfield,Wolves,1,0,H,0,0,D,D Coote,15,7,3,0,10,10,3,5,2,2,0,0
-26/02/19,Leicester,Brighton,2,1,H,1,0,H,L Probert,19,15,3,3,6,4,4,8,1,1,0,0
-26/02/19,Newcastle,Burnley,2,0,H,2,0,H,C Pawson,12,12,3,2,8,8,4,7,1,3,0,0
-27/02/19,Arsenal,Bournemouth,5,1,H,2,1,H,C Kavanagh,16,13,6,5,11,9,9,4,2,2,0,0
-27/02/19,Chelsea,Tottenham,2,0,H,0,0,D,A Marriner,11,9,1,0,7,14,2,2,1,1,0,0
-27/02/19,Crystal Palace,Man United,1,3,A,0,1,A,M Atkinson,17,13,2,4,8,9,5,6,2,3,0,0
-27/02/19,Liverpool,Watford,5,0,H,2,0,H,G Scott,19,5,10,3,5,7,6,4,0,2,0,0
-27/02/19,Man City,West Ham,1,0,H,0,0,D,S Attwell,20,2,7,1,2,6,12,2,0,2,0,0
-27/02/19,Southampton,Fulham,2,0,H,2,0,H,A Taylor,14,14,4,4,15,13,7,4,0,1,0,0
-02/03/19,Bournemouth,Man City,0,1,A,0,0,D,K Friend,0,23,0,7,7,7,0,14,1,2,0,0
-02/03/19,Brighton,Huddersfield,1,0,H,0,0,D,M Dean,13,6,4,4,11,6,6,3,2,2,0,0
-02/03/19,Burnley,Crystal Palace,1,3,A,0,1,A,L Probert,18,10,4,4,9,9,8,5,1,2,0,0
-02/03/19,Man United,Southampton,3,2,H,0,1,A,S Attwell,16,6,6,3,7,10,9,7,2,1,0,0
-02/03/19,Tottenham,Arsenal,1,1,D,0,1,A,A Taylor,10,9,3,4,15,14,3,4,3,2,0,1
-02/03/19,West Ham,Newcastle,2,0,H,2,0,H,C Kavanagh,10,17,4,2,8,14,1,6,3,4,0,0
-02/03/19,Wolves,Cardiff,2,0,H,2,0,H,A Marriner,13,12,6,4,11,6,7,8,1,2,0,0
-03/03/19,Everton,Liverpool,0,0,D,0,0,D,M Atkinson,7,10,3,3,12,10,3,7,1,2,0,0
-03/03/19,Fulham,Chelsea,1,2,A,1,2,A,G Scott,12,20,5,7,11,10,5,4,2,1,0,0
-03/03/19,Watford,Leicester,2,1,H,1,0,H,J Moss,6,14,5,2,15,12,1,5,5,1,0,0
-09/03/19,Cardiff,West Ham,2,0,H,1,0,H,G Scott,16,9,7,2,7,12,7,5,2,1,0,0
-09/03/19,Crystal Palace,Brighton,1,2,A,0,1,A,C Pawson,15,4,3,3,8,18,8,0,1,5,0,0
-09/03/19,Huddersfield,Bournemouth,0,2,A,0,1,A,A Taylor,8,8,1,5,14,9,6,5,3,1,0,0
-09/03/19,Leicester,Fulham,3,1,H,1,0,H,D Coote,18,6,8,3,9,13,6,5,0,2,0,0
-09/03/19,Man City,Watford,3,1,H,0,0,D,P Tierney,19,2,9,1,11,7,9,1,1,1,0,0
-09/03/19,Newcastle,Everton,3,2,H,0,2,A,L Mason,19,7,7,3,13,10,8,2,3,1,0,0
-09/03/19,Southampton,Tottenham,2,1,H,0,1,A,K Friend,12,16,4,5,16,9,1,10,4,2,0,0
-10/03/19,Arsenal,Man United,2,0,H,1,0,H,J Moss,14,14,3,4,12,18,5,2,2,2,0,0
-10/03/19,Chelsea,Wolves,1,1,D,0,0,D,M Oliver,22,2,6,1,8,14,13,0,1,4,0,0
-10/03/19,Liverpool,Burnley,4,2,H,2,1,H,A Marriner,23,3,5,2,4,7,7,3,2,0,0,0
-16/03/19,Bournemouth,Newcastle,2,2,D,0,1,A,M Dean,10,12,3,4,9,12,6,6,3,2,0,0
-16/03/19,Burnley,Leicester,1,2,A,1,1,D,M Oliver,13,9,2,4,9,10,9,3,1,1,0,1
-16/03/19,West Ham,Huddersfield,4,3,H,1,2,A,J Moss,16,15,5,5,7,15,5,8,0,2,0,0
-17/03/19,Everton,Chelsea,2,0,H,0,0,D,A Taylor,15,16,8,5,17,9,3,4,1,2,0,0
-17/03/19,Fulham,Liverpool,1,2,A,0,1,A,C Pawson,7,16,2,6,11,7,1,10,2,1,0,0
-30/03/19,Brighton,Southampton,0,1,A,0,0,D,M Oliver,14,8,1,2,8,10,6,5,1,2,0,0
-30/03/19,Burnley,Wolves,2,0,H,1,0,H,C Kavanagh,5,8,1,1,12,10,1,5,1,1,0,0
-30/03/19,Crystal Palace,Huddersfield,2,0,H,0,0,D,L Probert,19,15,5,5,10,7,5,5,0,0,0,0
-30/03/19,Fulham,Man City,0,2,A,0,2,A,K Friend,5,24,0,7,4,12,0,11,2,0,0,0
-30/03/19,Leicester,Bournemouth,2,0,H,1,0,H,L Mason,18,8,4,2,6,12,6,1,0,2,0,0
-30/03/19,Man United,Watford,2,1,H,1,0,H,S Attwell,8,20,5,8,14,9,3,5,1,2,0,0
-30/03/19,West Ham,Everton,0,2,A,0,2,A,P Tierney,3,17,1,9,7,14,4,9,1,1,0,0
-31/03/19,Cardiff,Chelsea,1,2,A,0,0,D,C Pawson,8,21,3,3,8,14,2,7,2,3,0,0
-31/03/19,Liverpool,Tottenham,2,1,H,1,0,H,M Atkinson,14,11,3,2,5,8,10,3,0,1,0,0
-01/04/19,Arsenal,Newcastle,2,0,H,1,0,H,A Taylor,7,3,4,1,11,10,6,2,2,0,0,0
-02/04/19,Watford,Fulham,4,1,H,1,1,D,R East,15,17,7,7,12,5,6,4,3,2,0,0
-02/04/19,Wolves,Man United,2,1,H,1,1,D,M Dean,9,18,2,4,5,11,3,5,1,2,0,1
-03/04/19,Chelsea,Brighton,3,0,H,1,0,H,G Scott,17,3,4,1,5,9,7,1,0,0,0,0
-03/04/19,Man City,Cardiff,2,0,H,2,0,H,J Moss,27,4,11,1,3,17,7,4,0,3,0,0
-03/04/19,Tottenham,Crystal Palace,2,0,H,0,0,D,A Marriner,26,5,10,1,8,5,8,2,1,0,0,0
-05/04/19,Southampton,Liverpool,1,3,A,1,1,D,P Tierney,11,17,1,5,8,7,7,5,2,4,0,0
-06/04/19,Bournemouth,Burnley,1,3,A,1,2,A,M Atkinson,10,11,2,3,12,16,3,6,2,3,0,0
-06/04/19,Huddersfield,Leicester,1,4,A,0,1,A,D Coote,10,18,4,9,13,11,8,5,3,0,0,0
-06/04/19,Newcastle,Crystal Palace,0,1,A,0,0,D,S Attwell,18,3,5,1,12,13,9,4,1,2,0,0
-07/04/19,Everton,Arsenal,1,0,H,1,0,H,K Friend,23,7,6,2,8,9,9,6,1,4,0,0
-08/04/19,Chelsea,West Ham,2,0,H,1,0,H,C Kavanagh,16,9,7,2,8,7,7,4,2,1,0,0
-12/04/19,Leicester,Newcastle,0,1,A,0,1,A,C Kavanagh,12,11,5,5,6,10,2,3,2,3,0,0
-13/04/19,Brighton,Bournemouth,0,5,A,0,1,A,K Friend,8,14,1,7,10,6,4,1,2,4,1,0
-13/04/19,Burnley,Cardiff,2,0,H,1,0,H,M Dean,14,14,7,2,7,10,8,4,2,3,0,0
-13/04/19,Fulham,Everton,2,0,H,0,0,D,L Probert,12,8,5,1,8,10,7,3,2,1,0,0
-13/04/19,Man United,West Ham,2,1,H,1,0,H,G Scott,14,18,4,4,14,5,3,11,1,1,0,0
-13/04/19,Southampton,Wolves,3,1,H,2,1,H,J Moss,13,17,6,2,13,8,4,9,1,3,0,0
-13/04/19,Tottenham,Huddersfield,4,0,H,2,0,H,L Mason,22,7,5,1,10,12,4,2,2,2,0,0
-14/04/19,Crystal Palace,Man City,1,3,A,0,1,A,M Atkinson,7,20,3,6,5,11,2,9,0,0,0,0
-14/04/19,Liverpool,Chelsea,2,0,H,0,0,D,M Oliver,15,6,7,3,5,9,9,2,0,1,0,0
-15/04/19,Watford,Arsenal,0,1,A,0,1,A,C Pawson,11,19,3,6,12,8,6,4,2,0,1,0
-16/04/19,Brighton,Cardiff,0,2,A,0,1,A,A Marriner,14,10,2,3,11,13,5,4,0,1,0,0
-20/04/19,Bournemouth,Fulham,0,1,A,0,0,D,D Coote,15,17,5,5,11,18,3,7,1,3,0,0
-20/04/19,Huddersfield,Watford,1,2,A,0,1,A,R East,13,11,3,6,15,9,2,2,2,2,0,0
-20/04/19,Man City,Tottenham,1,0,H,1,0,H,M Oliver,15,10,4,4,11,11,4,4,1,2,0,0
-20/04/19,Newcastle,Southampton,3,1,H,2,0,H,A Taylor,15,15,6,3,5,11,4,11,0,2,0,0
-20/04/19,West Ham,Leicester,2,2,D,1,0,H,L Probert,11,11,3,5,8,9,6,8,2,0,0,0
-20/04/19,Wolves,Brighton,0,0,D,0,0,D,C Pawson,22,5,5,0,0,8,14,1,0,1,0,0
-21/04/19,Arsenal,Crystal Palace,2,3,A,0,1,A,J Moss,12,16,5,7,15,12,8,3,4,1,0,0
-21/04/19,Cardiff,Liverpool,0,2,A,0,0,D,M Atkinson,7,17,2,6,6,5,5,10,1,1,0,0
-21/04/19,Everton,Man United,4,0,H,2,0,H,P Tierney,15,7,8,1,11,7,10,2,1,1,0,0
-22/04/19,Chelsea,Burnley,2,2,D,2,2,D,K Friend,22,6,9,3,9,4,10,1,2,1,0,0
-23/04/19,Tottenham,Brighton,1,0,H,0,0,D,C Kavanagh,29,6,5,1,7,13,6,3,1,2,0,0
-23/04/19,Watford,Southampton,1,1,D,0,1,A,M Dean,15,8,4,4,10,14,3,4,5,2,0,0
-24/04/19,Man United,Man City,0,2,A,0,0,D,A Marriner,12,8,1,5,10,10,1,1,2,2,0,0
-24/04/19,Wolves,Arsenal,3,1,H,3,0,H,S Attwell,11,11,3,1,12,9,5,5,2,3,0,0
-26/04/19,Liverpool,Huddersfield,5,0,H,3,0,H,K Friend,21,5,7,1,5,14,4,4,0,0,0,0
-27/04/19,Brighton,Newcastle,1,1,D,0,1,A,M Dean,9,9,2,1,7,10,7,4,2,3,0,0
-27/04/19,Crystal Palace,Everton,0,0,D,0,0,D,L Mason,8,22,0,3,9,15,5,10,2,0,0,0
-27/04/19,Fulham,Cardiff,1,0,H,0,0,D,C Kavanagh,8,13,2,8,10,8,10,3,0,0,0,0
-27/04/19,Southampton,Bournemouth,3,3,D,1,2,A,G Scott,22,9,7,5,8,9,9,3,2,1,0,0
-27/04/19,Tottenham,West Ham,0,1,A,0,0,D,A Taylor,14,16,4,7,3,8,2,7,0,2,0,0
-27/04/19,Watford,Wolves,1,2,A,0,1,A,S Hooper,10,11,1,4,10,11,4,5,3,2,0,0
-28/04/19,Burnley,Man City,0,1,A,0,0,D,P Tierney,2,25,0,7,5,7,0,6,1,1,0,0
-28/04/19,Leicester,Arsenal,3,0,H,0,0,D,M Oliver,24,6,12,1,13,13,8,6,3,1,0,1
-28/04/19,Man United,Chelsea,1,1,D,1,1,D,M Atkinson,7,16,5,3,9,14,6,6,3,2,0,0
-03/05/19,Everton,Burnley,2,0,H,2,0,H,C Kavanagh,20,5,6,1,8,9,8,1,0,2,0,0
-04/05/19,Bournemouth,Tottenham,1,0,H,0,0,D,C Pawson,20,11,6,5,11,12,10,6,1,5,0,2
-04/05/19,Cardiff,Crystal Palace,2,3,A,1,2,A,M Oliver,18,21,8,7,14,11,10,5,0,0,0,0
-04/05/19,Newcastle,Liverpool,2,3,A,1,2,A,A Marriner,14,11,7,4,10,4,2,3,1,1,0,0
-04/05/19,West Ham,Southampton,3,0,H,1,0,H,S Attwell,17,11,6,1,2,11,2,7,1,1,0,0
-04/05/19,Wolves,Fulham,1,0,H,0,0,D,J Moss,19,6,6,2,10,15,7,1,1,3,0,0
-05/05/19,Arsenal,Brighton,1,1,D,1,0,H,A Taylor,20,11,8,5,9,14,16,3,5,2,0,0
-05/05/19,Chelsea,Watford,3,0,H,0,0,D,P Tierney,19,15,9,3,6,12,6,6,0,1,0,0
-05/05/19,Huddersfield,Man United,1,1,D,0,1,A,L Mason,7,23,3,7,10,10,3,7,1,1,0,0
-06/05/19,Man City,Leicester,1,0,H,0,0,D,M Dean,19,7,5,2,12,5,11,0,3,2,0,0
-12/05/19,Brighton,Man City,1,4,A,1,2,A,M Oliver,6,20,2,9,12,8,2,6,0,0,0,0
-12/05/19,Burnley,Arsenal,1,3,A,0,0,D,M Dean,14,17,5,6,11,3,4,5,5,1,0,0
-12/05/19,Crystal Palace,Bournemouth,5,3,H,3,1,H,R East,17,16,8,8,11,8,4,4,3,0,0,0
-12/05/19,Fulham,Newcastle,0,4,A,0,2,A,K Friend,16,13,2,6,6,8,5,5,1,0,0,0
-12/05/19,Leicester,Chelsea,0,0,D,0,0,D,A Taylor,9,14,3,4,9,8,4,5,0,1,0,0
-12/05/19,Liverpool,Wolves,2,0,H,1,0,H,M Atkinson,13,7,5,2,3,11,4,1,0,2,0,0
-12/05/19,Man United,Cardiff,0,2,A,0,1,A,J Moss,26,13,10,4,9,6,11,2,3,3,0,0
-12/05/19,Southampton,Huddersfield,1,1,D,1,0,H,L Probert,10,10,3,3,8,6,4,3,0,1,0,0
-12/05/19,Tottenham,Everton,2,2,D,1,0,H,A Marriner,11,17,3,9,10,13,7,4,0,2,0,0
-12/05/19,Watford,West Ham,1,4,A,0,2,A,C Kavanagh,17,16,8,9,10,10,7,2,1,0,1,0
+2018-08-10,Man United,Leicester,2,1,H,1,0,H,A Marriner,8,13,6,4,11,8,2,5,2,1,0,0
+2018-08-11,Bournemouth,Cardiff,2,0,H,1,0,H,K Friend,12,10,4,1,11,9,7,4,1,1,0,0
+2018-08-11,Fulham,Crystal Palace,0,2,A,0,1,A,M Dean,15,10,6,9,9,11,5,5,1,2,0,0
+2018-08-11,Huddersfield,Chelsea,0,3,A,0,2,A,C Kavanagh,6,13,1,4,9,8,2,5,2,1,0,0
+2018-08-11,Newcastle,Tottenham,1,2,A,1,2,A,M Atkinson,15,15,2,5,11,12,3,5,2,2,0,0
+2018-08-11,Watford,Brighton,2,0,H,1,0,H,J Moss,19,6,5,0,10,16,8,2,2,2,0,0
+2018-08-11,Wolves,Everton,2,2,D,1,1,D,C Pawson,11,6,4,5,8,7,3,6,0,1,0,1
+2018-08-12,Arsenal,Man City,0,2,A,0,1,A,M Oliver,9,17,3,8,11,14,2,9,2,2,0,0
+2018-08-12,Liverpool,West Ham,4,0,H,2,0,H,A Taylor,18,5,8,2,14,9,5,4,1,2,0,0
+2018-08-12,Southampton,Burnley,0,0,D,0,0,D,G Scott,18,16,3,6,10,9,8,5,0,1,0,0
+2018-08-18,Cardiff,Newcastle,0,0,D,0,0,D,C Pawson,12,12,1,6,14,16,5,5,2,2,0,1
+2018-08-18,Chelsea,Arsenal,3,2,H,2,2,D,M Atkinson,24,15,11,6,12,9,5,1,0,2,0,0
+2018-08-18,Everton,Southampton,2,1,H,2,0,H,L Mason,13,15,7,4,8,20,2,5,0,5,0,0
+2018-08-18,Leicester,Wolves,2,0,H,2,0,H,M Dean,6,11,2,3,10,8,1,9,2,1,1,0
+2018-08-18,Tottenham,Fulham,3,1,H,1,0,H,A Taylor,25,10,11,3,9,5,5,2,0,0,0,0
+2018-08-18,West Ham,Bournemouth,1,2,A,1,0,H,S Attwell,11,12,5,5,14,10,6,4,6,2,0,0
+2018-08-19,Brighton,Man United,3,2,H,3,1,H,K Friend,6,9,3,3,16,13,3,5,1,1,0,0
+2018-08-19,Burnley,Watford,1,3,A,1,1,D,P Tierney,8,9,3,6,8,19,5,2,1,2,0,0
+2018-08-19,Man City,Huddersfield,6,1,H,3,1,H,A Marriner,32,5,14,1,9,4,10,3,0,2,0,0
+2018-08-20,Crystal Palace,Liverpool,0,2,A,0,1,A,M Oliver,8,16,2,6,6,13,6,7,1,1,1,0
+2018-08-25,Arsenal,West Ham,3,1,H,1,1,D,G Scott,17,13,10,5,16,13,10,2,1,3,0,0
+2018-08-25,Bournemouth,Everton,2,2,D,0,0,D,L Probert,17,11,5,3,12,10,6,2,0,3,1,1
+2018-08-25,Huddersfield,Cardiff,0,0,D,0,0,D,M Oliver,5,14,1,4,8,10,7,7,0,1,1,0
+2018-08-25,Liverpool,Brighton,1,0,H,1,0,H,C Kavanagh,22,6,8,2,8,14,8,5,1,1,0,0
+2018-08-25,Southampton,Leicester,1,2,A,0,0,D,J Moss,11,8,5,5,13,11,10,3,1,1,1,0
+2018-08-25,Wolves,Man City,1,1,D,0,0,D,M Atkinson,11,18,2,6,13,8,5,9,1,2,0,0
+2018-08-26,Fulham,Burnley,4,2,H,3,2,H,D Coote,25,12,12,2,11,8,6,4,2,1,0,0
+2018-08-26,Newcastle,Chelsea,1,2,A,0,0,D,P Tierney,6,15,2,3,16,8,4,5,3,1,0,0
+2018-08-26,Watford,Crystal Palace,2,1,H,0,0,D,A Taylor,13,9,5,3,14,11,6,3,4,2,0,0
+2018-08-27,Man United,Tottenham,0,3,A,0,0,D,C Pawson,23,9,5,5,11,16,5,2,2,4,0,0
+2018-09-01,Brighton,Fulham,2,2,D,0,1,A,L Probert,15,10,5,5,12,14,7,1,3,3,0,0
+2018-09-01,Chelsea,Bournemouth,2,0,H,0,0,D,L Mason,24,8,6,1,10,7,7,6,2,2,0,0
+2018-09-01,Crystal Palace,Southampton,0,2,A,0,0,D,M Atkinson,20,19,6,6,11,12,7,4,1,1,0,0
+2018-09-01,Everton,Huddersfield,1,1,D,1,1,D,S Attwell,11,9,1,6,13,14,4,3,3,3,0,0
+2018-09-01,Leicester,Liverpool,1,2,A,0,2,A,P Tierney,12,10,5,4,9,12,4,4,3,2,0,0
+2018-09-01,Man City,Newcastle,2,1,H,1,1,D,K Friend,24,3,8,2,5,13,4,0,0,0,0,0
+2018-09-01,West Ham,Wolves,0,1,A,0,0,D,C Kavanagh,13,15,3,6,10,11,4,4,2,1,0,0
+2018-09-02,Burnley,Man United,0,2,A,0,2,A,J Moss,9,21,2,9,7,13,2,5,2,3,0,1
+2018-09-02,Cardiff,Arsenal,2,3,A,1,1,D,A Taylor,14,17,3,11,12,14,3,9,3,4,0,0
+2018-09-02,Watford,Tottenham,2,1,H,0,0,D,A Marriner,7,11,3,2,9,8,3,10,2,1,0,0
+2018-09-15,Bournemouth,Leicester,4,2,H,3,0,H,C Pawson,10,14,5,8,13,15,4,6,3,2,0,1
+2018-09-15,Chelsea,Cardiff,4,1,H,2,1,H,J Moss,18,6,7,2,8,10,5,4,0,0,0,0
+2018-09-15,Huddersfield,Crystal Palace,0,1,A,0,1,A,L Mason,15,7,2,2,11,17,5,3,1,2,0,0
+2018-09-15,Man City,Fulham,3,0,H,2,0,H,S Attwell,28,9,9,3,7,7,10,4,0,0,0,0
+2018-09-15,Newcastle,Arsenal,1,2,A,0,0,D,L Probert,4,12,2,2,13,11,10,4,0,0,0,0
+2018-09-15,Tottenham,Liverpool,1,2,A,0,1,A,M Oliver,11,17,3,10,17,16,5,4,0,0,0,0
+2018-09-15,Watford,Man United,1,2,A,0,2,A,M Dean,14,9,5,6,9,11,6,8,2,1,0,1
+2018-09-16,Everton,West Ham,1,3,A,1,2,A,M Atkinson,16,9,4,4,15,12,4,2,2,5,0,0
+2018-09-16,Wolves,Burnley,1,0,H,0,0,D,A Marriner,30,7,7,2,10,9,8,2,2,4,0,0
+2018-09-17,Southampton,Brighton,2,2,D,1,0,H,A Taylor,14,12,5,4,10,13,1,4,2,3,0,0
+2018-09-22,Brighton,Tottenham,1,2,A,0,1,A,C Kavanagh,8,16,4,7,15,9,5,7,2,1,0,0
+2018-09-22,Burnley,Bournemouth,4,0,H,2,0,H,A Taylor,12,19,5,5,17,6,3,8,2,0,0,0
+2018-09-22,Cardiff,Man City,0,5,A,0,3,A,M Oliver,2,21,2,10,6,4,1,9,1,1,0,0
+2018-09-22,Crystal Palace,Newcastle,0,0,D,0,0,D,A Marriner,16,6,4,3,8,11,9,5,1,1,0,0
+2018-09-22,Fulham,Watford,1,1,D,0,1,A,M Atkinson,15,11,3,6,11,9,8,8,2,1,0,0
+2018-09-22,Leicester,Huddersfield,3,1,H,1,1,D,D Coote,18,9,8,2,10,16,3,1,2,1,0,0
+2018-09-22,Liverpool,Southampton,3,0,H,3,0,H,P Tierney,12,7,4,1,7,10,5,4,0,2,0,0
+2018-09-22,Man United,Wolves,1,1,D,1,0,H,K Friend,15,11,6,8,5,17,5,4,1,1,0,0
+2018-09-23,Arsenal,Everton,2,0,H,0,0,D,J Moss,9,9,5,6,17,12,5,9,2,1,0,0
+2018-09-23,West Ham,Chelsea,0,0,D,0,0,D,M Dean,6,17,1,6,11,9,1,8,2,1,0,0
+2018-09-29,Arsenal,Watford,2,0,H,0,0,D,A Taylor,9,13,2,4,11,17,6,6,2,2,0,0
+2018-09-29,Chelsea,Liverpool,1,1,D,1,0,H,A Marriner,10,13,4,6,7,9,4,4,0,2,0,0
+2018-09-29,Everton,Fulham,3,0,H,0,0,D,R East,19,6,6,0,13,13,12,1,0,3,0,0
+2018-09-29,Huddersfield,Tottenham,0,2,A,0,2,A,C Pawson,9,10,5,6,17,16,3,0,2,2,0,0
+2018-09-29,Man City,Brighton,2,0,H,1,0,H,L Mason,28,4,8,1,4,10,10,3,0,3,0,0
+2018-09-29,Newcastle,Leicester,0,2,A,0,1,A,S Hooper,6,12,1,5,11,5,5,9,0,0,0,0
+2018-09-29,West Ham,Man United,3,1,H,2,0,H,M Oliver,8,9,3,4,12,12,4,9,0,1,0,0
+2018-09-29,Wolves,Southampton,2,0,H,0,0,D,S Attwell,14,17,6,6,11,7,8,6,3,1,0,0
+2018-09-30,Cardiff,Burnley,1,2,A,0,0,D,M Atkinson,19,3,5,2,11,15,10,2,1,3,0,0
+2018-10-01,Bournemouth,Crystal Palace,2,1,H,1,0,H,M Dean,11,10,5,2,9,12,3,3,3,4,0,0
+2018-10-05,Brighton,West Ham,1,0,H,1,0,H,K Friend,9,17,4,4,12,8,2,9,3,2,0,0
+2018-10-06,Burnley,Huddersfield,1,1,D,1,0,H,C Kavanagh,6,19,3,2,8,11,1,10,2,2,0,0
+2018-10-06,Crystal Palace,Wolves,0,1,A,0,0,D,M Oliver,11,7,4,2,11,13,6,3,3,4,0,0
+2018-10-06,Leicester,Everton,1,2,A,1,1,D,A Marriner,8,17,2,8,10,11,2,10,2,1,1,0
+2018-10-06,Man United,Newcastle,3,2,H,0,2,A,A Taylor,18,13,10,8,16,8,10,6,2,2,0,0
+2018-10-06,Tottenham,Cardiff,1,0,H,1,0,H,M Dean,19,8,7,6,7,11,6,2,2,1,0,1
+2018-10-06,Watford,Bournemouth,0,4,A,0,3,A,J Moss,14,10,2,7,11,9,10,7,3,1,1,0
+2018-10-07,Fulham,Arsenal,1,5,A,1,1,D,P Tierney,21,9,4,7,11,12,4,2,2,0,0,0
+2018-10-07,Liverpool,Man City,0,0,D,0,0,D,M Atkinson,7,6,2,2,10,10,2,6,1,3,0,0
+2018-10-07,Southampton,Chelsea,0,3,A,0,1,A,C Pawson,15,21,6,6,13,11,4,12,6,0,0,0
+2018-10-20,Bournemouth,Southampton,0,0,D,0,0,D,L Probert,10,8,2,4,10,14,6,4,1,2,0,0
+2018-10-20,Cardiff,Fulham,4,2,H,2,2,D,K Friend,22,9,5,4,15,16,4,4,3,3,0,0
+2018-10-20,Chelsea,Man United,2,2,D,1,0,H,M Dean,21,7,6,4,9,17,5,3,2,5,0,0
+2018-10-20,Huddersfield,Liverpool,0,1,A,0,1,A,M Oliver,13,11,1,2,9,6,2,4,0,2,0,0
+2018-10-20,Man City,Burnley,5,0,H,1,0,H,J Moss,24,5,10,0,11,5,10,1,2,2,0,0
+2018-10-20,Newcastle,Brighton,0,1,A,0,1,A,A Marriner,27,8,6,2,13,17,10,2,0,2,0,0
+2018-10-20,West Ham,Tottenham,0,1,A,0,1,A,M Atkinson,13,10,4,2,8,10,10,6,3,0,0,0
+2018-10-20,Wolves,Watford,0,2,A,0,2,A,L Mason,10,9,1,3,23,13,8,2,3,1,0,0
+2018-10-21,Everton,Crystal Palace,2,0,H,0,0,D,A Taylor,20,7,4,3,13,17,10,5,2,1,0,0
+2018-10-22,Arsenal,Leicester,3,1,H,1,1,D,C Kavanagh,19,8,6,2,10,10,6,4,2,2,0,0
+2018-10-27,Brighton,Wolves,1,0,H,0,0,D,A Taylor,2,25,1,7,11,8,1,10,3,0,0,0
+2018-10-27,Fulham,Bournemouth,0,3,A,0,1,A,A Marriner,11,12,1,5,16,3,5,5,2,1,1,0
+2018-10-27,Leicester,West Ham,1,1,D,0,1,A,M Oliver,21,11,7,3,17,5,8,0,1,1,0,1
+2018-10-27,Liverpool,Cardiff,4,1,H,1,0,H,S Attwell,19,2,7,1,6,4,8,0,0,0,0,0
+2018-10-27,Southampton,Newcastle,0,0,D,0,0,D,C Kavanagh,22,6,4,0,9,12,7,2,0,1,0,0
+2018-10-27,Watford,Huddersfield,3,0,H,2,0,H,M Dean,12,13,6,7,9,13,3,3,1,2,0,0
+2018-10-28,Burnley,Chelsea,0,4,A,0,1,A,C Pawson,7,24,1,8,14,10,4,4,4,2,0,0
+2018-10-28,Crystal Palace,Arsenal,2,2,D,1,0,H,M Atkinson,16,7,3,2,10,16,6,4,1,2,0,0
+2018-10-28,Man United,Everton,2,1,H,1,0,H,J Moss,14,14,10,6,15,12,8,4,2,1,0,0
+2018-10-29,Tottenham,Man City,0,1,A,0,1,A,K Friend,4,13,1,6,13,13,3,6,2,2,0,0
+2018-11-03,Arsenal,Liverpool,1,1,D,0,0,D,A Marriner,12,13,4,4,7,7,5,8,1,1,0,0
+2018-11-03,Bournemouth,Man United,1,2,A,1,1,D,P Tierney,18,18,7,8,12,12,9,5,4,3,0,0
+2018-11-03,Cardiff,Leicester,0,1,A,0,0,D,L Probert,11,13,2,5,13,12,6,12,2,2,0,0
+2018-11-03,Everton,Brighton,3,1,H,1,1,D,D Coote,14,5,3,3,9,17,6,4,0,1,0,0
+2018-11-03,Newcastle,Watford,1,0,H,0,0,D,C Pawson,10,16,2,1,12,11,8,9,1,5,0,0
+2018-11-03,West Ham,Burnley,4,2,H,1,1,D,R East,22,6,10,3,7,9,10,4,1,4,0,0
+2018-11-03,Wolves,Tottenham,2,3,A,0,2,A,M Dean,16,10,7,8,11,8,5,1,1,2,0,0
+2018-11-04,Chelsea,Crystal Palace,3,1,H,1,0,H,M Oliver,15,7,6,2,6,13,4,2,0,1,0,0
+2018-11-04,Man City,Southampton,6,1,H,4,1,H,L Mason,18,12,8,6,14,9,4,4,1,1,0,0
+2018-11-05,Huddersfield,Fulham,1,0,H,1,0,H,A Taylor,10,7,2,1,11,8,5,4,1,2,0,0
+2018-11-10,Cardiff,Brighton,2,1,H,1,1,D,M Atkinson,20,7,6,3,7,21,4,1,2,1,0,1
+2018-11-10,Crystal Palace,Tottenham,0,1,A,0,0,D,J Moss,11,11,4,2,12,9,10,6,1,1,0,0
+2018-11-10,Huddersfield,West Ham,1,1,D,1,0,H,C Kavanagh,15,12,7,5,9,8,5,6,1,1,0,0
+2018-11-10,Leicester,Burnley,0,0,D,0,0,D,M Dean,22,6,5,1,13,10,12,1,2,0,0,0
+2018-11-10,Newcastle,Bournemouth,2,1,H,2,1,H,L Probert,18,14,6,4,9,11,7,10,2,1,0,0
+2018-11-10,Southampton,Watford,1,1,D,1,0,H,S Hooper,14,12,4,6,13,13,7,6,3,2,0,0
+2018-11-11,Arsenal,Wolves,1,1,D,0,1,A,S Attwell,10,12,3,5,9,16,11,2,2,2,0,0
+2018-11-11,Chelsea,Everton,0,0,D,0,0,D,K Friend,15,6,4,1,7,11,5,5,4,3,0,0
+2018-11-11,Liverpool,Fulham,2,0,H,1,0,H,P Tierney,20,8,7,3,11,9,6,3,1,1,0,0
+2018-11-11,Man City,Man United,3,1,H,1,0,H,A Taylor,17,6,5,1,12,12,5,1,1,1,0,0
+2018-11-24,Brighton,Leicester,1,1,D,1,0,H,C Kavanagh,14,8,3,3,10,7,6,1,3,1,0,1
+2018-11-24,Everton,Cardiff,1,0,H,0,0,D,P Tierney,16,7,8,1,12,13,7,3,0,3,0,0
+2018-11-24,Fulham,Southampton,3,2,H,2,1,H,M Oliver,10,19,5,8,10,6,2,5,2,3,0,0
+2018-11-24,Man United,Crystal Palace,0,0,D,0,0,D,L Mason,12,13,5,2,13,12,10,3,1,2,0,0
+2018-11-24,Tottenham,Chelsea,3,1,H,2,0,H,M Atkinson,18,13,9,2,19,12,4,4,0,3,0,0
+2018-11-24,Watford,Liverpool,0,3,A,0,0,D,J Moss,5,10,1,7,12,13,5,5,0,0,0,1
+2018-11-24,West Ham,Man City,0,4,A,0,3,A,A Marriner,9,9,1,6,6,3,8,1,0,0,0,0
+2018-11-25,Bournemouth,Arsenal,1,2,A,1,1,D,C Pawson,11,20,5,4,6,9,5,8,2,1,0,0
+2018-11-25,Wolves,Huddersfield,0,2,A,0,1,A,K Friend,12,14,3,6,9,8,3,5,1,2,0,0
+2018-11-26,Burnley,Newcastle,1,2,A,1,2,A,A Taylor,14,17,4,3,6,11,5,5,0,1,0,0
+2018-11-30,Cardiff,Wolves,2,1,H,0,1,A,A Marriner,17,15,3,4,3,12,7,6,1,2,0,0
+2018-12-01,Crystal Palace,Burnley,2,0,H,1,0,H,L Probert,29,4,9,0,9,10,10,2,1,1,0,0
+2018-12-01,Huddersfield,Brighton,1,2,A,1,1,D,M Oliver,7,14,2,6,10,12,2,6,0,2,1,0
+2018-12-01,Leicester,Watford,2,0,H,2,0,H,G Scott,7,8,3,0,7,6,4,8,2,1,0,1
+2018-12-01,Man City,Bournemouth,3,1,H,1,1,D,S Attwell,16,4,6,1,9,3,8,4,0,0,0,0
+2018-12-01,Newcastle,West Ham,0,3,A,0,1,A,P Tierney,16,7,4,4,10,10,7,3,3,3,0,0
+2018-12-01,Southampton,Man United,2,2,D,2,2,D,K Friend,16,11,6,5,12,13,3,5,4,4,0,0
+2018-12-02,Arsenal,Tottenham,4,2,H,1,2,A,M Dean,22,11,7,6,15,17,8,5,3,3,0,1
+2018-12-02,Chelsea,Fulham,2,0,H,1,0,H,C Pawson,16,9,9,4,8,17,4,6,2,1,0,0
+2018-12-02,Liverpool,Everton,1,0,H,0,0,D,C Kavanagh,16,9,3,3,12,7,8,1,3,2,0,0
+2018-12-04,Bournemouth,Huddersfield,2,1,H,2,1,H,R East,6,23,2,6,14,11,4,8,4,2,0,0
+2018-12-04,Brighton,Crystal Palace,3,1,H,3,0,H,K Friend,9,18,3,5,14,12,4,5,2,3,1,0
+2018-12-04,Watford,Man City,1,2,A,0,1,A,P Tierney,11,15,7,7,4,8,3,11,0,1,0,0
+2018-12-04,West Ham,Cardiff,3,1,H,0,0,D,G Scott,17,9,11,5,10,10,10,4,1,2,0,0
+2018-12-05,Burnley,Liverpool,1,3,A,0,0,D,S Attwell,10,18,6,12,10,3,5,9,1,0,0,0
+2018-12-05,Everton,Newcastle,1,1,D,1,1,D,L Mason,19,8,3,5,7,18,14,2,0,5,0,0
+2018-12-05,Fulham,Leicester,1,1,D,1,0,H,D Coote,25,13,7,5,12,7,10,8,0,0,0,0
+2018-12-05,Man United,Arsenal,2,2,D,1,1,D,A Marriner,10,9,7,4,13,10,4,4,3,3,0,0
+2018-12-05,Tottenham,Southampton,3,1,H,1,0,H,A Taylor,13,18,8,5,7,5,8,6,0,0,0,0
+2018-12-05,Wolves,Chelsea,2,1,H,0,1,A,J Moss,6,17,2,3,18,10,1,5,4,4,0,0
+2018-12-08,Arsenal,Huddersfield,1,0,H,0,0,D,P Tierney,14,6,2,0,13,20,7,1,5,4,0,0
+2018-12-08,Bournemouth,Liverpool,0,4,A,0,1,A,L Mason,8,10,2,4,9,11,6,6,2,1,0,0
+2018-12-08,Burnley,Brighton,1,0,H,1,0,H,M Atkinson,14,14,4,1,11,11,2,7,2,0,0,0
+2018-12-08,Cardiff,Southampton,1,0,H,0,0,D,J Moss,13,12,4,1,9,10,7,7,2,2,0,0
+2018-12-08,Chelsea,Man City,2,0,H,1,0,H,M Oliver,8,14,5,4,12,11,1,13,2,0,0,0
+2018-12-08,Leicester,Tottenham,0,2,A,0,1,A,C Pawson,11,7,3,2,12,7,6,5,3,1,0,0
+2018-12-08,Man United,Fulham,4,1,H,3,0,H,L Probert,20,10,11,4,11,15,10,3,1,1,0,1
+2018-12-08,West Ham,Crystal Palace,3,2,H,0,1,A,A Taylor,13,8,6,4,10,8,5,3,1,2,0,0
+2018-12-09,Newcastle,Wolves,1,2,A,1,1,D,M Dean,12,13,4,6,10,17,4,6,2,5,1,0
+2018-12-10,Everton,Watford,2,2,D,1,0,H,K Friend,12,15,5,3,13,13,6,6,1,1,0,0
+2018-12-15,Crystal Palace,Leicester,1,0,H,1,0,H,M Oliver,8,12,1,2,10,8,4,4,2,1,0,0
+2018-12-15,Fulham,West Ham,0,2,A,0,2,A,M Dean,16,6,4,3,14,10,6,4,2,1,0,0
+2018-12-15,Huddersfield,Newcastle,0,1,A,0,0,D,A Taylor,15,8,5,5,5,13,10,1,1,1,0,0
+2018-12-15,Man City,Everton,3,1,H,1,0,H,C Pawson,13,9,5,2,7,9,6,2,1,2,0,0
+2018-12-15,Tottenham,Burnley,1,0,H,0,0,D,G Scott,15,4,3,0,7,8,8,3,0,2,0,0
+2018-12-15,Watford,Cardiff,3,2,H,1,0,H,A Madley,17,10,8,3,7,5,5,0,0,0,0,0
+2018-12-15,Wolves,Bournemouth,2,0,H,1,0,H,S Hooper,9,13,3,3,15,7,5,3,1,2,0,0
+2018-12-16,Brighton,Chelsea,1,2,A,0,2,A,S Attwell,6,10,2,3,14,6,4,1,2,2,0,0
+2018-12-16,Liverpool,Man United,3,1,H,1,1,D,M Atkinson,36,6,11,2,6,14,13,2,0,2,0,0
+2018-12-16,Southampton,Arsenal,3,2,H,2,1,H,C Kavanagh,12,13,7,4,12,10,4,5,3,1,0,0
+2018-12-21,Wolves,Liverpool,0,2,A,0,1,A,C Pawson,11,15,5,6,7,3,1,10,0,0,0,0
+2018-12-22,Arsenal,Burnley,3,1,H,1,0,H,K Friend,10,7,6,2,10,14,1,3,2,5,0,0
+2018-12-22,Bournemouth,Brighton,2,0,H,1,0,H,M Dean,14,10,3,5,8,18,6,5,2,0,0,1
+2018-12-22,Cardiff,Man United,1,5,A,1,3,A,M Oliver,9,17,3,9,13,13,4,7,2,1,0,0
+2018-12-22,Chelsea,Leicester,0,1,A,0,0,D,L Probert,17,8,5,3,10,9,9,5,0,2,0,0
+2018-12-22,Huddersfield,Southampton,1,3,A,0,2,A,S Attwell,16,13,5,6,12,9,8,2,2,3,0,0
+2018-12-22,Man City,Crystal Palace,2,3,A,1,2,A,A Marriner,19,5,5,3,7,6,13,0,0,4,0,0
+2018-12-22,Newcastle,Fulham,0,0,D,0,0,D,M Atkinson,9,4,0,2,9,12,6,0,1,2,0,0
+2018-12-22,West Ham,Watford,0,2,A,0,1,A,L Mason,18,11,7,5,9,11,10,4,3,2,0,0
+2018-12-23,Everton,Tottenham,2,6,A,1,3,A,P Tierney,10,17,3,8,13,9,2,1,0,2,0,0
+2018-12-26,Brighton,Arsenal,1,1,D,1,1,D,A Taylor,12,7,3,4,10,4,4,9,2,1,0,0
+2018-12-26,Burnley,Everton,1,5,A,1,3,A,M Oliver,11,13,4,6,11,19,5,7,2,4,0,0
+2018-12-26,Crystal Palace,Cardiff,0,0,D,0,0,D,L Probert,31,9,5,4,9,11,12,1,0,3,0,0
+2018-12-26,Fulham,Wolves,1,1,D,0,0,D,A Marriner,11,14,9,5,9,6,2,0,2,1,0,0
+2018-12-26,Leicester,Man City,2,1,H,1,1,D,M Dean,10,11,5,4,5,8,3,7,2,2,0,1
+2018-12-26,Liverpool,Newcastle,4,0,H,1,0,H,G Scott,16,6,8,2,7,9,10,2,0,0,0,0
+2018-12-26,Man United,Huddersfield,3,1,H,1,0,H,J Moss,16,10,10,2,9,13,5,3,1,1,0,0
+2018-12-26,Tottenham,Bournemouth,5,0,H,3,0,H,C Kavanagh,10,14,7,4,4,8,3,4,2,1,0,0
+2018-12-26,Watford,Chelsea,1,2,A,1,1,D,M Atkinson,10,10,2,4,15,5,3,4,1,0,0,0
+2018-12-27,Southampton,West Ham,1,2,A,0,0,D,C Pawson,11,16,5,5,10,3,4,5,2,0,0,0
+2018-12-29,Brighton,Everton,1,0,H,0,0,D,A Madley,11,13,3,4,10,11,6,6,0,2,0,0
+2018-12-29,Fulham,Huddersfield,1,0,H,0,0,D,K Friend,14,9,5,5,12,10,4,3,3,1,0,0
+2018-12-29,Leicester,Cardiff,0,1,A,0,0,D,S Hooper,16,12,7,3,14,16,10,4,0,2,0,0
+2018-12-29,Liverpool,Arsenal,5,1,H,4,1,H,M Oliver,15,8,10,2,8,13,5,3,1,2,0,0
+2018-12-29,Tottenham,Wolves,1,3,A,1,0,H,S Attwell,10,11,3,4,7,7,6,7,3,2,0,0
+2018-12-29,Watford,Newcastle,1,1,D,0,1,A,R East,12,8,5,2,17,16,3,6,1,2,0,0
+2018-12-30,Burnley,West Ham,2,0,H,2,0,H,D Coote,17,11,5,4,15,11,5,5,1,4,0,0
+2018-12-30,Crystal Palace,Chelsea,0,1,A,0,0,D,C Pawson,4,12,0,4,11,8,3,4,0,1,0,0
+2018-12-30,Man United,Bournemouth,4,1,H,3,1,H,L Mason,11,7,8,3,10,7,4,5,2,0,1,0
+2018-12-30,Southampton,Man City,1,3,A,1,3,A,P Tierney,5,14,4,6,11,10,3,8,2,3,1,0
+2019-01-01,Arsenal,Fulham,4,1,H,1,0,H,G Scott,16,9,9,4,7,12,8,3,0,1,0,0
+2019-01-01,Cardiff,Tottenham,0,3,A,0,3,A,K Friend,6,13,3,4,6,6,5,3,1,0,0,0
+2019-01-01,Everton,Leicester,0,1,A,0,0,D,M Atkinson,17,8,2,4,5,8,6,5,3,1,0,0
+2019-01-02,Bournemouth,Watford,3,3,D,3,3,D,D Coote,25,11,12,3,9,15,4,2,1,4,0,0
+2019-01-02,Chelsea,Southampton,0,0,D,0,0,D,J Moss,17,6,6,2,8,11,7,2,1,2,0,0
+2019-01-02,Huddersfield,Burnley,1,2,A,1,1,D,M Dean,9,16,2,8,11,9,5,2,0,4,1,1
+2019-01-02,Newcastle,Man United,0,2,A,0,0,D,A Marriner,14,16,3,7,10,9,1,2,1,2,0,0
+2019-01-02,West Ham,Brighton,2,2,D,0,0,D,C Kavanagh,13,13,6,6,9,11,1,5,0,1,0,0
+2019-01-02,Wolves,Crystal Palace,0,2,A,0,0,D,R East,9,17,1,4,9,7,3,10,4,1,0,0
+2019-01-03,Man City,Liverpool,2,1,H,1,0,H,A Taylor,9,7,4,5,12,7,2,1,4,2,0,0
+2019-01-12,Brighton,Liverpool,0,1,A,0,0,D,K Friend,7,10,0,3,15,5,2,7,0,0,0,0
+2019-01-12,Burnley,Fulham,2,1,H,2,1,H,M Atkinson,11,12,0,4,5,9,2,6,1,2,0,0
+2019-01-12,Cardiff,Huddersfield,0,0,D,0,0,D,L Mason,3,14,0,2,12,14,3,10,3,1,0,0
+2019-01-12,Chelsea,Newcastle,2,1,H,1,1,D,C Kavanagh,10,9,6,2,6,13,8,5,1,1,0,0
+2019-01-12,Crystal Palace,Watford,1,2,A,1,0,H,P Tierney,15,16,6,2,11,11,7,7,1,4,0,0
+2019-01-12,Leicester,Southampton,1,2,A,0,2,A,M Oliver,23,8,6,3,7,9,10,3,2,1,0,1
+2019-01-12,West Ham,Arsenal,1,0,H,0,0,D,J Moss,11,11,3,2,7,10,7,3,0,2,0,0
+2019-01-13,Everton,Bournemouth,2,0,H,0,0,D,A Taylor,15,16,3,7,17,8,5,9,5,0,0,0
+2019-01-13,Tottenham,Man United,0,1,A,0,1,A,M Dean,21,13,11,8,8,8,7,4,1,2,0,0
+2019-01-14,Man City,Wolves,3,0,H,2,0,H,C Pawson,24,3,9,0,6,3,12,1,1,0,0,1
+2019-01-19,Arsenal,Chelsea,2,0,H,2,0,H,A Taylor,13,13,5,1,13,15,5,6,0,2,0,0
+2019-01-19,Bournemouth,West Ham,2,0,H,0,0,D,S Hooper,10,9,4,1,6,10,2,3,0,1,0,0
+2019-01-19,Liverpool,Crystal Palace,4,3,H,0,1,A,J Moss,19,9,9,3,6,8,8,3,0,1,1,0
+2019-01-19,Man United,Brighton,2,1,H,2,0,H,P Tierney,20,7,5,3,11,11,6,5,1,0,0,0
+2019-01-19,Newcastle,Cardiff,3,0,H,1,0,H,S Attwell,16,9,6,1,11,6,7,10,0,1,0,0
+2019-01-19,Southampton,Everton,2,1,H,0,0,D,G Scott,11,7,4,2,12,11,7,6,2,1,0,0
+2019-01-19,Watford,Burnley,0,0,D,0,0,D,M Oliver,9,11,4,3,14,9,1,7,1,2,0,0
+2019-01-19,Wolves,Leicester,4,3,H,2,0,H,C Kavanagh,12,16,7,6,11,10,5,9,3,3,0,0
+2019-01-20,Fulham,Tottenham,1,2,A,1,0,H,C Pawson,12,14,4,5,10,8,7,10,2,3,0,0
+2019-01-20,Huddersfield,Man City,0,3,A,0,1,A,A Marriner,5,12,2,4,10,9,1,4,2,2,0,0
+2019-01-29,Arsenal,Cardiff,2,1,H,0,0,D,M Dean,15,19,4,2,14,12,4,7,3,3,0,0
+2019-01-29,Fulham,Brighton,4,2,H,0,2,A,L Probert,24,15,7,6,10,5,10,1,2,3,0,0
+2019-01-29,Huddersfield,Everton,0,1,A,0,1,A,S Attwell,10,10,2,5,13,10,3,4,1,4,0,1
+2019-01-29,Man United,Burnley,2,2,D,0,0,D,J Moss,28,6,9,4,10,9,11,3,1,3,0,0
+2019-01-29,Newcastle,Man City,2,1,H,0,1,A,P Tierney,6,12,2,4,9,7,1,8,2,3,0,0
+2019-01-29,Wolves,West Ham,3,0,H,0,0,D,D Coote,20,4,9,0,8,10,5,1,4,1,0,0
+2019-01-30,Bournemouth,Chelsea,4,0,H,0,0,D,R East,12,11,7,7,8,6,3,7,1,0,0,0
+2019-01-30,Liverpool,Leicester,1,1,D,1,1,D,M Atkinson,10,5,3,2,13,6,7,1,1,3,0,0
+2019-01-30,Southampton,Crystal Palace,1,1,D,0,1,A,A Marriner,13,15,4,3,11,8,3,8,2,2,0,1
+2019-01-30,Tottenham,Watford,2,1,H,0,1,A,G Scott,17,9,3,1,6,9,9,5,0,4,0,0
+2019-02-02,Brighton,Watford,0,0,D,0,0,D,S Hooper,21,5,4,0,15,10,7,0,1,0,0,0
+2019-02-02,Burnley,Southampton,1,1,D,0,0,D,A Taylor,15,10,6,4,10,9,4,2,3,1,0,0
+2019-02-02,Cardiff,Bournemouth,2,0,H,1,0,H,J Moss,12,9,5,2,17,14,6,7,1,2,0,0
+2019-02-02,Chelsea,Huddersfield,5,0,H,2,0,H,P Tierney,23,5,7,2,8,5,11,2,0,0,0,0
+2019-02-02,Crystal Palace,Fulham,2,0,H,1,0,H,M Oliver,17,8,6,0,9,12,11,1,2,3,0,0
+2019-02-02,Everton,Wolves,1,3,A,1,2,A,L Mason,13,8,4,4,12,14,3,1,3,1,0,0
+2019-02-02,Tottenham,Newcastle,1,0,H,0,0,D,A Marriner,21,8,4,2,6,6,6,3,0,1,0,0
+2019-02-03,Leicester,Man United,0,1,A,0,1,A,M Dean,17,10,6,6,14,9,7,2,4,4,0,0
+2019-02-03,Man City,Arsenal,3,1,H,2,1,H,M Atkinson,19,4,12,2,11,8,4,2,1,1,0,0
+2019-02-04,West Ham,Liverpool,1,1,D,1,1,D,K Friend,13,11,2,6,9,11,2,5,1,1,0,0
+2019-02-06,Everton,Man City,0,2,A,0,1,A,C Pawson,4,15,1,4,12,6,5,6,1,1,0,0
+2019-02-09,Brighton,Burnley,1,3,A,0,1,A,S Attwell,16,9,6,5,8,7,9,3,1,1,0,0
+2019-02-09,Crystal Palace,West Ham,1,1,D,0,1,A,C Pawson,25,6,5,4,12,9,10,4,3,0,0,0
+2019-02-09,Fulham,Man United,0,3,A,0,2,A,P Tierney,15,15,3,7,14,9,5,4,3,2,0,0
+2019-02-09,Huddersfield,Arsenal,1,2,A,0,2,A,J Moss,15,9,6,4,17,12,5,0,3,2,0,0
+2019-02-09,Liverpool,Bournemouth,3,0,H,2,0,H,A Taylor,20,12,9,2,14,6,8,5,2,2,0,0
+2019-02-09,Southampton,Cardiff,1,2,A,0,0,D,M Atkinson,14,6,7,3,15,12,8,2,3,3,0,0
+2019-02-09,Watford,Everton,1,0,H,0,0,D,L Probert,7,9,2,4,21,10,8,2,2,0,0,1
+2019-02-10,Man City,Chelsea,6,0,H,4,0,H,M Dean,15,12,9,4,9,13,2,2,1,2,0,0
+2019-02-10,Tottenham,Leicester,3,1,H,1,0,H,M Oliver,12,20,5,9,11,4,2,9,3,1,0,0
+2019-02-11,Wolves,Newcastle,1,1,D,0,0,D,G Scott,22,9,6,3,7,9,13,1,1,3,0,0
+2019-02-22,Cardiff,Watford,1,5,A,0,1,A,S Hooper,15,12,6,7,10,11,3,3,1,2,0,0
+2019-02-22,West Ham,Fulham,3,1,H,2,1,H,L Mason,21,8,7,5,11,11,12,0,1,1,0,0
+2019-02-23,Bournemouth,Wolves,1,1,D,1,0,H,R East,10,10,3,2,10,15,9,8,4,5,0,0
+2019-02-23,Burnley,Tottenham,2,1,H,0,0,D,M Dean,10,17,4,6,9,12,7,6,1,3,0,0
+2019-02-23,Leicester,Crystal Palace,1,4,A,0,1,A,A Taylor,27,7,5,5,7,14,8,3,2,1,0,0
+2019-02-23,Newcastle,Huddersfield,2,0,H,0,0,D,K Friend,29,3,12,1,11,7,12,0,2,0,0,1
+2019-02-24,Arsenal,Southampton,2,0,H,2,0,H,G Scott,12,10,4,4,7,14,6,4,0,0,0,0
+2019-02-24,Man United,Liverpool,0,0,D,0,0,D,M Oliver,6,7,3,1,15,17,3,7,1,3,0,0
+2019-02-26,Cardiff,Everton,0,3,A,0,1,A,K Friend,6,12,0,4,12,12,3,4,3,1,0,0
+2019-02-26,Huddersfield,Wolves,1,0,H,0,0,D,D Coote,15,7,3,0,10,10,3,5,2,2,0,0
+2019-02-26,Leicester,Brighton,2,1,H,1,0,H,L Probert,19,15,3,3,6,4,4,8,1,1,0,0
+2019-02-26,Newcastle,Burnley,2,0,H,2,0,H,C Pawson,12,12,3,2,8,8,4,7,1,3,0,0
+2019-02-27,Arsenal,Bournemouth,5,1,H,2,1,H,C Kavanagh,16,13,6,5,11,9,9,4,2,2,0,0
+2019-02-27,Chelsea,Tottenham,2,0,H,0,0,D,A Marriner,11,9,1,0,7,14,2,2,1,1,0,0
+2019-02-27,Crystal Palace,Man United,1,3,A,0,1,A,M Atkinson,17,13,2,4,8,9,5,6,2,3,0,0
+2019-02-27,Liverpool,Watford,5,0,H,2,0,H,G Scott,19,5,10,3,5,7,6,4,0,2,0,0
+2019-02-27,Man City,West Ham,1,0,H,0,0,D,S Attwell,20,2,7,1,2,6,12,2,0,2,0,0
+2019-02-27,Southampton,Fulham,2,0,H,2,0,H,A Taylor,14,14,4,4,15,13,7,4,0,1,0,0
+2019-03-02,Bournemouth,Man City,0,1,A,0,0,D,K Friend,0,23,0,7,7,7,0,14,1,2,0,0
+2019-03-02,Brighton,Huddersfield,1,0,H,0,0,D,M Dean,13,6,4,4,11,6,6,3,2,2,0,0
+2019-03-02,Burnley,Crystal Palace,1,3,A,0,1,A,L Probert,18,10,4,4,9,9,8,5,1,2,0,0
+2019-03-02,Man United,Southampton,3,2,H,0,1,A,S Attwell,16,6,6,3,7,10,9,7,2,1,0,0
+2019-03-02,Tottenham,Arsenal,1,1,D,0,1,A,A Taylor,10,9,3,4,15,14,3,4,3,2,0,1
+2019-03-02,West Ham,Newcastle,2,0,H,2,0,H,C Kavanagh,10,17,4,2,8,14,1,6,3,4,0,0
+2019-03-02,Wolves,Cardiff,2,0,H,2,0,H,A Marriner,13,12,6,4,11,6,7,8,1,2,0,0
+2019-03-03,Everton,Liverpool,0,0,D,0,0,D,M Atkinson,7,10,3,3,12,10,3,7,1,2,0,0
+2019-03-03,Fulham,Chelsea,1,2,A,1,2,A,G Scott,12,20,5,7,11,10,5,4,2,1,0,0
+2019-03-03,Watford,Leicester,2,1,H,1,0,H,J Moss,6,14,5,2,15,12,1,5,5,1,0,0
+2019-03-09,Cardiff,West Ham,2,0,H,1,0,H,G Scott,16,9,7,2,7,12,7,5,2,1,0,0
+2019-03-09,Crystal Palace,Brighton,1,2,A,0,1,A,C Pawson,15,4,3,3,8,18,8,0,1,5,0,0
+2019-03-09,Huddersfield,Bournemouth,0,2,A,0,1,A,A Taylor,8,8,1,5,14,9,6,5,3,1,0,0
+2019-03-09,Leicester,Fulham,3,1,H,1,0,H,D Coote,18,6,8,3,9,13,6,5,0,2,0,0
+2019-03-09,Man City,Watford,3,1,H,0,0,D,P Tierney,19,2,9,1,11,7,9,1,1,1,0,0
+2019-03-09,Newcastle,Everton,3,2,H,0,2,A,L Mason,19,7,7,3,13,10,8,2,3,1,0,0
+2019-03-09,Southampton,Tottenham,2,1,H,0,1,A,K Friend,12,16,4,5,16,9,1,10,4,2,0,0
+2019-03-10,Arsenal,Man United,2,0,H,1,0,H,J Moss,14,14,3,4,12,18,5,2,2,2,0,0
+2019-03-10,Chelsea,Wolves,1,1,D,0,0,D,M Oliver,22,2,6,1,8,14,13,0,1,4,0,0
+2019-03-10,Liverpool,Burnley,4,2,H,2,1,H,A Marriner,23,3,5,2,4,7,7,3,2,0,0,0
+2019-03-16,Bournemouth,Newcastle,2,2,D,0,1,A,M Dean,10,12,3,4,9,12,6,6,3,2,0,0
+2019-03-16,Burnley,Leicester,1,2,A,1,1,D,M Oliver,13,9,2,4,9,10,9,3,1,1,0,1
+2019-03-16,West Ham,Huddersfield,4,3,H,1,2,A,J Moss,16,15,5,5,7,15,5,8,0,2,0,0
+2019-03-17,Everton,Chelsea,2,0,H,0,0,D,A Taylor,15,16,8,5,17,9,3,4,1,2,0,0
+2019-03-17,Fulham,Liverpool,1,2,A,0,1,A,C Pawson,7,16,2,6,11,7,1,10,2,1,0,0
+2019-03-30,Brighton,Southampton,0,1,A,0,0,D,M Oliver,14,8,1,2,8,10,6,5,1,2,0,0
+2019-03-30,Burnley,Wolves,2,0,H,1,0,H,C Kavanagh,5,8,1,1,12,10,1,5,1,1,0,0
+2019-03-30,Crystal Palace,Huddersfield,2,0,H,0,0,D,L Probert,19,15,5,5,10,7,5,5,0,0,0,0
+2019-03-30,Fulham,Man City,0,2,A,0,2,A,K Friend,5,24,0,7,4,12,0,11,2,0,0,0
+2019-03-30,Leicester,Bournemouth,2,0,H,1,0,H,L Mason,18,8,4,2,6,12,6,1,0,2,0,0
+2019-03-30,Man United,Watford,2,1,H,1,0,H,S Attwell,8,20,5,8,14,9,3,5,1,2,0,0
+2019-03-30,West Ham,Everton,0,2,A,0,2,A,P Tierney,3,17,1,9,7,14,4,9,1,1,0,0
+2019-03-31,Cardiff,Chelsea,1,2,A,0,0,D,C Pawson,8,21,3,3,8,14,2,7,2,3,0,0
+2019-03-31,Liverpool,Tottenham,2,1,H,1,0,H,M Atkinson,14,11,3,2,5,8,10,3,0,1,0,0
+2019-04-01,Arsenal,Newcastle,2,0,H,1,0,H,A Taylor,7,3,4,1,11,10,6,2,2,0,0,0
+2019-04-02,Watford,Fulham,4,1,H,1,1,D,R East,15,17,7,7,12,5,6,4,3,2,0,0
+2019-04-02,Wolves,Man United,2,1,H,1,1,D,M Dean,9,18,2,4,5,11,3,5,1,2,0,1
+2019-04-03,Chelsea,Brighton,3,0,H,1,0,H,G Scott,17,3,4,1,5,9,7,1,0,0,0,0
+2019-04-03,Man City,Cardiff,2,0,H,2,0,H,J Moss,27,4,11,1,3,17,7,4,0,3,0,0
+2019-04-03,Tottenham,Crystal Palace,2,0,H,0,0,D,A Marriner,26,5,10,1,8,5,8,2,1,0,0,0
+2019-04-05,Southampton,Liverpool,1,3,A,1,1,D,P Tierney,11,17,1,5,8,7,7,5,2,4,0,0
+2019-04-06,Bournemouth,Burnley,1,3,A,1,2,A,M Atkinson,10,11,2,3,12,16,3,6,2,3,0,0
+2019-04-06,Huddersfield,Leicester,1,4,A,0,1,A,D Coote,10,18,4,9,13,11,8,5,3,0,0,0
+2019-04-06,Newcastle,Crystal Palace,0,1,A,0,0,D,S Attwell,18,3,5,1,12,13,9,4,1,2,0,0
+2019-04-07,Everton,Arsenal,1,0,H,1,0,H,K Friend,23,7,6,2,8,9,9,6,1,4,0,0
+2019-04-08,Chelsea,West Ham,2,0,H,1,0,H,C Kavanagh,16,9,7,2,8,7,7,4,2,1,0,0
+2019-04-12,Leicester,Newcastle,0,1,A,0,1,A,C Kavanagh,12,11,5,5,6,10,2,3,2,3,0,0
+2019-04-13,Brighton,Bournemouth,0,5,A,0,1,A,K Friend,8,14,1,7,10,6,4,1,2,4,1,0
+2019-04-13,Burnley,Cardiff,2,0,H,1,0,H,M Dean,14,14,7,2,7,10,8,4,2,3,0,0
+2019-04-13,Fulham,Everton,2,0,H,0,0,D,L Probert,12,8,5,1,8,10,7,3,2,1,0,0
+2019-04-13,Man United,West Ham,2,1,H,1,0,H,G Scott,14,18,4,4,14,5,3,11,1,1,0,0
+2019-04-13,Southampton,Wolves,3,1,H,2,1,H,J Moss,13,17,6,2,13,8,4,9,1,3,0,0
+2019-04-13,Tottenham,Huddersfield,4,0,H,2,0,H,L Mason,22,7,5,1,10,12,4,2,2,2,0,0
+2019-04-14,Crystal Palace,Man City,1,3,A,0,1,A,M Atkinson,7,20,3,6,5,11,2,9,0,0,0,0
+2019-04-14,Liverpool,Chelsea,2,0,H,0,0,D,M Oliver,15,6,7,3,5,9,9,2,0,1,0,0
+2019-04-15,Watford,Arsenal,0,1,A,0,1,A,C Pawson,11,19,3,6,12,8,6,4,2,0,1,0
+2019-04-16,Brighton,Cardiff,0,2,A,0,1,A,A Marriner,14,10,2,3,11,13,5,4,0,1,0,0
+2019-04-20,Bournemouth,Fulham,0,1,A,0,0,D,D Coote,15,17,5,5,11,18,3,7,1,3,0,0
+2019-04-20,Huddersfield,Watford,1,2,A,0,1,A,R East,13,11,3,6,15,9,2,2,2,2,0,0
+2019-04-20,Man City,Tottenham,1,0,H,1,0,H,M Oliver,15,10,4,4,11,11,4,4,1,2,0,0
+2019-04-20,Newcastle,Southampton,3,1,H,2,0,H,A Taylor,15,15,6,3,5,11,4,11,0,2,0,0
+2019-04-20,West Ham,Leicester,2,2,D,1,0,H,L Probert,11,11,3,5,8,9,6,8,2,0,0,0
+2019-04-20,Wolves,Brighton,0,0,D,0,0,D,C Pawson,22,5,5,0,0,8,14,1,0,1,0,0
+2019-04-21,Arsenal,Crystal Palace,2,3,A,0,1,A,J Moss,12,16,5,7,15,12,8,3,4,1,0,0
+2019-04-21,Cardiff,Liverpool,0,2,A,0,0,D,M Atkinson,7,17,2,6,6,5,5,10,1,1,0,0
+2019-04-21,Everton,Man United,4,0,H,2,0,H,P Tierney,15,7,8,1,11,7,10,2,1,1,0,0
+2019-04-22,Chelsea,Burnley,2,2,D,2,2,D,K Friend,22,6,9,3,9,4,10,1,2,1,0,0
+2019-04-23,Tottenham,Brighton,1,0,H,0,0,D,C Kavanagh,29,6,5,1,7,13,6,3,1,2,0,0
+2019-04-23,Watford,Southampton,1,1,D,0,1,A,M Dean,15,8,4,4,10,14,3,4,5,2,0,0
+2019-04-24,Man United,Man City,0,2,A,0,0,D,A Marriner,12,8,1,5,10,10,1,1,2,2,0,0
+2019-04-24,Wolves,Arsenal,3,1,H,3,0,H,S Attwell,11,11,3,1,12,9,5,5,2,3,0,0
+2019-04-26,Liverpool,Huddersfield,5,0,H,3,0,H,K Friend,21,5,7,1,5,14,4,4,0,0,0,0
+2019-04-27,Brighton,Newcastle,1,1,D,0,1,A,M Dean,9,9,2,1,7,10,7,4,2,3,0,0
+2019-04-27,Crystal Palace,Everton,0,0,D,0,0,D,L Mason,8,22,0,3,9,15,5,10,2,0,0,0
+2019-04-27,Fulham,Cardiff,1,0,H,0,0,D,C Kavanagh,8,13,2,8,10,8,10,3,0,0,0,0
+2019-04-27,Southampton,Bournemouth,3,3,D,1,2,A,G Scott,22,9,7,5,8,9,9,3,2,1,0,0
+2019-04-27,Tottenham,West Ham,0,1,A,0,0,D,A Taylor,14,16,4,7,3,8,2,7,0,2,0,0
+2019-04-27,Watford,Wolves,1,2,A,0,1,A,S Hooper,10,11,1,4,10,11,4,5,3,2,0,0
+2019-04-28,Burnley,Man City,0,1,A,0,0,D,P Tierney,2,25,0,7,5,7,0,6,1,1,0,0
+2019-04-28,Leicester,Arsenal,3,0,H,0,0,D,M Oliver,24,6,12,1,13,13,8,6,3,1,0,1
+2019-04-28,Man United,Chelsea,1,1,D,1,1,D,M Atkinson,7,16,5,3,9,14,6,6,3,2,0,0
+2019-05-03,Everton,Burnley,2,0,H,2,0,H,C Kavanagh,20,5,6,1,8,9,8,1,0,2,0,0
+2019-05-04,Bournemouth,Tottenham,1,0,H,0,0,D,C Pawson,20,11,6,5,11,12,10,6,1,5,0,2
+2019-05-04,Cardiff,Crystal Palace,2,3,A,1,2,A,M Oliver,18,21,8,7,14,11,10,5,0,0,0,0
+2019-05-04,Newcastle,Liverpool,2,3,A,1,2,A,A Marriner,14,11,7,4,10,4,2,3,1,1,0,0
+2019-05-04,West Ham,Southampton,3,0,H,1,0,H,S Attwell,17,11,6,1,2,11,2,7,1,1,0,0
+2019-05-04,Wolves,Fulham,1,0,H,0,0,D,J Moss,19,6,6,2,10,15,7,1,1,3,0,0
+2019-05-05,Arsenal,Brighton,1,1,D,1,0,H,A Taylor,20,11,8,5,9,14,16,3,5,2,0,0
+2019-05-05,Chelsea,Watford,3,0,H,0,0,D,P Tierney,19,15,9,3,6,12,6,6,0,1,0,0
+2019-05-05,Huddersfield,Man United,1,1,D,0,1,A,L Mason,7,23,3,7,10,10,3,7,1,1,0,0
+2019-05-06,Man City,Leicester,1,0,H,0,0,D,M Dean,19,7,5,2,12,5,11,0,3,2,0,0
+2019-05-12,Brighton,Man City,1,4,A,1,2,A,M Oliver,6,20,2,9,12,8,2,6,0,0,0,0
+2019-05-12,Burnley,Arsenal,1,3,A,0,0,D,M Dean,14,17,5,6,11,3,4,5,5,1,0,0
+2019-05-12,Crystal Palace,Bournemouth,5,3,H,3,1,H,R East,17,16,8,8,11,8,4,4,3,0,0,0
+2019-05-12,Fulham,Newcastle,0,4,A,0,2,A,K Friend,16,13,2,6,6,8,5,5,1,0,0,0
+2019-05-12,Leicester,Chelsea,0,0,D,0,0,D,A Taylor,9,14,3,4,9,8,4,5,0,1,0,0
+2019-05-12,Liverpool,Wolves,2,0,H,1,0,H,M Atkinson,13,7,5,2,3,11,4,1,0,2,0,0
+2019-05-12,Man United,Cardiff,0,2,A,0,1,A,J Moss,26,13,10,4,9,6,11,2,3,3,0,0
+2019-05-12,Southampton,Huddersfield,1,1,D,1,0,H,L Probert,10,10,3,3,8,6,4,3,0,1,0,0
+2019-05-12,Tottenham,Everton,2,2,D,1,0,H,A Marriner,11,17,3,9,10,13,7,4,0,2,0,0
+2019-05-12,Watford,West Ham,1,4,A,0,2,A,C Kavanagh,17,16,8,9,10,10,7,2,1,0,1,0
