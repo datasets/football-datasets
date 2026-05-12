@@ -1,6 +1,59 @@
 {
   "name": "spanish-la-liga",
   "title": "Spanish La Liga (football)",
+  "description": "Match results and statistics for the Spanish La Liga football league, covering all seasons from 1993/94 to present. Each row is one match and includes full-time and half-time scores, shots, fouls, corners, and cards. The Referee field is present in all files but is always empty as this data is not available for La Liga. Statistics fields (HS, AS, HST, AST, HF, AF, HC, AC, HY, AY, HR, AR) are empty for seasons 1993/94–2004/05. Half-time fields (HTHG, HTAG, HTR) are also empty for seasons 1993/94–1994/95.",
+  "licenses": [
+    {
+      "name": "ODC-PDDL-1.0",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License"
+    }
+  ],
+  "sources": [
+    {
+      "name": "www.football-data.co.uk/",
+      "path": "http://www.football-data.co.uk/",
+      "title": "www.football-data.co.uk/"
+    }
+  ],
+  "related": [
+    {
+      "title": "English Premier League",
+      "path": "/sports-data/english-premier-league",
+      "publisher": "sports-data",
+      "formats": [
+        "CSV",
+        "JSON"
+      ]
+    },
+    {
+      "title": "German Bundesliga",
+      "path": "/sports-data/german-bundesliga",
+      "publisher": "sports-data",
+      "formats": [
+        "CSV",
+        "JSON"
+      ]
+    },
+    {
+      "title": "Italian Serie A",
+      "path": "/sports-data/italian-serie-a",
+      "publisher": "sports-data",
+      "formats": [
+        "CSV",
+        "JSON"
+      ]
+    },
+    {
+      "title": "French Ligue 1",
+      "path": "/sports-data/french-ligue-1",
+      "publisher": "sports-data",
+      "formats": [
+        "CSV",
+        "JSON"
+      ]
+    }
+  ],
   "resources": [
     {
       "name": "season-9900",
@@ -69,6 +122,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -144,7 +203,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 1999/00 season."
     },
     {
       "name": "season-9899",
@@ -213,6 +273,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -288,7 +354,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 1998/99 season."
     },
     {
       "name": "season-9798",
@@ -357,6 +424,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -432,7 +505,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 1997/98 season."
     },
     {
       "name": "season-9697",
@@ -501,6 +575,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -576,7 +656,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 1996/97 season."
     },
     {
       "name": "season-9596",
@@ -645,6 +726,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -720,7 +807,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 1995/96 season."
     },
     {
       "name": "season-9495",
@@ -789,6 +877,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -864,7 +958,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 1994/95 season."
     },
     {
       "name": "season-9394",
@@ -933,6 +1028,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -1008,7 +1109,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 1993/94 season."
     },
     {
       "name": "season-2526",
@@ -1077,6 +1179,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -1152,7 +1260,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2025/26 season."
     },
     {
       "name": "season-2425",
@@ -1221,6 +1330,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -1296,7 +1411,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2024/25 season."
     },
     {
       "name": "season-2324",
@@ -1365,6 +1481,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -1440,7 +1562,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2023/24 season."
     },
     {
       "name": "season-2223",
@@ -1509,6 +1632,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -1584,7 +1713,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2022/23 season."
     },
     {
       "name": "season-2122",
@@ -1653,6 +1783,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -1728,7 +1864,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2021/22 season."
     },
     {
       "name": "season-2021",
@@ -1797,6 +1934,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -1872,7 +2015,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2020/21 season."
     },
     {
       "name": "season-1920",
@@ -1941,6 +2085,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -2016,7 +2166,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2019/20 season."
     },
     {
       "name": "season-1819",
@@ -2085,6 +2236,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -2160,7 +2317,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2018/19 season."
     },
     {
       "name": "season-1718",
@@ -2229,6 +2387,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -2304,7 +2468,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2017/18 season."
     },
     {
       "name": "season-1617",
@@ -2373,6 +2538,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -2448,7 +2619,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2016/17 season."
     },
     {
       "name": "season-1516",
@@ -2517,6 +2689,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -2592,7 +2770,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2015/16 season."
     },
     {
       "name": "season-1415",
@@ -2661,6 +2840,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -2736,7 +2921,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2014/15 season."
     },
     {
       "name": "season-1314",
@@ -2805,6 +2991,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -2880,7 +3072,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2013/14 season."
     },
     {
       "name": "season-1213",
@@ -2949,6 +3142,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -3024,7 +3223,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2012/13 season."
     },
     {
       "name": "season-1112",
@@ -3093,6 +3293,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -3168,7 +3374,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2011/12 season."
     },
     {
       "name": "season-1011",
@@ -3237,6 +3444,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -3312,7 +3525,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2010/11 season."
     },
     {
       "name": "season-0910",
@@ -3381,6 +3595,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -3456,7 +3676,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2009/10 season."
     },
     {
       "name": "season-0809",
@@ -3525,6 +3746,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -3600,7 +3827,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2008/09 season."
     },
     {
       "name": "season-0708",
@@ -3669,6 +3897,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -3744,7 +3978,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2007/08 season."
     },
     {
       "name": "season-0607",
@@ -3813,6 +4048,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -3888,7 +4129,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2006/07 season."
     },
     {
       "name": "season-0506",
@@ -3957,6 +4199,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -4032,7 +4280,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2005/06 season."
     },
     {
       "name": "season-0405",
@@ -4101,6 +4350,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -4176,7 +4431,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2004/05 season."
     },
     {
       "name": "season-0304",
@@ -4245,6 +4501,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -4320,7 +4582,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2003/04 season."
     },
     {
       "name": "season-0203",
@@ -4389,6 +4652,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -4464,7 +4733,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2002/03 season."
     },
     {
       "name": "season-0102",
@@ -4533,6 +4803,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -4608,7 +4884,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2001/02 season."
     },
     {
       "name": "season-0001",
@@ -4677,6 +4954,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -4752,59 +5035,8 @@
         "missingValues": [
           ""
         ]
-      }
-    }
-  ],
-  "licenses": [
-    {
-      "name": "ODC-PDDL",
-      "path": "http://opendatacommons.org/licenses/pddl/",
-      "title": "Open Data Commons Public Domain Dedication and License"
-    }
-  ],
-  "sources": [
-    {
-      "name": "www.football-data.co.uk/",
-      "path": "http://www.football-data.co.uk/",
-      "title": "www.football-data.co.uk/"
-    }
-  ],
-  "related": [
-    {
-      "title": "English Premier League",
-      "path": "/sports-data/english-premier-league",
-      "publisher": "sports-data",
-      "formats": [
-        "CSV",
-        "JSON"
-      ]
-    },
-    {
-      "title": "German Bundesliga",
-      "path": "/sports-data/german-bundesliga",
-      "publisher": "sports-data",
-      "formats": [
-        "CSV",
-        "JSON"
-      ]
-    },
-    {
-      "title": "Italian Serie A",
-      "path": "/sports-data/italian-serie-a",
-      "publisher": "sports-data",
-      "formats": [
-        "CSV",
-        "JSON"
-      ]
-    },
-    {
-      "title": "French Ligue 1",
-      "path": "/sports-data/french-ligue-1",
-      "publisher": "sports-data",
-      "formats": [
-        "CSV",
-        "JSON"
-      ]
+      },
+      "description": "Match results and statistics for the Spanish La Liga 2000/01 season."
     }
   ]
 }
