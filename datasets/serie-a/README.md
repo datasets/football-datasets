@@ -1,1 +1,11 @@
-This dataset contains data for last 10 seasons of Italian Serie A including current season. The data is updated on weekly basis via Travis-CI. The dataset is sourced from http://www.football-data.co.uk/ website and contains various statistical data such as final and half time result, corners, yellow and red cards etc.
+Italian Serie A match results and statistics, covering all seasons from 1993/94 to present. The data is updated daily via GitHub Actions. The dataset is sourced from https://www.football-data.co.uk/ and includes full-time and half-time results, shots, corners, fouls, yellow and red cards.
+
+## Data notes
+
+- The `Referee` field is present in all files but is always empty — referee data is not available for Serie A.
+- Statistics fields (`HS`, `AS`, `HST`, `AST`, `HF`, `AF`, `HC`, `AC`, `HY`, `AY`, `HR`, `AR`) are empty for seasons 1993/94–2004/05.
+- Half-time fields (`HTHG`, `HTAG`, `HTR`) are empty for seasons 1993/94–1994/95.
+
+## License
+
+Data is made available under the [Open Data Commons Public Domain Dedication and License (PDDL)](https://opendatacommons.org/licenses/pddl/).
