@@ -69,6 +69,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -144,7 +150,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 1999/00 season."
     },
     {
       "name": "season-9899",
@@ -213,6 +220,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -288,7 +301,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 1998/99 season."
     },
     {
       "name": "season-9798",
@@ -357,6 +371,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -432,7 +452,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 1997/98 season."
     },
     {
       "name": "season-9697",
@@ -501,6 +522,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -576,7 +603,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 1996/97 season."
     },
     {
       "name": "season-9596",
@@ -645,6 +673,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -720,7 +754,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 1995/96 season."
     },
     {
       "name": "season-9495",
@@ -789,6 +824,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -864,7 +905,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 1994/95 season."
     },
     {
       "name": "season-9394",
@@ -933,6 +975,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -1008,7 +1056,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 1993/94 season."
     },
     {
       "name": "season-2526",
@@ -1077,6 +1126,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -1152,7 +1207,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2025/26 season."
     },
     {
       "name": "season-2425",
@@ -1221,6 +1277,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -1296,7 +1358,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2024/25 season."
     },
     {
       "name": "season-2324",
@@ -1365,6 +1428,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -1440,7 +1509,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2023/24 season."
     },
     {
       "name": "season-2223",
@@ -1509,6 +1579,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -1584,7 +1660,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2022/23 season."
     },
     {
       "name": "season-2122",
@@ -1653,6 +1730,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -1728,7 +1811,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2021/22 season."
     },
     {
       "name": "season-2021",
@@ -1797,6 +1881,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -1872,7 +1962,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2020/21 season."
     },
     {
       "name": "season-1920",
@@ -1941,6 +2032,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -2016,7 +2113,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2019/20 season."
     },
     {
       "name": "season-1819",
@@ -2085,6 +2183,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -2160,7 +2264,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2018/19 season."
     },
     {
       "name": "season-1718",
@@ -2229,6 +2334,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -2304,7 +2415,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2017/18 season."
     },
     {
       "name": "season-1617",
@@ -2373,6 +2485,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -2448,7 +2566,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2016/17 season."
     },
     {
       "name": "season-1516",
@@ -2517,6 +2636,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -2592,7 +2717,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2015/16 season."
     },
     {
       "name": "season-1415",
@@ -2661,6 +2787,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -2736,7 +2868,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2014/15 season."
     },
     {
       "name": "season-1314",
@@ -2805,6 +2938,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -2880,7 +3019,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2013/14 season."
     },
     {
       "name": "season-1213",
@@ -2949,6 +3089,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -3024,7 +3170,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2012/13 season."
     },
     {
       "name": "season-1112",
@@ -3093,6 +3240,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -3168,7 +3321,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2011/12 season."
     },
     {
       "name": "season-1011",
@@ -3237,6 +3391,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -3312,7 +3472,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2010/11 season."
     },
     {
       "name": "season-0910",
@@ -3381,6 +3542,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -3456,7 +3623,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2009/10 season."
     },
     {
       "name": "season-0809",
@@ -3525,6 +3693,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -3600,7 +3774,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2008/09 season."
     },
     {
       "name": "season-0708",
@@ -3669,6 +3844,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -3744,7 +3925,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2007/08 season."
     },
     {
       "name": "season-0607",
@@ -3813,6 +3995,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -3888,7 +4076,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2006/07 season."
     },
     {
       "name": "season-0506",
@@ -3957,6 +4146,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -4032,7 +4227,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2005/06 season."
     },
     {
       "name": "season-0405",
@@ -4101,6 +4297,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -4176,7 +4378,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2004/05 season."
     },
     {
       "name": "season-0304",
@@ -4245,6 +4448,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -4320,7 +4529,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2003/04 season."
     },
     {
       "name": "season-0203",
@@ -4389,6 +4599,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -4464,7 +4680,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2002/03 season."
     },
     {
       "name": "season-0102",
@@ -4533,6 +4750,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -4608,7 +4831,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2001/02 season."
     },
     {
       "name": "season-0001",
@@ -4677,6 +4901,12 @@
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
           },
           {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
             "name": "HS",
             "type": "integer",
             "format": "default",
@@ -4752,12 +4982,13 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match results and statistics for the German Bundesliga 2000/01 season."
     }
   ],
   "licenses": [
     {
-      "name": "ODC-PDDL",
+      "name": "ODC-PDDL-1.0",
       "path": "http://opendatacommons.org/licenses/pddl/",
       "title": "Open Data Commons Public Domain Dedication and License"
     }
@@ -4806,5 +5037,6 @@
         "JSON"
       ]
     }
-  ]
+  ],
+  "description": "Match results and statistics for the German Bundesliga football league, covering all seasons from 1993/94 to present. Each row is one match and includes full-time and half-time scores, referee, shots, fouls, corners, and cards. Statistics fields are empty for seasons 1993/94\u20131999/00 and 2002/03; halftime data is also absent for 1993/94."
 }
