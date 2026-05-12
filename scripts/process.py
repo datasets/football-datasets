@@ -52,7 +52,7 @@ def download_and_save_data(league):
             os.makedirs(save_dir, exist_ok=True)
             path_to_save = f'{save_dir}/season-{link.split("/")[-2]}.csv'
             with open(path_to_save, 'w', newline='') as f:
-                writer = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+                writer = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
                 reader = csv.DictReader(data.splitlines())
                 # Write reordered header
                 writer.writerow(COLUMNS_ORDER)
