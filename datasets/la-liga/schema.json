@@ -3,8 +3,8 @@
     {
       "name": "Date",
       "type": "date",
-      "format": "%d/%m/%y",
-      "description": "Match Date (dd/mm/yy)"
+      "format": "default",
+      "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
     },
     {
       "name": "HomeTeam",
@@ -53,6 +53,12 @@
       "type": "string",
       "format": "default",
       "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+    },
+    {
+      "name": "Referee",
+      "type": "string",
+      "format": "default",
+      "description": "Match Referee"
     },
     {
       "name": "HS",

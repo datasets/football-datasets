@@ -1,7 +1,7 @@
 {
-  "name": "italian-serie-a",
-  "title": "Italian Serie A (football)",
-  "description": "Match results for every Italian Serie A season from 1993/94 to present, including full-time and half-time scores, referee, shots, corners, fouls, and cards. Updated daily. Source: Football-Data.co.uk.",
+  "name": "english-premier-league",
+  "title": "English Premier League (football)",
+  "description": "Match results for every English Premier League season from 1993/94 to present, including full-time and half-time scores, referee, shots, corners, fouls, and cards. Updated daily. Source: Football-Data.co.uk.",
   "resources": [
     {
       "name": "season-9900",
@@ -13,14 +13,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 1999/00 match results.",
+      "description": "English Premier League season 1999/00 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -164,14 +164,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 1998/99 match results.",
+      "description": "English Premier League season 1998/99 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -315,14 +315,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 1997/98 match results.",
+      "description": "English Premier League season 1997/98 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -466,14 +466,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 1996/97 match results.",
+      "description": "English Premier League season 1996/97 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -617,14 +617,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 1995/96 match results.",
+      "description": "English Premier League season 1995/96 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -768,14 +768,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 1994/95 match results.",
+      "description": "English Premier League season 1994/95 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -919,14 +919,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 1993/94 match results.",
+      "description": "English Premier League season 1993/94 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -1070,14 +1070,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2025/26 match results.",
+      "description": "English Premier League season 2025/26 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -1221,14 +1221,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2024/25 match results.",
+      "description": "English Premier League season 2024/25 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -1372,14 +1372,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2023/24 match results.",
+      "description": "English Premier League season 2023/24 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -1523,14 +1523,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2022/23 match results.",
+      "description": "English Premier League season 2022/23 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -1674,14 +1674,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2021/22 match results.",
+      "description": "English Premier League season 2021/22 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -1825,14 +1825,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2020/21 match results.",
+      "description": "English Premier League season 2020/21 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -1976,14 +1976,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2019/20 match results.",
+      "description": "English Premier League season 2019/20 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -2127,14 +2127,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2018/19 match results.",
+      "description": "English Premier League season 2018/19 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -2278,14 +2278,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2017/18 match results.",
+      "description": "English Premier League season 2017/18 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -2429,14 +2429,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2016/17 match results.",
+      "description": "English Premier League season 2016/17 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -2580,14 +2580,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2015/16 match results.",
+      "description": "English Premier League season 2015/16 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -2731,14 +2731,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2014/15 match results.",
+      "description": "English Premier League season 2014/15 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -2882,14 +2882,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2013/14 match results.",
+      "description": "English Premier League season 2013/14 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -3033,14 +3033,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2012/13 match results.",
+      "description": "English Premier League season 2012/13 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -3184,14 +3184,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2011/12 match results.",
+      "description": "English Premier League season 2011/12 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -3335,14 +3335,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2010/11 match results.",
+      "description": "English Premier League season 2010/11 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -3486,14 +3486,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2009/10 match results.",
+      "description": "English Premier League season 2009/10 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -3637,14 +3637,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2008/09 match results.",
+      "description": "English Premier League season 2008/09 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -3788,14 +3788,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2007/08 match results.",
+      "description": "English Premier League season 2007/08 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -3939,14 +3939,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2006/07 match results.",
+      "description": "English Premier League season 2006/07 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -4090,14 +4090,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2005/06 match results.",
+      "description": "English Premier League season 2005/06 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -4241,14 +4241,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2004/05 match results.",
+      "description": "English Premier League season 2004/05 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -4392,14 +4392,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2003/04 match results.",
+      "description": "English Premier League season 2003/04 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -4543,14 +4543,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2002/03 match results.",
+      "description": "English Premier League season 2002/03 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -4694,14 +4694,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2001/02 match results.",
+      "description": "English Premier League season 2001/02 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -4845,14 +4845,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "description": "Italian Serie A season 2000/01 match results.",
+      "description": "English Premier League season 2000/01 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -5003,15 +5003,6 @@
   ],
   "related": [
     {
-      "title": "English Premier League",
-      "path": "/sports-data/english-premier-league",
-      "publisher": "sports-data",
-      "formats": [
-        "CSV",
-        "JSON"
-      ]
-    },
-    {
       "title": "Spanish La Liga",
       "path": "/sports-data/spanish-la-liga",
       "publisher": "sports-data",
@@ -5023,6 +5014,15 @@
     {
       "title": "German Bundesliga",
       "path": "/sports-data/german-bundesliga",
+      "publisher": "sports-data",
+      "formats": [
+        "CSV",
+        "JSON"
+      ]
+    },
+    {
+      "title": "Italian Serie A",
+      "path": "/sports-data/italian-serie-a",
       "publisher": "sports-data",
       "formats": [
         "CSV",

@@ -4,19 +4,20 @@ import glob, json, copy
 dpjson_template = {
     "name": "",
     "title": "",
+    "description": "",
     "resources": [],
     "licenses": [
         {
-            "name": "ODC-PDDL",
-            "path": "http://opendatacommons.org/licenses/pddl/",
+            "name": "ODC-PDDL-1.0",
+            "path": "https://opendatacommons.org/licenses/pddl/",
             "title": "Open Data Commons Public Domain Dedication and License"
         }
     ],
     "sources": [
         {
-            "name": "www.football-data.co.uk/",
-            "path": "http://www.football-data.co.uk/",
-            "title": "www.football-data.co.uk/"
+            "name": "Football-Data.co.uk",
+            "path": "https://www.football-data.co.uk/",
+            "title": "Football-Data.co.uk"
         }
     ],
     "related": []
@@ -70,25 +71,39 @@ related_datasets = [
 leagues = {
     "premier-league": {
         "name": "english-premier-league",
-        "title": "English Premier League (football)"
+        "title": "English Premier League (football)",
+        "description": "Match results for every English Premier League season from 1993/94 to present, including full-time and half-time scores, referee, shots, corners, fouls, and cards. Updated daily. Source: Football-Data.co.uk."
     },
     "la-liga": {
         "name": "spanish-la-liga",
-        "title": "Spanish La Liga (football)"
+        "title": "Spanish La Liga (football)",
+        "description": "Match results for every Spanish La Liga season from 1993/94 to present, including full-time and half-time scores, referee, shots, corners, fouls, and cards. Updated daily. Source: Football-Data.co.uk."
     },
     "bundesliga": {
         "name": "german-bundesliga",
-        "title": "German Bundesliga (football)"
+        "title": "German Bundesliga (football)",
+        "description": "Match results for every German Bundesliga season from 1993/94 to present, including full-time and half-time scores, referee, shots, corners, fouls, and cards. Updated daily. Source: Football-Data.co.uk."
     },
     "serie-a": {
         "name": "italian-serie-a",
-        "title": "Italian Serie A (football)"
+        "title": "Italian Serie A (football)",
+        "description": "Match results for every Italian Serie A season from 1993/94 to present, including full-time and half-time scores, referee, shots, corners, fouls, and cards. Updated daily. Source: Football-Data.co.uk."
     },
     "ligue-1": {
         "name": "french-ligue-1",
-        "title": "French Ligue 1 (football)"
+        "title": "French Ligue 1 (football)",
+        "description": "Match results for every French Ligue 1 season from 1993/94 to present, including full-time and half-time scores, referee, shots, corners, fouls, and cards. Updated daily. Source: Football-Data.co.uk."
     }
 }
+
+
+def season_label(resource_name):
+    """Convert a season resource name like 'season-9394' to a human label like '1993/94'."""
+    code = resource_name.replace("season-", "")
+    s, e = int(code[:2]), code[2:]
+    start = (1900 + s) if s >= 60 else (2000 + s)
+    return f"{start}/{e}"
+
 
 league_dirs = glob.glob('datasets/*')
 
@@ -97,6 +112,7 @@ for league_dir in league_dirs:
     league_name = league_dir.split('/')[1]
     dpjson['name'] = leagues[league_name]['name']
     dpjson['title'] = leagues[league_name]['title']
+    dpjson['description'] = leagues[league_name]['description']
     with open(league_dir + '/schema.json') as schema:
         schema = json.load(schema)
         resources = sorted(glob.glob(league_dir + '/*.csv'), reverse=True)
@@ -105,6 +121,8 @@ for league_dir in league_dirs:
             descriptor = copy.deepcopy(resource_descriptor)
             descriptor['path'] = resource
             descriptor['name'] = resource.replace('.csv', '')
+            label = season_label(descriptor['name'])
+            descriptor['description'] = f"{leagues[league_name]['title'].split(' (')[0]} season {label} match results."
             descriptor['schema'] = copy.deepcopy(schema)
             dpjson['resources'].append(descriptor)
         # Add related datasets:

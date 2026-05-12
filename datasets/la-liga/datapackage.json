@@ -1,6 +1,7 @@
 {
   "name": "spanish-la-liga",
   "title": "Spanish La Liga (football)",
+  "description": "Match results for every Spanish La Liga season from 1993/94 to present, including full-time and half-time scores, referee, shots, corners, fouls, and cards. Updated daily. Source: Football-Data.co.uk.",
   "resources": [
     {
       "name": "season-9900",
@@ -12,13 +13,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 1999/00 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -67,6 +69,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -156,13 +164,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 1998/99 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -211,6 +220,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -300,13 +315,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 1997/98 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -355,6 +371,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -444,13 +466,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 1996/97 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -499,6 +522,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -588,13 +617,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 1995/96 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -643,6 +673,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -732,13 +768,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 1994/95 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -787,6 +824,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -876,13 +919,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 1993/94 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -931,6 +975,163 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
+          },
+          {
+            "name": "HS",
+            "type": "integer",
+            "format": "default",
+            "description": "Home Team Shots"
+          },
+          {
+            "name": "AS",
+            "type": "integer",
+            "format": "default",
+            "description": "Away Team Shots"
+          },
+          {
+            "name": "HST",
+            "type": "integer",
+            "format": "default",
+            "description": "Home Team Shots on Target"
+          },
+          {
+            "name": "AST",
+            "type": "integer",
+            "format": "default",
+            "description": "Away Team Shots on Target"
+          },
+          {
+            "name": "HF",
+            "type": "integer",
+            "format": "default",
+            "description": "Home Team Fouls Committed"
+          },
+          {
+            "name": "AF",
+            "type": "integer",
+            "format": "default",
+            "description": "Away Team Fouls Committed"
+          },
+          {
+            "name": "HC",
+            "type": "integer",
+            "format": "default",
+            "description": "Home Team Corners"
+          },
+          {
+            "name": "AC",
+            "type": "integer",
+            "format": "default",
+            "description": "Away Team Corners"
+          },
+          {
+            "name": "HY",
+            "type": "integer",
+            "format": "default",
+            "description": "Home Team Yellow Cards"
+          },
+          {
+            "name": "AY",
+            "type": "integer",
+            "format": "default",
+            "description": "Away Team Yellow Cards"
+          },
+          {
+            "name": "HR",
+            "type": "integer",
+            "format": "default",
+            "description": "Home Team Red Cards"
+          },
+          {
+            "name": "AR",
+            "type": "integer",
+            "format": "default",
+            "description": "Away Team Red Cards"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "name": "season-2526",
+      "path": "season-2526.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "ISO-8859-1",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "description": "Spanish La Liga season 2025/26 match results.",
+      "schema": {
+        "fields": [
+          {
+            "name": "Date",
+            "type": "date",
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
+          },
+          {
+            "name": "HomeTeam",
+            "type": "string",
+            "format": "default",
+            "description": "Home Team"
+          },
+          {
+            "name": "AwayTeam",
+            "type": "string",
+            "format": "default",
+            "description": "Away Team"
+          },
+          {
+            "name": "FTHG",
+            "type": "integer",
+            "format": "default",
+            "description": "Full Time Home Team Goals"
+          },
+          {
+            "name": "FTAG",
+            "type": "integer",
+            "format": "default",
+            "description": "Full Time Away Team Goals"
+          },
+          {
+            "name": "FTR",
+            "type": "string",
+            "format": "default",
+            "description": "Full Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "HTHG",
+            "type": "integer",
+            "format": "default",
+            "description": "Half Time Home Team Goals"
+          },
+          {
+            "name": "HTAG",
+            "type": "integer",
+            "format": "default",
+            "description": "Half Time Away Team Goals"
+          },
+          {
+            "name": "HTR",
+            "type": "string",
+            "format": "default",
+            "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -1020,13 +1221,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2024/25 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -1075,6 +1277,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -1164,13 +1372,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2023/24 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -1219,6 +1428,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -1308,13 +1523,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2022/23 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -1363,6 +1579,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -1452,13 +1674,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2021/22 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -1507,6 +1730,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -1596,13 +1825,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2020/21 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -1651,6 +1881,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -1740,13 +1976,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2019/20 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -1795,6 +2032,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -1884,13 +2127,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2018/19 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -1939,6 +2183,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -2028,13 +2278,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2017/18 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -2083,6 +2334,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -2172,13 +2429,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2016/17 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -2227,6 +2485,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -2316,13 +2580,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2015/16 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -2371,6 +2636,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -2460,13 +2731,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2014/15 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -2515,6 +2787,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -2604,13 +2882,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2013/14 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -2659,6 +2938,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -2748,13 +3033,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2012/13 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -2803,6 +3089,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -2892,13 +3184,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2011/12 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -2947,6 +3240,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -3036,13 +3335,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2010/11 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -3091,6 +3391,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -3180,13 +3486,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2009/10 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -3235,6 +3542,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -3324,13 +3637,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2008/09 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -3379,6 +3693,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -3468,13 +3788,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2007/08 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -3523,6 +3844,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -3612,13 +3939,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2006/07 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -3667,6 +3995,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -3756,13 +4090,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2005/06 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -3811,6 +4146,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -3900,13 +4241,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2004/05 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -3955,6 +4297,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -4044,13 +4392,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2003/04 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -4099,6 +4448,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -4188,13 +4543,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2002/03 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -4243,6 +4599,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -4332,13 +4694,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2001/02 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -4387,6 +4750,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -4476,13 +4845,14 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
+      "description": "Spanish La Liga season 2000/01 match results.",
       "schema": {
         "fields": [
           {
             "name": "Date",
             "type": "date",
-            "format": "%d/%m/%y",
-            "description": "Match Date (dd/mm/yy)"
+            "format": "default",
+            "description": "Match date (YYYY-MM-DD). Seasons prior to 2018/19 retain the source format dd/mm/yy."
           },
           {
             "name": "HomeTeam",
@@ -4531,6 +4901,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -4613,16 +4989,16 @@
   ],
   "licenses": [
     {
-      "name": "ODC-PDDL",
-      "path": "http://opendatacommons.org/licenses/pddl/",
+      "name": "ODC-PDDL-1.0",
+      "path": "https://opendatacommons.org/licenses/pddl/",
       "title": "Open Data Commons Public Domain Dedication and License"
     }
   ],
   "sources": [
     {
-      "name": "www.football-data.co.uk/",
-      "path": "http://www.football-data.co.uk/",
-      "title": "www.football-data.co.uk/"
+      "name": "Football-Data.co.uk",
+      "path": "https://www.football-data.co.uk/",
+      "title": "Football-Data.co.uk"
     }
   ],
   "related": [
