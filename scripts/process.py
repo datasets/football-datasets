@@ -59,8 +59,13 @@ def download_and_save_data(league):
                 for row in reader:
                     if row["Date"] and row["Date"].strip():
                         date_parts = row["Date"].split("/")
-                        if len(date_parts) == 3 and int(date_parts[2]) >= 1900:
-                            x = datetime.datetime(int(date_parts[2]), int(date_parts[1]), int(date_parts[0]))
+                        if len(date_parts) == 3:
+                            year = int(date_parts[2])
+                            if year >= 1900:
+                                x = datetime.datetime(year, int(date_parts[1]), int(date_parts[0]))
+                            else:
+                                # 2-digit year: strptime pivot maps 69-99→1969-1999, 00-68→2000-2068
+                                x = datetime.datetime.strptime(row["Date"], '%d/%m/%y')
                             row["Date"] = x.strftime('%Y-%m-%d')
                         # Write the reordered row
                         reordered_row = [row.get(col, "") for col in COLUMNS_ORDER]
