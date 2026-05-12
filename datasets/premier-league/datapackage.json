@@ -150,7 +150,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results for the 1999/00 EPL season; full-time and half-time scores only — referee and detailed match statistics (shots, fouls, corners, cards) are not available for this season."
     },
     {
       "name": "season-9899",
@@ -300,7 +301,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results for the 1998/99 EPL season; full-time and half-time scores only — referee and detailed match statistics (shots, fouls, corners, cards) are not available for this season."
     },
     {
       "name": "season-9798",
@@ -450,7 +452,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results for the 1997/98 EPL season; full-time and half-time scores only — referee and detailed match statistics (shots, fouls, corners, cards) are not available for this season."
     },
     {
       "name": "season-9697",
@@ -600,7 +603,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results for the 1996/97 EPL season; full-time and half-time scores only — referee and detailed match statistics (shots, fouls, corners, cards) are not available for this season."
     },
     {
       "name": "season-9596",
@@ -750,7 +754,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results for the 1995/96 EPL season; full-time and half-time scores only — referee and detailed match statistics (shots, fouls, corners, cards) are not available for this season."
     },
     {
       "name": "season-9495",
@@ -900,7 +905,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results for the 1994/95 EPL season; only final scores are available — half-time scores and detailed match statistics are not recorded for this season."
     },
     {
       "name": "season-9394",
@@ -1050,7 +1056,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results for the 1993/94 EPL season; only final scores are available — half-time scores and detailed match statistics are not recorded for this season."
     },
     {
       "name": "season-2526",
@@ -1067,8 +1074,8 @@
           {
             "name": "Date",
             "type": "date",
-            "format": "default",
-            "description": "Match Date (YYYY-MM-DD)"
+            "format": "%d/%m/%y",
+            "description": "Match Date (dd/mm/yy)"
           },
           {
             "name": "HomeTeam",
@@ -1200,7 +1207,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2025/26 EPL season (in progress)."
     },
     {
       "name": "season-2425",
@@ -1350,7 +1358,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2024/25 EPL season."
     },
     {
       "name": "season-2324",
@@ -1500,7 +1509,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2023/24 EPL season."
     },
     {
       "name": "season-2223",
@@ -1650,7 +1660,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2022/23 EPL season."
     },
     {
       "name": "season-2122",
@@ -1800,7 +1811,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2021/22 EPL season."
     },
     {
       "name": "season-2021",
@@ -1950,7 +1962,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2020/21 EPL season."
     },
     {
       "name": "season-1920",
@@ -2100,7 +2113,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2019/20 EPL season."
     },
     {
       "name": "season-1819",
@@ -2250,7 +2264,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2018/19 EPL season."
     },
     {
       "name": "season-1718",
@@ -2400,7 +2415,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2017/18 EPL season."
     },
     {
       "name": "season-1617",
@@ -2550,7 +2566,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2016/17 EPL season."
     },
     {
       "name": "season-1516",
@@ -2700,7 +2717,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2015/16 EPL season."
     },
     {
       "name": "season-1415",
@@ -2850,7 +2868,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2014/15 EPL season."
     },
     {
       "name": "season-1314",
@@ -3000,7 +3019,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2013/14 EPL season."
     },
     {
       "name": "season-1213",
@@ -3150,7 +3170,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2012/13 EPL season."
     },
     {
       "name": "season-1112",
@@ -3300,7 +3321,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2011/12 EPL season."
     },
     {
       "name": "season-1011",
@@ -3450,7 +3472,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2010/11 EPL season."
     },
     {
       "name": "season-0910",
@@ -3600,7 +3623,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2009/10 EPL season."
     },
     {
       "name": "season-0809",
@@ -3750,7 +3774,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2008/09 EPL season."
     },
     {
       "name": "season-0708",
@@ -3900,7 +3925,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2007/08 EPL season."
     },
     {
       "name": "season-0607",
@@ -4050,7 +4076,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2006/07 EPL season."
     },
     {
       "name": "season-0506",
@@ -4200,7 +4227,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2005/06 EPL season."
     },
     {
       "name": "season-0405",
@@ -4350,7 +4378,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2004/05 EPL season."
     },
     {
       "name": "season-0304",
@@ -4500,7 +4529,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2003/04 EPL season."
     },
     {
       "name": "season-0203",
@@ -4650,7 +4680,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2002/03 EPL season."
     },
     {
       "name": "season-0102",
@@ -4800,7 +4831,8 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2001/02 EPL season."
     },
     {
       "name": "season-0001",
@@ -4950,12 +4982,13 @@
         "missingValues": [
           ""
         ]
-      }
+      },
+      "description": "Match-by-match results and statistics for the 2000/01 EPL season."
     }
   ],
   "licenses": [
     {
-      "name": "ODC-PDDL",
+      "name": "ODC-PDDL-1.0",
       "path": "http://opendatacommons.org/licenses/pddl/",
       "title": "Open Data Commons Public Domain Dedication and License"
     }
@@ -5004,5 +5037,6 @@
         "JSON"
       ]
     }
-  ]
+  ],
+  "description": "This dataset provides comprehensive statistical data on EPL matches starting from the 1993/1994 season up to the current season, with daily updates to ensure the most accurate and timely results."
 }
