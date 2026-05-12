@@ -55,6 +55,12 @@
       "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
     },
     {
+      "name": "Referee",
+      "type": "string",
+      "format": "default",
+      "description": "Match Referee"
+    },
+    {
       "name": "HS",
       "type": "integer",
       "format": "default",
