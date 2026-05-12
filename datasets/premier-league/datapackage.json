@@ -1,6 +1,6 @@
 {
-  "name": "spanish-la-liga",
-  "title": "Spanish La Liga (football)",
+  "name": "english-premier-league",
+  "title": "English Premier League (football)",
   "resources": [
     {
       "name": "season-9900",
@@ -18,7 +18,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -67,6 +67,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -162,7 +168,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -211,6 +217,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -306,7 +318,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -355,6 +367,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -450,7 +468,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -499,6 +517,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -594,7 +618,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -643,6 +667,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -738,7 +768,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -787,6 +817,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -882,7 +918,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -931,6 +967,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -1026,7 +1068,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -1075,6 +1117,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -1170,7 +1218,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -1219,6 +1267,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -1314,7 +1368,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -1363,6 +1417,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -1458,7 +1518,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -1507,6 +1567,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -1602,7 +1668,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -1651,6 +1717,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -1746,7 +1818,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -1795,6 +1867,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -1890,7 +1968,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -1939,6 +2017,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -2034,7 +2118,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -2083,6 +2167,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -2178,7 +2268,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -2227,6 +2317,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -2322,7 +2418,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -2371,6 +2467,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -2466,7 +2568,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -2515,6 +2617,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -2610,7 +2718,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -2659,6 +2767,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -2754,7 +2868,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -2803,6 +2917,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -2898,7 +3018,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -2947,6 +3067,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -3042,7 +3168,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -3091,6 +3217,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -3186,7 +3318,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -3235,6 +3367,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -3330,7 +3468,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -3379,6 +3517,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -3474,7 +3618,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -3523,6 +3667,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -3618,7 +3768,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -3667,6 +3817,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -3762,7 +3918,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -3811,6 +3967,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -3906,7 +4068,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -3955,6 +4117,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -4050,7 +4218,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -4099,6 +4267,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -4194,7 +4368,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -4243,6 +4417,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -4338,7 +4518,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -4387,6 +4567,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -4482,7 +4668,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -4531,6 +4717,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -4626,7 +4818,7 @@
             "name": "Date",
             "type": "date",
             "format": "default",
-            "description": "Match date (YYYY-MM-DD)"
+            "description": "Match Date (YYYY-MM-DD)"
           },
           {
             "name": "HomeTeam",
@@ -4675,6 +4867,12 @@
             "type": "string",
             "format": "default",
             "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)"
+          },
+          {
+            "name": "Referee",
+            "type": "string",
+            "format": "default",
+            "description": "Match Referee"
           },
           {
             "name": "HS",
@@ -4771,8 +4969,8 @@
   ],
   "related": [
     {
-      "title": "English Premier League",
-      "path": "/sports-data/english-premier-league",
+      "title": "Spanish La Liga",
+      "path": "/sports-data/spanish-la-liga",
       "publisher": "sports-data",
       "formats": [
         "CSV",
