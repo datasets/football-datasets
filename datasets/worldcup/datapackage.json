@@ -4,7 +4,7 @@
   "description": "Comprehensive data on all men's FIFA World Cup tournaments (1930–2022) and women's FIFA World Cup tournaments (1991–2019), including matches, goals, squads, bookings, penalty kicks, substitutions, referees, managers, stadiums, group standings, awards, and more. Sourced from the Fjelstul World Cup Database.",
   "licenses": [
     {
-      "id": "CC-BY-SA-4.0",
+      "name": "CC-BY-SA-4.0",
       "title": "Creative Commons Attribution-ShareAlike 4.0 International",
       "path": "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
     }
