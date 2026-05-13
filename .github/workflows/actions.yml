@@ -30,6 +30,7 @@ jobs:
     - name: Run Script
       run: |
         python scripts/process.py
+        python scripts/process_worldcup.py
 
     - name: Configure Git
       run: |

@@ -1,0 +1,238 @@
+{
+  "name": "fifa-world-cup",
+  "title": "FIFA World Cup",
+  "description": "Comprehensive data on all men's FIFA World Cup tournaments (1930–2022) and women's FIFA World Cup tournaments (1991–2019), including matches, goals, squads, bookings, penalty kicks, substitutions, referees, managers, stadiums, group standings, awards, and more. Sourced from the Fjelstul World Cup Database.",
+  "licenses": [
+    {
+      "id": "CC-BY-SA-4.0",
+      "title": "Creative Commons Attribution-ShareAlike 4.0 International",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fjelstul World Cup Database",
+      "path": "https://github.com/jfjelstul/worldcup",
+      "author": "Joshua C. Fjelstul, Ph.D.",
+      "copyright": "© 2023 Joshua C. Fjelstul, Ph.D."
+    }
+  ],
+  "resources": [
+    {
+      "name": "tournaments",
+      "path": "tournaments.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per tournament. Covers all 22 men's (1930–2022) and 8 women's (1991–2019) editions."
+    },
+    {
+      "name": "matches",
+      "path": "matches.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per match. Includes stage, group, date, teams, full-time and half-time scores, extra time, penalty shootout scores, and result."
+    },
+    {
+      "name": "goals",
+      "path": "goals.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per goal. Includes scorer, team, minute, match period, own goal flag, and penalty flag."
+    },
+    {
+      "name": "bookings",
+      "path": "bookings.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per booking (yellow or red card). Includes player, team, minute, and card type."
+    },
+    {
+      "name": "penalty_kicks",
+      "path": "penalty_kicks.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per penalty kick in a shootout. Includes player, team, kick order, and outcome."
+    },
+    {
+      "name": "substitutions",
+      "path": "substitutions.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per substitution. Includes player on, player off, team, and minute."
+    },
+    {
+      "name": "squads",
+      "path": "squads.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per player per tournament squad. Includes position, shirt number, and club."
+    },
+    {
+      "name": "players",
+      "path": "players.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per player. Master list of all players who have appeared in a World Cup squad."
+    },
+    {
+      "name": "teams",
+      "path": "teams.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per national team. Includes team name, code, and confederation."
+    },
+    {
+      "name": "group_standings",
+      "path": "group_standings.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per team per group. Includes played, won, drawn, lost, goals for, goals against, and points."
+    },
+    {
+      "name": "tournament_standings",
+      "path": "tournament_standings.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Final standings per tournament (winner, runner-up, third place, etc.)."
+    },
+    {
+      "name": "award_winners",
+      "path": "award_winners.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per award per tournament. Covers Golden Boot, Golden Ball, Golden Glove, Best Young Player, and Fair Play Award."
+    },
+    {
+      "name": "awards",
+      "path": "awards.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Reference table of award types."
+    },
+    {
+      "name": "stadiums",
+      "path": "stadiums.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per stadium. Includes name, city, country, and capacity."
+    },
+    {
+      "name": "referees",
+      "path": "referees.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Master list of referees who have officiated at a World Cup."
+    },
+    {
+      "name": "managers",
+      "path": "managers.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Master list of managers who have managed a team at a World Cup."
+    },
+    {
+      "name": "confederations",
+      "path": "confederations.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Reference table of FIFA confederations."
+    },
+    {
+      "name": "host_countries",
+      "path": "host_countries.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per host country per tournament (tournaments with multiple hosts have multiple rows)."
+    },
+    {
+      "name": "qualified_teams",
+      "path": "qualified_teams.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per team per tournament they qualified for."
+    },
+    {
+      "name": "groups",
+      "path": "groups.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per group per tournament."
+    },
+    {
+      "name": "tournament_stages",
+      "path": "tournament_stages.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per stage per tournament (group stage, round of 16, quarter-finals, etc.)."
+    },
+    {
+      "name": "team_appearances",
+      "path": "team_appearances.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per team per match. Includes side (home/away), score, and result."
+    },
+    {
+      "name": "player_appearances",
+      "path": "player_appearances.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per player per match. Includes position played, minutes on pitch, and starter flag."
+    },
+    {
+      "name": "manager_appearances",
+      "path": "manager_appearances.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per manager per match."
+    },
+    {
+      "name": "manager_appointments",
+      "path": "manager_appointments.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per manager per tournament they managed at."
+    },
+    {
+      "name": "referee_appearances",
+      "path": "referee_appearances.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per referee per match."
+    },
+    {
+      "name": "referee_appointments",
+      "path": "referee_appointments.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "One row per referee per tournament they officiated at."
+    }
+  ]
+}
