@@ -282,33 +282,22 @@
         "transform": [
           {"filter": "indexof(datum.tournament_name, 'Men') >= 0"},
           {"filter": "datum.replayed == 0"},
-          {"calculate": "datum.home_team_score + datum.away_team_score", "as": "total_goals"},
+          {"calculate": "toNumber(datum.home_team_score) + toNumber(datum.away_team_score)", "as": "total_goals"},
           {"calculate": "toNumber(slice(datum.tournament_id, 3))", "as": "year"},
           {
             "aggregate": [{"op": "mean", "field": "total_goals", "as": "goals_per_game"}],
             "groupby": ["year", "tournament_name"]
           }
         ],
-        "layer": [
-          {
-            "mark": {"type": "line", "color": "#1d4ed8", "strokeWidth": 2},
-            "encoding": {
-              "x": {"field": "year", "type": "ordinal", "title": "Year"},
-              "y": {"field": "goals_per_game", "type": "quantitative", "title": "Goals per game"}
-            }
-          },
-          {
-            "mark": {"type": "point", "color": "#1d4ed8", "filled": true, "size": 70},
-            "encoding": {
-              "x": {"field": "year", "type": "ordinal", "title": "Year"},
-              "y": {"field": "goals_per_game", "type": "quantitative", "title": "Goals per game"},
-              "tooltip": [
-                {"field": "tournament_name", "type": "nominal", "title": "Tournament"},
-                {"field": "goals_per_game", "type": "quantitative", "title": "Goals per game", "format": ".2f"}
-              ]
-            }
-          }
-        ]
+        "mark": {"type": "line", "point": true, "color": "#1d4ed8", "strokeWidth": 2, "tooltip": true},
+        "encoding": {
+          "x": {"field": "year", "type": "ordinal", "title": "Year"},
+          "y": {"field": "goals_per_game", "type": "quantitative", "title": "Goals per game"},
+          "tooltip": [
+            {"field": "tournament_name", "type": "nominal", "title": "Tournament"},
+            {"field": "goals_per_game", "type": "quantitative", "title": "Goals per game", "format": ".2f"}
+          ]
+        }
       }
     },
     {
