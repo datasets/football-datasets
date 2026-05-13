@@ -234,5 +234,127 @@
       "encoding": "utf-8",
       "description": "One row per referee per tournament they officiated at."
     }
+  ],
+  "views": [
+    {
+      "name": "goals-by-minute",
+      "title": "When Are World Cup Goals Scored?",
+      "description": "Distribution of goals by match minute across all men's World Cup tournaments (1930–2022), excluding own goals. The spikes at minutes 45 and 90 capture all stoppage-time goals in each half — a signature pattern of the modern game.",
+      "resources": ["goals"],
+      "specType": "vega-lite",
+      "spec": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "height": 380,
+        "transform": [
+          {"filter": "datum.own_goal == 0"},
+          {"filter": "indexof(datum.tournament_name, 'Men') >= 0"},
+          {"filter": "datum.minute_regulation <= 90"}
+        ],
+        "mark": {"type": "bar", "color": "#1d4ed8", "tooltip": true},
+        "encoding": {
+          "x": {
+            "field": "minute_regulation",
+            "type": "quantitative",
+            "title": "Match minute",
+            "axis": {"tickMinStep": 5, "labelAngle": 0}
+          },
+          "y": {
+            "aggregate": "count",
+            "type": "quantitative",
+            "title": "Goals scored"
+          },
+          "tooltip": [
+            {"field": "minute_regulation", "type": "quantitative", "title": "Minute"},
+            {"aggregate": "count", "type": "quantitative", "title": "Goals"}
+          ]
+        }
+      }
+    },
+    {
+      "name": "goals-per-game",
+      "title": "Average Goals Per Game by Tournament",
+      "description": "Average number of goals per match at each men's World Cup (1930–2022). The 1954 Switzerland tournament peaks at 5.4 goals per game — the highest ever. The modern game has settled around 2.5–2.7.",
+      "resources": ["matches"],
+      "specType": "vega-lite",
+      "spec": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "height": 380,
+        "transform": [
+          {"filter": "indexof(datum.tournament_name, 'Men') >= 0"},
+          {"filter": "datum.replayed == 0"},
+          {"calculate": "datum.home_team_score + datum.away_team_score", "as": "total_goals"},
+          {"calculate": "toNumber(slice(datum.tournament_id, 3))", "as": "year"},
+          {
+            "aggregate": [{"op": "mean", "field": "total_goals", "as": "goals_per_game"}],
+            "groupby": ["year", "tournament_name"]
+          }
+        ],
+        "layer": [
+          {
+            "mark": {"type": "line", "color": "#1d4ed8", "strokeWidth": 2},
+            "encoding": {
+              "x": {"field": "year", "type": "ordinal", "title": "Year"},
+              "y": {"field": "goals_per_game", "type": "quantitative", "title": "Goals per game"}
+            }
+          },
+          {
+            "mark": {"type": "point", "color": "#1d4ed8", "filled": true, "size": 70},
+            "encoding": {
+              "x": {"field": "year", "type": "ordinal", "title": "Year"},
+              "y": {"field": "goals_per_game", "type": "quantitative", "title": "Goals per game"},
+              "tooltip": [
+                {"field": "tournament_name", "type": "nominal", "title": "Tournament"},
+                {"field": "goals_per_game", "type": "quantitative", "title": "Goals per game", "format": ".2f"}
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "top-scorers",
+      "title": "Top 15 All-Time World Cup Scorers",
+      "description": "Players with the most goals across all men's World Cup tournaments (1930–2022), excluding own goals. Miroslav Klose's record of 16 goals across four tournaments remains unmatched.",
+      "resources": ["goals"],
+      "specType": "vega-lite",
+      "spec": {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "height": {"step": 28},
+        "transform": [
+          {"filter": "datum.own_goal == 0"},
+          {"filter": "indexof(datum.tournament_name, 'Men') >= 0"},
+          {"calculate": "datum.given_name + ' ' + datum.family_name", "as": "player"},
+          {
+            "aggregate": [{"op": "count", "as": "goals"}],
+            "groupby": ["player", "team_name"]
+          },
+          {
+            "window": [{"op": "rank", "as": "rank"}],
+            "sort": [{"field": "goals", "order": "descending"}]
+          },
+          {"filter": "datum.rank <= 15"}
+        ],
+        "mark": {"type": "bar", "color": "#1d4ed8", "tooltip": true},
+        "encoding": {
+          "y": {
+            "field": "player",
+            "type": "nominal",
+            "sort": "-x",
+            "title": null
+          },
+          "x": {
+            "field": "goals",
+            "type": "quantitative",
+            "title": "Goals",
+            "axis": {"tickMinStep": 1}
+          },
+          "tooltip": [
+            {"field": "player", "type": "nominal", "title": "Player"},
+            {"field": "team_name", "type": "nominal", "title": "Country"},
+            {"field": "goals", "type": "quantitative", "title": "Goals"}
+          ]
+        }
+      }
+    }
   ]
 }
