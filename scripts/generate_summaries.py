@@ -73,11 +73,12 @@ def generate_goals_by_minute_summary():
             if 1 <= minute <= 90:
                 counts[minute] += 1
 
-    rows = [{"minute": m, "goal_count": counts[m]} for m in range(1, 91)]
+    # minute_start/end used by rectY (linear x scale, avoids band scale issue)
+    rows = [{"minute_start": m - 1, "minute_end": m, "goal_count": counts[m]} for m in range(1, 91)]
 
     out = DATA / "goals-by-minute-summary.csv"
     with open(out, "w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=["minute", "goal_count"])
+        w = csv.DictWriter(f, fieldnames=["minute_start", "minute_end", "goal_count"])
         w.writeheader()
         w.writerows(rows)
     print(f"✓ {out.name} (90 rows)")
@@ -125,7 +126,7 @@ def generate_tournament_appearances():
         [{"team_name": t, "appearances": len(ids)} for t, ids in appearances.items()],
         key=lambda x: x["appearances"],
         reverse=True,
-    )
+    )[:20]
 
     out = DATA / "tournament-appearances.csv"
     with open(out, "w", newline="") as f:

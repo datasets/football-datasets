@@ -2019,14 +2019,19 @@
       "schema": {
         "fields": [
           {
-            "name": "minute",
+            "name": "minute_start",
             "type": "integer",
-            "description": "Match minute (1–90)"
+            "description": "Start of minute interval"
+          },
+          {
+            "name": "minute_end",
+            "type": "integer",
+            "description": "End of minute interval"
           },
           {
             "name": "goal_count",
             "type": "integer",
-            "description": "Total goals scored at this minute"
+            "description": "Goals scored in this minute"
           }
         ]
       }
@@ -2062,7 +2067,7 @@
       "name": "tournament-appearances",
       "path": "tournament-appearances.csv",
       "title": "World Cup Appearances by Nation (Summary)",
-      "description": "Number of men's World Cup tournaments each nation has participated in (1930–2022).",
+      "description": "Top 20 nations by number of men's World Cup tournaments appeared in (1930–2022).",
       "format": "csv",
       "mediatype": "text/csv",
       "schema": {
@@ -2092,7 +2097,8 @@
         "height": 380,
         "x": {
           "label": "Year",
-          "type": "point"
+          "type": "point",
+          "tickFormat": "d"
         },
         "y": {
           "label": "Goals per game",
@@ -2103,14 +2109,14 @@
             "type": "line",
             "x": "year",
             "y": "avg_goals_per_game",
-            "stroke": "#1d4ed8",
+            "stroke": "#111",
             "strokeWidth": 2
           },
           {
             "type": "dot",
             "x": "year",
             "y": "avg_goals_per_game",
-            "fill": "#1d4ed8",
+            "fill": "#111",
             "r": 4,
             "tip": true
           }
@@ -2120,7 +2126,7 @@
     {
       "name": "goals-by-minute",
       "title": "When Are World Cup Goals Scored?",
-      "description": "Distribution of goals by match minute across all men's World Cup tournaments (1930–2022), excluding own goals and stoppage time. Spikes at minutes 45 and 90 reflect stoppage-time goals logged at the regulation minute.",
+      "description": "Distribution of goals by match minute across all men's World Cup tournaments (1930–2022), excluding own goals. Spikes at minutes 45 and 90 reflect stoppage-time goals logged at the regulation minute.",
       "resourceName": "goals-by-minute-summary",
       "specType": "plot",
       "spec": {
@@ -2135,10 +2141,11 @@
         },
         "marks": [
           {
-            "type": "barY",
-            "x": "minute",
+            "type": "rectY",
+            "x1": "minute_start",
+            "x2": "minute_end",
             "y": "goal_count",
-            "fill": "#1d4ed8",
+            "fill": "#111",
             "tip": true
           }
         ]
@@ -2165,21 +2172,20 @@
             "type": "barX",
             "x": "goals",
             "y": "player",
-            "fill": "#1d4ed8",
-            "tip": true,
-            "sort": "x"
+            "fill": "#111",
+            "tip": true
           }
         ]
       }
     },
     {
       "name": "tournament-appearances",
-      "title": "World Cup Appearances by Nation",
-      "description": "Number of men's World Cup tournaments each nation has participated in (1930–2022). Brazil is the only country to have appeared in all 22 tournaments.",
+      "title": "World Cup Appearances by Nation (Top 20)",
+      "description": "Top 20 nations by number of men's World Cup tournaments participated in (1930–2022). Brazil is the only country to have appeared in all 22 tournaments.",
       "resourceName": "tournament-appearances",
       "specType": "plot",
       "spec": {
-        "height": 700,
+        "height": 560,
         "marginLeft": 140,
         "x": {
           "label": "Tournaments",
@@ -2193,9 +2199,8 @@
             "type": "barX",
             "x": "appearances",
             "y": "team_name",
-            "fill": "#1d4ed8",
-            "tip": true,
-            "sort": "x"
+            "fill": "#111",
+            "tip": true
           }
         ]
       }
