@@ -27,24 +27,78 @@
       "description": "One row per tournament. Covers all 22 men's (1930–2022) and 8 women's (1991–2019) editions.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "year", "type": "integer"},
-          {"name": "start_date", "type": "date"},
-          {"name": "end_date", "type": "date"},
-          {"name": "host_country", "type": "string"},
-          {"name": "winner", "type": "string"},
-          {"name": "host_won", "type": "integer"},
-          {"name": "count_teams", "type": "integer"},
-          {"name": "group_stage", "type": "integer"},
-          {"name": "second_group_stage", "type": "integer"},
-          {"name": "final_round", "type": "integer"},
-          {"name": "round_of_16", "type": "integer"},
-          {"name": "quarter_finals", "type": "integer"},
-          {"name": "semi_finals", "type": "integer"},
-          {"name": "third_place_match", "type": "integer"},
-          {"name": "final", "type": "integer"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "year",
+            "type": "integer"
+          },
+          {
+            "name": "start_date",
+            "type": "date"
+          },
+          {
+            "name": "end_date",
+            "type": "date"
+          },
+          {
+            "name": "host_country",
+            "type": "string"
+          },
+          {
+            "name": "winner",
+            "type": "string"
+          },
+          {
+            "name": "host_won",
+            "type": "integer"
+          },
+          {
+            "name": "count_teams",
+            "type": "integer"
+          },
+          {
+            "name": "group_stage",
+            "type": "integer"
+          },
+          {
+            "name": "second_group_stage",
+            "type": "integer"
+          },
+          {
+            "name": "final_round",
+            "type": "integer"
+          },
+          {
+            "name": "round_of_16",
+            "type": "integer"
+          },
+          {
+            "name": "quarter_finals",
+            "type": "integer"
+          },
+          {
+            "name": "semi_finals",
+            "type": "integer"
+          },
+          {
+            "name": "third_place_match",
+            "type": "integer"
+          },
+          {
+            "name": "final",
+            "type": "integer"
+          }
         ]
       }
     },
@@ -57,43 +111,154 @@
       "description": "One row per match. Includes stage, group, date, teams, full-time and half-time scores, extra time, penalty shootout scores, and result.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "match_id", "type": "string"},
-          {"name": "match_name", "type": "string"},
-          {"name": "stage_name", "type": "string"},
-          {"name": "group_name", "type": "string"},
-          {"name": "group_stage", "type": "integer"},
-          {"name": "knockout_stage", "type": "integer"},
-          {"name": "replayed", "type": "integer"},
-          {"name": "replay", "type": "integer"},
-          {"name": "match_date", "type": "date"},
-          {"name": "match_time", "type": "string"},
-          {"name": "stadium_id", "type": "string"},
-          {"name": "stadium_name", "type": "string"},
-          {"name": "city_name", "type": "string"},
-          {"name": "country_name", "type": "string"},
-          {"name": "home_team_id", "type": "string"},
-          {"name": "home_team_name", "type": "string"},
-          {"name": "home_team_code", "type": "string"},
-          {"name": "away_team_id", "type": "string"},
-          {"name": "away_team_name", "type": "string"},
-          {"name": "away_team_code", "type": "string"},
-          {"name": "score", "type": "string"},
-          {"name": "home_team_score", "type": "integer"},
-          {"name": "away_team_score", "type": "integer"},
-          {"name": "home_team_score_margin", "type": "integer"},
-          {"name": "away_team_score_margin", "type": "integer"},
-          {"name": "extra_time", "type": "integer"},
-          {"name": "penalty_shootout", "type": "integer"},
-          {"name": "score_penalties", "type": "string"},
-          {"name": "home_team_score_penalties", "type": "integer"},
-          {"name": "away_team_score_penalties", "type": "integer"},
-          {"name": "result", "type": "string"},
-          {"name": "home_team_win", "type": "integer"},
-          {"name": "away_team_win", "type": "integer"},
-          {"name": "draw", "type": "integer"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "match_id",
+            "type": "string"
+          },
+          {
+            "name": "match_name",
+            "type": "string"
+          },
+          {
+            "name": "stage_name",
+            "type": "string"
+          },
+          {
+            "name": "group_name",
+            "type": "string"
+          },
+          {
+            "name": "group_stage",
+            "type": "integer"
+          },
+          {
+            "name": "knockout_stage",
+            "type": "integer"
+          },
+          {
+            "name": "replayed",
+            "type": "integer"
+          },
+          {
+            "name": "replay",
+            "type": "integer"
+          },
+          {
+            "name": "match_date",
+            "type": "date"
+          },
+          {
+            "name": "match_time",
+            "type": "string"
+          },
+          {
+            "name": "stadium_id",
+            "type": "string"
+          },
+          {
+            "name": "stadium_name",
+            "type": "string"
+          },
+          {
+            "name": "city_name",
+            "type": "string"
+          },
+          {
+            "name": "country_name",
+            "type": "string"
+          },
+          {
+            "name": "home_team_id",
+            "type": "string"
+          },
+          {
+            "name": "home_team_name",
+            "type": "string"
+          },
+          {
+            "name": "home_team_code",
+            "type": "string"
+          },
+          {
+            "name": "away_team_id",
+            "type": "string"
+          },
+          {
+            "name": "away_team_name",
+            "type": "string"
+          },
+          {
+            "name": "away_team_code",
+            "type": "string"
+          },
+          {
+            "name": "score",
+            "type": "string"
+          },
+          {
+            "name": "home_team_score",
+            "type": "integer"
+          },
+          {
+            "name": "away_team_score",
+            "type": "integer"
+          },
+          {
+            "name": "home_team_score_margin",
+            "type": "integer"
+          },
+          {
+            "name": "away_team_score_margin",
+            "type": "integer"
+          },
+          {
+            "name": "extra_time",
+            "type": "integer"
+          },
+          {
+            "name": "penalty_shootout",
+            "type": "integer"
+          },
+          {
+            "name": "score_penalties",
+            "type": "string"
+          },
+          {
+            "name": "home_team_score_penalties",
+            "type": "integer"
+          },
+          {
+            "name": "away_team_score_penalties",
+            "type": "integer"
+          },
+          {
+            "name": "result",
+            "type": "string"
+          },
+          {
+            "name": "home_team_win",
+            "type": "integer"
+          },
+          {
+            "name": "away_team_win",
+            "type": "integer"
+          },
+          {
+            "name": "draw",
+            "type": "integer"
+          }
         ]
       }
     },
@@ -106,33 +271,114 @@
       "description": "One row per goal. Includes scorer, team, minute, match period, own goal flag, and penalty flag.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "goal_id", "type": "string"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "match_id", "type": "string"},
-          {"name": "match_name", "type": "string"},
-          {"name": "match_date", "type": "date"},
-          {"name": "stage_name", "type": "string"},
-          {"name": "group_name", "type": "string"},
-          {"name": "team_id", "type": "string"},
-          {"name": "team_name", "type": "string"},
-          {"name": "team_code", "type": "string"},
-          {"name": "home_team", "type": "integer"},
-          {"name": "away_team", "type": "integer"},
-          {"name": "player_id", "type": "string"},
-          {"name": "family_name", "type": "string"},
-          {"name": "given_name", "type": "string"},
-          {"name": "shirt_number", "type": "integer"},
-          {"name": "player_team_id", "type": "string"},
-          {"name": "player_team_name", "type": "string"},
-          {"name": "player_team_code", "type": "string"},
-          {"name": "minute_label", "type": "string"},
-          {"name": "minute_regulation", "type": "integer"},
-          {"name": "minute_stoppage", "type": "integer"},
-          {"name": "match_period", "type": "string"},
-          {"name": "own_goal", "type": "integer"},
-          {"name": "penalty", "type": "integer"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "goal_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "match_id",
+            "type": "string"
+          },
+          {
+            "name": "match_name",
+            "type": "string"
+          },
+          {
+            "name": "match_date",
+            "type": "date"
+          },
+          {
+            "name": "stage_name",
+            "type": "string"
+          },
+          {
+            "name": "group_name",
+            "type": "string"
+          },
+          {
+            "name": "team_id",
+            "type": "string"
+          },
+          {
+            "name": "team_name",
+            "type": "string"
+          },
+          {
+            "name": "team_code",
+            "type": "string"
+          },
+          {
+            "name": "home_team",
+            "type": "integer"
+          },
+          {
+            "name": "away_team",
+            "type": "integer"
+          },
+          {
+            "name": "player_id",
+            "type": "string"
+          },
+          {
+            "name": "family_name",
+            "type": "string"
+          },
+          {
+            "name": "given_name",
+            "type": "string"
+          },
+          {
+            "name": "shirt_number",
+            "type": "integer"
+          },
+          {
+            "name": "player_team_id",
+            "type": "string"
+          },
+          {
+            "name": "player_team_name",
+            "type": "string"
+          },
+          {
+            "name": "player_team_code",
+            "type": "string"
+          },
+          {
+            "name": "minute_label",
+            "type": "string"
+          },
+          {
+            "name": "minute_regulation",
+            "type": "integer"
+          },
+          {
+            "name": "minute_stoppage",
+            "type": "integer"
+          },
+          {
+            "name": "match_period",
+            "type": "string"
+          },
+          {
+            "name": "own_goal",
+            "type": "integer"
+          },
+          {
+            "name": "penalty",
+            "type": "integer"
+          }
         ]
       }
     },
@@ -145,32 +391,110 @@
       "description": "One row per booking (yellow or red card). Includes player, team, minute, and card type.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "booking_id", "type": "string"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "match_id", "type": "string"},
-          {"name": "match_name", "type": "string"},
-          {"name": "match_date", "type": "date"},
-          {"name": "stage_name", "type": "string"},
-          {"name": "group_name", "type": "string"},
-          {"name": "team_id", "type": "string"},
-          {"name": "team_name", "type": "string"},
-          {"name": "team_code", "type": "string"},
-          {"name": "home_team", "type": "integer"},
-          {"name": "away_team", "type": "integer"},
-          {"name": "player_id", "type": "string"},
-          {"name": "family_name", "type": "string"},
-          {"name": "given_name", "type": "string"},
-          {"name": "shirt_number", "type": "integer"},
-          {"name": "minute_label", "type": "string"},
-          {"name": "minute_regulation", "type": "integer"},
-          {"name": "minute_stoppage", "type": "integer"},
-          {"name": "match_period", "type": "string"},
-          {"name": "yellow_card", "type": "integer"},
-          {"name": "red_card", "type": "integer"},
-          {"name": "second_yellow_card", "type": "integer"},
-          {"name": "sending_off", "type": "integer"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "booking_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "match_id",
+            "type": "string"
+          },
+          {
+            "name": "match_name",
+            "type": "string"
+          },
+          {
+            "name": "match_date",
+            "type": "date"
+          },
+          {
+            "name": "stage_name",
+            "type": "string"
+          },
+          {
+            "name": "group_name",
+            "type": "string"
+          },
+          {
+            "name": "team_id",
+            "type": "string"
+          },
+          {
+            "name": "team_name",
+            "type": "string"
+          },
+          {
+            "name": "team_code",
+            "type": "string"
+          },
+          {
+            "name": "home_team",
+            "type": "integer"
+          },
+          {
+            "name": "away_team",
+            "type": "integer"
+          },
+          {
+            "name": "player_id",
+            "type": "string"
+          },
+          {
+            "name": "family_name",
+            "type": "string"
+          },
+          {
+            "name": "given_name",
+            "type": "string"
+          },
+          {
+            "name": "shirt_number",
+            "type": "integer"
+          },
+          {
+            "name": "minute_label",
+            "type": "string"
+          },
+          {
+            "name": "minute_regulation",
+            "type": "integer"
+          },
+          {
+            "name": "minute_stoppage",
+            "type": "integer"
+          },
+          {
+            "name": "match_period",
+            "type": "string"
+          },
+          {
+            "name": "yellow_card",
+            "type": "integer"
+          },
+          {
+            "name": "red_card",
+            "type": "integer"
+          },
+          {
+            "name": "second_yellow_card",
+            "type": "integer"
+          },
+          {
+            "name": "sending_off",
+            "type": "integer"
+          }
         ]
       }
     },
@@ -183,25 +507,82 @@
       "description": "One row per penalty kick in a shootout. Includes player, team, kick order, and outcome.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "penalty_kick_id", "type": "string"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "match_id", "type": "string"},
-          {"name": "match_name", "type": "string"},
-          {"name": "match_date", "type": "date"},
-          {"name": "stage_name", "type": "string"},
-          {"name": "group_name", "type": "string"},
-          {"name": "team_id", "type": "string"},
-          {"name": "team_name", "type": "string"},
-          {"name": "team_code", "type": "string"},
-          {"name": "home_team", "type": "integer"},
-          {"name": "away_team", "type": "integer"},
-          {"name": "player_id", "type": "string"},
-          {"name": "family_name", "type": "string"},
-          {"name": "given_name", "type": "string"},
-          {"name": "shirt_number", "type": "integer"},
-          {"name": "converted", "type": "integer"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "penalty_kick_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "match_id",
+            "type": "string"
+          },
+          {
+            "name": "match_name",
+            "type": "string"
+          },
+          {
+            "name": "match_date",
+            "type": "date"
+          },
+          {
+            "name": "stage_name",
+            "type": "string"
+          },
+          {
+            "name": "group_name",
+            "type": "string"
+          },
+          {
+            "name": "team_id",
+            "type": "string"
+          },
+          {
+            "name": "team_name",
+            "type": "string"
+          },
+          {
+            "name": "team_code",
+            "type": "string"
+          },
+          {
+            "name": "home_team",
+            "type": "integer"
+          },
+          {
+            "name": "away_team",
+            "type": "integer"
+          },
+          {
+            "name": "player_id",
+            "type": "string"
+          },
+          {
+            "name": "family_name",
+            "type": "string"
+          },
+          {
+            "name": "given_name",
+            "type": "string"
+          },
+          {
+            "name": "shirt_number",
+            "type": "integer"
+          },
+          {
+            "name": "converted",
+            "type": "integer"
+          }
         ]
       }
     },
@@ -214,30 +595,102 @@
       "description": "One row per substitution. Includes player on, player off, team, and minute.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "substitution_id", "type": "string"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "match_id", "type": "string"},
-          {"name": "match_name", "type": "string"},
-          {"name": "match_date", "type": "date"},
-          {"name": "stage_name", "type": "string"},
-          {"name": "group_name", "type": "string"},
-          {"name": "team_id", "type": "string"},
-          {"name": "team_name", "type": "string"},
-          {"name": "team_code", "type": "string"},
-          {"name": "home_team", "type": "integer"},
-          {"name": "away_team", "type": "integer"},
-          {"name": "player_id", "type": "string"},
-          {"name": "family_name", "type": "string"},
-          {"name": "given_name", "type": "string"},
-          {"name": "shirt_number", "type": "integer"},
-          {"name": "minute_label", "type": "string"},
-          {"name": "minute_regulation", "type": "integer"},
-          {"name": "minute_stoppage", "type": "integer"},
-          {"name": "match_period", "type": "string"},
-          {"name": "going_off", "type": "integer"},
-          {"name": "coming_on", "type": "integer"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "substitution_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "match_id",
+            "type": "string"
+          },
+          {
+            "name": "match_name",
+            "type": "string"
+          },
+          {
+            "name": "match_date",
+            "type": "date"
+          },
+          {
+            "name": "stage_name",
+            "type": "string"
+          },
+          {
+            "name": "group_name",
+            "type": "string"
+          },
+          {
+            "name": "team_id",
+            "type": "string"
+          },
+          {
+            "name": "team_name",
+            "type": "string"
+          },
+          {
+            "name": "team_code",
+            "type": "string"
+          },
+          {
+            "name": "home_team",
+            "type": "integer"
+          },
+          {
+            "name": "away_team",
+            "type": "integer"
+          },
+          {
+            "name": "player_id",
+            "type": "string"
+          },
+          {
+            "name": "family_name",
+            "type": "string"
+          },
+          {
+            "name": "given_name",
+            "type": "string"
+          },
+          {
+            "name": "shirt_number",
+            "type": "integer"
+          },
+          {
+            "name": "minute_label",
+            "type": "string"
+          },
+          {
+            "name": "minute_regulation",
+            "type": "integer"
+          },
+          {
+            "name": "minute_stoppage",
+            "type": "integer"
+          },
+          {
+            "name": "match_period",
+            "type": "string"
+          },
+          {
+            "name": "going_off",
+            "type": "integer"
+          },
+          {
+            "name": "coming_on",
+            "type": "integer"
+          }
         ]
       }
     },
@@ -250,18 +703,54 @@
       "description": "One row per player per tournament squad. Includes position, shirt number, and club.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "team_id", "type": "string"},
-          {"name": "team_name", "type": "string"},
-          {"name": "team_code", "type": "string"},
-          {"name": "player_id", "type": "string"},
-          {"name": "family_name", "type": "string"},
-          {"name": "given_name", "type": "string"},
-          {"name": "shirt_number", "type": "integer"},
-          {"name": "position_name", "type": "string"},
-          {"name": "position_code", "type": "string"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "team_id",
+            "type": "string"
+          },
+          {
+            "name": "team_name",
+            "type": "string"
+          },
+          {
+            "name": "team_code",
+            "type": "string"
+          },
+          {
+            "name": "player_id",
+            "type": "string"
+          },
+          {
+            "name": "family_name",
+            "type": "string"
+          },
+          {
+            "name": "given_name",
+            "type": "string"
+          },
+          {
+            "name": "shirt_number",
+            "type": "integer"
+          },
+          {
+            "name": "position_name",
+            "type": "string"
+          },
+          {
+            "name": "position_code",
+            "type": "string"
+          }
         ]
       }
     },
@@ -274,19 +763,58 @@
       "description": "One row per player. Master list of all players who have appeared in a World Cup squad.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "player_id", "type": "string"},
-          {"name": "family_name", "type": "string"},
-          {"name": "given_name", "type": "string"},
-          {"name": "birth_date", "type": "date"},
-          {"name": "female", "type": "integer"},
-          {"name": "goal_keeper", "type": "integer"},
-          {"name": "defender", "type": "integer"},
-          {"name": "midfielder", "type": "integer"},
-          {"name": "forward", "type": "integer"},
-          {"name": "count_tournaments", "type": "integer"},
-          {"name": "list_tournaments", "type": "string"},
-          {"name": "player_wikipedia_link", "type": "string"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "player_id",
+            "type": "string"
+          },
+          {
+            "name": "family_name",
+            "type": "string"
+          },
+          {
+            "name": "given_name",
+            "type": "string"
+          },
+          {
+            "name": "birth_date",
+            "type": "date"
+          },
+          {
+            "name": "female",
+            "type": "integer"
+          },
+          {
+            "name": "goal_keeper",
+            "type": "integer"
+          },
+          {
+            "name": "defender",
+            "type": "integer"
+          },
+          {
+            "name": "midfielder",
+            "type": "integer"
+          },
+          {
+            "name": "forward",
+            "type": "integer"
+          },
+          {
+            "name": "count_tournaments",
+            "type": "integer"
+          },
+          {
+            "name": "list_tournaments",
+            "type": "string"
+          },
+          {
+            "name": "player_wikipedia_link",
+            "type": "string"
+          }
         ]
       }
     },
@@ -299,20 +827,62 @@
       "description": "One row per national team. Includes team name, code, and confederation.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "team_id", "type": "string"},
-          {"name": "team_name", "type": "string"},
-          {"name": "team_code", "type": "string"},
-          {"name": "mens_team", "type": "integer"},
-          {"name": "womens_team", "type": "integer"},
-          {"name": "federation_name", "type": "string"},
-          {"name": "region_name", "type": "string"},
-          {"name": "confederation_id", "type": "string"},
-          {"name": "confederation_name", "type": "string"},
-          {"name": "confederation_code", "type": "string"},
-          {"name": "mens_team_wikipedia_link", "type": "string"},
-          {"name": "womens_team_wikipedia_link", "type": "string"},
-          {"name": "federation_wikipedia_link", "type": "string"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "team_id",
+            "type": "string"
+          },
+          {
+            "name": "team_name",
+            "type": "string"
+          },
+          {
+            "name": "team_code",
+            "type": "string"
+          },
+          {
+            "name": "mens_team",
+            "type": "integer"
+          },
+          {
+            "name": "womens_team",
+            "type": "integer"
+          },
+          {
+            "name": "federation_name",
+            "type": "string"
+          },
+          {
+            "name": "region_name",
+            "type": "string"
+          },
+          {
+            "name": "confederation_id",
+            "type": "string"
+          },
+          {
+            "name": "confederation_name",
+            "type": "string"
+          },
+          {
+            "name": "confederation_code",
+            "type": "string"
+          },
+          {
+            "name": "mens_team_wikipedia_link",
+            "type": "string"
+          },
+          {
+            "name": "womens_team_wikipedia_link",
+            "type": "string"
+          },
+          {
+            "name": "federation_wikipedia_link",
+            "type": "string"
+          }
         ]
       }
     },
@@ -325,25 +895,82 @@
       "description": "One row per team per group. Includes played, won, drawn, lost, goals for, goals against, and points.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "stage_number", "type": "integer"},
-          {"name": "stage_name", "type": "string"},
-          {"name": "group_name", "type": "string"},
-          {"name": "position", "type": "integer"},
-          {"name": "team_id", "type": "string"},
-          {"name": "team_name", "type": "string"},
-          {"name": "team_code", "type": "string"},
-          {"name": "played", "type": "integer"},
-          {"name": "wins", "type": "integer"},
-          {"name": "draws", "type": "integer"},
-          {"name": "losses", "type": "integer"},
-          {"name": "goals_for", "type": "integer"},
-          {"name": "goals_against", "type": "integer"},
-          {"name": "goal_difference", "type": "integer"},
-          {"name": "points", "type": "integer"},
-          {"name": "advanced", "type": "integer"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "stage_number",
+            "type": "integer"
+          },
+          {
+            "name": "stage_name",
+            "type": "string"
+          },
+          {
+            "name": "group_name",
+            "type": "string"
+          },
+          {
+            "name": "position",
+            "type": "integer"
+          },
+          {
+            "name": "team_id",
+            "type": "string"
+          },
+          {
+            "name": "team_name",
+            "type": "string"
+          },
+          {
+            "name": "team_code",
+            "type": "string"
+          },
+          {
+            "name": "played",
+            "type": "integer"
+          },
+          {
+            "name": "wins",
+            "type": "integer"
+          },
+          {
+            "name": "draws",
+            "type": "integer"
+          },
+          {
+            "name": "losses",
+            "type": "integer"
+          },
+          {
+            "name": "goals_for",
+            "type": "integer"
+          },
+          {
+            "name": "goals_against",
+            "type": "integer"
+          },
+          {
+            "name": "goal_difference",
+            "type": "integer"
+          },
+          {
+            "name": "points",
+            "type": "integer"
+          },
+          {
+            "name": "advanced",
+            "type": "integer"
+          }
         ]
       }
     },
@@ -356,13 +983,34 @@
       "description": "Final standings per tournament (winner, runner-up, third place, etc.).",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "position", "type": "integer"},
-          {"name": "team_id", "type": "string"},
-          {"name": "team_name", "type": "string"},
-          {"name": "team_code", "type": "string"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "position",
+            "type": "integer"
+          },
+          {
+            "name": "team_id",
+            "type": "string"
+          },
+          {
+            "name": "team_name",
+            "type": "string"
+          },
+          {
+            "name": "team_code",
+            "type": "string"
+          }
         ]
       }
     },
@@ -375,18 +1023,54 @@
       "description": "One row per award per tournament. Covers Golden Boot, Golden Ball, Golden Glove, Best Young Player, and Fair Play Award.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "award_id", "type": "string"},
-          {"name": "award_name", "type": "string"},
-          {"name": "shared", "type": "integer"},
-          {"name": "player_id", "type": "string"},
-          {"name": "family_name", "type": "string"},
-          {"name": "given_name", "type": "string"},
-          {"name": "team_id", "type": "string"},
-          {"name": "team_name", "type": "string"},
-          {"name": "team_code", "type": "string"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "award_id",
+            "type": "string"
+          },
+          {
+            "name": "award_name",
+            "type": "string"
+          },
+          {
+            "name": "shared",
+            "type": "integer"
+          },
+          {
+            "name": "player_id",
+            "type": "string"
+          },
+          {
+            "name": "family_name",
+            "type": "string"
+          },
+          {
+            "name": "given_name",
+            "type": "string"
+          },
+          {
+            "name": "team_id",
+            "type": "string"
+          },
+          {
+            "name": "team_name",
+            "type": "string"
+          },
+          {
+            "name": "team_code",
+            "type": "string"
+          }
         ]
       }
     },
@@ -399,11 +1083,26 @@
       "description": "Reference table of award types.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "award_id", "type": "string"},
-          {"name": "award_name", "type": "string"},
-          {"name": "award_description", "type": "string"},
-          {"name": "year_introduced", "type": "integer"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "award_id",
+            "type": "string"
+          },
+          {
+            "name": "award_name",
+            "type": "string"
+          },
+          {
+            "name": "award_description",
+            "type": "string"
+          },
+          {
+            "name": "year_introduced",
+            "type": "integer"
+          }
         ]
       }
     },
@@ -416,14 +1115,38 @@
       "description": "One row per stadium. Includes name, city, country, and capacity.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "stadium_id", "type": "string"},
-          {"name": "stadium_name", "type": "string"},
-          {"name": "city_name", "type": "string"},
-          {"name": "country_name", "type": "string"},
-          {"name": "stadium_capacity", "type": "integer"},
-          {"name": "stadium_wikipedia_link", "type": "string"},
-          {"name": "city_wikipedia_link", "type": "string"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "stadium_id",
+            "type": "string"
+          },
+          {
+            "name": "stadium_name",
+            "type": "string"
+          },
+          {
+            "name": "city_name",
+            "type": "string"
+          },
+          {
+            "name": "country_name",
+            "type": "string"
+          },
+          {
+            "name": "stadium_capacity",
+            "type": "integer"
+          },
+          {
+            "name": "stadium_wikipedia_link",
+            "type": "string"
+          },
+          {
+            "name": "city_wikipedia_link",
+            "type": "string"
+          }
         ]
       }
     },
@@ -436,16 +1159,46 @@
       "description": "Master list of referees who have officiated at a World Cup.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "referee_id", "type": "string"},
-          {"name": "family_name", "type": "string"},
-          {"name": "given_name", "type": "string"},
-          {"name": "female", "type": "integer"},
-          {"name": "country_name", "type": "string"},
-          {"name": "confederation_id", "type": "string"},
-          {"name": "confederation_name", "type": "string"},
-          {"name": "confederation_code", "type": "string"},
-          {"name": "referee_wikipedia_link", "type": "string"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "referee_id",
+            "type": "string"
+          },
+          {
+            "name": "family_name",
+            "type": "string"
+          },
+          {
+            "name": "given_name",
+            "type": "string"
+          },
+          {
+            "name": "female",
+            "type": "integer"
+          },
+          {
+            "name": "country_name",
+            "type": "string"
+          },
+          {
+            "name": "confederation_id",
+            "type": "string"
+          },
+          {
+            "name": "confederation_name",
+            "type": "string"
+          },
+          {
+            "name": "confederation_code",
+            "type": "string"
+          },
+          {
+            "name": "referee_wikipedia_link",
+            "type": "string"
+          }
         ]
       }
     },
@@ -458,13 +1211,34 @@
       "description": "Master list of managers who have managed a team at a World Cup.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "manager_id", "type": "string"},
-          {"name": "family_name", "type": "string"},
-          {"name": "given_name", "type": "string"},
-          {"name": "female", "type": "integer"},
-          {"name": "country_name", "type": "string"},
-          {"name": "manager_wikipedia_link", "type": "string"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "manager_id",
+            "type": "string"
+          },
+          {
+            "name": "family_name",
+            "type": "string"
+          },
+          {
+            "name": "given_name",
+            "type": "string"
+          },
+          {
+            "name": "female",
+            "type": "integer"
+          },
+          {
+            "name": "country_name",
+            "type": "string"
+          },
+          {
+            "name": "manager_wikipedia_link",
+            "type": "string"
+          }
         ]
       }
     },
@@ -477,11 +1251,26 @@
       "description": "Reference table of FIFA confederations.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "confederation_id", "type": "string"},
-          {"name": "confederation_name", "type": "string"},
-          {"name": "confederation_code", "type": "string"},
-          {"name": "confederation_wikipedia_link", "type": "string"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "confederation_id",
+            "type": "string"
+          },
+          {
+            "name": "confederation_name",
+            "type": "string"
+          },
+          {
+            "name": "confederation_code",
+            "type": "string"
+          },
+          {
+            "name": "confederation_wikipedia_link",
+            "type": "string"
+          }
         ]
       }
     },
@@ -494,13 +1283,34 @@
       "description": "One row per host country per tournament (tournaments with multiple hosts have multiple rows).",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "team_id", "type": "string"},
-          {"name": "team_name", "type": "string"},
-          {"name": "team_code", "type": "string"},
-          {"name": "performance", "type": "string"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "team_id",
+            "type": "string"
+          },
+          {
+            "name": "team_name",
+            "type": "string"
+          },
+          {
+            "name": "team_code",
+            "type": "string"
+          },
+          {
+            "name": "performance",
+            "type": "string"
+          }
         ]
       }
     },
@@ -513,14 +1323,38 @@
       "description": "One row per team per tournament they qualified for.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "team_id", "type": "string"},
-          {"name": "team_name", "type": "string"},
-          {"name": "team_code", "type": "string"},
-          {"name": "count_matches", "type": "integer"},
-          {"name": "performance", "type": "string"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "team_id",
+            "type": "string"
+          },
+          {
+            "name": "team_name",
+            "type": "string"
+          },
+          {
+            "name": "team_code",
+            "type": "string"
+          },
+          {
+            "name": "count_matches",
+            "type": "integer"
+          },
+          {
+            "name": "performance",
+            "type": "string"
+          }
         ]
       }
     },
@@ -533,13 +1367,34 @@
       "description": "One row per group per tournament.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "stage_number", "type": "integer"},
-          {"name": "stage_name", "type": "string"},
-          {"name": "group_name", "type": "string"},
-          {"name": "count_teams", "type": "integer"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "stage_number",
+            "type": "integer"
+          },
+          {
+            "name": "stage_name",
+            "type": "string"
+          },
+          {
+            "name": "group_name",
+            "type": "string"
+          },
+          {
+            "name": "count_teams",
+            "type": "integer"
+          }
         ]
       }
     },
@@ -552,22 +1407,70 @@
       "description": "One row per stage per tournament (group stage, round of 16, quarter-finals, etc.).",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "stage_number", "type": "integer"},
-          {"name": "stage_name", "type": "string"},
-          {"name": "group_stage", "type": "integer"},
-          {"name": "knockout_stage", "type": "integer"},
-          {"name": "unbalanced_groups", "type": "integer"},
-          {"name": "start_date", "type": "date"},
-          {"name": "end_date", "type": "date"},
-          {"name": "count_matches", "type": "integer"},
-          {"name": "count_teams", "type": "integer"},
-          {"name": "count_scheduled", "type": "integer"},
-          {"name": "count_replays", "type": "integer"},
-          {"name": "count_playoffs", "type": "integer"},
-          {"name": "count_walkovers", "type": "integer"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "stage_number",
+            "type": "integer"
+          },
+          {
+            "name": "stage_name",
+            "type": "string"
+          },
+          {
+            "name": "group_stage",
+            "type": "integer"
+          },
+          {
+            "name": "knockout_stage",
+            "type": "integer"
+          },
+          {
+            "name": "unbalanced_groups",
+            "type": "integer"
+          },
+          {
+            "name": "start_date",
+            "type": "date"
+          },
+          {
+            "name": "end_date",
+            "type": "date"
+          },
+          {
+            "name": "count_matches",
+            "type": "integer"
+          },
+          {
+            "name": "count_teams",
+            "type": "integer"
+          },
+          {
+            "name": "count_scheduled",
+            "type": "integer"
+          },
+          {
+            "name": "count_replays",
+            "type": "integer"
+          },
+          {
+            "name": "count_playoffs",
+            "type": "integer"
+          },
+          {
+            "name": "count_walkovers",
+            "type": "integer"
+          }
         ]
       }
     },
@@ -580,42 +1483,150 @@
       "description": "One row per team per match. Includes side (home/away), score, and result.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "match_id", "type": "string"},
-          {"name": "match_name", "type": "string"},
-          {"name": "stage_name", "type": "string"},
-          {"name": "group_name", "type": "string"},
-          {"name": "group_stage", "type": "integer"},
-          {"name": "knockout_stage", "type": "integer"},
-          {"name": "replayed", "type": "integer"},
-          {"name": "replay", "type": "integer"},
-          {"name": "match_date", "type": "date"},
-          {"name": "match_time", "type": "string"},
-          {"name": "stadium_id", "type": "string"},
-          {"name": "stadium_name", "type": "string"},
-          {"name": "city_name", "type": "string"},
-          {"name": "country_name", "type": "string"},
-          {"name": "team_id", "type": "string"},
-          {"name": "team_name", "type": "string"},
-          {"name": "team_code", "type": "string"},
-          {"name": "opponent_id", "type": "string"},
-          {"name": "opponent_name", "type": "string"},
-          {"name": "opponent_code", "type": "string"},
-          {"name": "home_team", "type": "integer"},
-          {"name": "away_team", "type": "integer"},
-          {"name": "goals_for", "type": "integer"},
-          {"name": "goals_against", "type": "integer"},
-          {"name": "goal_differential", "type": "integer"},
-          {"name": "extra_time", "type": "integer"},
-          {"name": "penalty_shootout", "type": "integer"},
-          {"name": "penalties_for", "type": "integer"},
-          {"name": "penalties_against", "type": "integer"},
-          {"name": "result", "type": "string"},
-          {"name": "win", "type": "integer"},
-          {"name": "lose", "type": "integer"},
-          {"name": "draw", "type": "integer"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "match_id",
+            "type": "string"
+          },
+          {
+            "name": "match_name",
+            "type": "string"
+          },
+          {
+            "name": "stage_name",
+            "type": "string"
+          },
+          {
+            "name": "group_name",
+            "type": "string"
+          },
+          {
+            "name": "group_stage",
+            "type": "integer"
+          },
+          {
+            "name": "knockout_stage",
+            "type": "integer"
+          },
+          {
+            "name": "replayed",
+            "type": "integer"
+          },
+          {
+            "name": "replay",
+            "type": "integer"
+          },
+          {
+            "name": "match_date",
+            "type": "date"
+          },
+          {
+            "name": "match_time",
+            "type": "string"
+          },
+          {
+            "name": "stadium_id",
+            "type": "string"
+          },
+          {
+            "name": "stadium_name",
+            "type": "string"
+          },
+          {
+            "name": "city_name",
+            "type": "string"
+          },
+          {
+            "name": "country_name",
+            "type": "string"
+          },
+          {
+            "name": "team_id",
+            "type": "string"
+          },
+          {
+            "name": "team_name",
+            "type": "string"
+          },
+          {
+            "name": "team_code",
+            "type": "string"
+          },
+          {
+            "name": "opponent_id",
+            "type": "string"
+          },
+          {
+            "name": "opponent_name",
+            "type": "string"
+          },
+          {
+            "name": "opponent_code",
+            "type": "string"
+          },
+          {
+            "name": "home_team",
+            "type": "integer"
+          },
+          {
+            "name": "away_team",
+            "type": "integer"
+          },
+          {
+            "name": "goals_for",
+            "type": "integer"
+          },
+          {
+            "name": "goals_against",
+            "type": "integer"
+          },
+          {
+            "name": "goal_differential",
+            "type": "integer"
+          },
+          {
+            "name": "extra_time",
+            "type": "integer"
+          },
+          {
+            "name": "penalty_shootout",
+            "type": "integer"
+          },
+          {
+            "name": "penalties_for",
+            "type": "integer"
+          },
+          {
+            "name": "penalties_against",
+            "type": "integer"
+          },
+          {
+            "name": "result",
+            "type": "string"
+          },
+          {
+            "name": "win",
+            "type": "integer"
+          },
+          {
+            "name": "lose",
+            "type": "integer"
+          },
+          {
+            "name": "draw",
+            "type": "integer"
+          }
         ]
       }
     },
@@ -628,27 +1639,90 @@
       "description": "One row per player per match. Includes position played, minutes on pitch, and starter flag.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "match_id", "type": "string"},
-          {"name": "match_name", "type": "string"},
-          {"name": "match_date", "type": "date"},
-          {"name": "stage_name", "type": "string"},
-          {"name": "group_name", "type": "string"},
-          {"name": "team_id", "type": "string"},
-          {"name": "team_name", "type": "string"},
-          {"name": "team_code", "type": "string"},
-          {"name": "home_team", "type": "integer"},
-          {"name": "away_team", "type": "integer"},
-          {"name": "player_id", "type": "string"},
-          {"name": "family_name", "type": "string"},
-          {"name": "given_name", "type": "string"},
-          {"name": "shirt_number", "type": "integer"},
-          {"name": "position_name", "type": "string"},
-          {"name": "position_code", "type": "string"},
-          {"name": "starter", "type": "integer"},
-          {"name": "substitute", "type": "integer"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "match_id",
+            "type": "string"
+          },
+          {
+            "name": "match_name",
+            "type": "string"
+          },
+          {
+            "name": "match_date",
+            "type": "date"
+          },
+          {
+            "name": "stage_name",
+            "type": "string"
+          },
+          {
+            "name": "group_name",
+            "type": "string"
+          },
+          {
+            "name": "team_id",
+            "type": "string"
+          },
+          {
+            "name": "team_name",
+            "type": "string"
+          },
+          {
+            "name": "team_code",
+            "type": "string"
+          },
+          {
+            "name": "home_team",
+            "type": "integer"
+          },
+          {
+            "name": "away_team",
+            "type": "integer"
+          },
+          {
+            "name": "player_id",
+            "type": "string"
+          },
+          {
+            "name": "family_name",
+            "type": "string"
+          },
+          {
+            "name": "given_name",
+            "type": "string"
+          },
+          {
+            "name": "shirt_number",
+            "type": "integer"
+          },
+          {
+            "name": "position_name",
+            "type": "string"
+          },
+          {
+            "name": "position_code",
+            "type": "string"
+          },
+          {
+            "name": "starter",
+            "type": "integer"
+          },
+          {
+            "name": "substitute",
+            "type": "integer"
+          }
         ]
       }
     },
@@ -661,23 +1735,74 @@
       "description": "One row per manager per match.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "match_id", "type": "string"},
-          {"name": "match_name", "type": "string"},
-          {"name": "match_date", "type": "date"},
-          {"name": "stage_name", "type": "string"},
-          {"name": "group_name", "type": "string"},
-          {"name": "team_id", "type": "string"},
-          {"name": "team_name", "type": "string"},
-          {"name": "team_code", "type": "string"},
-          {"name": "home_team", "type": "integer"},
-          {"name": "away_team", "type": "integer"},
-          {"name": "manager_id", "type": "string"},
-          {"name": "family_name", "type": "string"},
-          {"name": "given_name", "type": "string"},
-          {"name": "country_name", "type": "string"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "match_id",
+            "type": "string"
+          },
+          {
+            "name": "match_name",
+            "type": "string"
+          },
+          {
+            "name": "match_date",
+            "type": "date"
+          },
+          {
+            "name": "stage_name",
+            "type": "string"
+          },
+          {
+            "name": "group_name",
+            "type": "string"
+          },
+          {
+            "name": "team_id",
+            "type": "string"
+          },
+          {
+            "name": "team_name",
+            "type": "string"
+          },
+          {
+            "name": "team_code",
+            "type": "string"
+          },
+          {
+            "name": "home_team",
+            "type": "integer"
+          },
+          {
+            "name": "away_team",
+            "type": "integer"
+          },
+          {
+            "name": "manager_id",
+            "type": "string"
+          },
+          {
+            "name": "family_name",
+            "type": "string"
+          },
+          {
+            "name": "given_name",
+            "type": "string"
+          },
+          {
+            "name": "country_name",
+            "type": "string"
+          }
         ]
       }
     },
@@ -690,16 +1815,46 @@
       "description": "One row per manager per tournament they managed at.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "team_id", "type": "string"},
-          {"name": "team_name", "type": "string"},
-          {"name": "team_code", "type": "string"},
-          {"name": "manager_id", "type": "string"},
-          {"name": "family_name", "type": "string"},
-          {"name": "given_name", "type": "string"},
-          {"name": "country_name", "type": "string"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "team_id",
+            "type": "string"
+          },
+          {
+            "name": "team_name",
+            "type": "string"
+          },
+          {
+            "name": "team_code",
+            "type": "string"
+          },
+          {
+            "name": "manager_id",
+            "type": "string"
+          },
+          {
+            "name": "family_name",
+            "type": "string"
+          },
+          {
+            "name": "given_name",
+            "type": "string"
+          },
+          {
+            "name": "country_name",
+            "type": "string"
+          }
         ]
       }
     },
@@ -712,21 +1867,66 @@
       "description": "One row per referee per match.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "match_id", "type": "string"},
-          {"name": "match_name", "type": "string"},
-          {"name": "match_date", "type": "date"},
-          {"name": "stage_name", "type": "string"},
-          {"name": "group_name", "type": "string"},
-          {"name": "referee_id", "type": "string"},
-          {"name": "family_name", "type": "string"},
-          {"name": "given_name", "type": "string"},
-          {"name": "country_name", "type": "string"},
-          {"name": "confederation_id", "type": "string"},
-          {"name": "confederation_name", "type": "string"},
-          {"name": "confederation_code", "type": "string"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "match_id",
+            "type": "string"
+          },
+          {
+            "name": "match_name",
+            "type": "string"
+          },
+          {
+            "name": "match_date",
+            "type": "date"
+          },
+          {
+            "name": "stage_name",
+            "type": "string"
+          },
+          {
+            "name": "group_name",
+            "type": "string"
+          },
+          {
+            "name": "referee_id",
+            "type": "string"
+          },
+          {
+            "name": "family_name",
+            "type": "string"
+          },
+          {
+            "name": "given_name",
+            "type": "string"
+          },
+          {
+            "name": "country_name",
+            "type": "string"
+          },
+          {
+            "name": "confederation_id",
+            "type": "string"
+          },
+          {
+            "name": "confederation_name",
+            "type": "string"
+          },
+          {
+            "name": "confederation_code",
+            "type": "string"
+          }
         ]
       }
     },
@@ -739,128 +1939,265 @@
       "description": "One row per referee per tournament they officiated at.",
       "schema": {
         "fields": [
-          {"name": "key_id", "type": "integer"},
-          {"name": "tournament_id", "type": "string"},
-          {"name": "tournament_name", "type": "string"},
-          {"name": "referee_id", "type": "string"},
-          {"name": "family_name", "type": "string"},
-          {"name": "given_name", "type": "string"},
-          {"name": "country_name", "type": "string"},
-          {"name": "confederation_id", "type": "string"},
-          {"name": "confederation_name", "type": "string"},
-          {"name": "confederation_code", "type": "string"}
+          {
+            "name": "key_id",
+            "type": "integer"
+          },
+          {
+            "name": "tournament_id",
+            "type": "string"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string"
+          },
+          {
+            "name": "referee_id",
+            "type": "string"
+          },
+          {
+            "name": "family_name",
+            "type": "string"
+          },
+          {
+            "name": "given_name",
+            "type": "string"
+          },
+          {
+            "name": "country_name",
+            "type": "string"
+          },
+          {
+            "name": "confederation_id",
+            "type": "string"
+          },
+          {
+            "name": "confederation_name",
+            "type": "string"
+          },
+          {
+            "name": "confederation_code",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tournament-goals-summary",
+      "path": "tournament-goals-summary.csv",
+      "title": "Average Goals Per Game by Tournament (Summary)",
+      "description": "Pre-aggregated average goals per game for each men's World Cup tournament (1930–2022).",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "Tournament year"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string",
+            "description": "Full tournament name"
+          },
+          {
+            "name": "avg_goals_per_game",
+            "type": "number",
+            "description": "Average goals per match"
+          }
+        ]
+      }
+    },
+    {
+      "name": "goals-by-minute-summary",
+      "path": "goals-by-minute-summary.csv",
+      "title": "Goals by Match Minute (Summary)",
+      "description": "Total goals scored at each match minute (1–90) across all men's World Cup tournaments, excluding own goals.",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "minute",
+            "type": "integer",
+            "description": "Match minute (1–90)"
+          },
+          {
+            "name": "goal_count",
+            "type": "integer",
+            "description": "Total goals scored at this minute"
+          }
+        ]
+      }
+    },
+    {
+      "name": "top-scorers-summary",
+      "path": "top-scorers-summary.csv",
+      "title": "Top 15 All-Time World Cup Scorers (Summary)",
+      "description": "Players with the most goals across all men's World Cup tournaments (1930–2022), excluding own goals.",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "player",
+            "type": "string",
+            "description": "Player name"
+          },
+          {
+            "name": "team_name",
+            "type": "string",
+            "description": "Country"
+          },
+          {
+            "name": "goals",
+            "type": "integer",
+            "description": "Total World Cup goals"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tournament-appearances",
+      "path": "tournament-appearances.csv",
+      "title": "World Cup Appearances by Nation (Summary)",
+      "description": "Number of men's World Cup tournaments each nation has participated in (1930–2022).",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "team_name",
+            "type": "string",
+            "description": "Nation"
+          },
+          {
+            "name": "appearances",
+            "type": "integer",
+            "description": "Number of tournaments appeared in"
+          }
         ]
       }
     }
   ],
   "views": [
     {
-      "name": "goals-by-minute",
-      "title": "When Are World Cup Goals Scored?",
-      "description": "Distribution of goals by match minute across all men's World Cup tournaments (1930–2022), excluding own goals. The spikes at minutes 45 and 90 capture all stoppage-time goals in each half — a signature pattern of the modern game.",
-      "resources": ["goals"],
-      "specType": "vega-lite",
+      "name": "goals-per-game",
+      "title": "Average Goals Per Game by Tournament",
+      "description": "Average number of goals per match at each men's World Cup (1930–2022). The 1954 Switzerland tournament peaks at 5.38 goals per game — the highest ever. The modern game has settled around 2.5–2.7.",
+      "resourceName": "tournament-goals-summary",
+      "specType": "plot",
       "spec": {
-        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
         "height": 380,
-        "transform": [
-          {"filter": "datum.own_goal == 0"},
-          {"filter": "indexof(datum.tournament_name, 'Men') >= 0"},
-          {"filter": "datum.minute_regulation <= 90"}
-        ],
-        "mark": {"type": "bar", "color": "#1d4ed8", "tooltip": true},
-        "encoding": {
-          "x": {
-            "field": "minute_regulation",
-            "type": "quantitative",
-            "title": "Match minute",
-            "axis": {"tickMinStep": 5, "labelAngle": 0}
+        "x": {
+          "label": "Year",
+          "type": "point"
+        },
+        "y": {
+          "label": "Goals per game",
+          "grid": true
+        },
+        "marks": [
+          {
+            "type": "line",
+            "x": "year",
+            "y": "avg_goals_per_game",
+            "stroke": "#1d4ed8",
+            "strokeWidth": 2
           },
-          "y": {
-            "aggregate": "count",
-            "type": "quantitative",
-            "title": "Goals scored"
-          },
-          "tooltip": [
-            {"field": "minute_regulation", "type": "quantitative", "title": "Minute"},
-            {"aggregate": "count", "type": "quantitative", "title": "Goals"}
-          ]
-        }
+          {
+            "type": "dot",
+            "x": "year",
+            "y": "avg_goals_per_game",
+            "fill": "#1d4ed8",
+            "r": 4,
+            "tip": true
+          }
+        ]
       }
     },
     {
-      "name": "goals-per-game",
-      "title": "Average Goals Per Game by Tournament",
-      "description": "Average number of goals per match at each men's World Cup (1930–2022). The 1954 Switzerland tournament peaks at 5.4 goals per game — the highest ever. The modern game has settled around 2.5–2.7.",
-      "resources": ["matches"],
-      "specType": "vega-lite",
+      "name": "goals-by-minute",
+      "title": "When Are World Cup Goals Scored?",
+      "description": "Distribution of goals by match minute across all men's World Cup tournaments (1930–2022), excluding own goals and stoppage time. Spikes at minutes 45 and 90 reflect stoppage-time goals logged at the regulation minute.",
+      "resourceName": "goals-by-minute-summary",
+      "specType": "plot",
       "spec": {
-        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
         "height": 380,
-        "transform": [
-          {"filter": "indexof(datum.tournament_name, 'Men') >= 0"},
-          {"filter": "datum.replayed == 0"},
-          {"calculate": "toNumber(datum.home_team_score) + toNumber(datum.away_team_score)", "as": "total_goals"},
-          {"calculate": "toNumber(slice(datum.tournament_id, 3))", "as": "year"},
+        "x": {
+          "label": "Match minute",
+          "type": "linear"
+        },
+        "y": {
+          "label": "Goals scored",
+          "grid": true
+        },
+        "marks": [
           {
-            "aggregate": [{"op": "mean", "field": "total_goals", "as": "goals_per_game"}],
-            "groupby": ["year", "tournament_name"]
+            "type": "barY",
+            "x": "minute",
+            "y": "goal_count",
+            "fill": "#1d4ed8",
+            "tip": true
           }
-        ],
-        "mark": {"type": "line", "point": true, "color": "#1d4ed8", "strokeWidth": 2, "tooltip": true},
-        "encoding": {
-          "x": {"field": "year", "type": "ordinal", "title": "Year"},
-          "y": {"field": "goals_per_game", "type": "quantitative", "title": "Goals per game"},
-          "tooltip": [
-            {"field": "tournament_name", "type": "nominal", "title": "Tournament"},
-            {"field": "goals_per_game", "type": "quantitative", "title": "Goals per game", "format": ".2f"}
-          ]
-        }
+        ]
       }
     },
     {
       "name": "top-scorers",
       "title": "Top 15 All-Time World Cup Scorers",
       "description": "Players with the most goals across all men's World Cup tournaments (1930–2022), excluding own goals. Miroslav Klose's record of 16 goals across four tournaments remains unmatched.",
-      "resources": ["goals"],
-      "specType": "vega-lite",
+      "resourceName": "top-scorers-summary",
+      "specType": "plot",
       "spec": {
-        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-        "height": {"step": 28},
-        "transform": [
-          {"filter": "datum.own_goal == 0"},
-          {"filter": "indexof(datum.tournament_name, 'Men') >= 0"},
-          {"calculate": "datum.given_name + ' ' + datum.family_name", "as": "player"},
+        "height": 450,
+        "marginLeft": 160,
+        "x": {
+          "label": "Goals",
+          "type": "linear"
+        },
+        "y": {
+          "label": null
+        },
+        "marks": [
           {
-            "aggregate": [{"op": "count", "as": "goals"}],
-            "groupby": ["player", "team_name"]
-          },
+            "type": "barX",
+            "x": "goals",
+            "y": "player",
+            "fill": "#1d4ed8",
+            "tip": true,
+            "sort": "x"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tournament-appearances",
+      "title": "World Cup Appearances by Nation",
+      "description": "Number of men's World Cup tournaments each nation has participated in (1930–2022). Brazil is the only country to have appeared in all 22 tournaments.",
+      "resourceName": "tournament-appearances",
+      "specType": "plot",
+      "spec": {
+        "height": 700,
+        "marginLeft": 140,
+        "x": {
+          "label": "Tournaments",
+          "type": "linear"
+        },
+        "y": {
+          "label": null
+        },
+        "marks": [
           {
-            "window": [{"op": "rank", "as": "rank"}],
-            "sort": [{"field": "goals", "order": "descending"}]
-          },
-          {"filter": "datum.rank <= 15"}
-        ],
-        "mark": {"type": "bar", "color": "#1d4ed8", "tooltip": true},
-        "encoding": {
-          "y": {
-            "field": "player",
-            "type": "nominal",
-            "sort": "-x",
-            "title": null
-          },
-          "x": {
-            "field": "goals",
-            "type": "quantitative",
-            "title": "Goals",
-            "axis": {"tickMinStep": 1}
-          },
-          "tooltip": [
-            {"field": "player", "type": "nominal", "title": "Player"},
-            {"field": "team_name", "type": "nominal", "title": "Country"},
-            {"field": "goals", "type": "quantitative", "title": "Goals"}
-          ]
-        }
+            "type": "barX",
+            "x": "appearances",
+            "y": "team_name",
+            "fill": "#1d4ed8",
+            "tip": true,
+            "sort": "x"
+          }
+        ]
       }
     }
   ]
