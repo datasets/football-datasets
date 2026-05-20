@@ -2173,7 +2173,8 @@
             "x": "goals",
             "y": "player",
             "fill": "#111",
-            "tip": true
+            "tip": true,
+            "sort": "-goals"
           }
         ]
       }
@@ -2200,7 +2201,8 @@
             "x": "appearances",
             "y": "team_name",
             "fill": "#111",
-            "tip": true
+            "tip": true,
+            "sort": "-appearances"
           }
         ]
       }
