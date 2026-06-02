@@ -1,0 +1,4 @@
+metric,value_mt,note,source_url
+sgr_recalc_avg_2010_22,4.71,SGR fuller-scope recalculation of the 2010-22 average (like-for-like with the 2026 projection),https://www.sgr.org.uk/publications/fifa-s-climate-blind-spot-men-s-world-cup-warming-world
+air_travel_2026,7.72,Aviation share of the 2026 projection (~86% of 9.02),https://www.sgr.org.uk/publications/fifa-s-climate-blind-spot-men-s-world-cup-warming-world
+other_2026,1.3,Non-aviation share of 2026 (9.02 - 7.72),derived

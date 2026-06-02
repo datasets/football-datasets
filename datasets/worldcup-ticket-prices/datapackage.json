@@ -1,0 +1,122 @@
+{
+  "name": "worldcup-ticket-prices",
+  "title": "FIFA World Cup Final Ticket Prices per Edition (1994–2026)",
+  "description": "Most expensive (Category-1) World Cup FINAL ticket, face value, nominal USD, one row per edition 1994–2026, plus the 2026 price tiers. THIN dataset: 1998 & 2006 have no reliable primary face-value source (blank, not interpolated); the 2014 figure is disputed (likely resale, flagged). Prices are nominal (not inflation-adjusted).",
+  "licenses": [
+    {
+      "name": "other-at",
+      "title": "Factual figures compiled from FIFA announcements + reporting; NY/NJ AG release is public domain. Reuse with attribution."
+    }
+  ],
+  "sources": [
+    {
+      "title": "SI.com — 2026 vs historical World Cup final prices (cites Statista + FIFA)",
+      "path": "https://www.si.com/soccer/how-outrageous-ticket-prices-for-2026-world-cup-final-compare-to-past-years"
+    },
+    {
+      "title": "NY/NJ Attorneys General — subpoena of FIFA over ticket pricing (27 May 2026)",
+      "path": "https://ag.ny.gov/press-release/2026/attorney-general-james-and-attorney-general-davenport-subpoena-fifa-over-world"
+    },
+    {
+      "title": "FIFA — 2026 ticket pricing tiers",
+      "path": "https://inside.fifa.com/news/world-cup-2026-new-ticket-pricing-tier-fans-qualified-teams"
+    }
+  ],
+  "resources": [
+    {
+      "name": "ticket_prices",
+      "path": "ticket_prices.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "format": "default",
+            "description": "World Cup edition year (1994–2026)"
+          },
+          {
+            "name": "host",
+            "type": "string",
+            "format": "default",
+            "description": "Host nation(s)"
+          },
+          {
+            "name": "cat1_final_usd_nominal",
+            "type": "number",
+            "format": "default",
+            "description": "Most expensive (Category-1) final ticket, face value, nominal USD. Blank where no reliable primary exists (1998, 2006)."
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "format": "default",
+            "description": "Data-quality flag: face_value | face_value_approx | face_value_phase4_cat1 | DISPUTED_likely_resale | missing"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "format": "default",
+            "description": "Citation / source link"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ticket_2026_tiers",
+      "path": "ticket_2026_tiers.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "tier",
+            "type": "string",
+            "format": "default",
+            "description": "2026 price tier / category"
+          },
+          {
+            "name": "price_usd",
+            "type": "integer",
+            "format": "default",
+            "description": "Price in USD"
+          },
+          {
+            "name": "kind",
+            "type": "string",
+            "format": "default",
+            "description": "Face value vs resale, and notes"
+          }
+        ]
+      }
+    },
+    {
+      "name": "figure",
+      "path": "figure.png",
+      "format": "png",
+      "mediatype": "image/png",
+      "title": "Hero chart",
+      "description": "Headline visualization for the data story."
+    },
+    {
+      "name": "story",
+      "path": "STORY.md",
+      "format": "md",
+      "mediatype": "text/markdown",
+      "title": "Data story",
+      "description": "Narrative write-up of the insight, with caveats and provenance."
+    }
+  ],
+  "image": "figure.png"
+}
