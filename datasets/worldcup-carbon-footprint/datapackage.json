@@ -126,5 +126,35 @@
       "description": "Narrative write-up of the insight, with caveats and provenance."
     }
   ],
+  "views": [
+    {
+      "name": "emissions-per-edition",
+      "title": "World Cup Carbon Footprint per Edition (2010–2034)",
+      "description": "Total greenhouse-gas footprint (million tonnes CO2e) of each men's World Cup, one bar per edition. The `basis` column records which accounting scope each bar uses — FIFA self-reported audits (2010–2022, narrower scope) vs SGR / New Weather Institute projections for the expanded 48-team tournaments (2026–2034, fuller scope); the two are NOT directly comparable (see the `basis` column and the README). For the honest like-for-like figure, compare 2026 (9.02 Mt) against SGR's recalculated 2010–22 average (4.71 Mt) in emissions_reference.csv.",
+      "resourceName": "emissions_per_edition",
+      "specType": "plot",
+      "spec": {
+        "height": 380,
+        "marginBottom": 45,
+        "x": {
+          "label": "Edition (year)",
+          "type": "band"
+        },
+        "y": {
+          "label": "Million tonnes CO2e",
+          "grid": true
+        },
+        "marks": [
+          {
+            "type": "barY",
+            "x": "year",
+            "y": "co2e_mt",
+            "fill": "#111",
+            "tip": true
+          }
+        ]
+      }
+    }
+  ],
   "image": "figure.png"
 }

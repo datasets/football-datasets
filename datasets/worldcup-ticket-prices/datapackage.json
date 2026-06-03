@@ -118,5 +118,73 @@
       "description": "Narrative write-up of the insight, with caveats and provenance."
     }
   ],
+  "views": [
+    {
+      "name": "final-ticket-price-over-time",
+      "title": "Most Expensive World Cup Final Ticket, Face Value (1994–2026)",
+      "description": "Category-1 final ticket, face value, nominal USD, one point per edition. 1998 and 2006 are absent (no reliable primary source — left blank, NOT interpolated, so the line gaps there); 2014 is flagged DISPUTED in the `status` column (likely a resale figure, not face value). Prices are nominal — not inflation-adjusted. The 2026 jump to $10,990 is the headline.",
+      "resourceName": "ticket_prices",
+      "specType": "plot",
+      "spec": {
+        "height": 380,
+        "x": {
+          "label": "Edition (year)",
+          "type": "point",
+          "tickFormat": "d"
+        },
+        "y": {
+          "label": "USD (nominal)",
+          "grid": true
+        },
+        "marks": [
+          {
+            "type": "line",
+            "x": "year",
+            "y": "cat1_final_usd_nominal",
+            "stroke": "#111",
+            "strokeWidth": 2
+          },
+          {
+            "type": "dot",
+            "x": "year",
+            "y": "cat1_final_usd_nominal",
+            "fill": "#111",
+            "r": 4,
+            "tip": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "ticket-2026-tiers",
+      "title": "2026 World Cup Final — Price by Tier",
+      "description": "2026 final ticket prices in USD. Face-value tiers run from the $60 supporter-entry floor to the $10,990 Category-1 ticket; the $32,970 'resale peak' is secondary-market / dynamic pricing — NOT face value (see the `kind` column). Bars sorted by price.",
+      "resourceName": "ticket_2026_tiers",
+      "specType": "plot",
+      "spec": {
+        "height": 320,
+        "marginLeft": 150,
+        "x": {
+          "label": "USD",
+          "type": "linear"
+        },
+        "y": {
+          "label": null
+        },
+        "marks": [
+          {
+            "type": "barX",
+            "x": "price_usd",
+            "y": "tier",
+            "fill": "#111",
+            "tip": true,
+            "sort": {
+              "y": "-x"
+            }
+          }
+        ]
+      }
+    }
+  ],
   "image": "figure.png"
 }
