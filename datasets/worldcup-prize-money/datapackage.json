@@ -1,0 +1,144 @@
+{
+  "name": "worldcup-prize-money",
+  "title": "FIFA World Cup Prize Money — Per Team, Per Position, Per Edition",
+  "description": "How FIFA World Cup prize money is split. Three linked tables: (1) prize_by_team — what every one of the 128 teams across the 2010, 2014, 2018 and 2022 men's tournaments earned, by where they finished; (2) prize_schedule — the per-position payout schedule for each edition 2010–2026 (including the 48-team 2026 expansion); (3) prize_pool_by_edition — total prize pool per edition, men's 1982–2026 AND women's 1991–2027, exposing the gender gap. Every figure is self-validated: the per-team payouts sum exactly to each edition's published prize pool (348/358/400/440 USD million), and each schedule sums to its pool. Figures are nominal USD.",
+  "licenses": [
+    {
+      "name": "odc-pddl",
+      "title": "Open Data Commons Public Domain Dedication and License (PDDL)",
+      "path": "http://opendatacommons.org/licenses/pddl/1.0/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "FIFA prize-money announcements (per-edition pools and per-position schedules), compiled via topendsports and reporting",
+      "path": "https://www.topendsports.com/events/worldcupsoccer/prizes.htm"
+    },
+    {
+      "title": "FIFA 2022 prize distribution (per-position breakdown)",
+      "path": "https://www.nbcsports.com/soccer/news/world-cup-prize-money-table-how-much-will-each-country-earn"
+    },
+    {
+      "title": "Final placements / team progression — Fjelstul World Cup Database",
+      "path": "https://github.com/jfjelstul/worldcup"
+    }
+  ],
+  "resources": [
+    {
+      "name": "prize_by_team",
+      "path": "prize_by_team.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {"delimiter": ",", "quoteChar": "\""},
+      "schema": {
+        "fields": [
+          {"name": "year", "type": "integer", "description": "World Cup edition year (2010–2022 men's; editions with a published per-position schedule and final results)"},
+          {"name": "team", "type": "string", "description": "National team"},
+          {"name": "result", "type": "string", "description": "Finishing bracket: Winner, Runner-up, Third place, Fourth place, Quarter-finals, Round of 16, Group stage. Derived from final standings (top 4) and furthest stage reached (Fjelstul match data)."},
+          {"name": "position_range", "type": "string", "description": "FIFA payout band the result maps to: 1, 2, 3, 4, 5-8, 9-16, 17-32"},
+          {"name": "prize_usd_m", "type": "number", "description": "Prize money earned for that finish, USD millions (nominal). Per-team values sum exactly to the edition prize pool."}
+        ]
+      }
+    },
+    {
+      "name": "prize_schedule",
+      "path": "prize_schedule.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {"delimiter": ",", "quoteChar": "\""},
+      "schema": {
+        "fields": [
+          {"name": "year", "type": "integer", "description": "World Cup edition year (2010–2026 men's)"},
+          {"name": "result", "type": "string", "description": "Finishing bracket the payout applies to"},
+          {"name": "position_range", "type": "string", "description": "Final-placement band. Note 2026 expands to 48 teams: adds a Round of 32 (17-32) band and a 33-48 group band."},
+          {"name": "prize_usd_m", "type": "number", "description": "Payout per team in that band, USD millions (nominal). Schedule sums to the edition prize pool."}
+        ]
+      }
+    },
+    {
+      "name": "prize_pool_by_edition",
+      "path": "prize_pool_by_edition.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {"delimiter": ",", "quoteChar": "\""},
+      "schema": {
+        "fields": [
+          {"name": "year", "type": "integer", "description": "World Cup edition year"},
+          {"name": "competition", "type": "string", "description": "'men' or 'women'"},
+          {"name": "prize_pool_usd_m", "type": "number", "description": "Total prize pool, USD millions (nominal). Blank for 2027 women's (parity target announced, figure TBA)."},
+          {"name": "note", "type": "string", "description": "Scope note: pre-2014 men's figures are FIFA total contribution (broader scope, not prize-comparable); 2014+ are prize-money-proper. Women's 0 before 2007."}
+        ]
+      }
+    },
+    {
+      "name": "prize_2022_by_team",
+      "path": "prize_2022_by_team.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {"delimiter": ",", "quoteChar": "\""},
+      "schema": {
+        "fields": [
+          {"name": "team", "type": "string", "description": "National team at Qatar 2022"},
+          {"name": "result", "type": "string", "description": "Finishing bracket"},
+          {"name": "prize_usd_m", "type": "number", "description": "Prize earned, USD millions (nominal). View-support subset of prize_by_team filtered to 2022; sums to $440M."}
+        ]
+      }
+    },
+    {
+      "name": "figure",
+      "path": "figure.png",
+      "format": "png",
+      "mediatype": "image/png",
+      "title": "Hero chart",
+      "description": "Prize money per team by finishing position, 2022 edition."
+    },
+    {
+      "name": "story",
+      "path": "STORY.md",
+      "format": "md",
+      "mediatype": "text/markdown",
+      "title": "Data story",
+      "description": "Narrative write-up with methodology, validation and caveats."
+    }
+  ],
+  "views": [
+    {
+      "name": "prize-by-position-2022",
+      "title": "What Each 2022 World Cup Team Earned, by Finish",
+      "description": "Prize money per team at Qatar 2022 (USD millions), one bar per team, sorted by amount — Argentina's $42M down to $9M for each group-stage exit. These 32 values sum exactly to the $440M pool.",
+      "resourceName": "prize_2022_by_team",
+      "specType": "plot",
+      "spec": {
+        "height": 640,
+        "marginLeft": 130,
+        "x": {"label": "Prize (USD millions)", "type": "linear"},
+        "y": {"label": null},
+        "marks": [
+          {"type": "barX", "x": "prize_usd_m", "y": "team", "fill": "#111", "tip": true, "sort": {"y": "-x"}}
+        ]
+      }
+    },
+    {
+      "name": "pool-men-vs-women",
+      "title": "Prize Pool per Edition — Men's vs Women's",
+      "description": "Total prize pool per World Cup edition, USD millions (nominal). Both series share one axis to show the gap: the 2022 men's pool ($440M) was 4x the 2023 women's pool ($110M). Men's drawn in black, women's in grey. Pre-2014 men's points are FIFA total contribution (broader scope) — see the note column. FIFA has announced prize parity by 2027.",
+      "resourceName": "prize_pool_by_edition",
+      "specType": "plot",
+      "spec": {
+        "height": 400,
+        "color": {"legend": true, "domain": ["men", "women"], "range": ["#111", "#999"]},
+        "x": {"label": "Year", "type": "linear", "tickFormat": "d"},
+        "y": {"label": "Prize pool (USD millions)", "grid": true},
+        "marks": [
+          {"type": "line", "x": "year", "y": "prize_pool_usd_m", "stroke": "competition", "strokeWidth": 2},
+          {"type": "dot", "x": "year", "y": "prize_pool_usd_m", "stroke": "competition", "fill": "competition", "r": 4, "tip": true}
+        ]
+      }
+    }
+  ],
+  "image": "figure.png"
+}
