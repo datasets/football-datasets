@@ -111,8 +111,8 @@
     },
     {
       "name": "story",
-      "path": "STORY.md",
-      "format": "md",
+      "path": "an-11-000-final-ticket-how-the-2026-world-cup-priced-out-its-own-fans/STORY.mdx",
+      "format": "mdx",
       "mediatype": "text/markdown",
       "title": "Data story",
       "description": "Narrative write-up of the insight, with caveats and provenance."

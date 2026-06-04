@@ -119,8 +119,8 @@
     },
     {
       "name": "story",
-      "path": "STORY.md",
-      "format": "md",
+      "path": "each-world-cups-carbon-footprint-and-why-2026-breaks-the-chart/STORY.mdx",
+      "format": "mdx",
       "mediatype": "text/markdown",
       "title": "Data story",
       "description": "Narrative write-up of the insight, with caveats and provenance."

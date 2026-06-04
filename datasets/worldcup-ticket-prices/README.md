@@ -39,4 +39,4 @@ Figures are factual; reuse **with attribution**. AG press release is public doma
 
 ![hero chart](figure.png)
 
-Full narrative — headline, why-now, caveats, provenance, and ready-to-post copy — in [`STORY.md`](STORY.md). This data story was fact-checked by an adversarial review pass (figures recomputed against primary sources) before release.
+Full narrative — headline, why-now, caveats, provenance, and ready-to-post copy — in [`an-11-000-final-ticket-how-the-2026-world-cup-priced-out-its-own-fans/STORY.mdx`](an-11-000-final-ticket-how-the-2026-world-cup-priced-out-its-own-fans/STORY.mdx). This data story was fact-checked by an adversarial review pass (figures recomputed against primary sources) before release.

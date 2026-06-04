@@ -1,3 +1,49 @@
+export const chartSpec = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "World Cup carbon footprint per edition (Mt CO₂e)",
+  "data": {
+    "url": "../emissions_per_edition.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "ordinal",
+      "title": "Edition"
+    },
+    "y": {
+      "field": "co2e_mt",
+      "type": "quantitative",
+      "title": "Mt CO₂e"
+    },
+    "color": {
+      "field": "basis",
+      "type": "nominal",
+      "title": "Accounting basis",
+      "scale": {
+        "range": [
+          "#1f77b4",
+          "#d62728"
+        ]
+      }
+    },
+    "tooltip": [
+      {
+        "field": "year"
+      },
+      {
+        "field": "host"
+      },
+      {
+        "field": "co2e_mt"
+      },
+      {
+        "field": "basis"
+      }
+    ]
+  }
+};
+
 # Each World Cup's carbon footprint — and why 2026 breaks the chart
 *The 2026 finals are projected at ~9 million tonnes of CO₂ — and the data shows why: a continent-sized, three-nation tournament runs on flights.*
 
@@ -12,7 +58,11 @@ Two different measurements sit behind this story, and they are **not** on the sa
 
 So the honest comparison is **2026 (9.0) vs the dashed 4.71 line — both fuller-scope → +92%.** Comparing the red 2026 bar straight to the blue self-reported bars would *overstate* the jump, because the blue bars undercount (SGR's central argument: FIFA self-reports leave out most aviation — which is exactly why the blue bars sit *below* the dashed recalculated average).
 
-![CO₂e by World Cup, per host nation](figure.png)
+## The chart
+*Per-edition CO₂e (Mt). Blue = each host's own FIFA-scope report (2010–2022); red = SGR's fuller-scope projections (2026–2034). The two scopes are not directly comparable — see below.*
+
+<VegaLite spec={chartSpec} />
+
 
 ## Data & provenance
 - **Data files:** [`data/emissions_per_edition.csv`](emissions_per_edition.csv) (7 tournaments — host, Mt, and which methodology) + [`data/emissions_reference.csv`](emissions_reference.csv) (SGR recalc average; 2026 air/other split). Rendered by the charting pipeline.

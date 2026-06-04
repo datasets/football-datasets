@@ -1,3 +1,45 @@
+export const chartSpec = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "World Cup final ticket price by edition (USD, nominal)",
+  "data": {
+    "url": "../ticket_prices.csv"
+  },
+  "mark": {
+    "type": "line",
+    "point": true,
+    "color": "#111"
+  },
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "quantitative",
+      "title": "Edition",
+      "axis": {
+        "format": "d"
+      }
+    },
+    "y": {
+      "field": "cat1_final_usd_nominal",
+      "type": "quantitative",
+      "title": "USD (nominal)"
+    },
+    "tooltip": [
+      {
+        "field": "year"
+      },
+      {
+        "field": "host"
+      },
+      {
+        "field": "cat1_final_usd_nominal"
+      },
+      {
+        "field": "status"
+      }
+    ]
+  }
+};
+
 # An $11,000 final ticket: how the 2026 World Cup priced out its own fans
 *For three decades a World Cup final seat ran in the hundreds to low thousands. In 2026 it hit five figures — and two attorneys general want to know why.*
 
@@ -6,7 +48,11 @@
 **Why now:** the AG subpoena is days old (May 27 2026) and the tournament kicks off June 11 — the story is live.
 
 ## Each edition, with its gaps shown
-![World Cup final ticket price by edition](figure.png)
+## The chart
+*Most expensive (Category-1) final ticket, face value, nominal USD. 1998 & 2006 are gaps (no reliable primary); 2014 is disputed and excluded from the trend.*
+
+<VegaLite spec={chartSpec} />
+
 *Category-1 final ticket, face value, nominal USD. 1998 & 2006 have no reliable primary source (shown as gaps, not interpolated); 2014's widely-cited ~$6,000 is disputed (likely resale) and excluded from the trend. The clean, low-inflation comparison is 2018 → 2022 → 2026.*
 
 ## Data & provenance

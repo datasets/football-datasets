@@ -42,4 +42,4 @@ Figures are factual and reusable **with attribution** to the sources above.
 
 ![hero chart](figure.png)
 
-Full narrative — headline, why-now, caveats, provenance, and ready-to-post copy — in [`STORY.md`](STORY.md). This data story was fact-checked by an adversarial review pass (figures recomputed against primary sources) before release.
+Full narrative — headline, why-now, caveats, provenance, and ready-to-post copy — in [`each-world-cups-carbon-footprint-and-why-2026-breaks-the-chart/STORY.mdx`](each-world-cups-carbon-footprint-and-why-2026-breaks-the-chart/STORY.mdx). This data story was fact-checked by an adversarial review pass (figures recomputed against primary sources) before release.
