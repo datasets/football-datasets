@@ -1,30 +1,16 @@
-export const chartSpec = {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Average attendance per men's World Cup (1930–2022)",
-  "data": { "url": "../attendance.csv" },
-  "mark": { "type": "line", "point": true, "color": "#111" },
-  "encoding": {
-    "x": { "field": "year", "type": "quantitative", "title": "Year", "axis": { "format": "d" } },
-    "y": { "aggregate": "mean", "field": "attendance", "type": "quantitative", "title": "Average attendance" },
-    "tooltip": [
-      { "field": "year", "type": "ordinal" },
-      { "aggregate": "mean", "field": "attendance", "type": "quantitative", "title": "avg attendance", "format": ",.0f" },
-      { "aggregate": "count", "title": "matches" }
-    ]
-  }
-};
-
 # The World Cup's Biggest Crowds — 964 Matches, 92 Years
 
-The Fjelstul match tables in this `worldcup` dataset record every men's World Cup match
+The Fjelstul match tables in the `worldcup` dataset record every men's World Cup match
 ever played — but not a single attendance figure. The **`attendance` resource** fills
 that gap: **all 964 men's matches from Uruguay 1930 to Qatar 2022, each with the crowd
 that watched it.**
 
-## The chart
-*Average spectators per match at each men's World Cup, 1930–2022 (computed live from the `attendance` resource). USA 1994 (68,991/match) is still the record.*
-
-<VegaLite spec={chartSpec} />
+## The trend, edition by edition
+Averaged per match across each men's World Cup from 1930 to 2022, attendance climbed
+through the early decades and then settled into a band. **USA 1994 (68,991 per match)
+is still the record.** Totals rose as the tournament expanded, but the per-edition
+average is flatter — peaking in 1994 and bouncing between ~42,000 and ~53,000 in the
+64-match era.
 
 ## The headline number
 
@@ -54,10 +40,9 @@ total records. For comparison:
 
 ## What's in the resource
 
-- **`attendance.csv`** — one row per match: `year`, `stage`, `phase`, `date`, both teams,
+- **[`attendance.csv`](../worldcup/attendance.csv)** — one row per match: `year`, `stage`, `phase`, `date`, both teams,
   `score`, `attendance`, `stadium`, `city`, and a per-row `source`. Joins to the match
-  tables (e.g. `matches.csv`) on `(year, teams, date)`. The chart above aggregates it to
-  a per-edition average on the fly.
+  tables (e.g. `matches.csv`) on `(year, teams, date)`.
 
 ## How it was built & validated
 
@@ -84,3 +69,5 @@ for every row.
 - **Historical team names are preserved** (West Germany, Yugoslavia, Soviet Union).
 - The `score` column is full-time/AET as recorded; penalty-shootout results are not
   encoded separately.
+
+Full dataset notes: [`worldcup/README.md`](../worldcup/README.md).
