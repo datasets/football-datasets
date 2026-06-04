@@ -32,7 +32,7 @@ Every figure is self-checking:
 - **Pre-2014 men's pool figures are FIFA *total contribution*** (a broader scope including preparation/club benefit payments), not directly comparable to the 2014+ prize-money-proper figures — flagged in the `note` column.
 - The women's series is per-edition totals only (per-team women's schedules differ structurally and are a planned extension).
 
-See `STORY.md` for the full narrative.
+See `42-million-to-win-9-million-to-show-up-and-a-4x-gender-gap/STORY.mdx` for the full narrative.
 
 ## Maintenance
 

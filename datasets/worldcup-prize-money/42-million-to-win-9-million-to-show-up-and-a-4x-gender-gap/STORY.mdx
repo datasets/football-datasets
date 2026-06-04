@@ -1,6 +1,47 @@
+export const chartSpec = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "What each team earned at the 2022 World Cup (USD m)",
+  "data": {
+    "url": "../prize_2022_by_team.csv"
+  },
+  "mark": {
+    "type": "bar",
+    "color": "#111"
+  },
+  "encoding": {
+    "y": {
+      "field": "team",
+      "type": "nominal",
+      "sort": "-x",
+      "title": null
+    },
+    "x": {
+      "field": "prize_usd_m",
+      "type": "quantitative",
+      "title": "Prize (USD millions)"
+    },
+    "tooltip": [
+      {
+        "field": "team"
+      },
+      {
+        "field": "result"
+      },
+      {
+        "field": "prize_usd_m"
+      }
+    ]
+  }
+};
+
 # $42 Million to Win, $9 Million to Show Up — and a 4x Gender Gap
 
 The `worldcup` dataset tells you who won. This one tells you what it paid.
+
+## The chart
+*Prize money per team at Qatar 2022 (USD millions) — Argentina's $42M down to $9M per group-stage exit. The 32 values sum to the $440M pool.*
+
+<VegaLite spec={chartSpec} />
 
 ## What each team takes home
 
