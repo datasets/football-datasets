@@ -1,47 +1,11 @@
-export const chartSpec = {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "What each team earned at the 2022 World Cup (USD m)",
-  "data": {
-    "url": "../prize_2022_by_team.csv"
-  },
-  "mark": {
-    "type": "bar",
-    "color": "#111"
-  },
-  "encoding": {
-    "y": {
-      "field": "team",
-      "type": "nominal",
-      "sort": "-x",
-      "title": null
-    },
-    "x": {
-      "field": "prize_usd_m",
-      "type": "quantitative",
-      "title": "Prize (USD millions)"
-    },
-    "tooltip": [
-      {
-        "field": "team"
-      },
-      {
-        "field": "result"
-      },
-      {
-        "field": "prize_usd_m"
-      }
-    ]
-  }
-};
-
 # $42 Million to Win, $9 Million to Show Up — and a 4x Gender Gap
 
 The `worldcup` dataset tells you who won. This one tells you what it paid.
 
-## The chart
-*Prize money per team at Qatar 2022 (USD millions) — Argentina's $42M down to $9M per group-stage exit. The 32 values sum to the $440M pool.*
-
-<VegaLite spec={chartSpec} />
+## What 2022 paid, team by team
+Ranked by prize money, Qatar 2022 ran from **Argentina's $42M** for lifting the trophy
+down to **$9M** for each of the 16 teams knocked out in the group stage. Those 32 payouts
+sum to exactly the **$440M** published pool.
 
 ## What each team takes home
 
@@ -59,7 +23,7 @@ FIFA splits the World Cup prize pool by how far you go. At **Qatar 2022**, that 
 
 Argentina's $42M down to $9M for each of the 16 teams that went home after the group
 stage. **Those 32 cheques add up to exactly $440 million** — the published prize pool.
-That's the validation built into this dataset: in `prize_by_team.csv`, every edition's
+That's the validation built into this dataset: in [`prize_by_team.csv`](../worldcup-prize-money/prize_by_team.csv), every edition's
 per-team payouts sum to the official pool to the dollar (2010 $348M, 2014 $358M,
 2018 $400M, 2022 $440M).
 
@@ -74,12 +38,12 @@ per-team payouts sum to the official pool to the dollar (2010 $348M, 2014 $358M,
 | 2026 USA/CAN/MEX | **$50M** | $655M |
 
 2026 is the big jump — a 48-team field, a $655M pool, and a brand-new **Round-of-32**
-payout band (see `prize_schedule.csv`). Each schedule sums to its pool too:
+payout band (see [`prize_schedule.csv`](../worldcup-prize-money/prize_schedule.csv)). Each schedule sums to its pool too:
 50+33+29+27 + 19×4 + 15×8 + 11×16 + 9×16 = $655M.
 
 ## The gap the money exposes
 
-Put the men's and women's prize pools on the same axis (`prize_pool_by_edition.csv`)
+Put the men's and women's prize pools on the same axis ([`prize_pool_by_edition.csv`](../worldcup-prize-money/prize_pool_by_edition.csv))
 and the story is stark:
 
 - The **2022 men's pool was $440M**. The **2023 women's pool was $110M** — a **4-to-1 gap**.
@@ -108,3 +72,5 @@ and the story is stark:
 - The women's series here is **per-edition totals**; per-team women's payouts (which mix
   team and individual-player components) are a planned extension.
 - All figures are **nominal USD** — not inflation-adjusted.
+
+Full dataset notes: [`worldcup-prize-money/README.md`](../worldcup-prize-money/README.md).
