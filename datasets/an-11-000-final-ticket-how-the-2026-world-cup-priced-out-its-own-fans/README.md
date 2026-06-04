@@ -1,45 +1,3 @@
-export const chartSpec = {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "World Cup final ticket price by edition (USD, nominal)",
-  "data": {
-    "url": "../ticket_prices.csv"
-  },
-  "mark": {
-    "type": "line",
-    "point": true,
-    "color": "#111"
-  },
-  "encoding": {
-    "x": {
-      "field": "year",
-      "type": "quantitative",
-      "title": "Edition",
-      "axis": {
-        "format": "d"
-      }
-    },
-    "y": {
-      "field": "cat1_final_usd_nominal",
-      "type": "quantitative",
-      "title": "USD (nominal)"
-    },
-    "tooltip": [
-      {
-        "field": "year"
-      },
-      {
-        "field": "host"
-      },
-      {
-        "field": "cat1_final_usd_nominal"
-      },
-      {
-        "field": "status"
-      }
-    ]
-  }
-};
-
 # An $11,000 final ticket: how the 2026 World Cup priced out its own fans
 *For three decades a World Cup final seat ran in the hundreds to low thousands. In 2026 it hit five figures — and two attorneys general want to know why.*
 
@@ -48,17 +6,12 @@ export const chartSpec = {
 **Why now:** the AG subpoena is days old (May 27 2026) and the tournament kicks off June 11 — the story is live.
 
 ## Each edition, with its gaps shown
-## The chart
-*Most expensive (Category-1) final ticket, face value, nominal USD. 1998 & 2006 are gaps (no reliable primary); 2014 is disputed and excluded from the trend.*
-
-<VegaLite spec={chartSpec} />
-
-*Category-1 final ticket, face value, nominal USD. 1998 & 2006 have no reliable primary source (shown as gaps, not interpolated); 2014's widely-cited ~$6,000 is disputed (likely resale) and excluded from the trend. The clean, low-inflation comparison is 2018 → 2022 → 2026.*
+Tracked across editions, the most expensive (Category-1) final ticket — face value, nominal USD — was flat in the hundreds-to-low-thousands range for decades before spiking in 2026. Two editions are genuine gaps with no reliable primary source (**1998** and **2006**), and they are left as gaps rather than interpolated. **2014's** widely-cited ~$6,000 figure is disputed (likely a resale price) and is excluded from the trend. The clean, low-inflation comparison is **2018 → 2022 → 2026**, and that is where the jump to $10,990 stands out.
 
 ## Data & provenance
-- **Data files:** [`data/ticket_prices.csv`](ticket_prices.csv) (per-edition Cat-1 final, each figure status-flagged) + [`data/ticket_2026_tiers.csv`](ticket_2026_tiers.csv). Rendered by the charting pipeline.
+- **Data files:** [`ticket_prices.csv`](../worldcup-ticket-prices/ticket_prices.csv) (per-edition Cat-1 final, each figure status-flagged) + [`ticket_2026_tiers.csv`](../worldcup-ticket-prices/ticket_2026_tiers.csv).
 - **Sources:** [SI.com](https://www.si.com/soccer/how-outrageous-ticket-prices-for-2026-world-cup-final-compare-to-past-years) (per-edition, cites Statista+FIFA); [NY/NJ AG press release](https://ag.ny.gov/press-release/2026/attorney-general-james-and-attorney-general-davenport-subpoena-fifa-over-world) (**primary** — the probe); [FIFA](https://inside.fifa.com/news/world-cup-2026-new-ticket-pricing-tier-fans-qualified-teams) ($60 tier); [The World Cup Guide](https://theworldcupguide.com/how-much-are-world-cup-tickets-since-1994/) (real-terms). *Why:* no single dataset exists, so the well-sourced 2026 figures + the primary AG probe carry the story; older editions add context with flags.
-- **Lineage:** journalism + AG release + FIFA → `data/ticket_prices.csv` (status column flags face-value / disputed / missing) → `the charting pipeline` → chart. Full notes: [`README.md`](README.md).
+- **Lineage:** journalism + AG release + FIFA → `ticket_prices.csv` (status column flags face-value / disputed / missing). Full dataset notes: [`worldcup-ticket-prices/README.md`](../worldcup-ticket-prices/README.md).
 
 **Caveat (data is THIN):** prices are **nominal** (not inflation-adjusted); in real terms pre-2026 finals were roughly flat (~$1,300 in 2026 dollars). 1998/2006 are genuine gaps; **2014 is disputed** (likely resale). The unprecedented 2026 level holds regardless — even 1994's ~$1,500 nominal (~$3,200 real) is a fraction of $10,990.
 
