@@ -38,36 +38,8 @@ total records. For comparison:
   to 64 (1998–2022), but *average* attendance is flatter — peaking in 1994 and bouncing
   between ~42,000 and ~53,000 in the 64-match era.
 
-## What's in the resource
-
-- **[`attendance.csv`](../worldcup/attendance.csv)** — one row per match: `year`, `stage`, `phase`, `date`, both teams,
-  `score`, `attendance`, `stadium`, `city`, and a per-row `source`. Joins to the match
-  tables (e.g. `matches.csv`) on `(year, teams, date)`.
-
-## How it was built & validated
-
-Attendance is not in the Fjelstul database, so it was assembled from two sources and
-**cross-checked against an independent reference** before inclusion:
-
-| Editions | Source | Validation result |
-|---|---|---|
-| 1930–2010 (19 editions) | Kaggle/FIFA `WorldCupMatches` | Per-tournament averages match the independent `fifa-stats` reference **to the exact person (0.0%)** |
-| 2014 | Wikipedia match reports | Within **1.3%** of the reference (announced match-day figures) |
-| 2018, 2022 | Wikipedia match reports | Tournament totals match FIFA's official figures **exactly** (3,031,768 and 3,404,252) |
-
-Two matches absent from the Wikipedia knockout wikitext (the 2014 Germany 7–1 Brazil
-semifinal and the 2022 Netherlands–Argentina quarter-final) were sourced individually
-and are flagged in the `source` column. The per-match `source` column records provenance
-for every row.
-
-## Caveats
-
-- **Scope is men's only** — the `attendance` resource covers the 964 men's matches; women's
-  World Cup attendance is not included here.
-- **2014–2022 use announced match-day attendance** (as reported by Wikipedia/FIFA);
-  FIFA occasionally revises figures, which is why 2014 sits 1.3% from the older reference.
-- **Historical team names are preserved** (West Germany, Yugoslavia, Soviet Union).
-- The `score` column is full-time/AET as recorded; penalty-shootout results are not
-  encoded separately.
-
-Full dataset notes: [`worldcup/README.md`](../worldcup/README.md).
+## Sources
+- **Fjelstul World Cup Database** — the men's World Cup match tables.
+- **Kaggle / FIFA `WorldCupMatches`** — attendance for 1930–2010.
+- **Wikipedia match reports** — attendance for 2014–2022.
+- **FIFA official figures** — tournament totals for 2018 and 2022.
