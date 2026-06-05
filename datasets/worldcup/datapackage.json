@@ -2151,14 +2151,6 @@
           }
         ]
       }
-    },
-    {
-      "name": "attendance-story",
-      "path": "the-world-cups-biggest-crowds-964-matches-92-years/STORY.mdx",
-      "format": "mdx",
-      "mediatype": "text/markdown",
-      "title": "Data story: World Cup attendance",
-      "description": "Narrative on the attendance resource — biggest crowds, the 1950 Maracanazo record, USA 1994, methodology and caveats. Renders the per-edition average chart from attendance.csv."
     }
   ],
   "views": [
