@@ -1,0 +1,190 @@
+{
+  "name": "worldcup-ticket-prices",
+  "title": "FIFA World Cup Final Ticket Prices per Edition (1994–2026)",
+  "description": "Most expensive (Category-1) World Cup FINAL ticket, face value, nominal USD, one row per edition 1994–2026, plus the 2026 price tiers. THIN dataset: 1998 & 2006 have no reliable primary face-value source (blank, not interpolated); the 2014 figure is disputed (likely resale, flagged). Prices are nominal (not inflation-adjusted).",
+  "licenses": [
+    {
+      "name": "other-at",
+      "title": "Factual figures compiled from FIFA announcements + reporting; NY/NJ AG release is public domain. Reuse with attribution."
+    }
+  ],
+  "sources": [
+    {
+      "title": "SI.com — 2026 vs historical World Cup final prices (cites Statista + FIFA)",
+      "path": "https://www.si.com/soccer/how-outrageous-ticket-prices-for-2026-world-cup-final-compare-to-past-years"
+    },
+    {
+      "title": "NY/NJ Attorneys General — subpoena of FIFA over ticket pricing (27 May 2026)",
+      "path": "https://ag.ny.gov/press-release/2026/attorney-general-james-and-attorney-general-davenport-subpoena-fifa-over-world"
+    },
+    {
+      "title": "FIFA — 2026 ticket pricing tiers",
+      "path": "https://inside.fifa.com/news/world-cup-2026-new-ticket-pricing-tier-fans-qualified-teams"
+    }
+  ],
+  "resources": [
+    {
+      "name": "ticket_prices",
+      "path": "ticket_prices.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "format": "default",
+            "description": "World Cup edition year (1994–2026)"
+          },
+          {
+            "name": "host",
+            "type": "string",
+            "format": "default",
+            "description": "Host nation(s)"
+          },
+          {
+            "name": "cat1_final_usd_nominal",
+            "type": "number",
+            "format": "default",
+            "description": "Most expensive (Category-1) final ticket, face value, nominal USD. Blank where no reliable primary exists (1998, 2006)."
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "format": "default",
+            "description": "Data-quality flag: face_value | face_value_approx | face_value_phase4_cat1 | DISPUTED_likely_resale | missing"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "format": "default",
+            "description": "Citation / source link"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ticket_2026_tiers",
+      "path": "ticket_2026_tiers.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "tier",
+            "type": "string",
+            "format": "default",
+            "description": "2026 price tier / category"
+          },
+          {
+            "name": "price_usd",
+            "type": "integer",
+            "format": "default",
+            "description": "Price in USD"
+          },
+          {
+            "name": "kind",
+            "type": "string",
+            "format": "default",
+            "description": "Face value vs resale, and notes"
+          }
+        ]
+      }
+    },
+    {
+      "name": "figure",
+      "path": "figure.png",
+      "format": "png",
+      "mediatype": "image/png",
+      "title": "Hero chart",
+      "description": "Headline visualization for the data story."
+    },
+    {
+      "name": "story",
+      "path": "an-11-000-final-ticket-how-the-2026-world-cup-priced-out-its-own-fans/STORY.mdx",
+      "format": "mdx",
+      "mediatype": "text/markdown",
+      "title": "Data story",
+      "description": "Narrative write-up of the insight, with caveats and provenance."
+    }
+  ],
+  "views": [
+    {
+      "name": "final-ticket-price-over-time",
+      "title": "Most Expensive World Cup Final Ticket, Face Value (1994–2026)",
+      "description": "Category-1 final ticket, face value, nominal USD, one point per edition. 1998 and 2006 are absent (no reliable primary source — left blank, NOT interpolated, so the line gaps there); 2014 is flagged DISPUTED in the `status` column (likely a resale figure, not face value). Prices are nominal — not inflation-adjusted. The 2026 jump to $10,990 is the headline.",
+      "resourceName": "ticket_prices",
+      "specType": "plot",
+      "spec": {
+        "height": 380,
+        "x": {
+          "label": "Edition (year)",
+          "type": "point",
+          "tickFormat": "d"
+        },
+        "y": {
+          "label": "USD (nominal)",
+          "grid": true
+        },
+        "marks": [
+          {
+            "type": "line",
+            "x": "year",
+            "y": "cat1_final_usd_nominal",
+            "stroke": "#111",
+            "strokeWidth": 2
+          },
+          {
+            "type": "dot",
+            "x": "year",
+            "y": "cat1_final_usd_nominal",
+            "fill": "#111",
+            "r": 4,
+            "tip": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "ticket-2026-tiers",
+      "title": "2026 World Cup Final — Price by Tier",
+      "description": "2026 final ticket prices in USD. Face-value tiers run from the $60 supporter-entry floor to the $10,990 Category-1 ticket; the $32,970 'resale peak' is secondary-market / dynamic pricing — NOT face value (see the `kind` column). Bars sorted by price.",
+      "resourceName": "ticket_2026_tiers",
+      "specType": "plot",
+      "spec": {
+        "height": 320,
+        "marginLeft": 150,
+        "x": {
+          "label": "USD",
+          "type": "linear"
+        },
+        "y": {
+          "label": null
+        },
+        "marks": [
+          {
+            "type": "barX",
+            "x": "price_usd",
+            "y": "tier",
+            "fill": "#111",
+            "tip": true,
+            "sort": {
+              "y": "-x"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "image": "figure.png"
+}

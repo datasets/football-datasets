@@ -1,0 +1,10 @@
+year,host,cat1_final_usd_nominal,status,source
+1994,United States,1500,face_value_approx,"SI (>$1,500)"
+1998,France,,missing,no primary source found
+2002,Korea/Japan,575,face_value,https://www.si.com/soccer/how-outrageous-ticket-prices-for-2026-world-cup-final-compare-to-past-years
+2006,Germany,,missing,no primary source found
+2010,South Africa,900,face_value,https://www.si.com/soccer/how-outrageous-ticket-prices-for-2026-world-cup-final-compare-to-past-years
+2014,Brazil,6000,DISPUTED_likely_resale,SI labels face-value but inconsistent w/ pattern; scraper flagged as resale
+2018,Russia,1100,face_value,https://www.si.com/soccer/how-outrageous-ticket-prices-for-2026-world-cup-final-compare-to-past-years
+2022,Qatar,1607,face_value,https://www.si.com/soccer/how-outrageous-ticket-prices-for-2026-world-cup-final-compare-to-past-years
+2026,USA/CAN/MEX,10990,face_value_phase4_cat1,FIFA/SI/AG
