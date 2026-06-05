@@ -1,8 +1,13 @@
-# $42 Million to Win, $9 Million to Show Up — and a 4x Gender Gap
+---
+title: "$42 Million to Win, $9 Million to Show Up — and a 4x Gender Gap"
+description: FIFA World Cup prize money by team and edition (2010–2026), with a side-by-side look at the 4× gender gap between the men's and women's prize pools.
+date: 2026-06-05
+---
 
 The `worldcup` dataset tells you who won. This one tells you what it paid.
 
 ## What 2022 paid, team by team
+
 Ranked by prize money, Qatar 2022 ran from **Argentina's $42M** for lifting the trophy
 down to **$9M** for each of the 16 teams knocked out in the group stage. Those 32 payouts
 sum to exactly the **$440M** published pool.
@@ -11,15 +16,15 @@ sum to exactly the **$440M** published pool.
 
 FIFA splits the World Cup prize pool by how far you go. At **Qatar 2022**, that meant:
 
-| Finish | Teams | Each earned |
-|---|---:|---:|
-| Winner | 1 | **$42M** |
-| Runner-up | 1 | $30M |
-| Third place | 1 | $27M |
-| Fourth place | 1 | $25M |
-| Quarter-finals (5th–8th) | 4 | $17M |
-| Round of 16 (9th–16th) | 8 | $13M |
-| Group stage (17th–32nd) | 16 | $9M |
+| Finish                   | Teams | Each earned |
+| ------------------------ | ----: | ----------: |
+| Winner                   |     1 |    **$42M** |
+| Runner-up                |     1 |        $30M |
+| Third place              |     1 |        $27M |
+| Fourth place             |     1 |        $25M |
+| Quarter-finals (5th–8th) |     4 |        $17M |
+| Round of 16 (9th–16th)   |     8 |        $13M |
+| Group stage (17th–32nd)  |    16 |         $9M |
 
 Argentina's $42M down to $9M for each of the 16 teams that went home after the group
 stage. **Those 32 cheques add up to exactly $440 million** — the published prize pool.
@@ -28,13 +33,13 @@ Every edition's per-team payouts sum to the official pool to the dollar (2010 $3
 
 ## The winner's cheque keeps growing
 
-| Edition | Winner gets | Total pool |
-|---|---:|---:|
-| 2010 South Africa | $30M | $348M |
-| 2014 Brazil | $35M | $358M |
-| 2018 Russia | $38M | $400M |
-| 2022 Qatar | $42M | $440M |
-| 2026 USA/CAN/MEX | **$50M** | $655M |
+| Edition           | Winner gets | Total pool |
+| ----------------- | ----------: | ---------: |
+| 2010 South Africa |        $30M |      $348M |
+| 2014 Brazil       |        $35M |      $358M |
+| 2018 Russia       |        $38M |      $400M |
+| 2022 Qatar        |        $42M |      $440M |
+| 2026 USA/CAN/MEX  |    **$50M** |      $655M |
 
 2026 is the big jump — a 48-team field, a $655M pool, and a brand-new **Round-of-32**
 payout band. Each schedule sums to its pool too:
@@ -51,6 +56,7 @@ Put the men's and women's prize pools side by side and the story is stark:
   row is a placeholder (target announced, figure to be confirmed).
 
 ## Sources
+
 - **FIFA announcements** — the per-position payout schedules for each edition (compiled via topendsports and contemporaneous reporting).
 - **FIFA final standings** — top-four placements.
 - **Fjelstul World Cup Database** — each team's furthest stage, used to place it in a payout band.
