@@ -1,57 +1,57 @@
 # The 15 Most-Carded Matches in World Cup History
 
-Some World Cup matches stop being football and become crime scenes. The
-**`dirtiest-matches-summary` resource** ranks the **15 most-carded men's World Cup
-matches ever**, drawn from the full `bookings` table — every yellow and red, keyed to the
-exact match it was shown in.
+Some World Cup matches stop being football. The referee runs out of patience, the cards
+pile up, and a quarter-final turns into a brawl with a scoreline attached.
 
-## The headline number
+We ranked the **15 most-carded matches in men's World Cup history** — every yellow and red
+pinned to the exact game it came out in. These are the nights the game got away from
+everyone.
 
-The record holder is **Netherlands 2–2 Argentina, Qatar 2022 quarter-final
-(9 December 2022): 15 cards in one match.** Referee Antonio Mateu Lahoz lost control of a
-tie that went to penalties, and the bookings just kept coming — the single most-carded
-game in 92 years of World Cup football.
+## The record: a referee loses control of a quarter-final
 
-## The top of the table
+**Netherlands 2, Argentina 2 — Qatar 2022, 9 December.** Fifteen cards. One match.
 
-| Match | Tournament | Stage | Total cards |
-|-------|------------|-------|-------------|
+Antonio Mateu Lahoz lost the thread of a tie that would go to penalties, and the bookings
+just kept coming until he'd shown more cards than any referee in the 92-year history of
+the tournament. **The single most-carded game ever played.**
+
+## The worst of the worst
+
+| Match | Tournament | Stage | Cards |
+|-------|------------|-------|------:|
 | Netherlands vs Argentina | 2022 | Quarter-final | **15** |
 | Cameroon vs Germany | 2002 | Group stage | 14 |
 | Netherlands vs Spain | 2010 | **Final** | 13 |
 | Portugal vs Netherlands | 2006 | Round of 16 | 12 |
 | Senegal vs Uruguay | 2002 | Group stage | 12 |
 
-## The one that got into a final
+## The one that crashed a final
 
-Most blood-and-thunder games happen early, when the stakes are lower and the tempers
-shorter. **Not in 2010.** The **Netherlands–Spain final** at Soccer City logged **13
-cards** — the dirtiest World Cup final ever, defined by Nigel de Jong's studs-up challenge
-on Xabi Alonso's chest. A final is supposed to be the showpiece; this one is in the
-all-time top three for cards.
+Most of these wars happen early, when the stakes are low and the tempers high. **2010 was
+different.** The **Netherlands–Spain final** at Soccer City ran up **13 cards** — the
+dirtiest final the World Cup has ever staged, the night Nigel de Jong planted his studs in
+Xabi Alonso's chest and somehow stayed on the field. A showpiece occasion. A bloodbath.
 
-## A note on the "Battle of Nuremberg"
+## About that "Battle of Nuremberg"
 
-**Portugal vs Netherlands, 2006 round of 16**, is infamous as the match where referee
-Valentin Ivanov "showed 16 cards." This dataset records it at **12 cards (with 4
-dismissals)** — and we report the source figure, not the legend. Different counters tally
-second yellows and the famous post-final-whistle bookings differently; we trust the
-Fjelstul `bookings` table rather than inflating the number to match the myth. It's still
-the most red-card-heavy game in the top five.
+You've heard that **Portugal vs Netherlands, 2006**, was the match where referee Valentin
+Ivanov "showed 16 cards." This dataset records **12, with 4 dismissals** — and we'll take
+the source over the legend. Different counters tally second yellows and the post-whistle
+bookings their own way; we trust the `bookings` table rather than inflate the number to
+fit the myth. Even at 12, it's the most red-soaked game in the top five.
 
-## How the count works
+## How we count
 
-`total_cards` = yellow cards **+** straight reds. A second yellow is already counted as a
-yellow, so it isn't double-counted — which is why a match can show fewer `total_cards`
-than its drama suggests. The separate `red_cards` column counts **dismissals** (second
-yellows + straight reds), so you can see how many players actually walked.
+`total_cards` = yellows **+** straight reds. A second yellow is already a yellow, so it's
+never double-counted — which is why a genuinely vicious match can post a smaller total than
+its reputation. The separate `red_cards` column counts **dismissals** (second yellows plus
+straight reds), so you can see exactly how many players actually walked.
 
-## What's in the resource
+## What's in the data
 
-15 rows, one per match: year, tournament, match name, stage, date, yellow cards, red
-cards (dismissals), and total cards. Ranked on unique match IDs — not match names — so
-repeat fixtures across tournaments never collide. Derived directly from the `bookings` and
-`matches` resources.
+Fifteen rows, one per match: year, tournament, fixture, stage, date, yellows, reds, and
+total cards — ranked on unique match IDs, so repeat fixtures across tournaments never
+collide. Built from the `bookings` and `matches` resources.
 
-## Sources
-- **Fjelstul World Cup Database** — the men's World Cup `bookings` and `matches` tables.
+## Source
+- **Fjelstul World Cup Database** — the men's `bookings` and `matches` tables.
