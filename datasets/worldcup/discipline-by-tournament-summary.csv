@@ -1,0 +1,15 @@
+year,tournament_name,matches,yellow_cards,second_yellow_cards,straight_red_cards,red_cards,total_cards,cards_per_match
+1970,1970 FIFA Men's World Cup,32,52,0,0,0,52,1.62
+1974,1974 FIFA Men's World Cup,38,87,0,5,5,92,2.42
+1978,1978 FIFA Men's World Cup,38,46,0,3,3,49,1.29
+1982,1982 FIFA Men's World Cup,52,99,0,5,5,104,2.0
+1986,1986 FIFA Men's World Cup,52,138,4,4,8,142,2.73
+1990,1990 FIFA Men's World Cup,52,169,6,10,16,179,3.44
+1994,1994 FIFA Men's World Cup,52,228,7,8,15,236,4.54
+1998,1998 FIFA Men's World Cup,64,254,4,18,22,272,4.25
+2002,2002 FIFA Men's World Cup,64,266,6,11,17,277,4.33
+2006,2006 FIFA Men's World Cup,64,326,19,9,28,335,5.23
+2010,2010 FIFA Men's World Cup,64,254,8,9,17,263,4.11
+2014,2014 FIFA Men's World Cup,64,184,3,7,10,191,2.98
+2018,2018 FIFA Men's World Cup,64,221,2,2,4,223,3.48
+2022,2022 FIFA Men's World Cup,64,224,3,1,4,225,3.52

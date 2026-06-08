@@ -1,0 +1,23 @@
+year,tournament_name,matches,goals,goals_per_match,regulation_goals,stoppage_goals,pct_goals_in_stoppage,avg_goal_minute
+1930,1930 FIFA Men's World Cup,18,70,3.89,70,0,0.0,48.1
+1934,1934 FIFA Men's World Cup,17,70,4.12,70,0,0.0,48.2
+1938,1938 FIFA Men's World Cup,18,84,4.67,84,0,0.0,53.2
+1950,1950 FIFA Men's World Cup,22,88,4.0,88,0,0.0,48.9
+1954,1954 FIFA Men's World Cup,26,140,5.38,140,0,0.0,48.1
+1958,1958 FIFA Men's World Cup,35,126,3.6,126,0,0.0,48.3
+1962,1962 FIFA Men's World Cup,32,89,2.78,89,0,0.0,48.1
+1966,1966 FIFA Men's World Cup,32,89,2.78,89,0,0.0,50.5
+1970,1970 FIFA Men's World Cup,32,95,2.97,95,0,0.0,54.2
+1974,1974 FIFA Men's World Cup,38,97,2.55,97,0,0.0,47.9
+1978,1978 FIFA Men's World Cup,38,102,2.68,102,0,0.0,50.1
+1982,1982 FIFA Men's World Cup,52,146,2.81,146,0,0.0,52.8
+1986,1986 FIFA Men's World Cup,52,132,2.54,132,0,0.0,51.3
+1990,1990 FIFA Men's World Cup,52,115,2.21,111,4,3.5,59.3
+1994,1994 FIFA Men's World Cup,52,141,2.71,138,3,2.1,49.5
+1998,1998 FIFA Men's World Cup,64,171,2.67,152,19,11.1,52.4
+2002,2002 FIFA Men's World Cup,64,161,2.52,152,9,5.6,50.5
+2006,2006 FIFA Men's World Cup,64,147,2.3,135,12,8.2,50.6
+2010,2010 FIFA Men's World Cup,64,145,2.27,137,8,5.5,52.9
+2014,2014 FIFA Men's World Cup,64,171,2.67,155,16,9.4,55.3
+2018,2018 FIFA Men's World Cup,64,169,2.64,147,22,13.0,53.7
+2022,2022 FIFA Men's World Cup,64,172,2.69,151,21,12.2,55.7
