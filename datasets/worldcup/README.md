@@ -11,6 +11,22 @@ Comprehensive data on every FIFA World Cup tournament — men's (1930–2022) an
 
 **Updated** automatically whenever the upstream Fjelstul database is updated.
 
+## Derived summary tables
+
+Alongside the 27 core Fjelstul tables, the package ships small **pre-aggregated summary tables** (men's tournaments only) that power the charts and data stories:
+
+| Resource | What it covers |
+|----------|----------------|
+| `tournament-goals-summary` | Average goals per game, by tournament (1930–2022) |
+| `goals-by-minute-summary` | Goals scored at each match minute (1–90), all tournaments |
+| `top-scorers-summary` | Top 15 all-time men's World Cup scorers |
+| `tournament-appearances` | Top 20 nations by tournaments played |
+| `goal-timing-by-tournament-summary` | Stoppage-time goals, share of goals in stoppage time, and average goal minute, by tournament (1930–2022) |
+| `discipline-by-tournament-summary` | Yellow/red cards and cards per match, by tournament (1970–2022, since cards were introduced) |
+| `dirtiest-matches-summary` | The 15 most-carded matches in men's World Cup history |
+
+The goal-timing and discipline tables are derived directly from the `goals` and `bookings` resources; regenerating them needs only those source tables.
+
 ## License
 
 This dataset is derived from the [Fjelstul World Cup Database](https://github.com/jfjelstul/worldcup) and is published under the [Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license.
