@@ -19,6 +19,8 @@ So the honest comparison is **2026 (9.0) vs the recalculated 4.71 average — bo
 
 Put plainly: the per-edition figures span South Africa 2010 through the projected 2034 tournament. The earlier editions reflect each host's own FIFA-scope report; the 2026–2034 editions reflect SGR's fuller-scope projections. The two scopes are not directly comparable — read the 2026 figure against the recalculated 4.71 Mt average, not against the older bars.
 
+<iframe src="https://datahub.io/football/worldcup-carbon-footprint/v/0" width="800" height="500" frameborder="0"></iframe>
+
 ## Sources
 
 - [SGR / New Weather Institute, _FIFA's Climate Blind Spot_ (2025)](https://www.sgr.org.uk/publications/fifa-s-climate-blind-spot-men-s-world-cup-warming-world) — the only independent projection for the 3-nation 2026 tournament.
