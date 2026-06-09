@@ -41,7 +41,7 @@
           },
           {
             "name": "year",
-            "type": "integer"
+            "type": "year"
           },
           {
             "name": "start_date",
@@ -1993,7 +1993,7 @@
         "fields": [
           {
             "name": "year",
-            "type": "integer",
+            "type": "year",
             "description": "Tournament year"
           },
           {
@@ -2096,7 +2096,7 @@
         "fields": [
           {
             "name": "year",
-            "type": "integer",
+            "type": "year",
             "description": "Tournament year"
           },
           {
@@ -2153,7 +2153,7 @@
         "fields": [
           {
             "name": "year",
-            "type": "integer",
+            "type": "year",
             "description": "Tournament year"
           },
           {
@@ -2210,7 +2210,7 @@
         "fields": [
           {
             "name": "year",
-            "type": "integer",
+            "type": "year",
             "description": "Tournament year"
           },
           {
@@ -2262,7 +2262,7 @@
         "fields": [
           {
             "name": "year",
-            "type": "integer",
+            "type": "year",
             "description": "World Cup edition year (1930–2022)"
           },
           {
@@ -2329,7 +2329,7 @@
         "fields": [
           {
             "name": "year",
-            "type": "integer",
+            "type": "year",
             "description": "Tournament year"
           },
           {

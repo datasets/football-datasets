@@ -37,8 +37,7 @@
         "fields": [
           {
             "name": "year",
-            "type": "integer",
-            "format": "default",
+            "type": "year",
             "description": "World Cup edition year (1994–2026)"
           },
           {

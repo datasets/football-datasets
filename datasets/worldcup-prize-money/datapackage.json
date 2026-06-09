@@ -38,7 +38,7 @@
         "fields": [
           {
             "name": "year",
-            "type": "integer",
+            "type": "year",
             "description": "World Cup edition year (2010–2022 men's; editions with a published per-position schedule and final results)"
           },
           {
@@ -78,7 +78,7 @@
         "fields": [
           {
             "name": "year",
-            "type": "integer",
+            "type": "year",
             "description": "World Cup edition year (2010–2026 men's)"
           },
           {
@@ -113,7 +113,7 @@
         "fields": [
           {
             "name": "year",
-            "type": "integer",
+            "type": "year",
             "description": "World Cup edition year"
           },
           {
