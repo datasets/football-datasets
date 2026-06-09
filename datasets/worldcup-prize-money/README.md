@@ -1,4 +1,6 @@
-How FIFA World Cup prize money is split — per team, per finishing position, per edition. The granular companion to the [`worldcup`](../worldcup) dataset, which records results but not the money behind them.
+# FIFA World Cup Prize Money — Per Team, Per Position, Per Edition
+
+How FIFA World Cup prize money is split — per team, per finishing position, per edition. The granular companion to the [`worldcup`](https://datahub.io/football/worldcup) dataset, which records results but not the money behind them.
 
 ## Dataset Overview
 
@@ -31,8 +33,6 @@ Every figure is self-checking:
 - **Per-team rows are men's 2010–2022** — editions with both a published per-position schedule and final results. 2026 appears in the schedule only (no results yet).
 - **Pre-2014 men's pool figures are FIFA *total contribution*** (a broader scope including preparation/club benefit payments), not directly comparable to the 2014+ prize-money-proper figures — flagged in the `note` column.
 - The women's series is per-edition totals only (per-team women's schedules differ structurally and are a planned extension).
-
-See `42-million-to-win-9-million-to-show-up-and-a-4x-gender-gap/STORY.mdx` for the full narrative.
 
 ## Maintenance
 

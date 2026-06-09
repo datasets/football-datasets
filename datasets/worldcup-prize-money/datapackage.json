@@ -163,22 +163,6 @@
           }
         ]
       }
-    },
-    {
-      "name": "figure",
-      "path": "figure.png",
-      "format": "png",
-      "mediatype": "image/png",
-      "title": "Hero chart",
-      "description": "Prize money per team by finishing position, 2022 edition."
-    },
-    {
-      "name": "story",
-      "path": "42-million-to-win-9-million-to-show-up-and-a-4x-gender-gap/STORY.mdx",
-      "format": "mdx",
-      "mediatype": "text/markdown",
-      "title": "Data story",
-      "description": "Narrative write-up with methodology, validation and caveats."
     }
   ],
   "views": [
@@ -205,9 +189,7 @@
             "y": "team",
             "fill": "#111",
             "tip": true,
-            "sort": {
-              "y": "-x"
-            }
+            "sort": "-prize_usd_m"
           }
         ]
       }
@@ -260,6 +242,5 @@
         ]
       }
     }
-  ],
-  "image": "figure.png"
+  ]
 }

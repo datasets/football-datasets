@@ -30,13 +30,3 @@ a **subpoena of FIFA by the NY & NJ attorneys general (27 May 2026)**.
 
 ## License
 Figures are factual; reuse **with attribution**. AG press release is public domain.
-
-## Story
-
-**An $11,000 final ticket: how the 2026 World Cup priced out its own fans**
-
-> $10,990 face value = 6.8× the 2022 $1,607; resale ~$32,970; $60 entry floor; AG probe May 27 2026 (+34% avg)
-
-![hero chart](figure.png)
-
-Full narrative — headline, why-now, caveats, provenance, and ready-to-post copy — in [`an-11-000-final-ticket-how-the-2026-world-cup-priced-out-its-own-fans/STORY.mdx`](an-11-000-final-ticket-how-the-2026-world-cup-priced-out-its-own-fans/STORY.mdx). This data story was fact-checked by an adversarial review pass (figures recomputed against primary sources) before release.

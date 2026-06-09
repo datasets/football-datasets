@@ -100,22 +100,6 @@
           }
         ]
       }
-    },
-    {
-      "name": "figure",
-      "path": "figure.png",
-      "format": "png",
-      "mediatype": "image/png",
-      "title": "Hero chart",
-      "description": "Headline visualization for the data story."
-    },
-    {
-      "name": "story",
-      "path": "an-11-000-final-ticket-how-the-2026-world-cup-priced-out-its-own-fans/STORY.mdx",
-      "format": "mdx",
-      "mediatype": "text/markdown",
-      "title": "Data story",
-      "description": "Narrative write-up of the insight, with caveats and provenance."
     }
   ],
   "views": [
@@ -178,13 +162,10 @@
             "y": "tier",
             "fill": "#111",
             "tip": true,
-            "sort": {
-              "y": "-x"
-            }
+            "sort": "-price_usd"
           }
         ]
       }
     }
-  ],
-  "image": "figure.png"
+  ]
 }
