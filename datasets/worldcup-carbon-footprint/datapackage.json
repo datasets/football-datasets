@@ -1,0 +1,160 @@
+{
+  "name": "worldcup-carbon-footprint",
+  "title": "FIFA World Cup Carbon Footprint per Edition (2010–2034)",
+  "description": "Greenhouse-gas footprint of each FIFA men's World Cup, one row per tournament, with the air-travel share broken out. Past editions 2010–2022 (FIFA self-reported audits) plus projected expanded tournaments 2026/2030/2034 (SGR/New Weather Institute). NOTE: the two series use different accounting scopes — see README and the `basis` column; the honest like-for-like comparison is 2026 (9.02 Mt) vs SGR's recalculated 2010–22 average (4.71 Mt, in emissions_reference.csv) = +92%.",
+  "licenses": [
+    {
+      "name": "other-at",
+      "title": "Factual figures, free to reuse with attribution (SGR / New Weather Institute; FIFA sustainability audits via Play the Game)"
+    }
+  ],
+  "sources": [
+    {
+      "title": "SGR / New Weather Institute — FIFA's Climate Blind Spot (2025)",
+      "path": "https://www.sgr.org.uk/publications/fifa-s-climate-blind-spot-men-s-world-cup-warming-world"
+    },
+    {
+      "title": "FIFA host sustainability audits, via Play the Game",
+      "path": "https://www.playthegame.org/themes/sport-and-climate-change/understanding-sports-carbon-emissions/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "emissions_per_edition",
+      "path": "emissions_per_edition.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "format": "default",
+            "description": "World Cup edition year (2010–2034)"
+          },
+          {
+            "name": "host",
+            "type": "string",
+            "format": "default",
+            "description": "Host nation(s)"
+          },
+          {
+            "name": "co2e_mt",
+            "type": "number",
+            "format": "default",
+            "description": "Total emissions, million tonnes CO2e"
+          },
+          {
+            "name": "basis",
+            "type": "string",
+            "format": "default",
+            "description": "Methodology flag: 'FIFA self-report' (narrower scope, 2010–2022) or 'SGR projection' (fuller scope, 2026–2034) — the two are NOT directly comparable"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "format": "default",
+            "description": "Citation"
+          },
+          {
+            "name": "source_url",
+            "type": "string",
+            "format": "default",
+            "description": "Source link"
+          }
+        ]
+      }
+    },
+    {
+      "name": "emissions_reference",
+      "path": "emissions_reference.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "metric",
+            "type": "string",
+            "format": "default",
+            "description": "Reference metric key"
+          },
+          {
+            "name": "value_mt",
+            "type": "number",
+            "format": "default",
+            "description": "Value, million tonnes CO2e"
+          },
+          {
+            "name": "note",
+            "type": "string",
+            "format": "default",
+            "description": "Explanation / scope note"
+          },
+          {
+            "name": "source_url",
+            "type": "string",
+            "format": "default",
+            "description": "Source link"
+          }
+        ]
+      }
+    },
+    {
+      "name": "figure",
+      "path": "figure.png",
+      "format": "png",
+      "mediatype": "image/png",
+      "title": "Hero chart",
+      "description": "Headline visualization for the data story."
+    },
+    {
+      "name": "story",
+      "path": "each-world-cups-carbon-footprint-and-why-2026-breaks-the-chart/STORY.mdx",
+      "format": "mdx",
+      "mediatype": "text/markdown",
+      "title": "Data story",
+      "description": "Narrative write-up of the insight, with caveats and provenance."
+    }
+  ],
+  "views": [
+    {
+      "name": "emissions-per-edition",
+      "title": "World Cup Carbon Footprint per Edition (2010–2034)",
+      "description": "Total greenhouse-gas footprint (million tonnes CO2e) of each men's World Cup, one bar per edition. The `basis` column records which accounting scope each bar uses — FIFA self-reported audits (2010–2022, narrower scope) vs SGR / New Weather Institute projections for the expanded 48-team tournaments (2026–2034, fuller scope); the two are NOT directly comparable (see the `basis` column and the README). For the honest like-for-like figure, compare 2026 (9.02 Mt) against SGR's recalculated 2010–22 average (4.71 Mt) in emissions_reference.csv.",
+      "resourceName": "emissions_per_edition",
+      "specType": "plot",
+      "spec": {
+        "height": 380,
+        "marginBottom": 45,
+        "x": {
+          "label": "Edition (year)",
+          "type": "band"
+        },
+        "y": {
+          "label": "Million tonnes CO2e",
+          "grid": true
+        },
+        "marks": [
+          {
+            "type": "barY",
+            "x": "year",
+            "y": "co2e_mt",
+            "fill": "#111",
+            "tip": true
+          }
+        ]
+      }
+    }
+  ],
+  "image": "figure.png"
+}
