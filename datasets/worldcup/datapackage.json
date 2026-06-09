@@ -2151,6 +2151,43 @@
           }
         ]
       }
+    },
+    {
+      "name": "attendance-by-edition",
+      "path": "attendance-by-edition.csv",
+      "title": "Average Attendance per Edition (Summary)",
+      "description": "Pre-aggregated attendance for each men's World Cup (1930–2022): matches played, total spectators, and average attendance per match. Aggregated from the attendance resource.",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "Tournament year"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string",
+            "description": "Full tournament name"
+          },
+          {
+            "name": "matches",
+            "type": "integer",
+            "description": "Matches played in the tournament"
+          },
+          {
+            "name": "total_attendance",
+            "type": "integer",
+            "description": "Total spectators across all matches in the tournament"
+          },
+          {
+            "name": "avg_attendance",
+            "type": "integer",
+            "description": "Average attendance per match"
+          }
+        ]
+      }
     }
   ],
   "views": [
@@ -2270,6 +2307,42 @@
             "fill": "#111",
             "tip": true,
             "sort": "-appearances"
+          }
+        ]
+      }
+    },
+    {
+      "name": "attendance-by-edition",
+      "title": "Average Attendance per Edition (1930–2022)",
+      "description": "Average attendance per match at each men's World Cup. United States 1994 is still the record at 68,991 per match; the per-edition average has settled between ~42,000 and ~53,000 in the 64-match era.",
+      "resourceName": "attendance-by-edition",
+      "specType": "plot",
+      "spec": {
+        "height": 380,
+        "x": {
+          "label": "Year",
+          "type": "point",
+          "tickFormat": "d"
+        },
+        "y": {
+          "label": "Average attendance per match",
+          "grid": true
+        },
+        "marks": [
+          {
+            "type": "line",
+            "x": "year",
+            "y": "avg_attendance",
+            "stroke": "#111",
+            "strokeWidth": 2
+          },
+          {
+            "type": "dot",
+            "x": "year",
+            "y": "avg_attendance",
+            "fill": "#111",
+            "r": 4,
+            "tip": true
           }
         ]
       }
