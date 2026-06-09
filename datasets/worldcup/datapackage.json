@@ -2084,6 +2084,73 @@
           }
         ]
       }
+    },
+    {
+      "name": "attendance",
+      "path": "attendance.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Per-match attendance for all 964 men's World Cup matches (1930–2022) — the figure the Fjelstul match tables do not include. Compiled from Kaggle/FIFA records (1930–2010, cross-checked to the exact person against an independent reference) and Wikipedia match reports (2014/2018/2022, totals matching FIFA). Joins to matches on (year, teams, date).",
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "World Cup edition year (1930–2022)"
+          },
+          {
+            "name": "stage",
+            "type": "string",
+            "description": "Detailed stage label as recorded by the source (e.g. 'Group A', 'Round of 16', 'Final')"
+          },
+          {
+            "name": "phase",
+            "type": "string",
+            "description": "Coarse phase derived from stage: 'Group' or 'Knockout'"
+          },
+          {
+            "name": "date",
+            "type": "date",
+            "description": "Match date (ISO 8601)"
+          },
+          {
+            "name": "team1",
+            "type": "string",
+            "description": "First team (home/listed-first); historical names preserved (e.g. West Germany, Yugoslavia)"
+          },
+          {
+            "name": "team2",
+            "type": "string",
+            "description": "Second team"
+          },
+          {
+            "name": "score",
+            "type": "string",
+            "description": "Full-time/AET score as 'team1-team2' (penalty shootouts not encoded here)"
+          },
+          {
+            "name": "attendance",
+            "type": "integer",
+            "description": "Official/announced spectators at the match"
+          },
+          {
+            "name": "stadium",
+            "type": "string",
+            "description": "Stadium name"
+          },
+          {
+            "name": "city",
+            "type": "string",
+            "description": "Host city"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "description": "Provenance of the attendance figure for this row"
+          }
+        ]
+      }
     }
   ],
   "views": [
