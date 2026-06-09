@@ -24,6 +24,8 @@ tournament. The single most-carded game ever played.
 | Portugal vs Netherlands | 2006 | Round of 16 | 12 |
 | Senegal vs Uruguay | 2002 | Group stage | 12 |
 
+<iframe src="https://datahub.io/football/worldcup/v/6" width="800" height="500" frameborder="0"></iframe>
+
 ## The one that crashed a final
 
 Most of these wars happen early, when the stakes are low and the tempers high. **2010 was

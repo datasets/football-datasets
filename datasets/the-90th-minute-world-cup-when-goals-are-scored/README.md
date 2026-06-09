@@ -7,6 +7,8 @@ all 2,720 of them — and one trend cuts straight through the noise: **the World
 keeps arriving later.** The late winner isn't a trick of modern memory. It's real, and
 it's accelerating.
 
+<iframe src="https://datahub.io/football/worldcup/v/1" width="800" height="500" frameborder="0"></iframe>
+
 ## One in twelve
 
 In the modern era — 1990 to 2022 — better than one goal in every twelve has come in
@@ -14,6 +16,8 @@ stoppage time. Whole matches now turn after the fourth official lifts the board.
 
 Nowhere more than **Russia 2018, when 13% of all goals came after the whistle should have
 blown** — the highest share any World Cup has ever seen.
+
+<iframe src="https://datahub.io/football/worldcup/v/4" width="800" height="500" frameborder="0"></iframe>
 
 ## The clock keeps drifting
 
