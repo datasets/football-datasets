@@ -2086,6 +2086,172 @@
       }
     },
     {
+      "name": "goal-timing-by-tournament-summary",
+      "path": "goal-timing-by-tournament-summary.csv",
+      "title": "Goal Timing by Tournament (Summary)",
+      "description": "Per-tournament goal timing for each men's World Cup (1930–2022): total goals, goals scored in stoppage time, the share of goals arriving in stoppage time, and the average goal minute. Stoppage-time goals were rarely logged before 1998 and now account for more than one in ten. Includes own goals.",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "Tournament year"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string",
+            "description": "Full tournament name"
+          },
+          {
+            "name": "matches",
+            "type": "integer",
+            "description": "Matches played in the tournament"
+          },
+          {
+            "name": "goals",
+            "type": "integer",
+            "description": "Total goals scored (including own goals)"
+          },
+          {
+            "name": "goals_per_match",
+            "type": "number",
+            "description": "Goals per match"
+          },
+          {
+            "name": "regulation_goals",
+            "type": "integer",
+            "description": "Goals scored with no stoppage time added (minute_stoppage = 0)"
+          },
+          {
+            "name": "stoppage_goals",
+            "type": "integer",
+            "description": "Goals scored in stoppage time (minute_stoppage > 0)"
+          },
+          {
+            "name": "pct_goals_in_stoppage",
+            "type": "number",
+            "description": "Percentage of goals scored in stoppage time"
+          },
+          {
+            "name": "avg_goal_minute",
+            "type": "number",
+            "description": "Average goal minute (regulation minute + stoppage minute; extra-time goals included)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "discipline-by-tournament-summary",
+      "path": "discipline-by-tournament-summary.csv",
+      "title": "Discipline by Tournament (Summary)",
+      "description": "Cards shown at each men's World Cup since cards were introduced at Mexico 1970 (1970–2022): yellow cards, second yellows, straight reds, total dismissals, and cards per match. Germany 2006 is the most-carded tournament on record at 5.23 cards per match.",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "Tournament year"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string",
+            "description": "Full tournament name"
+          },
+          {
+            "name": "matches",
+            "type": "integer",
+            "description": "Matches played in the tournament"
+          },
+          {
+            "name": "yellow_cards",
+            "type": "integer",
+            "description": "Total yellow cards shown (every caution, including both yellows of a two-yellow dismissal)"
+          },
+          {
+            "name": "second_yellow_cards",
+            "type": "integer",
+            "description": "Cautions that were a player's second yellow (resulting in dismissal)"
+          },
+          {
+            "name": "straight_red_cards",
+            "type": "integer",
+            "description": "Straight (direct) red cards"
+          },
+          {
+            "name": "red_cards",
+            "type": "integer",
+            "description": "Total dismissals (straight reds + second yellows)"
+          },
+          {
+            "name": "total_cards",
+            "type": "integer",
+            "description": "Total cards shown (yellow cards + straight red cards)"
+          },
+          {
+            "name": "cards_per_match",
+            "type": "number",
+            "description": "Total cards divided by matches"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dirtiest-matches-summary",
+      "path": "dirtiest-matches-summary.csv",
+      "title": "Most-Carded Matches (Summary)",
+      "description": "The 15 most-carded matches in men's World Cup history, ranked by total cards. Netherlands vs Argentina (2022 quarter-final) tops the list — the most-carded match the database records.",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "Tournament year"
+          },
+          {
+            "name": "tournament_name",
+            "type": "string",
+            "description": "Full tournament name"
+          },
+          {
+            "name": "match_name",
+            "type": "string",
+            "description": "Match (home team vs away team)"
+          },
+          {
+            "name": "stage_name",
+            "type": "string",
+            "description": "Tournament stage"
+          },
+          {
+            "name": "match_date",
+            "type": "date",
+            "description": "Match date"
+          },
+          {
+            "name": "yellow_cards",
+            "type": "integer",
+            "description": "Yellow cards shown in the match"
+          },
+          {
+            "name": "red_cards",
+            "type": "integer",
+            "description": "Players sent off in the match"
+          },
+          {
+            "name": "total_cards",
+            "type": "integer",
+            "description": "Total cards shown (yellow cards + straight red cards)"
+          }
+        ]
+      }
+    },
+    {
       "name": "attendance",
       "path": "attendance.csv",
       "format": "csv",
@@ -2307,6 +2473,106 @@
             "fill": "#111",
             "tip": true,
             "sort": "-appearances"
+          }
+        ]
+      }
+    },
+    {
+      "name": "stoppage-time-goals",
+      "title": "The Rise of the Stoppage-Time Goal",
+      "description": "Share of men's World Cup goals scored in stoppage time, by tournament (1930–2022). Almost no stoppage-time goals were logged before 1998; at Russia 2018 they reached 13% of all goals.",
+      "resourceName": "goal-timing-by-tournament-summary",
+      "specType": "plot",
+      "spec": {
+        "height": 380,
+        "x": {
+          "label": "Year",
+          "type": "point",
+          "tickFormat": "d"
+        },
+        "y": {
+          "label": "% of goals in stoppage time",
+          "grid": true
+        },
+        "marks": [
+          {
+            "type": "line",
+            "x": "year",
+            "y": "pct_goals_in_stoppage",
+            "stroke": "#111",
+            "strokeWidth": 2
+          },
+          {
+            "type": "dot",
+            "x": "year",
+            "y": "pct_goals_in_stoppage",
+            "fill": "#111",
+            "r": 4,
+            "tip": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "cards-per-match",
+      "title": "The Dirtiest World Cups",
+      "description": "Cards per match at each men's World Cup since cards were introduced in 1970. Discipline peaked at Germany 2006 (5.23 cards per match) and has eased since.",
+      "resourceName": "discipline-by-tournament-summary",
+      "specType": "plot",
+      "spec": {
+        "height": 380,
+        "x": {
+          "label": "Year",
+          "type": "point",
+          "tickFormat": "d"
+        },
+        "y": {
+          "label": "Cards per match",
+          "grid": true
+        },
+        "marks": [
+          {
+            "type": "line",
+            "x": "year",
+            "y": "cards_per_match",
+            "stroke": "#111",
+            "strokeWidth": 2
+          },
+          {
+            "type": "dot",
+            "x": "year",
+            "y": "cards_per_match",
+            "fill": "#111",
+            "r": 4,
+            "tip": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "dirtiest-matches",
+      "title": "The Most-Carded Matches in World Cup History",
+      "description": "The 15 men's World Cup matches with the most cards. Netherlands vs Argentina (2022) leads — the most-carded match in the database.",
+      "resourceName": "dirtiest-matches-summary",
+      "specType": "plot",
+      "spec": {
+        "height": 450,
+        "marginLeft": 200,
+        "x": {
+          "label": "Total cards",
+          "type": "linear"
+        },
+        "y": {
+          "label": null
+        },
+        "marks": [
+          {
+            "type": "barX",
+            "x": "total_cards",
+            "y": "match_name",
+            "fill": "#111",
+            "tip": true,
+            "sort": "-total_cards"
           }
         ]
       }
