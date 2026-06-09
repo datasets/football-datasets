@@ -31,6 +31,8 @@ stage. **Those 32 cheques add up to exactly $440 million** — the published pri
 Every edition's per-team payouts sum to the official pool to the dollar (2010 $348M,
 2014 $358M, 2018 $400M, 2022 $440M).
 
+<iframe src="https://datahub.io/football/worldcup-prize-money/v/0" width="800" height="500" frameborder="0"></iframe>
+
 ## The winner's cheque keeps growing
 
 | Edition           | Winner gets | Total pool |
@@ -54,6 +56,8 @@ Put the men's and women's prize pools side by side and the story is stark:
   → $110M (2023).
 - FIFA has committed to **prize-money parity by 2027** — which is why the women's 2027
   row is a placeholder (target announced, figure to be confirmed).
+
+<iframe src="https://datahub.io/football/worldcup-prize-money/v/1" width="800" height="500" frameborder="0"></iframe>
 
 ## Sources
 

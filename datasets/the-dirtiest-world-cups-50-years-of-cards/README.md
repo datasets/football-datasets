@@ -26,6 +26,8 @@ What changed wasn't the players' tempers. It was the officiating: clearer thresh
 relentless broadcast scrutiny, and referees coached to manage a game rather than paper it
 in yellow.
 
+<iframe src="https://datahub.io/football/worldcup/v/5" width="800" height="500" frameborder="0"></iframe>
+
 ## Players learned to stay on the pitch
 
 2006 didn't just lead on bookings — it led on dismissals too, with 28 players sent off.

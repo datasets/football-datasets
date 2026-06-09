@@ -8,9 +8,13 @@ date: 2026-06-05
 
 **Why now:** the AG subpoena is days old (May 27 2026) and the tournament kicks off June 11 — the story is live.
 
+<iframe src="https://datahub.io/football/worldcup-ticket-prices/v/1" width="800" height="500" frameborder="0"></iframe>
+
 ## Each edition, with its gaps shown
 
-Tracked across editions, the most expensive (Category-1) final ticket — face value, nominal USD — was flat in the hundreds-to-low-thousands range for decades before spiking in 2026. Two editions are genuine gaps with no reliable primary source (**1998** and **2006**), and they are left as gaps rather than interpolated. **2014's** widely-cited ~$6,000 figure is disputed (likely a resale price) and is excluded from the trend. The clean, low-inflation comparison is **2018 → 2022 → 2026**, and that is where the jump to $10,990 stands out.
+Tracked across editions, the most expensive (Category-1) final ticket — face value, nominal USD — was flat in the hundreds-to-low-thousands range for decades before spiking in 2026. Two editions are genuine gaps with no reliable primary source (**1998** and **2006**), and they are left as gaps rather than interpolated. **2014's** widely-cited ~$6,000 figure is disputed (likely a resale price) — it shows up as the lone mid-chart spike, but we set it aside rather than treat it as a face-value trend point. The clean, low-inflation comparison is **2018 → 2022 → 2026**, and that is where the jump to $10,990 stands out.
+
+<iframe src="https://datahub.io/football/worldcup-ticket-prices/v/0" width="800" height="500" frameborder="0"></iframe>
 
 ## Sources
 
