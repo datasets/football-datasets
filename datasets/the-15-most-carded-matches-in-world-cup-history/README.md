@@ -1,4 +1,8 @@
-# The 15 Most-Carded Matches in World Cup History
+---
+title: "The 15 Most-Carded Matches in World Cup History"
+description: "The fifteen most-carded matches in men's World Cup history, led by the 15-card Netherlands–Argentina quarter-final at Qatar 2022."
+date: 2026-06-05
+---
 
 Some World Cup matches stop being football. The referee runs out of patience, the cards
 pile up, and a quarter-final turns into a brawl with a scoreline attached.

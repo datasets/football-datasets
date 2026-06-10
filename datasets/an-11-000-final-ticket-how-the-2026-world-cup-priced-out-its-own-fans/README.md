@@ -1,6 +1,6 @@
 ---
 title: "An $11,000 final ticket: how the 2026 World Cup priced out its own fans"
-description: "For three decades a World Cup final seat ran in the hundreds to low thousands. In 2026 it hit five figures — and two attorneys general want to know why."
+description: "For three decades a World Cup final seat ran in the hundreds to low thousands, but in 2026 it hit five figures, and two attorneys general want to know why."
 date: 2026-06-05
 ---
 

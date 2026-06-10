@@ -1,6 +1,6 @@
 ---
 title: "$42 Million to Win, $9 Million to Show Up — and a 4x Gender Gap"
-description: FIFA World Cup prize money by team and edition (2010–2026), with a side-by-side look at the 4× gender gap between the men's and women's prize pools.
+description: "FIFA World Cup prize money by team and edition from 2010 to 2026, with a side-by-side look at the 4x gender gap between the men's and women's prize pools."
 date: 2026-06-05
 ---
 

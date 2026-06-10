@@ -1,4 +1,8 @@
-# The Dirtiest World Cups
+---
+title: "The Dirtiest World Cups: 50 Years of Cards"
+description: "Yellow and red cards at every men's World Cup from 1970, when cards were introduced, through Qatar 2022, tracing the rise to the 2006 peak and the modern calm-down."
+date: 2026-06-05
+---
 
 For the first forty years of the World Cup, a referee had no card to show you. Then came
 **1970** — yellows and reds arrive — and the whole tournament produced a grand total of 52
@@ -40,7 +44,7 @@ stopped.
 The averages hide the flashpoints. For the single most-carded matches ever played — the
 night a referee lost the Netherlands and Argentina entirely, the dirtiest final in
 history — read the companion piece:
-[**The 15 Most-Carded Matches in World Cup History**](../the-15-most-carded-matches-in-world-cup-history/).
+[**The 15 Most-Carded Matches in World Cup History**](https://datahub.io/football/the-15-most-carded-matches).
 
 ## Source
 

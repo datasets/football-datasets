@@ -1,4 +1,8 @@
-# The 90th-Minute World Cup
+---
+title: "The 90th-Minute World Cup: When Goals Are Scored"
+description: "When World Cup goals actually hit the net, across all 2,720 men's goals from 1930 to 2022, and why the decisive moment keeps drifting toward stoppage time."
+date: 2026-06-05
+---
 
 Stoppage time used to be where matches went to die. Now it's where they come alive.
 

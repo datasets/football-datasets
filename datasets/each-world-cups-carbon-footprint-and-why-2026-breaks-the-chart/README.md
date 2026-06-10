@@ -1,6 +1,6 @@
 ---
 title: "Each World Cup's carbon footprint — and why 2026 breaks the chart"
-descritption: "The 2026 finals are projected at ~9 million tonnes of CO₂ — and the data shows why: a continent-sized, three-nation tournament runs on flights."
+description: "The 2026 finals are projected near 9 million tonnes of carbon dioxide, and the data shows why a continent-sized, three-nation tournament runs on flights."
 date: 2026-06-05
 ---
 

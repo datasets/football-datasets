@@ -1,4 +1,8 @@
-# The World Cup's Biggest Crowds — 964 Matches, 92 Years
+---
+title: "The World Cup's Biggest Crowds — 964 Matches, 92 Years"
+description: "Attendance for all 964 men's World Cup matches (1930–2022): the 173,850 Maracanã record, the USA 1994 peak, and the per-edition trend."
+date: 2026-06-05
+---
 
 The Fjelstul match tables in the `worldcup` dataset record every men's World Cup match
 ever played — but not a single attendance figure. The **`attendance` resource** fills
