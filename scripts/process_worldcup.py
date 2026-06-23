@@ -1,6 +1,8 @@
 import os
 import requests
 
+from generate_summaries import main as generate_summaries
+
 BASE_URL = "https://raw.githubusercontent.com/jfjelstul/worldcup/master/data-csv"
 
 TABLES = [
@@ -47,6 +49,11 @@ def main():
             f.write(r.text)
         lines = r.text.count("\n")
         print(f"  {table}: {lines} rows")
+
+    # Regenerate the derived summary tables from the freshly downloaded data so
+    # they never drift out of sync with the upstream Fjelstul database.
+    print("Regenerating summary tables...")
+    generate_summaries()
 
 
 if __name__ == "__main__":
